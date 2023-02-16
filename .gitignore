@@ -2,6 +2,9 @@
 *.sqlite3
 *.sqlite3-journal
 
+# folders for additional data
+nba_csv
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
