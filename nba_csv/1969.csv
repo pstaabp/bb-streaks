@@ -1,0 +1,614 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1968-10-15,1969,Chicago Bulls,100,New York Knicks,96,0,N
+1968-10-16,1969,Cincinnati Royals,125,Atlanta Hawks,110,0,N
+1968-10-16,1969,Detroit Pistons,116,Baltimore Bullets,124,0,N
+1968-10-16,1969,Chicago Bulls,89,Milwaukee Bucks,84,0,N
+1968-10-17,1969,Seattle SuperSonics,110,San Diego Rockets,128,0,N
+1968-10-18,1969,Boston Celtics,106,Detroit Pistons,88,0,N
+1968-10-18,1969,Los Angeles Lakers,96,Philadelphia 76ers,114,0,N
+1968-10-18,1969,Seattle SuperSonics,107,Phoenix Suns,116,0,N
+1968-10-18,1969,San Diego Rockets,123,San Francisco Warriors,108,0,N
+1968-10-19,1969,Boston Celtics,106,Chicago Bulls,96,0,N
+1968-10-19,1969,San Francisco Warriors,107,Seattle SuperSonics,95,0,N
+1968-10-19,1969,Los Angeles Lakers,118,New York Knicks,96,0,N
+1968-10-19,1969,Detroit Pistons,115,Cincinnati Royals,127,0,N
+1968-10-19,1969,Philadelphia 76ers,124,Baltimore Bullets,121,0,N
+1968-10-19,1969,Milwaukee Bucks,107,Atlanta Hawks,125,0,N
+1968-10-20,1969,Baltimore Bullets,134,Phoenix Suns,122,0,N
+1968-10-21,1969,Seattle SuperSonics,104,Baltimore Bullets,111,0,N
+1968-10-22,1969,Los Angeles Lakers,103,Cincinnati Royals,107,0,N
+1968-10-22,1969,Philadelphia 76ers,114,New York Knicks,117,0,N
+1968-10-22,1969,Phoenix Suns,101,San Francisco Warriors,109,0,N
+1968-10-23,1969,San Diego Rockets,117,Seattle SuperSonics,118,0,N
+1968-10-23,1969,New York Knicks,114,Milwaukee Bucks,112,0,N
+1968-10-23,1969,Cincinnati Royals,101,Boston Celtics,108,0,N
+1968-10-23,1969,Chicago Bulls,91,Atlanta Hawks,106,0,N
+1968-10-23,1969,Los Angeles Lakers,110,Detroit Pistons,117,0,N
+1968-10-24,1969,New York Knicks,92,Phoenix Suns,109,0,N
+1968-10-24,1969,Baltimore Bullets,119,San Diego Rockets,115,0,N
+1968-10-25,1969,Philadelphia 76ers,122,Detroit Pistons,132,0,N
+1968-10-25,1969,Baltimore Bullets,111,Los Angeles Lakers,117,0,N
+1968-10-25,1969,Atlanta Hawks,112,Seattle SuperSonics,123,0,N
+1968-10-26,1969,Milwaukee Bucks,89,Boston Celtics,102,0,N
+1968-10-26,1969,Cincinnati Royals,92,New York Knicks,98,0,N
+1968-10-26,1969,Chicago Bulls,118,Philadelphia 76ers,122,0,N
+1968-10-26,1969,Baltimore Bullets,106,San Francisco Warriors,107,0,N
+1968-10-27,1969,Atlanta Hawks,123,Phoenix Suns,100,0,N
+1968-10-27,1969,Baltimore Bullets,126,Seattle SuperSonics,114,0,N
+1968-10-27,1969,San Diego Rockets,116,Los Angeles Lakers,152,0,N
+1968-10-29,1969,Chicago Bulls,103,Boston Celtics,97,0,N
+1968-10-29,1969,Atlanta Hawks,124,Los Angeles Lakers,125,0,N
+1968-10-29,1969,Baltimore Bullets,129,Milwaukee Bucks,112,0,N
+1968-10-29,1969,San Francisco Warriors,97,New York Knicks,110,0,N
+1968-10-30,1969,San Francisco Warriors,110,Baltimore Bullets,112,1,N
+1968-10-30,1969,Detroit Pistons,119,Boston Celtics,117,0,N
+1968-10-30,1969,New York Knicks,114,Cincinnati Royals,118,0,N
+1968-10-30,1969,Atlanta Hawks,116,San Diego Rockets,127,0,N
+1968-10-30,1969,Phoenix Suns,115,Seattle SuperSonics,108,0,N
+1968-10-31,1969,Detroit Pistons,118,Milwaukee Bucks,134,0,N
+1968-10-31,1969,Chicago Bulls,103,Phoenix Suns,112,0,N
+1968-11-01,1969,San Francisco Warriors,105,Atlanta Hawks,109,0,N
+1968-11-01,1969,Philadelphia 76ers,99,Boston Celtics,118,0,N
+1968-11-01,1969,Milwaukee Bucks,114,Cincinnati Royals,132,0,N
+1968-11-01,1969,Chicago Bulls,114,Los Angeles Lakers,101,0,N
+1968-11-01,1969,Baltimore Bullets,119,New York Knicks,103,0,N
+1968-11-02,1969,New York Knicks,104,Detroit Pistons,112,0,N
+1968-11-02,1969,San Francisco Warriors,101,Milwaukee Bucks,102,0,N
+1968-11-02,1969,Cincinnati Royals,119,Philadelphia 76ers,113,0,N
+1968-11-02,1969,Chicago Bulls,95,Seattle SuperSonics,101,0,N
+1968-11-03,1969,Boston Celtics,123,Atlanta Hawks,103,0,N
+1968-11-03,1969,Los Angeles Lakers,127,Phoenix Suns,109,0,N
+1968-11-03,1969,Chicago Bulls,107,San Diego Rockets,121,0,N
+1968-11-03,1969,New York Knicks,122,Seattle SuperSonics,108,0,N
+1968-11-04,1969,San Francisco Warriors,119,Phoenix Suns,108,0,N
+1968-11-05,1969,Los Angeles Lakers,112,Chicago Bulls,109,1,N
+1968-11-05,1969,New York Knicks,109,San Diego Rockets,113,0,N
+1968-11-06,1969,Atlanta Hawks,119,Baltimore Bullets,140,0,N
+1968-11-06,1969,Chicago Bulls,122,Cincinnati Royals,133,0,N
+1968-11-06,1969,Seattle SuperSonics,118,Detroit Pistons,127,0,N
+1968-11-06,1969,Milwaukee Bucks,115,Los Angeles Lakers,128,0,N
+1968-11-06,1969,New York Knicks,93,San Francisco Warriors,94,0,N
+1968-11-07,1969,Seattle SuperSonics,105,Chicago Bulls,120,0,N
+1968-11-08,1969,San Diego Rockets,101,Atlanta Hawks,114,0,N
+1968-11-08,1969,Seattle SuperSonics,114,Boston Celtics,112,0,N
+1968-11-08,1969,San Francisco Warriors,118,Detroit Pistons,122,1,N
+1968-11-08,1969,New York Knicks,100,Los Angeles Lakers,102,0,N
+1968-11-09,1969,San Francisco Warriors,106,Atlanta Hawks,113,0,N
+1968-11-09,1969,San Diego Rockets,107,Baltimore Bullets,109,0,N
+1968-11-09,1969,Cincinnati Royals,110,Chicago Bulls,104,0,N
+1968-11-09,1969,Boston Celtics,98,Milwaukee Bucks,97,0,N
+1968-11-09,1969,Seattle SuperSonics,94,Philadelphia 76ers,114,0,N
+1968-11-10,1969,New York Knicks,109,Los Angeles Lakers,130,0,N
+1968-11-10,1969,Detroit Pistons,128,Phoenix Suns,130,1,N
+1968-11-11,1969,San Diego Rockets,113,Boston Celtics,134,0,N
+1968-11-11,1969,Seattle SuperSonics,117,Philadelphia 76ers,127,0,N
+1968-11-12,1969,Cincinnati Royals,126,Baltimore Bullets,115,0,N
+1968-11-12,1969,San Diego Rockets,108,Chicago Bulls,115,0,N
+1968-11-12,1969,Seattle SuperSonics,114,Milwaukee Bucks,127,0,N
+1968-11-12,1969,Atlanta Hawks,108,San Francisco Warriors,123,0,N
+1968-11-13,1969,Baltimore Bullets,115,Cincinnati Royals,111,0,N
+1968-11-13,1969,Detroit Pistons,120,San Diego Rockets,122,0,N
+1968-11-13,1969,Atlanta Hawks,142,Seattle SuperSonics,113,0,N
+1968-11-14,1969,Phoenix Suns,109,Detroit Pistons,111,0,N
+1968-11-14,1969,Cincinnati Royals,110,New York Knicks,101,0,N
+1968-11-15,1969,Philadelphia 76ers,116,Atlanta Hawks,115,0,N
+1968-11-15,1969,Milwaukee Bucks,102,Baltimore Bullets,129,0,N
+1968-11-15,1969,Cincinnati Royals,105,Boston Celtics,116,0,N
+1968-11-15,1969,San Diego Rockets,119,Los Angeles Lakers,127,0,N
+1968-11-15,1969,Phoenix Suns,124,Seattle SuperSonics,128,2,N
+1968-11-15,1969,Detroit Pistons,105,San Francisco Warriors,133,0,N
+1968-11-16,1969,Atlanta Hawks,125,Cincinnati Royals,130,0,N
+1968-11-16,1969,Chicago Bulls,97,New York Knicks,119,0,N
+1968-11-16,1969,Milwaukee Bucks,92,Philadelphia 76ers,136,0,N
+1968-11-16,1969,Boston Celtics,120,San Diego Rockets,112,0,N
+1968-11-16,1969,Detroit Pistons,119,Seattle SuperSonics,123,0,N
+1968-11-16,1969,Los Angeles Lakers,119,San Francisco Warriors,112,0,N
+1968-11-17,1969,Seattle SuperSonics,94,Los Angeles Lakers,105,0,N
+1968-11-17,1969,Boston Celtics,130,Phoenix Suns,98,0,N
+1968-11-19,1969,San Francisco Warriors,121,Chicago Bulls,109,0,N
+1968-11-19,1969,Cincinnati Royals,107,Detroit Pistons,121,0,N
+1968-11-19,1969,Boston Celtics,106,Los Angeles Lakers,116,0,N
+1968-11-19,1969,Atlanta Hawks,98,Milwaukee Bucks,119,0,N
+1968-11-19,1969,San Diego Rockets,113,New York Knicks,107,0,N
+1968-11-19,1969,Phoenix Suns,110,Philadelphia 76ers,126,0,N
+1968-11-20,1969,New York Knicks,106,Atlanta Hawks,111,0,N
+1968-11-20,1969,San Diego Rockets,110,Baltimore Bullets,114,0,N
+1968-11-20,1969,San Francisco Warriors,107,Cincinnati Royals,113,0,N
+1968-11-20,1969,Boston Celtics,139,Seattle SuperSonics,92,0,N
+1968-11-21,1969,Milwaukee Bucks,111,Chicago Bulls,120,0,N
+1968-11-21,1969,Atlanta Hawks,129,Detroit Pistons,121,0,N
+1968-11-22,1969,Phoenix Suns,106,Boston Celtics,133,0,N
+1968-11-22,1969,New York Knicks,114,Chicago Bulls,107,0,N
+1968-11-22,1969,San Francisco Warriors,100,Los Angeles Lakers,98,0,N
+1968-11-22,1969,Baltimore Bullets,110,Philadelphia 76ers,121,0,N
+1968-11-22,1969,Seattle SuperSonics,111,San Diego Rockets,126,0,N
+1968-11-23,1969,Detroit Pistons,127,Baltimore Bullets,128,0,N
+1968-11-23,1969,Atlanta Hawks,114,Chicago Bulls,96,0,N
+1968-11-23,1969,Philadelphia 76ers,120,Cincinnati Royals,105,0,N
+1968-11-23,1969,Phoenix Suns,112,Milwaukee Bucks,115,0,N
+1968-11-23,1969,Boston Celtics,100,New York Knicks,111,0,N
+1968-11-23,1969,Seattle SuperSonics,119,San Francisco Warriors,132,0,N
+1968-11-24,1969,Baltimore Bullets,118,Atlanta Hawks,111,0,N
+1968-11-24,1969,Chicago Bulls,100,Los Angeles Lakers,103,0,N
+1968-11-24,1969,Philadelphia 76ers,128,San Diego Rockets,135,1,N
+1968-11-24,1969,Milwaukee Bucks,120,Seattle SuperSonics,141,0,N
+1968-11-25,1969,Seattle SuperSonics,123,Milwaukee Bucks,113,0,N
+1968-11-26,1969,Atlanta Hawks,99,Baltimore Bullets,102,0,N
+1968-11-26,1969,San Diego Rockets,120,Detroit Pistons,134,0,N
+1968-11-26,1969,Los Angeles Lakers,100,New York Knicks,104,0,N
+1968-11-26,1969,Philadelphia 76ers,126,Phoenix Suns,119,0,N
+1968-11-26,1969,Chicago Bulls,98,Seattle SuperSonics,99,0,N
+1968-11-27,1969,Cincinnati Royals,91,Atlanta Hawks,94,0,N
+1968-11-27,1969,San Diego Rockets,123,Baltimore Bullets,107,0,N
+1968-11-27,1969,New York Knicks,117,Boston Celtics,131,0,N
+1968-11-27,1969,Phoenix Suns,111,Detroit Pistons,125,0,N
+1968-11-27,1969,Chicago Bulls,119,San Francisco Warriors,106,0,N
+1968-11-28,1969,Los Angeles Lakers,107,Philadelphia 76ers,122,0,N
+1968-11-28,1969,Milwaukee Bucks,103,Seattle SuperSonics,115,0,N
+1968-11-29,1969,Phoenix Suns,106,Baltimore Bullets,124,0,N
+1968-11-29,1969,Los Angeles Lakers,93,Boston Celtics,92,0,N
+1968-11-29,1969,Detroit Pistons,112,Cincinnati Royals,122,0,N
+1968-11-29,1969,Chicago Bulls,110,San Diego Rockets,89,0,N
+1968-11-29,1969,Milwaukee Bucks,119,San Francisco Warriors,140,0,N
+1968-11-30,1969,Phoenix Suns,96,Chicago Bulls,100,0,N
+1968-11-30,1969,Atlanta Hawks,126,Cincinnati Royals,109,0,N
+1968-11-30,1969,Detroit Pistons,108,New York Knicks,120,0,N
+1968-11-30,1969,Boston Celtics,117,Philadelphia 76ers,113,1,N
+1968-11-30,1969,Milwaukee Bucks,107,San Francisco Warriors,101,0,N
+1968-12-01,1969,Chicago Bulls,100,Baltimore Bullets,110,0,N
+1968-12-01,1969,Milwaukee Bucks,112,Los Angeles Lakers,119,0,N
+1968-12-01,1969,San Francisco Warriors,105,San Diego Rockets,116,0,N
+1968-12-02,1969,Seattle SuperSonics,118,Phoenix Suns,108,0,N
+1968-12-03,1969,Cincinnati Royals,129,Baltimore Bullets,127,0,N
+1968-12-03,1969,San Diego Rockets,108,Chicago Bulls,103,0,N
+1968-12-03,1969,Phoenix Suns,108,Los Angeles Lakers,122,0,N
+1968-12-03,1969,Boston Celtics,137,Milwaukee Bucks,115,0,N
+1968-12-03,1969,Atlanta Hawks,93,New York Knicks,126,0,N
+1968-12-03,1969,Seattle SuperSonics,122,San Francisco Warriors,127,0,N
+1968-12-04,1969,New York Knicks,121,Atlanta Hawks,113,0,N
+1968-12-04,1969,Milwaukee Bucks,99,Boston Celtics,101,0,N
+1968-12-04,1969,Baltimore Bullets,112,Detroit Pistons,106,0,N
+1968-12-04,1969,San Diego Rockets,99,Philadelphia 76ers,110,0,N
+1968-12-04,1969,San Francisco Warriors,97,Phoenix Suns,126,0,N
+1968-12-05,1969,Los Angeles Lakers,90,Baltimore Bullets,108,0,N
+1968-12-05,1969,Philadelphia 76ers,109,Chicago Bulls,92,0,N
+1968-12-06,1969,Los Angeles Lakers,99,Atlanta Hawks,94,0,N
+1968-12-06,1969,Detroit Pistons,118,Boston Celtics,132,0,N
+1968-12-06,1969,Philadelphia 76ers,121,Milwaukee Bucks,112,0,N
+1968-12-06,1969,Phoenix Suns,106,San Diego Rockets,117,0,N
+1968-12-06,1969,San Francisco Warriors,100,Seattle SuperSonics,109,1,N
+1968-12-07,1969,Los Angeles Lakers,81,Chicago Bulls,90,0,N
+1968-12-07,1969,Boston Celtics,117,Cincinnati Royals,114,1,N
+1968-12-07,1969,Milwaukee Bucks,113,New York Knicks,119,0,N
+1968-12-07,1969,Detroit Pistons,106,Philadelphia 76ers,140,0,N
+1968-12-07,1969,Seattle SuperSonics,115,San Francisco Warriors,107,0,N
+1968-12-08,1969,New York Knicks,115,Cincinnati Royals,120,0,N
+1968-12-08,1969,San Diego Rockets,118,Los Angeles Lakers,132,0,N
+1968-12-08,1969,Philadelphia 76ers,122,Milwaukee Bucks,117,0,N
+1968-12-08,1969,Atlanta Hawks,121,Phoenix Suns,99,0,N
+1968-12-10,1969,Baltimore Bullets,115,Boston Celtics,101,0,N
+1968-12-10,1969,Detroit Pistons,83,Chicago Bulls,100,0,N
+1968-12-10,1969,Cincinnati Royals,107,Milwaukee Bucks,96,0,N
+1968-12-10,1969,Phoenix Suns,106,New York Knicks,111,0,N
+1968-12-10,1969,San Diego Rockets,132,Philadelphia 76ers,120,0,N
+1968-12-10,1969,Atlanta Hawks,111,San Francisco Warriors,100,0,N
+1968-12-11,1969,New York Knicks,110,Baltimore Bullets,118,0,N
+1968-12-11,1969,San Diego Rockets,110,Cincinnati Royals,116,0,N
+1968-12-11,1969,Boston Celtics,108,Detroit Pistons,106,0,N
+1968-12-11,1969,San Francisco Warriors,96,Milwaukee Bucks,106,0,N
+1968-12-11,1969,Phoenix Suns,123,Philadelphia 76ers,143,0,N
+1968-12-12,1969,Atlanta Hawks,93,Seattle SuperSonics,91,0,N
+1968-12-13,1969,San Francisco Warriors,108,Boston Celtics,98,0,N
+1968-12-13,1969,New York Knicks,94,Chicago Bulls,83,0,N
+1968-12-13,1969,Phoenix Suns,123,Cincinnati Royals,130,1,N
+1968-12-13,1969,Atlanta Hawks,105,Los Angeles Lakers,103,0,N
+1968-12-13,1969,San Diego Rockets,96,Milwaukee Bucks,101,0,N
+1968-12-14,1969,Boston Celtics,101,Baltimore Bullets,110,0,N
+1968-12-14,1969,Milwaukee Bucks,115,Cincinnati Royals,121,0,N
+1968-12-14,1969,Phoenix Suns,123,Detroit Pistons,118,0,N
+1968-12-14,1969,San Diego Rockets,105,New York Knicks,112,0,N
+1968-12-14,1969,San Francisco Warriors,91,Philadelphia 76ers,137,0,N
+1968-12-14,1969,Los Angeles Lakers,136,Seattle SuperSonics,120,0,N
+1968-12-15,1969,Phoenix Suns,101,Cincinnati Royals,119,0,N
+1968-12-15,1969,Seattle SuperSonics,114,Los Angeles Lakers,115,0,N
+1968-12-15,1969,New York Knicks,104,Philadelphia 76ers,110,0,N
+1968-12-17,1969,Atlanta Hawks,87,Chicago Bulls,83,0,N
+1968-12-17,1969,Cincinnati Royals,108,Los Angeles Lakers,112,0,N
+1968-12-17,1969,San Francisco Warriors,99,New York Knicks,114,0,N
+1968-12-17,1969,Philadelphia 76ers,145,Phoenix Suns,128,0,N
+1968-12-18,1969,Milwaukee Bucks,116,Atlanta Hawks,122,0,N
+1968-12-18,1969,San Francisco Warriors,100,Baltimore Bullets,109,0,N
+1968-12-18,1969,New York Knicks,104,Boston Celtics,98,0,N
+1968-12-18,1969,San Diego Rockets,112,Detroit Pistons,124,0,N
+1968-12-18,1969,Cincinnati Royals,114,Phoenix Suns,123,0,N
+1968-12-18,1969,Philadelphia 76ers,115,Seattle SuperSonics,111,0,N
+1968-12-19,1969,Milwaukee Bucks,111,Chicago Bulls,113,0,N
+1968-12-20,1969,Chicago Bulls,102,Baltimore Bullets,125,0,N
+1968-12-20,1969,New York Knicks,135,Detroit Pistons,87,0,N
+1968-12-20,1969,San Francisco Warriors,101,Los Angeles Lakers,133,0,N
+1968-12-20,1969,Seattle SuperSonics,92,Milwaukee Bucks,100,0,N
+1968-12-20,1969,Philadelphia 76ers,116,San Diego Rockets,109,0,N
+1968-12-21,1969,Detroit Pistons,110,Atlanta Hawks,120,0,N
+1968-12-21,1969,Phoenix Suns,117,Baltimore Bullets,131,0,N
+1968-12-21,1969,Boston Celtics,102,Chicago Bulls,94,0,N
+1968-12-21,1969,Seattle SuperSonics,105,New York Knicks,131,0,N
+1968-12-21,1969,Cincinnati Royals,124,San Diego Rockets,132,0,N
+1968-12-21,1969,Philadelphia 76ers,94,San Francisco Warriors,109,0,N
+1968-12-22,1969,Philadelphia 76ers,99,Los Angeles Lakers,102,0,N
+1968-12-22,1969,Phoenix Suns,116,Milwaukee Bucks,127,0,N
+1968-12-23,1969,San Francisco Warriors,125,San Diego Rockets,95,0,N
+1968-12-25,1969,Seattle SuperSonics,112,Baltimore Bullets,118,0,N
+1968-12-25,1969,Chicago Bulls,98,Cincinnati Royals,103,0,N
+1968-12-25,1969,Detroit Pistons,119,Milwaukee Bucks,113,0,N
+1968-12-25,1969,Philadelphia 76ers,109,New York Knicks,110,0,N
+1968-12-25,1969,Los Angeles Lakers,119,Phoenix Suns,99,0,N
+1968-12-26,1969,Seattle SuperSonics,96,Atlanta Hawks,126,0,N
+1968-12-26,1969,Milwaukee Bucks,106,Boston Celtics,139,0,N
+1968-12-26,1969,Cincinnati Royals,96,Chicago Bulls,104,0,N
+1968-12-26,1969,Los Angeles Lakers,95,Detroit Pistons,94,0,N
+1968-12-26,1969,Baltimore Bullets,120,Philadelphia 76ers,125,0,N
+1968-12-26,1969,Phoenix Suns,118,San Francisco Warriors,119,0,N
+1968-12-27,1969,Milwaukee Bucks,122,Baltimore Bullets,136,0,N
+1968-12-27,1969,New York Knicks,111,San Diego Rockets,109,0,N
+1968-12-28,1969,Boston Celtics,97,Atlanta Hawks,110,0,N
+1968-12-28,1969,Los Angeles Lakers,86,Chicago Bulls,93,0,N
+1968-12-28,1969,Philadelphia 76ers,128,Cincinnati Royals,123,0,N
+1968-12-28,1969,San Francisco Warriors,102,Detroit Pistons,131,0,N
+1968-12-28,1969,San Diego Rockets,136,Phoenix Suns,126,0,N
+1968-12-28,1969,New York Knicks,111,Seattle SuperSonics,108,0,N
+1968-12-29,1969,Baltimore Bullets,99,Atlanta Hawks,101,0,N
+1968-12-29,1969,Detroit Pistons,108,Los Angeles Lakers,111,0,N
+1968-12-29,1969,Chicago Bulls,102,Milwaukee Bucks,97,0,N
+1968-12-29,1969,Seattle SuperSonics,112,New York Knicks,120,0,N
+1968-12-30,1969,San Francisco Warriors,97,Chicago Bulls,103,0,N
+1968-12-30,1969,Los Angeles Lakers,131,San Diego Rockets,126,1,N
+1968-12-30,1969,Phoenix Suns,118,Seattle SuperSonics,120,0,N
+1968-12-31,1969,Cincinnati Royals,114,Boston Celtics,112,0,N
+1968-12-31,1969,Detroit Pistons,127,Los Angeles Lakers,107,0,N
+1968-12-31,1969,Philadelphia 76ers,128,Milwaukee Bucks,107,0,N
+1968-12-31,1969,Baltimore Bullets,110,New York Knicks,121,0,N
+1969-01-01,1969,San Francisco Warriors,106,Cincinnati Royals,101,0,N
+1969-01-01,1969,Boston Celtics,93,Phoenix Suns,87,0,N
+1969-01-02,1969,Atlanta Hawks,106,Chicago Bulls,88,0,N
+1969-01-02,1969,Milwaukee Bucks,109,Cincinnati Royals,113,0,N
+1969-01-02,1969,Boston Celtics,107,San Diego Rockets,95,0,N
+1969-01-03,1969,Baltimore Bullets,130,Cincinnati Royals,125,0,N
+1969-01-03,1969,Atlanta Hawks,128,Detroit Pistons,106,0,N
+1969-01-03,1969,Phoenix Suns,104,Milwaukee Bucks,121,0,N
+1969-01-03,1969,Los Angeles Lakers,101,Philadelphia 76ers,130,0,N
+1969-01-03,1969,Boston Celtics,102,San Francisco Warriors,104,0,N
+1969-01-04,1969,Los Angeles Lakers,121,Atlanta Hawks,111,0,N
+1969-01-04,1969,Philadelphia 76ers,112,Baltimore Bullets,117,0,N
+1969-01-04,1969,Phoenix Suns,92,Chicago Bulls,103,0,N
+1969-01-04,1969,Detroit Pistons,103,New York Knicks,111,0,N
+1969-01-04,1969,Seattle SuperSonics,105,San Diego Rockets,122,0,N
+1969-01-05,1969,Phoenix Suns,96,Atlanta Hawks,97,0,N
+1969-01-05,1969,Detroit Pistons,119,Philadelphia 76ers,126,0,N
+1969-01-05,1969,Boston Celtics,134,San Francisco Warriors,86,0,N
+1969-01-06,1969,Cincinnati Royals,106,Chicago Bulls,104,0,N
+1969-01-06,1969,Boston Celtics,121,Seattle SuperSonics,97,0,N
+1969-01-07,1969,Los Angeles Lakers,100,Baltimore Bullets,93,0,N
+1969-01-07,1969,New York Knicks,101,Chicago Bulls,102,0,N
+1969-01-07,1969,Milwaukee Bucks,116,Cincinnati Royals,101,0,N
+1969-01-07,1969,Philadelphia 76ers,114,Detroit Pistons,117,0,N
+1969-01-07,1969,Seattle SuperSonics,112,Phoenix Suns,116,0,N
+1969-01-07,1969,San Diego Rockets,113,San Francisco Warriors,108,0,N
+1969-01-08,1969,Detroit Pistons,104,Boston Celtics,113,0,N
+1969-01-08,1969,New York Knicks,115,Milwaukee Bucks,101,0,N
+1969-01-08,1969,Atlanta Hawks,111,Philadelphia 76ers,112,0,N
+1969-01-08,1969,Baltimore Bullets,108,San Diego Rockets,107,0,N
+1969-01-09,1969,Seattle SuperSonics,119,Cincinnati Royals,110,0,N
+1969-01-09,1969,New York Knicks,134,Phoenix Suns,120,0,N
+1969-01-10,1969,Detroit Pistons,101,Atlanta Hawks,104,0,N
+1969-01-10,1969,Los Angeles Lakers,82,Boston Celtics,88,0,N
+1969-01-10,1969,Seattle SuperSonics,104,Milwaukee Bucks,115,0,N
+1969-01-10,1969,Baltimore Bullets,106,San Diego Rockets,104,0,N
+1969-01-11,1969,Los Angeles Lakers,100,Atlanta Hawks,104,0,N
+1969-01-11,1969,Seattle SuperSonics,86,Chicago Bulls,119,0,N
+1969-01-11,1969,Cincinnati Royals,115,Detroit Pistons,118,0,N
+1969-01-11,1969,Boston Celtics,111,Philadelphia 76ers,101,0,N
+1969-01-11,1969,Baltimore Bullets,118,Phoenix Suns,107,0,N
+1969-01-11,1969,New York Knicks,85,San Francisco Warriors,77,0,N
+1969-01-12,1969,Detroit Pistons,113,Cincinnati Royals,111,0,N
+1969-01-12,1969,Boston Celtics,110,Milwaukee Bucks,114,0,N
+1969-01-12,1969,New York Knicks,105,San Diego Rockets,102,0,N
+1969-01-16,1969,Phoenix Suns,107,Atlanta Hawks,112,0,N
+1969-01-16,1969,San Francisco Warriors,112,Chicago Bulls,99,0,N
+1969-01-16,1969,San Diego Rockets,109,Cincinnati Royals,120,0,N
+1969-01-17,1969,Phoenix Suns,107,Atlanta Hawks,112,0,N
+1969-01-17,1969,San Francisco Warriors,99,Boston Celtics,102,0,N
+1969-01-17,1969,Milwaukee Bucks,108,Detroit Pistons,123,0,N
+1969-01-17,1969,Cincinnati Royals,107,Los Angeles Lakers,128,0,N
+1969-01-17,1969,Seattle SuperSonics,94,New York Knicks,114,0,N
+1969-01-17,1969,San Diego Rockets,124,Philadelphia 76ers,129,0,N
+1969-01-18,1969,Seattle SuperSonics,97,Boston Celtics,111,0,N
+1969-01-18,1969,San Diego Rockets,102,Chicago Bulls,107,1,N
+1969-01-18,1969,New York Knicks,117,Milwaukee Bucks,109,0,N
+1969-01-19,1969,New York Knicks,96,Atlanta Hawks,100,0,N
+1969-01-19,1969,Chicago Bulls,111,Detroit Pistons,120,0,N
+1969-01-19,1969,Cincinnati Royals,117,Los Angeles Lakers,132,0,N
+1969-01-19,1969,San Francisco Warriors,98,Philadelphia 76ers,97,0,N
+1969-01-19,1969,San Diego Rockets,136,Phoenix Suns,118,0,N
+1969-01-20,1969,Boston Celtics,109,Baltimore Bullets,122,0,N
+1969-01-20,1969,Milwaukee Bucks,102,Detroit Pistons,101,0,N
+1969-01-21,1969,Baltimore Bullets,116,Chicago Bulls,93,0,N
+1969-01-21,1969,Los Angeles Lakers,122,Milwaukee Bucks,105,0,N
+1969-01-21,1969,Seattle SuperSonics,106,New York Knicks,113,0,N
+1969-01-21,1969,Atlanta Hawks,113,San Diego Rockets,124,0,N
+1969-01-21,1969,Cincinnati Royals,113,San Francisco Warriors,107,1,N
+1969-01-22,1969,Seattle SuperSonics,98,Baltimore Bullets,94,0,N
+1969-01-22,1969,Boston Celtics,94,Chicago Bulls,95,0,N
+1969-01-22,1969,Los Angeles Lakers,115,Detroit Pistons,116,0,N
+1969-01-22,1969,New York Knicks,137,Philadelphia 76ers,140,2,N
+1969-01-22,1969,Atlanta Hawks,125,Phoenix Suns,107,0,N
+1969-01-24,1969,Los Angeles Lakers,106,Atlanta Hawks,110,0,N
+1969-01-24,1969,Philadelphia 76ers,120,Boston Celtics,111,0,N
+1969-01-24,1969,New York Knicks,106,Detroit Pistons,107,0,N
+1969-01-24,1969,Chicago Bulls,106,Phoenix Suns,117,0,N
+1969-01-24,1969,San Diego Rockets,107,San Francisco Warriors,114,0,N
+1969-01-25,1969,Atlanta Hawks,112,Baltimore Bullets,109,0,N
+1969-01-25,1969,Milwaukee Bucks,96,New York Knicks,113,0,N
+1969-01-25,1969,Detroit Pistons,106,Philadelphia 76ers,124,0,N
+1969-01-25,1969,Phoenix Suns,120,San Diego Rockets,133,0,N
+1969-01-26,1969,Philadelphia 76ers,119,Atlanta Hawks,115,0,N
+1969-01-26,1969,Baltimore Bullets,86,Boston Celtics,124,0,N
+1969-01-26,1969,Los Angeles Lakers,126,Cincinnati Royals,113,0,N
+1969-01-26,1969,San Francisco Warriors,117,Phoenix Suns,93,0,N
+1969-01-26,1969,Chicago Bulls,95,San Diego Rockets,111,0,N
+1969-01-27,1969,Detroit Pistons,106,Baltimore Bullets,126,0,N
+1969-01-27,1969,Seattle SuperSonics,128,Milwaukee Bucks,107,0,N
+1969-01-28,1969,Atlanta Hawks,96,Boston Celtics,108,0,N
+1969-01-28,1969,San Francisco Warriors,107,Cincinnati Royals,100,0,N
+1969-01-28,1969,Chicago Bulls,118,Los Angeles Lakers,125,0,N
+1969-01-28,1969,Philadelphia 76ers,88,New York Knicks,121,0,N
+1969-01-29,1969,Seattle SuperSonics,124,Boston Celtics,122,1,N
+1969-01-29,1969,San Francisco Warriors,133,Detroit Pistons,126,0,N
+1969-01-29,1969,Phoenix Suns,111,Milwaukee Bucks,107,0,N
+1969-01-29,1969,Atlanta Hawks,96,Philadelphia 76ers,119,0,N
+1969-01-29,1969,Los Angeles Lakers,122,San Diego Rockets,120,0,N
+1969-01-30,1969,New York Knicks,109,Baltimore Bullets,106,0,N
+1969-01-30,1969,Philadelphia 76ers,115,Cincinnati Royals,116,0,N
+1969-01-30,1969,Seattle SuperSonics,118,Detroit Pistons,144,0,N
+1969-01-30,1969,Chicago Bulls,111,San Francisco Warriors,101,0,N
+1969-01-31,1969,Seattle SuperSonics,119,Atlanta Hawks,112,0,N
+1969-01-31,1969,Cincinnati Royals,101,Boston Celtics,116,0,N
+1969-01-31,1969,Detroit Pistons,103,Chicago Bulls,102,0,N
+1969-01-31,1969,Milwaukee Bucks,104,Los Angeles Lakers,105,0,N
+1969-01-31,1969,Baltimore Bullets,108,Philadelphia 76ers,105,0,N
+1969-02-01,1969,Detroit Pistons,99,Atlanta Hawks,119,0,N
+1969-02-01,1969,Seattle SuperSonics,96,Cincinnati Royals,111,0,N
+1969-02-01,1969,Boston Celtics,82,New York Knicks,109,0,N
+1969-02-01,1969,Milwaukee Bucks,95,San Diego Rockets,101,0,N
+1969-02-01,1969,Los Angeles Lakers,106,San Francisco Warriors,101,1,N
+1969-02-02,1969,San Diego Rockets,103,Atlanta Hawks,115,0,N
+1969-02-02,1969,New York Knicks,95,Boston Celtics,94,0,N
+1969-02-02,1969,Baltimore Bullets,128,Detroit Pistons,106,0,N
+1969-02-02,1969,San Francisco Warriors,122,Los Angeles Lakers,117,3,N
+1969-02-02,1969,Chicago Bulls,104,Philadelphia 76ers,112,0,N
+1969-02-02,1969,Milwaukee Bucks,121,Phoenix Suns,122,0,N
+1969-02-03,1969,Chicago Bulls,122,Baltimore Bullets,132,0,N
+1969-02-03,1969,Los Angeles Lakers,107,Seattle SuperSonics,114,0,N
+1969-02-04,1969,San Diego Rockets,135,Boston Celtics,126,0,N
+1969-02-04,1969,Milwaukee Bucks,107,Chicago Bulls,98,0,N
+1969-02-04,1969,Detroit Pistons,114,Cincinnati Royals,125,0,N
+1969-02-04,1969,Atlanta Hawks,97,New York Knicks,122,0,N
+1969-02-04,1969,Philadelphia 76ers,116,Phoenix Suns,125,0,N
+1969-02-04,1969,Seattle SuperSonics,116,San Francisco Warriors,111,0,N
+1969-02-05,1969,Boston Celtics,112,Baltimore Bullets,124,0,N
+1969-02-05,1969,Chicago Bulls,120,Detroit Pistons,108,0,N
+1969-02-05,1969,New York Knicks,111,Milwaukee Bucks,102,0,N
+1969-02-05,1969,Cincinnati Royals,93,San Diego Rockets,110,0,N
+1969-02-05,1969,Philadelphia 76ers,119,Seattle SuperSonics,115,0,N
+1969-02-06,1969,Phoenix Suns,103,Cincinnati Royals,124,0,N
+1969-02-07,1969,Atlanta Hawks,109,Boston Celtics,107,0,N
+1969-02-07,1969,New York Knicks,105,Chicago Bulls,98,0,N
+1969-02-07,1969,Philadelphia 76ers,109,Los Angeles Lakers,106,0,N
+1969-02-07,1969,Baltimore Bullets,114,Milwaukee Bucks,107,0,N
+1969-02-07,1969,Phoenix Suns,119,San Diego Rockets,130,0,N
+1969-02-07,1969,Cincinnati Royals,97,Seattle SuperSonics,102,0,N
+1969-02-08,1969,Chicago Bulls,97,Atlanta Hawks,106,0,N
+1969-02-08,1969,San Diego Rockets,119,Detroit Pistons,123,1,N
+1969-02-08,1969,Baltimore Bullets,100,New York Knicks,106,0,N
+1969-02-08,1969,Los Angeles Lakers,122,Phoenix Suns,104,0,N
+1969-02-08,1969,Cincinnati Royals,117,San Francisco Warriors,116,0,N
+1969-02-09,1969,Baltimore Bullets,102,Atlanta Hawks,101,0,N
+1969-02-09,1969,Philadelphia 76ers,117,Boston Celtics,122,1,N
+1969-02-09,1969,Phoenix Suns,116,Los Angeles Lakers,134,0,N
+1969-02-09,1969,San Diego Rockets,109,Milwaukee Bucks,117,0,N
+1969-02-09,1969,San Francisco Warriors,121,Seattle SuperSonics,120,0,N
+1969-02-11,1969,San Francisco Warriors,92,Atlanta Hawks,87,0,N
+1969-02-11,1969,Baltimore Bullets,124,Chicago Bulls,116,0,N
+1969-02-11,1969,Philadelphia 76ers,129,Cincinnati Royals,112,0,N
+1969-02-12,1969,San Francisco Warriors,110,Baltimore Bullets,120,0,N
+1969-02-12,1969,San Diego Rockets,118,Cincinnati Royals,114,0,N
+1969-02-12,1969,Boston Celtics,113,Detroit Pistons,106,0,N
+1969-02-12,1969,Atlanta Hawks,113,Milwaukee Bucks,106,0,N
+1969-02-12,1969,Phoenix Suns,105,New York Knicks,112,0,N
+1969-02-12,1969,Los Angeles Lakers,109,Seattle SuperSonics,92,0,N
+1969-02-13,1969,Detroit Pistons,101,Chicago Bulls,120,0,N
+1969-02-14,1969,Boston Celtics,101,Atlanta Hawks,104,1,N
+1969-02-14,1969,Milwaukee Bucks,122,Baltimore Bullets,132,0,N
+1969-02-14,1969,Phoenix Suns,123,Detroit Pistons,128,0,N
+1969-02-14,1969,San Diego Rockets,109,Los Angeles Lakers,115,0,N
+1969-02-14,1969,San Francisco Warriors,127,Philadelphia 76ers,111,0,N
+1969-02-15,1969,Cincinnati Royals,111,Chicago Bulls,101,0,N
+1969-02-15,1969,San Francisco Warriors,92,New York Knicks,98,0,N
+1969-02-16,1969,San Francisco Warriors,113,Atlanta Hawks,106,0,N
+1969-02-16,1969,Phoenix Suns,125,Cincinnati Royals,113,0,N
+1969-02-16,1969,Los Angeles Lakers,97,Milwaukee Bucks,106,0,N
+1969-02-16,1969,Boston Celtics,102,Philadelphia 76ers,127,0,N
+1969-02-16,1969,Detroit Pistons,119,Seattle SuperSonics,127,0,N
+1969-02-17,1969,Milwaukee Bucks,123,Atlanta Hawks,111,0,N
+1969-02-17,1969,Cincinnati Royals,117,Baltimore Bullets,112,0,N
+1969-02-18,1969,Cincinnati Royals,123,Atlanta Hawks,124,0,N
+1969-02-18,1969,Phoenix Suns,110,Boston Celtics,116,0,N
+1969-02-18,1969,Los Angeles Lakers,113,New York Knicks,109,0,N
+1969-02-18,1969,Philadelphia 76ers,125,San Diego Rockets,113,0,N
+1969-02-18,1969,Chicago Bulls,113,Seattle SuperSonics,114,0,N
+1969-02-18,1969,Detroit Pistons,114,San Francisco Warriors,121,0,N
+1969-02-19,1969,Los Angeles Lakers,88,Baltimore Bullets,110,0,N
+1969-02-19,1969,New York Knicks,100,Cincinnati Royals,110,0,N
+1969-02-19,1969,Detroit Pistons,131,Seattle SuperSonics,124,0,N
+1969-02-19,1969,Philadelphia 76ers,117,San Francisco Warriors,134,0,N
+1969-02-20,1969,Phoenix Suns,121,Baltimore Bullets,124,0,N
+1969-02-20,1969,Atlanta Hawks,97,Detroit Pistons,87,0,N
+1969-02-20,1969,San Francisco Warriors,128,San Diego Rockets,118,0,N
+1969-02-21,1969,Boston Celtics,124,Los Angeles Lakers,102,0,N
+1969-02-21,1969,Chicago Bulls,133,Phoenix Suns,121,0,N
+1969-02-21,1969,Philadelphia 76ers,115,Seattle SuperSonics,109,0,N
+1969-02-22,1969,Milwaukee Bucks,108,Detroit Pistons,107,0,N
+1969-02-22,1969,San Diego Rockets,108,New York Knicks,104,0,N
+1969-02-22,1969,Boston Celtics,124,Phoenix Suns,100,0,N
+1969-02-22,1969,Philadelphia 76ers,129,San Francisco Warriors,122,0,N
+1969-02-23,1969,San Diego Rockets,92,Atlanta Hawks,124,0,N
+1969-02-23,1969,Baltimore Bullets,126,Cincinnati Royals,109,0,N
+1969-02-23,1969,Philadelphia 76ers,125,Los Angeles Lakers,121,0,N
+1969-02-23,1969,Phoenix Suns,103,Milwaukee Bucks,107,0,N
+1969-02-23,1969,Boston Celtics,116,Seattle SuperSonics,118,0,N
+1969-02-24,1969,Detroit Pistons,119,Baltimore Bullets,123,0,N
+1969-02-24,1969,Chicago Bulls,119,San Francisco Warriors,108,0,N
+1969-02-25,1969,Phoenix Suns,99,Boston Celtics,112,0,N
+1969-02-25,1969,Philadelphia 76ers,120,Cincinnati Royals,119,0,N
+1969-02-25,1969,Seattle SuperSonics,111,Los Angeles Lakers,114,1,N
+1969-02-25,1969,San Diego Rockets,112,Milwaukee Bucks,114,0,N
+1969-02-25,1969,Atlanta Hawks,101,New York Knicks,122,0,N
+1969-02-25,1969,Chicago Bulls,99,San Francisco Warriors,101,0,N
+1969-02-26,1969,New York Knicks,92,Boston Celtics,88,0,N
+1969-02-26,1969,Phoenix Suns,97,Philadelphia 76ers,104,0,N
+1969-02-26,1969,Chicago Bulls,124,Seattle SuperSonics,122,0,N
+1969-02-27,1969,Philadelphia 76ers,123,Detroit Pistons,126,0,N
+1969-02-27,1969,Baltimore Bullets,117,Milwaukee Bucks,126,0,N
+1969-02-27,1969,Cincinnati Royals,112,San Diego Rockets,127,0,N
+1969-02-28,1969,Atlanta Hawks,120,Boston Celtics,122,0,N
+1969-02-28,1969,Baltimore Bullets,134,Detroit Pistons,116,0,N
+1969-02-28,1969,Phoenix Suns,117,Los Angeles Lakers,121,0,N
+1969-02-28,1969,Philadelphia 76ers,123,Milwaukee Bucks,102,0,N
+1969-02-28,1969,Cincinnati Royals,115,San Francisco Warriors,131,0,N
+1969-03-01,1969,Los Angeles Lakers,119,San Diego Rockets,113,0,N
+1969-03-01,1969,Cincinnati Royals,122,Seattle SuperSonics,134,0,N
+1969-03-01,1969,Phoenix Suns,119,San Francisco Warriors,118,0,N
+1969-03-01,1969,Boston Celtics,96,New York Knicks,115,0,N
+1969-03-02,1969,Milwaukee Bucks,108,Atlanta Hawks,112,0,N
+1969-03-02,1969,Chicago Bulls,92,Boston Celtics,99,0,N
+1969-03-02,1969,Philadelphia 76ers,126,Detroit Pistons,112,0,N
+1969-03-02,1969,San Francisco Warriors,92,Los Angeles Lakers,107,0,N
+1969-03-03,1969,Philadelphia 76ers,143,Milwaukee Bucks,132,0,N
+1969-03-03,1969,Cincinnati Royals,113,Seattle SuperSonics,107,0,N
+1969-03-04,1969,Detroit Pistons,99,New York Knicks,102,0,N
+1969-03-04,1969,Boston Celtics,95,San Francisco Warriors,99,0,N
+1969-03-04,1969,San Diego Rockets,116,Seattle SuperSonics,130,0,N
+1969-03-04,1969,Cincinnati Royals,141,Phoenix Suns,122,0,N
+1969-03-04,1969,Baltimore Bullets,116,Los Angeles Lakers,108,0,N
+1969-03-04,1969,Philadelphia 76ers,113,Chicago Bulls,114,0,N
+1969-03-05,1969,New York Knicks,120,Detroit Pistons,128,0,N
+1969-03-05,1969,Chicago Bulls,124,Milwaukee Bucks,108,0,N
+1969-03-05,1969,Baltimore Bullets,107,San Francisco Warriors,114,0,N
+1969-03-06,1969,Philadelphia 76ers,99,Atlanta Hawks,138,0,N
+1969-03-06,1969,Phoenix Suns,117,Chicago Bulls,125,1,N
+1969-03-06,1969,Cincinnati Royals,112,Milwaukee Bucks,110,0,N
+1969-03-06,1969,Boston Celtics,97,San Diego Rockets,110,0,N
+1969-03-07,1969,Chicago Bulls,113,Philadelphia 76ers,131,0,N
+1969-03-07,1969,Baltimore Bullets,130,San Francisco Warriors,135,1,N
+1969-03-07,1969,Phoenix Suns,87,New York Knicks,119,0,N
+1969-03-07,1969,Cincinnati Royals,105,Detroit Pistons,114,0,N
+1969-03-07,1969,Boston Celtics,99,Los Angeles Lakers,105,1,N
+1969-03-08,1969,Baltimore Bullets,117,Seattle SuperSonics,138,0,N
+1969-03-09,1969,Cincinnati Royals,107,Atlanta Hawks,134,0,N
+1969-03-09,1969,San Francisco Warriors,89,Boston Celtics,138,0,N
+1969-03-09,1969,Milwaukee Bucks,126,Detroit Pistons,121,0,N
+1969-03-09,1969,Baltimore Bullets,109,Los Angeles Lakers,120,0,N
+1969-03-09,1969,New York Knicks,101,Philadelphia 76ers,110,0,N
+1969-03-09,1969,San Diego Rockets,133,Phoenix Suns,146,0,N
+1969-03-10,1969,San Francisco Warriors,123,Milwaukee Bucks,106,0,N
+1969-03-10,1969,Baltimore Bullets,140,Phoenix Suns,121,0,N
+1969-03-11,1969,Philadelphia 76ers,101,New York Knicks,121,0,N
+1969-03-11,1969,Phoenix Suns,106,San Diego Rockets,116,0,N
+1969-03-11,1969,Detroit Pistons,101,Los Angeles Lakers,137,0,N
+1969-03-11,1969,Atlanta Hawks,90,Chicago Bulls,102,0,N
+1969-03-12,1969,Chicago Bulls,90,Atlanta Hawks,109,0,N
+1969-03-12,1969,New York Knicks,110,Baltimore Bullets,111,0,N
+1969-03-12,1969,Boston Celtics,126,Philadelphia 76ers,117,0,N
+1969-03-12,1969,Seattle SuperSonics,125,San Diego Rockets,112,0,N
+1969-03-12,1969,Los Angeles Lakers,85,San Francisco Warriors,97,0,N
+1969-03-13,1969,Philadelphia 76ers,113,Chicago Bulls,106,0,N
+1969-03-13,1969,Boston Celtics,110,Cincinnati Royals,120,0,N
+1969-03-13,1969,Seattle SuperSonics,141,Milwaukee Bucks,118,0,N
+1969-03-13,1969,Detroit Pistons,105,San Diego Rockets,120,0,N
+1969-03-14,1969,Detroit Pistons,110,San Francisco Warriors,114,0,N
+1969-03-14,1969,Cincinnati Royals,128,Baltimore Bullets,130,1,N
+1969-03-14,1969,Milwaukee Bucks,103,Los Angeles Lakers,111,0,N
+1969-03-15,1969,Boston Celtics,98,Baltimore Bullets,99,0,N
+1969-03-15,1969,Seattle SuperSonics,83,Chicago Bulls,101,0,N
+1969-03-15,1969,Cincinnati Royals,108,New York Knicks,121,0,N
+1969-03-15,1969,Atlanta Hawks,120,Philadelphia 76ers,122,0,N
+1969-03-15,1969,San Diego Rockets,141,Phoenix Suns,124,0,N
+1969-03-16,1969,Seattle SuperSonics,127,Atlanta Hawks,131,1,N
+1969-03-16,1969,Los Angeles Lakers,108,Boston Celtics,73,0,N
+1969-03-16,1969,Detroit Pistons,111,San Diego Rockets,120,0,N
+1969-03-17,1969,Detroit Pistons,119,Phoenix Suns,95,0,N
+1969-03-18,1969,Los Angeles Lakers,93,Chicago Bulls,92,0,N
+1969-03-18,1969,Atlanta Hawks,128,San Francisco Warriors,115,0,N
+1969-03-18,1969,Milwaukee Bucks,108,San Diego Rockets,128,0,N
+1969-03-18,1969,Seattle SuperSonics,120,Baltimore Bullets,130,0,N
+1969-03-19,1969,Chicago Bulls,92,Boston Celtics,104,0,N
+1969-03-19,1969,Los Angeles Lakers,128,Cincinnati Royals,136,1,N
+1969-03-19,1969,Baltimore Bullets,100,New York Knicks,104,0,N
+1969-03-19,1969,Seattle SuperSonics,115,Philadelphia 76ers,136,0,N
+1969-03-19,1969,Milwaukee Bucks,117,Phoenix Suns,110,0,N
+1969-03-20,1969,Atlanta Hawks,97,San Diego Rockets,115,0,N
+1969-03-21,1969,New York Knicks,139,Phoenix Suns,104,0,N
+1969-03-21,1969,Milwaukee Bucks,100,San Francisco Warriors,103,0,N
+1969-03-21,1969,Atlanta Hawks,103,Los Angeles Lakers,116,0,N
+1969-03-21,1969,Baltimore Bullets,115,Chicago Bulls,103,0,N
+1969-03-21,1969,Cincinnati Royals,119,Boston Celtics,145,0,N
+1969-03-21,1969,Seattle SuperSonics,104,Detroit Pistons,110,0,N
+1969-03-22,1969,Philadelphia 76ers,116,Baltimore Bullets,108,0,N
+1969-03-22,1969,Seattle SuperSonics,127,Cincinnati Royals,134,0,N
+1969-03-22,1969,Milwaukee Bucks,120,San Diego Rockets,106,0,N
+1969-03-22,1969,New York Knicks,117,San Francisco Warriors,90,0,N
+1969-03-23,1969,Baltimore Bullets,98,Boston Celtics,126,0,N
+1969-03-23,1969,Chicago Bulls,114,Detroit Pistons,158,0,N
+1969-03-23,1969,New York Knicks,111,Los Angeles Lakers,128,0,N
+1969-03-23,1969,Milwaukee Bucks,128,Phoenix Suns,118,0,N
+1969-03-23,1969,Atlanta Hawks,121,San Diego Rockets,128,0,N
+1969-03-24,1969,San Diego Rockets,107,Boston Celtics,111,0,N
+1969-03-24,1969,Cincinnati Royals,125,Philadelphia 76ers,119,0,N
+1969-03-26,1969,San Francisco Warriors,99,Los Angeles Lakers,94,0,Y
+1969-03-26,1969,Boston Celtics,114,Philadelphia 76ers,100,0,Y
+1969-03-27,1969,San Diego Rockets,98,Atlanta Hawks,107,0,Y
+1969-03-27,1969,New York Knicks,113,Baltimore Bullets,101,0,Y
+1969-03-28,1969,Philadelphia 76ers,103,Boston Celtics,134,0,Y
+1969-03-28,1969,San Francisco Warriors,107,Los Angeles Lakers,101,0,Y
+1969-03-29,1969,San Diego Rockets,114,Atlanta Hawks,116,0,Y
+1969-03-29,1969,Baltimore Bullets,91,New York Knicks,107,0,Y
+1969-03-30,1969,New York Knicks,119,Baltimore Bullets,116,0,Y
+1969-03-30,1969,Boston Celtics,125,Philadelphia 76ers,118,0,Y
+1969-03-31,1969,Los Angeles Lakers,115,San Francisco Warriors,98,0,Y
+1969-04-01,1969,Atlanta Hawks,97,San Diego Rockets,104,0,Y
+1969-04-01,1969,Philadelphia 76ers,119,Boston Celtics,116,0,Y
+1969-04-02,1969,Baltimore Bullets,108,New York Knicks,115,0,Y
+1969-04-02,1969,Los Angeles Lakers,103,San Francisco Warriors,88,0,Y
+1969-04-04,1969,San Francisco Warriors,98,Los Angeles Lakers,103,0,Y
+1969-04-04,1969,Boston Celtics,93,Philadelphia 76ers,90,0,Y
+1969-04-04,1969,Atlanta Hawks,112,San Diego Rockets,114,0,Y
+1969-04-05,1969,Los Angeles Lakers,118,San Francisco Warriors,78,0,Y
+1969-04-06,1969,San Diego Rockets,101,Atlanta Hawks,112,0,Y
+1969-04-06,1969,Boston Celtics,108,New York Knicks,100,0,Y
+1969-04-07,1969,Atlanta Hawks,108,San Diego Rockets,106,0,Y
+1969-04-09,1969,New York Knicks,97,Boston Celtics,112,0,Y
+1969-04-10,1969,Boston Celtics,91,New York Knicks,101,0,Y
+1969-04-11,1969,Atlanta Hawks,93,Los Angeles Lakers,95,0,Y
+1969-04-13,1969,New York Knicks,96,Boston Celtics,97,0,Y
+1969-04-13,1969,Atlanta Hawks,102,Los Angeles Lakers,104,0,Y
+1969-04-14,1969,Boston Celtics,104,New York Knicks,112,0,Y
+1969-04-15,1969,Los Angeles Lakers,86,Atlanta Hawks,99,0,Y
+1969-04-17,1969,Los Angeles Lakers,100,Atlanta Hawks,85,0,Y
+1969-04-18,1969,New York Knicks,105,Boston Celtics,106,0,Y
+1969-04-20,1969,Atlanta Hawks,96,Los Angeles Lakers,104,0,Y
+1969-04-23,1969,Boston Celtics,118,Los Angeles Lakers,120,0,Y
+1969-04-25,1969,Boston Celtics,112,Los Angeles Lakers,118,0,Y
+1969-04-27,1969,Los Angeles Lakers,105,Boston Celtics,111,0,Y
+1969-04-29,1969,Los Angeles Lakers,88,Boston Celtics,89,0,Y
+1969-05-01,1969,Boston Celtics,104,Los Angeles Lakers,117,0,Y
+1969-05-03,1969,Los Angeles Lakers,90,Boston Celtics,99,0,Y
+1969-05-05,1969,Boston Celtics,108,Los Angeles Lakers,106,0,Y

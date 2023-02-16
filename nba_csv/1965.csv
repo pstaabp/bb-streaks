@@ -1,0 +1,387 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1964-10-16,1965,Detroit Pistons,113,Philadelphia 76ers,125,0,N
+1964-10-17,1965,San Francisco Warriors,101,Baltimore Bullets,121,0,N
+1964-10-17,1965,Detroit Pistons,81,Boston Celtics,112,0,N
+1964-10-17,1965,Los Angeles Lakers,113,New York Knicks,109,0,N
+1964-10-17,1965,Cincinnati Royals,91,St. Louis Hawks,94,0,N
+1964-10-18,1965,San Francisco Warriors,108,Cincinnati Royals,117,0,N
+1964-10-20,1965,Los Angeles Lakers,113,Cincinnati Royals,121,0,N
+1964-10-21,1965,San Francisco Warriors,104,Detroit Pistons,108,0,N
+1964-10-21,1965,Los Angeles Lakers,108,Baltimore Bullets,105,0,N
+1964-10-22,1965,Detroit Pistons,102,Boston Celtics,104,0,N
+1964-10-22,1965,Baltimore Bullets,138,Philadelphia 76ers,135,1,N
+1964-10-23,1965,Los Angeles Lakers,94,San Francisco Warriors,92,0,N
+1964-10-24,1965,Baltimore Bullets,103,Boston Celtics,131,0,N
+1964-10-24,1965,Detroit Pistons,118,New York Knicks,108,1,N
+1964-10-24,1965,Philadelphia 76ers,86,St. Louis Hawks,126,0,N
+1964-10-25,1965,Boston Celtics,112,Baltimore Bullets,100,0,N
+1964-10-25,1965,New York Knicks,108,Detroit Pistons,95,0,N
+1964-10-25,1965,Philadelphia 76ers,107,Cincinnati Royals,109,0,N
+1964-10-27,1965,Boston Celtics,131,New York Knicks,103,0,N
+1964-10-27,1965,St. Louis Hawks,81,Philadelphia 76ers,100,0,N
+1964-10-27,1965,Baltimore Bullets,90,San Francisco Warriors,101,0,N
+1964-10-28,1965,Baltimore Bullets,102,Los Angeles Lakers,112,0,N
+1964-10-28,1965,Boston Celtics,119,St. Louis Hawks,117,0,N
+1964-10-29,1965,Baltimore Bullets,98,Los Angeles Lakers,95,0,N
+1964-10-30,1965,St. Louis Hawks,118,Cincinnati Royals,119,0,N
+1964-10-30,1965,Boston Celtics,106,Detroit Pistons,90,0,N
+1964-10-30,1965,Philadelphia 76ers,90,New York Knicks,94,0,N
+1964-10-31,1965,Cincinnati Royals,94,Boston Celtics,122,0,N
+1964-10-31,1965,New York Knicks,105,Philadelphia 76ers,116,0,N
+1964-10-31,1965,Baltimore Bullets,102,San Francisco Warriors,98,0,N
+1964-10-31,1965,Detroit Pistons,99,St. Louis Hawks,107,0,N
+1964-11-01,1965,St. Louis Hawks,116,Los Angeles Lakers,115,0,N
+1964-11-01,1965,Detroit Pistons,101,Cincinnati Royals,114,0,N
+1964-11-04,1965,St. Louis Hawks,105,San Francisco Warriors,104,0,N
+1964-11-04,1965,Baltimore Bullets,121,Detroit Pistons,108,0,N
+1964-11-05,1965,New York Knicks,96,Los Angeles Lakers,106,0,N
+1964-11-06,1965,Baltimore Bullets,111,Cincinnati Royals,106,0,N
+1964-11-06,1965,New York Knicks,127,San Francisco Warriors,133,2,N
+1964-11-07,1965,Detroit Pistons,113,Boston Celtics,130,0,N
+1964-11-07,1965,San Francisco Warriors,103,Los Angeles Lakers,130,0,N
+1964-11-07,1965,Cincinnati Royals,103,Philadelphia 76ers,105,0,N
+1964-11-07,1965,Baltimore Bullets,99,St. Louis Hawks,134,0,N
+1964-11-08,1965,Boston Celtics,106,Cincinnati Royals,103,0,N
+1964-11-08,1965,New York Knicks,121,San Francisco Warriors,130,0,N
+1964-11-10,1965,Detroit Pistons,119,Baltimore Bullets,117,0,N
+1964-11-10,1965,New York Knicks,101,Los Angeles Lakers,108,0,N
+1964-11-10,1965,San Francisco Warriors,110,Philadelphia 76ers,99,0,N
+1964-11-11,1965,San Francisco Warriors,84,Boston Celtics,110,0,N
+1964-11-11,1965,Cincinnati Royals,118,St. Louis Hawks,116,0,N
+1964-11-11,1965,Philadelphia 76ers,123,Baltimore Bullets,114,0,N
+1964-11-12,1965,Philadelphia 76ers,110,Boston Celtics,109,0,N
+1964-11-12,1965,San Francisco Warriors,99,Detroit Pistons,121,0,N
+1964-11-12,1965,Los Angeles Lakers,132,New York Knicks,123,1,N
+1964-11-13,1965,Los Angeles Lakers,114,Boston Celtics,112,0,N
+1964-11-13,1965,St. Louis Hawks,106,Cincinnati Royals,123,0,N
+1964-11-14,1965,Los Angeles Lakers,115,Baltimore Bullets,127,0,N
+1964-11-14,1965,Cincinnati Royals,111,New York Knicks,110,0,N
+1964-11-14,1965,Boston Celtics,113,Philadelphia 76ers,102,0,N
+1964-11-14,1965,San Francisco Warriors,94,St. Louis Hawks,108,0,N
+1964-11-15,1965,San Francisco Warriors,122,Cincinnati Royals,106,0,N
+1964-11-15,1965,Los Angeles Lakers,111,Detroit Pistons,105,0,N
+1964-11-17,1965,Philadelphia 76ers,107,St. Louis Hawks,114,0,N
+1964-11-17,1965,Cincinnati Royals,114,San Francisco Warriors,108,0,N
+1964-11-17,1965,Boston Celtics,99,Baltimore Bullets,102,0,N
+1964-11-18,1965,St. Louis Hawks,97,Boston Celtics,100,0,N
+1964-11-18,1965,Philadelphia 76ers,111,Detroit Pistons,124,0,N
+1964-11-18,1965,Cincinnati Royals,92,Los Angeles Lakers,90,0,N
+1964-11-20,1965,Detroit Pistons,106,Baltimore Bullets,105,0,N
+1964-11-20,1965,New York Knicks,120,Boston Celtics,127,0,N
+1964-11-20,1965,Cincinnati Royals,121,Los Angeles Lakers,131,0,N
+1964-11-20,1965,St. Louis Hawks,118,Philadelphia 76ers,115,0,N
+1964-11-21,1965,Philadelphia 76ers,108,Boston Celtics,96,0,N
+1964-11-21,1965,Detroit Pistons,94,St. Louis Hawks,100,0,N
+1964-11-21,1965,Cincinnati Royals,111,San Francisco Warriors,104,0,N
+1964-11-21,1965,Baltimore Bullets,94,New York Knicks,103,0,N
+1964-11-22,1965,Detroit Pistons,99,San Francisco Warriors,97,0,N
+1964-11-24,1965,San Francisco Warriors,93,New York Knicks,101,0,N
+1964-11-24,1965,Baltimore Bullets,109,St. Louis Hawks,108,0,N
+1964-11-25,1965,Cincinnati Royals,116,Baltimore Bullets,125,0,N
+1964-11-25,1965,Philadelphia 76ers,124,New York Knicks,93,0,N
+1964-11-25,1965,Detroit Pistons,117,Los Angeles Lakers,130,0,N
+1964-11-25,1965,San Francisco Warriors,118,Boston Celtics,122,0,N
+1964-11-26,1965,San Francisco Warriors,117,Philadelphia 76ers,128,0,N
+1964-11-26,1965,Boston Celtics,98,St. Louis Hawks,110,0,N
+1964-11-27,1965,Philadelphia 76ers,112,Cincinnati Royals,133,0,N
+1964-11-27,1965,Detroit Pistons,111,Los Angeles Lakers,117,0,N
+1964-11-28,1965,Cincinnati Royals,98,Boston Celtics,129,0,N
+1964-11-28,1965,Philadelphia 76ers,101,Detroit Pistons,93,0,N
+1964-11-28,1965,St. Louis Hawks,91,New York Knicks,106,0,N
+1964-11-28,1965,Los Angeles Lakers,106,San Francisco Warriors,109,0,N
+1964-11-29,1965,New York Knicks,95,Cincinnati Royals,105,0,N
+1964-11-29,1965,Baltimore Bullets,110,Los Angeles Lakers,126,0,N
+1964-11-29,1965,Philadelphia 76ers,97,St. Louis Hawks,94,0,N
+1964-12-01,1965,Boston Celtics,117,New York Knicks,113,1,N
+1964-12-01,1965,Detroit Pistons,107,Cincinnati Royals,129,0,N
+1964-12-01,1965,Baltimore Bullets,136,San Francisco Warriors,137,2,N
+1964-12-01,1965,Los Angeles Lakers,118,Philadelphia 76ers,117,0,N
+1964-12-02,1965,San Francisco Warriors,114,Baltimore Bullets,120,0,N
+1964-12-02,1965,Los Angeles Lakers,102,St. Louis Hawks,105,0,N
+1964-12-02,1965,Cincinnati Royals,115,Detroit Pistons,125,0,N
+1964-12-02,1965,New York Knicks,91,Boston Celtics,116,0,N
+1964-12-04,1965,St. Louis Hawks,106,Baltimore Bullets,108,0,N
+1964-12-04,1965,Los Angeles Lakers,90,Cincinnati Royals,104,0,N
+1964-12-04,1965,Detroit Pistons,106,Philadelphia 76ers,119,0,N
+1964-12-04,1965,Boston Celtics,85,San Francisco Warriors,112,0,N
+1964-12-05,1965,Philadelphia 76ers,125,Baltimore Bullets,108,0,N
+1964-12-05,1965,New York Knicks,100,Detroit Pistons,110,0,N
+1964-12-05,1965,Boston Celtics,105,San Francisco Warriors,81,0,N
+1964-12-06,1965,Cincinnati Royals,124,Baltimore Bullets,113,0,N
+1964-12-06,1965,Philadelphia 76ers,104,Los Angeles Lakers,109,0,N
+1964-12-06,1965,New York Knicks,94,St. Louis Hawks,115,0,N
+1964-12-08,1965,St. Louis Hawks,113,San Francisco Warriors,93,0,N
+1964-12-08,1965,Detroit Pistons,102,New York Knicks,100,0,N
+1964-12-08,1965,Philadelphia 76ers,102,Baltimore Bullets,97,0,N
+1964-12-08,1965,Boston Celtics,108,Los Angeles Lakers,98,0,N
+1964-12-09,1965,New York Knicks,111,Baltimore Bullets,90,0,N
+1964-12-09,1965,Cincinnati Royals,122,Detroit Pistons,114,0,N
+1964-12-10,1965,Boston Celtics,116,Cincinnati Royals,101,0,N
+1964-12-10,1965,St. Louis Hawks,95,Los Angeles Lakers,91,0,N
+1964-12-11,1965,Boston Celtics,118,Philadelphia 76ers,109,0,N
+1964-12-11,1965,Detroit Pistons,104,San Francisco Warriors,100,0,N
+1964-12-12,1965,Baltimore Bullets,99,Boston Celtics,112,0,N
+1964-12-12,1965,Cincinnati Royals,115,St. Louis Hawks,109,0,N
+1964-12-12,1965,Detroit Pistons,107,San Francisco Warriors,124,0,N
+1964-12-12,1965,Philadelphia 76ers,106,New York Knicks,133,0,N
+1964-12-13,1965,Detroit Pistons,115,Los Angeles Lakers,116,0,N
+1964-12-13,1965,Philadelphia 76ers,121,New York Knicks,115,0,N
+1964-12-14,1965,San Francisco Warriors,112,Philadelphia 76ers,119,0,N
+1964-12-15,1965,San Francisco Warriors,134,New York Knicks,132,1,N
+1964-12-15,1965,Detroit Pistons,131,Los Angeles Lakers,116,0,N
+1964-12-15,1965,St. Louis Hawks,109,Boston Celtics,124,0,N
+1964-12-16,1965,Philadelphia 76ers,120,Baltimore Bullets,140,0,N
+1964-12-16,1965,San Francisco Warriors,106,Boston Celtics,107,0,N
+1964-12-16,1965,Los Angeles Lakers,126,Detroit Pistons,120,1,N
+1964-12-16,1965,St. Louis Hawks,117,New York Knicks,103,0,N
+1964-12-17,1965,New York Knicks,113,Boston Celtics,112,0,N
+1964-12-18,1965,Los Angeles Lakers,107,Cincinnati Royals,111,0,N
+1964-12-18,1965,St. Louis Hawks,108,Detroit Pistons,114,0,N
+1964-12-18,1965,Philadelphia 76ers,111,San Francisco Warriors,117,0,N
+1964-12-19,1965,Detroit Pistons,99,Baltimore Bullets,104,0,N
+1964-12-19,1965,Boston Celtics,115,St. Louis Hawks,105,0,N
+1964-12-19,1965,Cincinnati Royals,133,New York Knicks,105,0,N
+1964-12-19,1965,Philadelphia 76ers,140,Los Angeles Lakers,113,0,N
+1964-12-20,1965,Philadelphia 76ers,113,San Francisco Warriors,111,0,N
+1964-12-21,1965,New York Knicks,113,Los Angeles Lakers,125,0,N
+1964-12-22,1965,San Francisco Warriors,118,New York Knicks,124,0,N
+1964-12-23,1965,Philadelphia 76ers,117,Los Angeles Lakers,135,0,N
+1964-12-25,1965,Detroit Pistons,106,Boston Celtics,118,0,N
+1964-12-25,1965,Baltimore Bullets,114,New York Knicks,108,0,N
+1964-12-25,1965,St. Louis Hawks,125,Cincinnati Royals,130,1,N
+1964-12-26,1965,New York Knicks,118,Baltimore Bullets,116,0,N
+1964-12-26,1965,San Francisco Warriors,122,Los Angeles Lakers,129,0,N
+1964-12-26,1965,Cincinnati Royals,135,Philadelphia 76ers,125,0,N
+1964-12-26,1965,Boston Celtics,97,St. Louis Hawks,84,0,N
+1964-12-27,1965,Cincinnati Royals,119,Baltimore Bullets,126,0,N
+1964-12-27,1965,Detroit Pistons,106,Boston Celtics,112,0,N
+1964-12-27,1965,St. Louis Hawks,99,New York Knicks,89,0,N
+1964-12-28,1965,Los Angeles Lakers,112,Boston Celtics,133,0,N
+1964-12-28,1965,San Francisco Warriors,108,Cincinnati Royals,113,0,N
+1964-12-28,1965,New York Knicks,117,Detroit Pistons,123,0,N
+1964-12-29,1965,San Francisco Warriors,104,St. Louis Hawks,122,0,N
+1964-12-30,1965,Boston Celtics,121,Baltimore Bullets,114,0,N
+1964-12-30,1965,St. Louis Hawks,125,Detroit Pistons,120,0,N
+1964-12-30,1965,San Francisco Warriors,102,New York Knicks,118,0,N
+1964-12-30,1965,Los Angeles Lakers,115,Philadelphia 76ers,117,0,N
+1965-01-01,1965,San Francisco Warriors,100,New York Knicks,101,0,N
+1965-01-01,1965,Cincinnati Royals,140,Baltimore Bullets,124,0,N
+1965-01-02,1965,Boston Celtics,101,Detroit Pistons,89,0,N
+1965-01-02,1965,Los Angeles Lakers,115,St. Louis Hawks,112,0,N
+1965-01-02,1965,San Francisco Warriors,103,Baltimore Bullets,129,0,N
+1965-01-03,1965,San Francisco Warriors,132,Baltimore Bullets,142,0,N
+1965-01-03,1965,Boston Celtics,89,Cincinnati Royals,85,0,N
+1965-01-03,1965,Los Angeles Lakers,99,St. Louis Hawks,92,0,N
+1965-01-05,1965,St. Louis Hawks,109,Detroit Pistons,108,0,N
+1965-01-05,1965,Cincinnati Royals,125,New York Knicks,116,1,N
+1965-01-06,1965,New York Knicks,102,Cincinnati Royals,116,0,N
+1965-01-06,1965,San Francisco Warriors,102,Philadelphia 76ers,121,0,N
+1965-01-06,1965,Baltimore Bullets,129,Detroit Pistons,121,0,N
+1965-01-06,1965,St. Louis Hawks,106,Boston Celtics,138,0,N
+1965-01-07,1965,Detroit Pistons,105,Baltimore Bullets,110,0,N
+1965-01-07,1965,Boston Celtics,112,Los Angeles Lakers,104,0,N
+1965-01-08,1965,Philadelphia 76ers,107,Cincinnati Royals,114,0,N
+1965-01-08,1965,Boston Celtics,94,San Francisco Warriors,91,0,N
+1965-01-08,1965,New York Knicks,82,St. Louis Hawks,83,0,N
+1965-01-09,1965,Cincinnati Royals,128,Baltimore Bullets,119,0,N
+1965-01-09,1965,Philadelphia 76ers,104,St. Louis Hawks,102,0,N
+1965-01-09,1965,Detroit Pistons,118,New York Knicks,115,0,N
+1965-01-09,1965,Boston Celtics,107,Los Angeles Lakers,103,0,N
+1965-01-10,1965,New York Knicks,122,Baltimore Bullets,120,1,N
+1965-01-10,1965,Detroit Pistons,114,Cincinnati Royals,140,0,N
+1965-01-11,1965,Los Angeles Lakers,127,Detroit Pistons,128,0,N
+1965-01-11,1965,St. Louis Hawks,100,Philadelphia 76ers,90,0,N
+1965-01-14,1965,Los Angeles Lakers,104,Detroit Pistons,100,0,N
+1965-01-14,1965,Baltimore Bullets,138,Philadelphia 76ers,126,0,N
+1965-01-15,1965,Philadelphia 76ers,95,Boston Celtics,104,0,N
+1965-01-15,1965,Los Angeles Lakers,106,Cincinnati Royals,124,0,N
+1965-01-15,1965,New York Knicks,89,San Francisco Warriors,87,0,N
+1965-01-16,1965,St. Louis Hawks,107,Baltimore Bullets,87,0,N
+1965-01-16,1965,New York Knicks,102,San Francisco Warriors,89,0,N
+1965-01-17,1965,Cincinnati Royals,98,Boston Celtics,101,0,N
+1965-01-17,1965,Los Angeles Lakers,105,St. Louis Hawks,118,0,N
+1965-01-18,1965,Philadelphia 76ers,109,Detroit Pistons,95,0,N
+1965-01-19,1965,Philadelphia 76ers,97,Detroit Pistons,103,0,N
+1965-01-19,1965,St. Louis Hawks,99,Cincinnati Royals,103,0,N
+1965-01-20,1965,Cincinnati Royals,102,Detroit Pistons,90,0,N
+1965-01-20,1965,New York Knicks,103,Los Angeles Lakers,119,0,N
+1965-01-20,1965,Boston Celtics,131,Baltimore Bullets,105,0,N
+1965-01-21,1965,San Francisco Warriors,102,Philadelphia 76ers,111,0,N
+1965-01-22,1965,San Francisco Warriors,94,Boston Celtics,104,0,N
+1965-01-22,1965,Philadelphia 76ers,109,Detroit Pistons,103,1,N
+1965-01-22,1965,New York Knicks,107,Los Angeles Lakers,117,0,N
+1965-01-22,1965,Baltimore Bullets,117,St. Louis Hawks,110,0,N
+1965-01-23,1965,St. Louis Hawks,97,Baltimore Bullets,106,0,N
+1965-01-23,1965,Detroit Pistons,105,Cincinnati Royals,102,0,N
+1965-01-23,1965,Philadelphia 76ers,104,Boston Celtics,100,0,N
+1965-01-24,1965,St. Louis Hawks,106,Baltimore Bullets,114,0,N
+1965-01-24,1965,Los Angeles Lakers,93,Boston Celtics,117,0,N
+1965-01-24,1965,San Francisco Warriors,103,Cincinnati Royals,124,0,N
+1965-01-25,1965,Boston Celtics,142,Baltimore Bullets,104,0,N
+1965-01-26,1965,Cincinnati Royals,115,San Francisco Warriors,107,0,N
+1965-01-26,1965,Los Angeles Lakers,111,New York Knicks,99,0,N
+1965-01-26,1965,Philadelphia 76ers,105,Detroit Pistons,107,0,N
+1965-01-27,1965,Philadelphia 76ers,98,Boston Celtics,115,0,N
+1965-01-27,1965,Baltimore Bullets,108,Detroit Pistons,122,0,N
+1965-01-27,1965,Cincinnati Royals,112,Los Angeles Lakers,119,0,N
+1965-01-27,1965,New York Knicks,100,St. Louis Hawks,117,0,N
+1965-01-28,1965,Cincinnati Royals,90,San Francisco Warriors,105,0,N
+1965-01-29,1965,Boston Celtics,105,Philadelphia 76ers,118,0,N
+1965-01-29,1965,Baltimore Bullets,119,St. Louis Hawks,124,0,N
+1965-01-29,1965,Cincinnati Royals,133,Los Angeles Lakers,137,2,N
+1965-01-29,1965,New York Knicks,106,Detroit Pistons,99,0,N
+1965-01-30,1965,St. Louis Hawks,97,Detroit Pistons,121,0,N
+1965-01-30,1965,Boston Celtics,97,New York Knicks,90,0,N
+1965-01-30,1965,Los Angeles Lakers,109,San Francisco Warriors,99,0,N
+1965-01-31,1965,New York Knicks,95,Boston Celtics,123,0,N
+1965-01-31,1965,San Francisco Warriors,94,Los Angeles Lakers,96,0,N
+1965-01-31,1965,Cincinnati Royals,122,Philadelphia 76ers,127,0,N
+1965-01-31,1965,Detroit Pistons,110,St. Louis Hawks,107,0,N
+1965-02-02,1965,San Francisco Warriors,102,New York Knicks,113,0,N
+1965-02-02,1965,Los Angeles Lakers,118,Detroit Pistons,121,1,N
+1965-02-02,1965,St. Louis Hawks,105,Philadelphia 76ers,119,0,N
+1965-02-03,1965,Baltimore Bullets,122,Boston Celtics,114,0,N
+1965-02-03,1965,Los Angeles Lakers,99,Cincinnati Royals,130,0,N
+1965-02-03,1965,San Francisco Warriors,106,Detroit Pistons,111,0,N
+1965-02-03,1965,Philadelphia 76ers,116,New York Knicks,95,0,N
+1965-02-04,1965,St. Louis Hawks,119,Philadelphia 76ers,123,0,N
+1965-02-05,1965,San Francisco Warriors,120,Baltimore Bullets,112,0,N
+1965-02-05,1965,Cincinnati Royals,113,Boston Celtics,114,0,N
+1965-02-05,1965,New York Knicks,118,Detroit Pistons,112,1,N
+1965-02-06,1965,Los Angeles Lakers,112,Baltimore Bullets,116,0,N
+1965-02-06,1965,San Francisco Warriors,101,St. Louis Hawks,108,0,N
+1965-02-06,1965,Detroit Pistons,106,New York Knicks,109,0,N
+1965-02-06,1965,Philadelphia 76ers,127,Cincinnati Royals,122,0,N
+1965-02-07,1965,Los Angeles Lakers,97,Boston Celtics,101,0,N
+1965-02-07,1965,Baltimore Bullets,112,Detroit Pistons,119,0,N
+1965-02-07,1965,San Francisco Warriors,103,St. Louis Hawks,126,0,N
+1965-02-08,1965,Philadelphia 76ers,98,Los Angeles Lakers,117,0,N
+1965-02-09,1965,Boston Celtics,121,Cincinnati Royals,134,0,N
+1965-02-09,1965,San Francisco Warriors,114,Philadelphia 76ers,132,0,N
+1965-02-09,1965,St. Louis Hawks,108,New York Knicks,103,0,N
+1965-02-10,1965,New York Knicks,115,Cincinnati Royals,112,1,N
+1965-02-10,1965,Boston Celtics,117,Detroit Pistons,106,0,N
+1965-02-10,1965,Philadelphia 76ers,110,Los Angeles Lakers,99,0,N
+1965-02-11,1965,St. Louis Hawks,124,Baltimore Bullets,94,0,N
+1965-02-11,1965,Detroit Pistons,109,Cincinnati Royals,130,0,N
+1965-02-11,1965,Philadelphia 76ers,100,San Francisco Warriors,106,0,N
+1965-02-12,1965,New York Knicks,92,Boston Celtics,94,1,N
+1965-02-12,1965,San Francisco Warriors,95,Los Angeles Lakers,114,0,N
+1965-02-12,1965,Baltimore Bullets,100,St. Louis Hawks,144,0,N
+1965-02-13,1965,Detroit Pistons,117,Baltimore Bullets,123,0,N
+1965-02-13,1965,Philadelphia 76ers,106,Cincinnati Royals,108,0,N
+1965-02-13,1965,Boston Celtics,113,New York Knicks,123,0,N
+1965-02-13,1965,Los Angeles Lakers,129,San Francisco Warriors,105,0,N
+1965-02-14,1965,Baltimore Bullets,111,Boston Celtics,126,0,N
+1965-02-14,1965,Cincinnati Royals,99,St. Louis Hawks,92,0,N
+1965-02-16,1965,New York Knicks,106,Baltimore Bullets,102,0,N
+1965-02-16,1965,St. Louis Hawks,103,Cincinnati Royals,111,0,N
+1965-02-16,1965,Detroit Pistons,114,San Francisco Warriors,106,0,N
+1965-02-17,1965,Cincinnati Royals,114,Baltimore Bullets,125,0,N
+1965-02-17,1965,St. Louis Hawks,114,Boston Celtics,121,0,N
+1965-02-17,1965,Los Angeles Lakers,118,New York Knicks,98,0,N
+1965-02-18,1965,St. Louis Hawks,109,Boston Celtics,119,0,N
+1965-02-18,1965,Los Angeles Lakers,117,Philadelphia 76ers,110,0,N
+1965-02-18,1965,Detroit Pistons,107,San Francisco Warriors,106,0,N
+1965-02-19,1965,Los Angeles Lakers,119,Baltimore Bullets,111,0,N
+1965-02-20,1965,St. Louis Hawks,110,Detroit Pistons,98,0,N
+1965-02-20,1965,Philadelphia 76ers,111,New York Knicks,92,0,N
+1965-02-20,1965,Boston Celtics,114,San Francisco Warriors,108,0,N
+1965-02-21,1965,Detroit Pistons,107,St. Louis Hawks,112,0,N
+1965-02-21,1965,Cincinnati Royals,104,New York Knicks,109,0,N
+1965-02-21,1965,Philadelphia 76ers,107,Baltimore Bullets,106,0,N
+1965-02-21,1965,Boston Celtics,114,Los Angeles Lakers,129,0,N
+1965-02-22,1965,Philadelphia 76ers,122,Baltimore Bullets,112,0,N
+1965-02-22,1965,St. Louis Hawks,107,San Francisco Warriors,97,0,N
+1965-02-23,1965,Cincinnati Royals,127,Baltimore Bullets,131,0,N
+1965-02-23,1965,Philadelphia 76ers,104,New York Knicks,132,0,N
+1965-02-24,1965,St. Louis Hawks,111,San Francisco Warriors,103,0,N
+1965-02-24,1965,Boston Celtics,97,Los Angeles Lakers,95,0,N
+1965-02-24,1965,Philadelphia 76ers,104,Detroit Pistons,106,0,N
+1965-02-24,1965,New York Knicks,100,Baltimore Bullets,111,0,N
+1965-02-26,1965,St. Louis Hawks,90,Los Angeles Lakers,106,0,N
+1965-02-26,1965,Boston Celtics,130,San Francisco Warriors,112,0,N
+1965-02-27,1965,Cincinnati Royals,115,Detroit Pistons,117,0,N
+1965-02-27,1965,Baltimore Bullets,99,New York Knicks,102,0,N
+1965-02-28,1965,San Francisco Warriors,116,Baltimore Bullets,129,1,N
+1965-02-28,1965,New York Knicks,117,Cincinnati Royals,126,0,N
+1965-02-28,1965,Philadelphia 76ers,118,Los Angeles Lakers,122,0,N
+1965-02-28,1965,Boston Celtics,108,St. Louis Hawks,102,0,N
+1965-03-01,1965,Detroit Pistons,130,Cincinnati Royals,110,0,N
+1965-03-02,1965,San Francisco Warriors,105,Cincinnati Royals,121,0,N
+1965-03-02,1965,St. Louis Hawks,99,New York Knicks,98,0,N
+1965-03-02,1965,Philadelphia 76ers,117,Los Angeles Lakers,126,0,N
+1965-03-03,1965,Cincinnati Royals,108,Baltimore Bullets,151,0,N
+1965-03-03,1965,Los Angeles Lakers,104,Boston Celtics,102,0,N
+1965-03-03,1965,San Francisco Warriors,107,Detroit Pistons,110,0,N
+1965-03-03,1965,Philadelphia 76ers,110,St. Louis Hawks,124,0,N
+1965-03-04,1965,San Francisco Warriors,115,Detroit Pistons,110,0,N
+1965-03-05,1965,Boston Celtics,124,Baltimore Bullets,128,1,N
+1965-03-05,1965,Philadelphia 76ers,110,Cincinnati Royals,109,0,N
+1965-03-05,1965,Los Angeles Lakers,105,New York Knicks,103,0,N
+1965-03-06,1965,New York Knicks,96,Detroit Pistons,93,0,N
+1965-03-06,1965,Boston Celtics,98,Philadelphia 76ers,103,0,N
+1965-03-06,1965,Cincinnati Royals,97,San Francisco Warriors,93,0,N
+1965-03-06,1965,Los Angeles Lakers,107,St. Louis Hawks,109,0,N
+1965-03-07,1965,Detroit Pistons,105,Baltimore Bullets,111,0,N
+1965-03-07,1965,New York Knicks,106,St. Louis Hawks,132,0,N
+1965-03-07,1965,Cincinnati Royals,104,Los Angeles Lakers,106,0,N
+1965-03-07,1965,Philadelphia 76ers,111,Boston Celtics,133,0,N
+1965-03-08,1965,Baltimore Bullets,111,San Francisco Warriors,102,0,N
+1965-03-09,1965,Baltimore Bullets,114,Los Angeles Lakers,123,0,N
+1965-03-09,1965,Philadelphia 76ers,122,New York Knicks,124,1,N
+1965-03-10,1965,Boston Celtics,124,Detroit Pistons,106,0,N
+1965-03-10,1965,New York Knicks,134,Philadelphia 76ers,123,0,N
+1965-03-10,1965,Cincinnati Royals,113,St. Louis Hawks,137,0,N
+1965-03-11,1965,Detroit Pistons,100,Boston Celtics,112,0,N
+1965-03-11,1965,Baltimore Bullets,116,Los Angeles Lakers,121,1,N
+1965-03-11,1965,St. Louis Hawks,101,San Francisco Warriors,99,0,N
+1965-03-12,1965,Los Angeles Lakers,115,San Francisco Warriors,93,0,N
+1965-03-12,1965,Boston Celtics,108,Cincinnati Royals,118,0,N
+1965-03-13,1965,New York Knicks,114,Baltimore Bullets,102,0,N
+1965-03-13,1965,St. Louis Hawks,101,Los Angeles Lakers,106,0,N
+1965-03-13,1965,Detroit Pistons,116,Philadelphia 76ers,131,0,N
+1965-03-14,1965,Philadelphia 76ers,126,Baltimore Bullets,143,0,N
+1965-03-14,1965,San Francisco Warriors,98,Boston Celtics,106,0,N
+1965-03-14,1965,St. Louis Hawks,115,Los Angeles Lakers,108,0,N
+1965-03-14,1965,Cincinnati Royals,113,New York Knicks,103,0,N
+1965-03-16,1965,New York Knicks,102,Cincinnati Royals,111,0,N
+1965-03-16,1965,San Francisco Warriors,115,Philadelphia 76ers,107,0,N
+1965-03-16,1965,Los Angeles Lakers,100,Detroit Pistons,99,0,N
+1965-03-17,1965,Los Angeles Lakers,106,Baltimore Bullets,117,0,N
+1965-03-17,1965,Boston Celtics,114,New York Knicks,119,0,N
+1965-03-17,1965,San Francisco Warriors,94,St. Louis Hawks,101,0,N
+1965-03-18,1965,Baltimore Bullets,110,Cincinnati Royals,113,0,N
+1965-03-20,1965,San Francisco Warriors,112,Los Angeles Lakers,98,0,N
+1965-03-20,1965,Detroit Pistons,98,St. Louis Hawks,107,0,N
+1965-03-20,1965,Cincinnati Royals,125,Philadelphia 76ers,122,0,N
+1965-03-20,1965,Baltimore Bullets,114,New York Knicks,118,0,N
+1965-03-21,1965,Cincinnati Royals,99,Boston Celtics,116,0,N
+1965-03-21,1965,Baltimore Bullets,105,Philadelphia 76ers,127,0,N
+1965-03-21,1965,New York Knicks,103,St. Louis Hawks,112,0,N
+1965-03-24,1965,Philadelphia 76ers,119,Cincinnati Royals,117,1,Y
+1965-03-24,1965,Baltimore Bullets,108,St. Louis Hawks,105,0,Y
+1965-03-26,1965,Cincinnati Royals,121,Philadelphia 76ers,120,0,Y
+1965-03-26,1965,Baltimore Bullets,105,St. Louis Hawks,129,0,Y
+1965-03-27,1965,St. Louis Hawks,99,Baltimore Bullets,131,0,Y
+1965-03-28,1965,Philadelphia 76ers,108,Cincinnati Royals,94,0,Y
+1965-03-30,1965,St. Louis Hawks,103,Baltimore Bullets,109,0,Y
+1965-03-31,1965,Cincinnati Royals,112,Philadelphia 76ers,119,0,Y
+1965-04-03,1965,Baltimore Bullets,115,Los Angeles Lakers,121,0,Y
+1965-04-04,1965,Philadelphia 76ers,98,Boston Celtics,108,0,Y
+1965-04-05,1965,Baltimore Bullets,115,Los Angeles Lakers,118,0,Y
+1965-04-06,1965,Boston Celtics,103,Philadelphia 76ers,109,0,Y
+1965-04-07,1965,Los Angeles Lakers,115,Baltimore Bullets,122,0,Y
+1965-04-08,1965,Philadelphia 76ers,94,Boston Celtics,112,0,Y
+1965-04-09,1965,Los Angeles Lakers,112,Baltimore Bullets,114,0,Y
+1965-04-09,1965,Boston Celtics,131,Philadelphia 76ers,134,1,Y
+1965-04-11,1965,Baltimore Bullets,112,Los Angeles Lakers,120,0,Y
+1965-04-11,1965,Philadelphia 76ers,108,Boston Celtics,114,0,Y
+1965-04-13,1965,Los Angeles Lakers,117,Baltimore Bullets,115,0,Y
+1965-04-13,1965,Boston Celtics,106,Philadelphia 76ers,112,0,Y
+1965-04-15,1965,Philadelphia 76ers,109,Boston Celtics,110,0,Y
+1965-04-18,1965,Los Angeles Lakers,110,Boston Celtics,142,0,Y
+1965-04-19,1965,Los Angeles Lakers,123,Boston Celtics,129,0,Y
+1965-04-21,1965,Boston Celtics,105,Los Angeles Lakers,126,0,Y
+1965-04-23,1965,Boston Celtics,112,Los Angeles Lakers,99,0,Y
+1965-04-25,1965,Los Angeles Lakers,96,Boston Celtics,129,0,Y

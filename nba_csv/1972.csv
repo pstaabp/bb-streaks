@@ -1,0 +1,735 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1971-10-12,1972,Philadelphia 76ers,114,Chicago Bulls,100,0,N
+1971-10-12,1972,Seattle SuperSonics,123,Buffalo Braves,90,0,N
+1971-10-12,1972,Detroit Pistons,91,New York Knicks,84,0,N
+1971-10-12,1972,Atlanta Hawks,113,Cincinnati Royals,127,0,N
+1971-10-14,1972,Philadelphia 76ers,105,Houston Rockets,94,0,N
+1971-10-14,1972,Milwaukee Bucks,110,Phoenix Suns,97,0,N
+1971-10-15,1972,Golden State Warriors,97,Boston Celtics,75,0,N
+1971-10-15,1972,Baltimore Bullets,82,Chicago Bulls,106,0,N
+1971-10-15,1972,Buffalo Braves,111,Cleveland Cavaliers,109,1,N
+1971-10-15,1972,Los Angeles Lakers,132,Detroit Pistons,103,0,N
+1971-10-15,1972,Seattle SuperSonics,119,Portland Trail Blazers,88,0,N
+1971-10-16,1972,Philadelphia 76ers,104,Atlanta Hawks,102,0,N
+1971-10-16,1972,Golden State Warriors,93,Baltimore Bullets,108,0,N
+1971-10-16,1972,Cleveland Cavaliers,93,Buffalo Braves,89,0,N
+1971-10-16,1972,Los Angeles Lakers,119,New York Knicks,104,0,N
+1971-10-16,1972,Houston Rockets,108,Phoenix Suns,128,0,N
+1971-10-16,1972,Milwaukee Bucks,98,Seattle SuperSonics,91,0,N
+1971-10-17,1972,Milwaukee Bucks,127,Portland Trail Blazers,94,0,N
+1971-10-17,1972,Houston Rockets,99,Detroit Pistons,112,0,N
+1971-10-17,1972,New York Knicks,121,Cleveland Cavaliers,120,1,N
+1971-10-19,1972,Los Angeles Lakers,123,Buffalo Braves,106,0,N
+1971-10-19,1972,Seattle SuperSonics,101,Cincinnati Royals,100,0,N
+1971-10-19,1972,Cleveland Cavaliers,82,Milwaukee Bucks,116,0,N
+1971-10-19,1972,Golden State Warriors,84,New York Knicks,93,0,N
+1971-10-19,1972,Detroit Pistons,101,Portland Trail Blazers,99,0,N
+1971-10-19,1972,Baltimore Bullets,114,Boston Celtics,134,0,N
+1971-10-20,1972,Golden State Warriors,115,Cleveland Cavaliers,98,0,N
+1971-10-20,1972,Seattle SuperSonics,93,Philadelphia 76ers,100,0,N
+1971-10-20,1972,Houston Rockets,110,Chicago Bulls,125,0,N
+1971-10-20,1972,Los Angeles Lakers,126,Atlanta Hawks,104,0,N
+1971-10-22,1972,Boston Celtics,115,Atlanta Hawks,108,0,N
+1971-10-22,1972,New York Knicks,110,Baltimore Bullets,87,0,N
+1971-10-22,1972,Chicago Bulls,113,Los Angeles Lakers,106,0,N
+1971-10-22,1972,Buffalo Braves,105,Milwaukee Bucks,124,0,N
+1971-10-22,1972,Detroit Pistons,116,Phoenix Suns,109,0,N
+1971-10-22,1972,Houston Rockets,91,Seattle SuperSonics,110,0,N
+1971-10-23,1972,Milwaukee Bucks,110,Philadelphia 76ers,88,0,N
+1971-10-23,1972,Cincinnati Royals,100,Portland Trail Blazers,104,0,N
+1971-10-23,1972,Boston Celtics,103,Buffalo Braves,98,0,N
+1971-10-23,1972,Detroit Pistons,109,Golden State Warriors,115,1,N
+1971-10-23,1972,Cleveland Cavaliers,109,Baltimore Bullets,101,0,N
+1971-10-23,1972,Atlanta Hawks,95,New York Knicks,89,0,N
+1971-10-24,1972,Philadelphia 76ers,111,Cleveland Cavaliers,93,0,N
+1971-10-24,1972,Los Angeles Lakers,113,Houston Rockets,103,0,N
+1971-10-24,1972,Chicago Bulls,105,Phoenix Suns,104,0,N
+1971-10-24,1972,Cincinnati Royals,101,Seattle SuperSonics,119,0,N
+1971-10-25,1972,Atlanta Hawks,116,Boston Celtics,136,0,N
+1971-10-26,1972,Houston Rockets,104,Detroit Pistons,103,0,N
+1971-10-26,1972,Buffalo Braves,91,Golden State Warriors,89,0,N
+1971-10-26,1972,Baltimore Bullets,90,Milwaukee Bucks,120,0,N
+1971-10-26,1972,Boston Celtics,101,New York Knicks,106,0,N
+1971-10-26,1972,Cincinnati Royals,99,Phoenix Suns,126,0,N
+1971-10-26,1972,Chicago Bulls,123,Portland Trail Blazers,111,0,N
+1971-10-27,1972,Cleveland Cavaliers,106,Philadelphia 76ers,120,0,N
+1971-10-27,1972,Houston Rockets,97,Boston Celtics,108,0,N
+1971-10-27,1972,New York Knicks,96,Atlanta Hawks,110,0,N
+1971-10-27,1972,Detroit Pistons,98,Baltimore Bullets,128,0,N
+1971-10-28,1972,Houston Rockets,94,New York Knicks,112,0,N
+1971-10-28,1972,Buffalo Braves,96,Seattle SuperSonics,106,0,N
+1971-10-29,1972,Phoenix Suns,137,Philadelphia 76ers,135,2,N
+1971-10-29,1972,Buffalo Braves,120,Portland Trail Blazers,119,0,N
+1971-10-29,1972,Cincinnati Royals,107,Los Angeles Lakers,119,0,N
+1971-10-29,1972,Baltimore Bullets,105,Detroit Pistons,119,0,N
+1971-10-29,1972,Atlanta Hawks,98,Cleveland Cavaliers,97,0,N
+1971-10-29,1972,Golden State Warriors,99,Chicago Bulls,83,0,N
+1971-10-29,1972,Milwaukee Bucks,114,Boston Celtics,125,0,N
+1971-10-30,1972,Detroit Pistons,104,Atlanta Hawks,99,0,N
+1971-10-30,1972,Phoenix Suns,94,Baltimore Bullets,101,0,N
+1971-10-30,1972,Cincinnati Royals,112,Golden State Warriors,116,0,N
+1971-10-30,1972,Philadelphia 76ers,108,New York Knicks,101,0,N
+1971-10-30,1972,Los Angeles Lakers,106,Seattle SuperSonics,115,0,N
+1971-10-31,1972,Milwaukee Bucks,118,Cleveland Cavaliers,102,0,N
+1971-10-31,1972,Buffalo Braves,87,Houston Rockets,102,0,N
+1971-10-31,1972,Golden State Warriors,109,Los Angeles Lakers,105,0,N
+1971-11-02,1972,Phoenix Suns,101,Chicago Bulls,108,0,N
+1971-11-02,1972,Baltimore Bullets,91,Golden State Warriors,106,0,N
+1971-11-03,1972,Chicago Bulls,113,Atlanta Hawks,100,0,N
+1971-11-03,1972,Phoenix Suns,100,Buffalo Braves,98,0,N
+1971-11-03,1972,Philadelphia 76ers,100,Cincinnati Royals,124,0,N
+1971-11-03,1972,New York Knicks,117,Houston Rockets,98,0,N
+1971-11-04,1972,Seattle SuperSonics,96,Golden State Warriors,98,0,N
+1971-11-04,1972,Portland Trail Blazers,112,Houston Rockets,110,0,N
+1971-11-05,1972,Buffalo Braves,122,Atlanta Hawks,117,1,N
+1971-11-05,1972,Detroit Pistons,102,Boston Celtics,103,0,N
+1971-11-05,1972,Milwaukee Bucks,104,Chicago Bulls,102,0,N
+1971-11-05,1972,Phoenix Suns,107,Cleveland Cavaliers,87,0,N
+1971-11-05,1972,Baltimore Bullets,106,Los Angeles Lakers,110,0,N
+1971-11-05,1972,New York Knicks,97,Seattle SuperSonics,101,0,N
+1971-11-06,1972,Portland Trail Blazers,109,Boston Celtics,124,0,N
+1971-11-06,1972,Chicago Bulls,99,Buffalo Braves,130,0,N
+1971-11-06,1972,Phoenix Suns,95,Cincinnati Royals,110,0,N
+1971-11-06,1972,Los Angeles Lakers,105,Golden State Warriors,89,0,N
+1971-11-06,1972,Detroit Pistons,78,Milwaukee Bucks,106,0,N
+1971-11-06,1972,Atlanta Hawks,96,Philadelphia 76ers,101,0,N
+1971-11-07,1972,Portland Trail Blazers,99,Cleveland Cavaliers,120,0,N
+1971-11-07,1972,Baltimore Bullets,109,Houston Rockets,106,0,N
+1971-11-07,1972,New York Knicks,96,Los Angeles Lakers,103,0,N
+1971-11-07,1972,Golden State Warriors,109,Seattle SuperSonics,102,0,N
+1971-11-08,1972,Cincinnati Royals,109,Boston Celtics,120,0,N
+1971-11-09,1972,Portland Trail Blazers,100,Buffalo Braves,109,0,N
+1971-11-09,1972,Los Angeles Lakers,122,Chicago Bulls,109,0,N
+1971-11-09,1972,Houston Rockets,99,Golden State Warriors,115,0,N
+1971-11-09,1972,Phoenix Suns,113,Milwaukee Bucks,118,0,N
+1971-11-10,1972,Milwaukee Bucks,116,Atlanta Hawks,110,0,N
+1971-11-10,1972,Chicago Bulls,125,Baltimore Bullets,106,0,N
+1971-11-10,1972,New York Knicks,85,Cincinnati Royals,99,0,N
+1971-11-10,1972,Portland Trail Blazers,122,Detroit Pistons,139,0,N
+1971-11-10,1972,Boston Celtics,142,Houston Rockets,103,0,N
+1971-11-10,1972,Los Angeles Lakers,143,Philadelphia 76ers,103,0,N
+1971-11-11,1972,Golden State Warriors,112,New York Knicks,103,0,N
+1971-11-11,1972,Cleveland Cavaliers,91,Seattle SuperSonics,110,0,N
+1971-11-12,1972,Golden State Warriors,104,Atlanta Hawks,106,0,N
+1971-11-12,1972,Seattle SuperSonics,107,Los Angeles Lakers,115,0,N
+1971-11-12,1972,Houston Rockets,102,Milwaukee Bucks,111,0,N
+1971-11-12,1972,Detroit Pistons,101,Philadelphia 76ers,115,0,N
+1971-11-12,1972,Boston Celtics,119,Phoenix Suns,128,0,N
+1971-11-12,1972,Cleveland Cavaliers,106,Portland Trail Blazers,104,0,N
+1971-11-13,1972,Philadelphia 76ers,105,Baltimore Bullets,111,0,N
+1971-11-13,1972,Milwaukee Bucks,127,Buffalo Braves,106,0,N
+1971-11-13,1972,Houston Rockets,102,Chicago Bulls,111,0,N
+1971-11-13,1972,Golden State Warriors,101,Cincinnati Royals,110,0,N
+1971-11-13,1972,Detroit Pistons,105,New York Knicks,127,0,N
+1971-11-13,1972,Los Angeles Lakers,130,Portland Trail Blazers,108,0,N
+1971-11-13,1972,Boston Celtics,112,Seattle SuperSonics,116,0,N
+1971-11-14,1972,Boston Celtics,115,Los Angeles Lakers,128,0,N
+1971-11-14,1972,Philadelphia 76ers,114,Milwaukee Bucks,125,0,N
+1971-11-14,1972,Cleveland Cavaliers,105,Phoenix Suns,119,0,N
+1971-11-16,1972,Houston Rockets,107,Baltimore Bullets,110,0,N
+1971-11-16,1972,Cincinnati Royals,98,Buffalo Braves,102,0,N
+1971-11-16,1972,Seattle SuperSonics,87,Chicago Bulls,95,0,N
+1971-11-16,1972,Golden State Warriors,122,Detroit Pistons,101,0,N
+1971-11-16,1972,Cleveland Cavaliers,90,Los Angeles Lakers,108,0,N
+1971-11-16,1972,Phoenix Suns,111,New York Knicks,112,0,N
+1971-11-16,1972,Milwaukee Bucks,125,Portland Trail Blazers,105,0,N
+1971-11-17,1972,Seattle SuperSonics,112,Atlanta Hawks,104,0,N
+1971-11-17,1972,Phoenix Suns,121,Boston Celtics,140,0,N
+1971-11-17,1972,Baltimore Bullets,113,Cincinnati Royals,103,0,N
+1971-11-17,1972,Houston Rockets,118,Philadelphia 76ers,112,0,N
+1971-11-18,1972,Phoenix Suns,126,Detroit Pistons,128,0,N
+1971-11-18,1972,Portland Trail Blazers,105,Golden State Warriors,115,0,N
+1971-11-19,1972,Buffalo Braves,105,Baltimore Bullets,126,0,N
+1971-11-19,1972,Cincinnati Royals,110,Boston Celtics,106,0,N
+1971-11-19,1972,Houston Rockets,99,Los Angeles Lakers,106,0,N
+1971-11-19,1972,Chicago Bulls,148,Philadelphia 76ers,104,0,N
+1971-11-19,1972,Cleveland Cavaliers,105,Portland Trail Blazers,118,0,N
+1971-11-19,1972,Milwaukee Bucks,108,Seattle SuperSonics,107,0,N
+1971-11-20,1972,Phoenix Suns,109,Atlanta Hawks,115,0,N
+1971-11-20,1972,Detroit Pistons,105,Buffalo Braves,96,0,N
+1971-11-20,1972,Boston Celtics,106,Chicago Bulls,123,0,N
+1971-11-20,1972,Milwaukee Bucks,100,Golden State Warriors,107,0,N
+1971-11-20,1972,Baltimore Bullets,114,New York Knicks,125,0,N
+1971-11-20,1972,Seattle SuperSonics,104,Portland Trail Blazers,100,0,N
+1971-11-21,1972,Boston Celtics,128,Cleveland Cavaliers,105,0,N
+1971-11-21,1972,Houston Rockets,115,Golden State Warriors,96,0,N
+1971-11-21,1972,Milwaukee Bucks,105,Los Angeles Lakers,112,0,N
+1971-11-21,1972,Philadelphia 76ers,117,Seattle SuperSonics,127,0,N
+1971-11-23,1972,Atlanta Hawks,97,Buffalo Braves,102,0,N
+1971-11-23,1972,Portland Trail Blazers,94,Chicago Bulls,130,0,N
+1971-11-23,1972,Baltimore Bullets,102,Cleveland Cavaliers,104,0,N
+1971-11-23,1972,Milwaukee Bucks,112,Detroit Pistons,104,0,N
+1971-11-23,1972,Cincinnati Royals,110,New York Knicks,125,0,N
+1971-11-23,1972,Philadelphia 76ers,107,Phoenix Suns,128,0,N
+1971-11-24,1972,New York Knicks,114,Baltimore Bullets,94,0,N
+1971-11-24,1972,Buffalo Braves,100,Boston Celtics,108,0,N
+1971-11-24,1972,Portland Trail Blazers,112,Cincinnati Royals,114,0,N
+1971-11-24,1972,Philadelphia 76ers,108,Houston Rockets,109,0,N
+1971-11-24,1972,Atlanta Hawks,107,Milwaukee Bucks,141,0,N
+1971-11-25,1972,Philadelphia 76ers,112,Golden State Warriors,111,0,N
+1971-11-25,1972,Detroit Pistons,103,Phoenix Suns,122,0,N
+1971-11-25,1972,Los Angeles Lakers,139,Seattle SuperSonics,115,0,N
+1971-11-26,1972,Baltimore Bullets,118,Atlanta Hawks,105,0,N
+1971-11-26,1972,New York Knicks,104,Boston Celtics,89,0,N
+1971-11-26,1972,Golden State Warriors,89,Chicago Bulls,121,0,N
+1971-11-26,1972,Cincinnati Royals,114,Cleveland Cavaliers,128,0,N
+1971-11-26,1972,Detroit Pistons,113,Los Angeles Lakers,132,0,N
+1971-11-26,1972,Portland Trail Blazers,105,Milwaukee Bucks,120,0,N
+1971-11-27,1972,Cleveland Cavaliers,103,Atlanta Hawks,95,0,N
+1971-11-27,1972,Boston Celtics,120,Baltimore Bullets,125,0,N
+1971-11-27,1972,Golden State Warriors,110,Buffalo Braves,91,0,N
+1971-11-27,1972,Milwaukee Bucks,114,Cincinnati Royals,81,0,N
+1971-11-27,1972,Chicago Bulls,99,New York Knicks,100,0,N
+1971-11-27,1972,Portland Trail Blazers,93,Philadelphia 76ers,116,0,N
+1971-11-27,1972,Detroit Pistons,102,Seattle SuperSonics,124,0,N
+1971-11-28,1972,Atlanta Hawks,108,Boston Celtics,130,0,N
+1971-11-28,1972,Philadelphia 76ers,120,Cleveland Cavaliers,124,0,N
+1971-11-28,1972,Phoenix Suns,116,Houston Rockets,110,0,N
+1971-11-28,1972,Seattle SuperSonics,121,Los Angeles Lakers,138,0,N
+1971-11-30,1972,Cincinnati Royals,118,Baltimore Bullets,103,0,N
+1971-11-30,1972,Houston Rockets,115,Buffalo Braves,101,0,N
+1971-11-30,1972,Atlanta Hawks,85,Chicago Bulls,86,0,N
+1971-11-30,1972,Golden State Warriors,106,Milwaukee Bucks,103,0,N
+1971-11-30,1972,Seattle SuperSonics,110,New York Knicks,109,0,N
+1971-11-30,1972,Phoenix Suns,121,Portland Trail Blazers,111,1,N
+1971-12-01,1972,Los Angeles Lakers,124,Boston Celtics,111,0,N
+1971-12-01,1972,Chicago Bulls,109,Cincinnati Royals,101,0,N
+1971-12-01,1972,Houston Rockets,106,Cleveland Cavaliers,116,0,N
+1971-12-01,1972,Atlanta Hawks,117,Detroit Pistons,103,0,N
+1971-12-01,1972,Seattle SuperSonics,98,Philadelphia 76ers,102,0,N
+1971-12-01,1972,Portland Trail Blazers,103,Phoenix Suns,139,0,N
+1971-12-02,1972,Buffalo Braves,109,Baltimore Bullets,105,0,N
+1971-12-03,1972,Seattle SuperSonics,117,Baltimore Bullets,106,0,N
+1971-12-03,1972,Cleveland Cavaliers,90,Buffalo Braves,91,0,N
+1971-12-03,1972,New York Knicks,96,Chicago Bulls,122,0,N
+1971-12-03,1972,Houston Rockets,112,Detroit Pistons,113,0,N
+1971-12-03,1972,Cincinnati Royals,82,Milwaukee Bucks,120,0,N
+1971-12-03,1972,Los Angeles Lakers,131,Philadelphia 76ers,116,0,N
+1971-12-03,1972,Golden State Warriors,107,Portland Trail Blazers,115,0,N
+1971-12-04,1972,Philadelphia 76ers,109,Atlanta Hawks,126,0,N
+1971-12-04,1972,Houston Rockets,107,Boston Celtics,117,0,N
+1971-12-04,1972,Seattle SuperSonics,100,Cincinnati Royals,98,0,N
+1971-12-04,1972,Phoenix Suns,128,Golden State Warriors,92,0,N
+1971-12-04,1972,Chicago Bulls,105,Milwaukee Bucks,108,0,N
+1971-12-04,1972,Buffalo Braves,90,New York Knicks,130,0,N
+1971-12-05,1972,Seattle SuperSonics,99,Cleveland Cavaliers,91,0,N
+1971-12-05,1972,Portland Trail Blazers,107,Los Angeles Lakers,123,0,N
+1971-12-05,1972,Golden State Warriors,87,Phoenix Suns,120,0,N
+1971-12-07,1972,Golden State Warriors,113,Atlanta Hawks,116,0,N
+1971-12-07,1972,Cincinnati Royals,91,Buffalo Braves,115,0,N
+1971-12-07,1972,Cleveland Cavaliers,99,Chicago Bulls,115,0,N
+1971-12-07,1972,Portland Trail Blazers,131,Detroit Pistons,130,1,N
+1971-12-07,1972,Seattle SuperSonics,83,Milwaukee Bucks,116,0,N
+1971-12-07,1972,Boston Celtics,105,New York Knicks,97,0,N
+1971-12-08,1972,Portland Trail Blazers,97,Baltimore Bullets,115,0,N
+1971-12-08,1972,Cleveland Cavaliers,107,Boston Celtics,126,0,N
+1971-12-08,1972,Philadelphia 76ers,115,Cincinnati Royals,109,0,N
+1971-12-08,1972,Los Angeles Lakers,125,Houston Rockets,120,0,N
+1971-12-09,1972,Chicago Bulls,107,Detroit Pistons,110,0,N
+1971-12-09,1972,Los Angeles Lakers,124,Golden State Warriors,111,0,N
+1971-12-09,1972,Atlanta Hawks,115,Phoenix Suns,135,0,N
+1971-12-10,1972,Portland Trail Blazers,101,Buffalo Braves,100,1,N
+1971-12-10,1972,Baltimore Bullets,102,Chicago Bulls,118,0,N
+1971-12-10,1972,Detroit Pistons,111,Cleveland Cavaliers,112,0,N
+1971-12-10,1972,Atlanta Hawks,88,Houston Rockets,95,0,N
+1971-12-10,1972,Phoenix Suns,117,Los Angeles Lakers,126,1,N
+1971-12-10,1972,Boston Celtics,104,Milwaukee Bucks,120,0,N
+1971-12-10,1972,Cincinnati Royals,113,Philadelphia 76ers,106,1,N
+1971-12-10,1972,Golden State Warriors,94,Seattle SuperSonics,105,0,N
+1971-12-11,1972,Milwaukee Bucks,107,Baltimore Bullets,101,0,N
+1971-12-11,1972,Chicago Bulls,115,Boston Celtics,99,0,N
+1971-12-11,1972,Cleveland Cavaliers,95,Cincinnati Royals,103,0,N
+1971-12-11,1972,Philadelphia 76ers,118,Detroit Pistons,111,0,N
+1971-12-11,1972,Portland Trail Blazers,102,New York Knicks,134,0,N
+1971-12-11,1972,Houston Rockets,111,Phoenix Suns,110,0,N
+1971-12-12,1972,Boston Celtics,96,Cincinnati Royals,83,0,N
+1971-12-12,1972,New York Knicks,103,Cleveland Cavaliers,92,0,N
+1971-12-12,1972,Seattle SuperSonics,98,Houston Rockets,100,0,N
+1971-12-12,1972,Atlanta Hawks,95,Los Angeles Lakers,104,0,N
+1971-12-14,1972,Cleveland Cavaliers,88,Baltimore Bullets,85,0,N
+1971-12-14,1972,Philadelphia 76ers,110,Buffalo Braves,117,0,N
+1971-12-14,1972,Boston Celtics,116,Chicago Bulls,108,0,N
+1971-12-14,1972,Seattle SuperSonics,103,Detroit Pistons,86,0,N
+1971-12-14,1972,Houston Rockets,98,Milwaukee Bucks,106,0,N
+1971-12-14,1972,Phoenix Suns,110,New York Knicks,100,0,N
+1971-12-14,1972,Los Angeles Lakers,129,Portland Trail Blazers,114,0,N
+1971-12-15,1972,Houston Rockets,117,Atlanta Hawks,115,1,N
+1971-12-15,1972,Seattle SuperSonics,100,Boston Celtics,112,0,N
+1971-12-15,1972,Milwaukee Bucks,122,Buffalo Braves,108,0,N
+1971-12-15,1972,Phoenix Suns,127,Cincinnati Royals,108,0,N
+1971-12-16,1972,Cincinnati Royals,101,Detroit Pistons,107,0,N
+1971-12-16,1972,Philadelphia 76ers,93,Golden State Warriors,113,0,N
+1971-12-17,1972,Atlanta Hawks,103,Baltimore Bullets,114,0,N
+1971-12-17,1972,New York Knicks,115,Buffalo Braves,95,0,N
+1971-12-17,1972,Houston Rockets,109,Chicago Bulls,98,0,N
+1971-12-17,1972,Boston Celtics,115,Cleveland Cavaliers,109,0,N
+1971-12-17,1972,Golden State Warriors,99,Los Angeles Lakers,129,0,N
+1971-12-17,1972,Seattle SuperSonics,113,Milwaukee Bucks,120,0,N
+1971-12-17,1972,Detroit Pistons,102,Phoenix Suns,123,0,N
+1971-12-17,1972,Philadelphia 76ers,126,Portland Trail Blazers,127,0,N
+1971-12-18,1972,Baltimore Bullets,94,Atlanta Hawks,123,0,N
+1971-12-18,1972,Buffalo Braves,91,Boston Celtics,124,0,N
+1971-12-18,1972,Houston Rockets,126,Cincinnati Royals,116,0,N
+1971-12-18,1972,Detroit Pistons,102,Golden State Warriors,129,0,N
+1971-12-18,1972,Cleveland Cavaliers,84,New York Knicks,104,0,N
+1971-12-18,1972,Los Angeles Lakers,132,Phoenix Suns,106,0,N
+1971-12-18,1972,Portland Trail Blazers,105,Seattle SuperSonics,107,0,N
+1971-12-19,1972,Cincinnati Royals,99,Atlanta Hawks,101,0,N
+1971-12-19,1972,Chicago Bulls,119,Cleveland Cavaliers,101,0,N
+1971-12-19,1972,Philadelphia 76ers,132,Los Angeles Lakers,154,0,N
+1971-12-19,1972,Baltimore Bullets,96,Milwaukee Bucks,111,0,N
+1971-12-19,1972,Detroit Pistons,113,Portland Trail Blazers,114,0,N
+1971-12-19,1972,Phoenix Suns,127,Seattle SuperSonics,130,1,N
+1971-12-21,1972,Los Angeles Lakers,117,Buffalo Braves,103,0,N
+1971-12-21,1972,Detroit Pistons,92,Chicago Bulls,127,0,N
+1971-12-21,1972,New York Knicks,113,Golden State Warriors,87,0,N
+1971-12-21,1972,Philadelphia 76ers,119,Phoenix Suns,124,0,N
+1971-12-21,1972,Houston Rockets,132,Portland Trail Blazers,119,0,N
+1971-12-22,1972,Los Angeles Lakers,127,Baltimore Bullets,120,0,N
+1971-12-22,1972,Milwaukee Bucks,98,Boston Celtics,104,0,N
+1971-12-22,1972,Atlanta Hawks,106,Cincinnati Royals,103,0,N
+1971-12-22,1972,Cleveland Cavaliers,94,Detroit Pistons,104,0,N
+1971-12-22,1972,New York Knicks,120,Seattle SuperSonics,104,0,N
+1971-12-23,1972,Atlanta Hawks,110,Cleveland Cavaliers,115,0,N
+1971-12-23,1972,Chicago Bulls,117,Phoenix Suns,108,1,N
+1971-12-23,1972,New York Knicks,120,Portland Trail Blazers,117,0,N
+1971-12-25,1972,Buffalo Braves,117,Atlanta Hawks,140,0,N
+1971-12-25,1972,Boston Celtics,99,Cincinnati Royals,94,0,N
+1971-12-25,1972,Milwaukee Bucks,118,Detroit Pistons,120,1,N
+1971-12-25,1972,Golden State Warriors,89,New York Knicks,114,0,N
+1971-12-25,1972,Baltimore Bullets,117,Philadelphia 76ers,114,0,N
+1971-12-25,1972,Seattle SuperSonics,86,Phoenix Suns,116,0,N
+1971-12-25,1972,Chicago Bulls,109,Portland Trail Blazers,88,0,N
+1971-12-26,1972,Baltimore Bullets,102,Cleveland Cavaliers,108,0,N
+1971-12-26,1972,Houston Rockets,115,Los Angeles Lakers,137,0,N
+1971-12-26,1972,Atlanta Hawks,92,Milwaukee Bucks,114,0,N
+1971-12-26,1972,Chicago Bulls,103,Seattle SuperSonics,102,0,N
+1971-12-27,1972,Portland Trail Blazers,121,Atlanta Hawks,135,0,N
+1971-12-27,1972,Golden State Warriors,97,Boston Celtics,99,0,N
+1971-12-27,1972,Philadelphia 76ers,121,Buffalo Braves,112,0,N
+1971-12-28,1972,Cincinnati Royals,87,Baltimore Bullets,119,0,N
+1971-12-28,1972,Milwaukee Bucks,105,Chicago Bulls,116,0,N
+1971-12-28,1972,Portland Trail Blazers,111,Cleveland Cavaliers,112,0,N
+1971-12-28,1972,New York Knicks,119,Detroit Pistons,100,0,N
+1971-12-28,1972,Buffalo Braves,87,Los Angeles Lakers,105,0,N
+1971-12-28,1972,Boston Celtics,120,Philadelphia 76ers,116,0,N
+1971-12-29,1972,Golden State Warriors,107,Cincinnati Royals,102,0,N
+1971-12-29,1972,Philadelphia 76ers,102,Cleveland Cavaliers,103,0,N
+1971-12-29,1972,Phoenix Suns,124,Houston Rockets,106,0,N
+1971-12-29,1972,Portland Trail Blazers,84,Milwaukee Bucks,123,0,N
+1971-12-30,1972,Portland Trail Blazers,92,Chicago Bulls,117,0,N
+1971-12-30,1972,Golden State Warriors,128,Detroit Pistons,122,0,N
+1971-12-30,1972,Atlanta Hawks,115,Houston Rockets,129,0,N
+1971-12-30,1972,Baltimore Bullets,110,New York Knicks,102,0,N
+1971-12-30,1972,Buffalo Braves,102,Phoenix Suns,123,0,N
+1971-12-30,1972,Los Angeles Lakers,122,Seattle SuperSonics,106,0,N
+1971-12-31,1972,Philadelphia 76ers,119,Boston Celtics,131,0,N
+1972-01-01,1972,Cincinnati Royals,94,New York Knicks,104,0,N
+1972-01-01,1972,Boston Celtics,104,Phoenix Suns,114,0,N
+1972-01-01,1972,Buffalo Braves,83,Seattle SuperSonics,97,0,N
+1972-01-02,1972,Philadelphia 76ers,148,Cleveland Cavaliers,119,0,N
+1972-01-02,1972,Detroit Pistons,109,Houston Rockets,107,0,N
+1972-01-02,1972,Boston Celtics,113,Los Angeles Lakers,122,0,N
+1972-01-02,1972,Atlanta Hawks,116,Phoenix Suns,111,0,N
+1972-01-02,1972,Buffalo Braves,90,Portland Trail Blazers,108,0,N
+1972-01-03,1972,Milwaukee Bucks,99,New York Knicks,101,0,N
+1972-01-04,1972,Phoenix Suns,112,Chicago Bulls,108,0,N
+1972-01-04,1972,Philadelphia 76ers,131,Detroit Pistons,127,0,N
+1972-01-04,1972,Buffalo Braves,86,Golden State Warriors,112,0,N
+1972-01-04,1972,Seattle SuperSonics,110,Houston Rockets,119,0,N
+1972-01-04,1972,New York Knicks,100,Milwaukee Bucks,121,0,N
+1972-01-04,1972,Atlanta Hawks,103,Portland Trail Blazers,91,0,N
+1972-01-05,1972,Detroit Pistons,89,Baltimore Bullets,111,0,N
+1972-01-05,1972,Milwaukee Bucks,115,Cincinnati Royals,106,0,N
+1972-01-05,1972,Los Angeles Lakers,113,Cleveland Cavaliers,103,0,N
+1972-01-05,1972,Boston Celtics,113,Houston Rockets,105,0,N
+1972-01-05,1972,Chicago Bulls,139,Philadelphia 76ers,107,0,N
+1972-01-05,1972,Atlanta Hawks,116,Seattle SuperSonics,127,0,N
+1972-01-06,1972,Portland Trail Blazers,115,Golden State Warriors,119,0,N
+1972-01-07,1972,Los Angeles Lakers,134,Atlanta Hawks,90,0,N
+1972-01-07,1972,Phoenix Suns,123,Buffalo Braves,110,0,N
+1972-01-07,1972,Baltimore Bullets,104,Chicago Bulls,94,0,N
+1972-01-07,1972,Cincinnati Royals,132,Detroit Pistons,151,0,N
+1972-01-07,1972,New York Knicks,113,Philadelphia 76ers,117,0,N
+1972-01-07,1972,Boston Celtics,120,Portland Trail Blazers,114,0,N
+1972-01-07,1972,Cleveland Cavaliers,111,Seattle SuperSonics,125,0,N
+1972-01-08,1972,Atlanta Hawks,102,Baltimore Bullets,110,0,N
+1972-01-08,1972,Buffalo Braves,97,Cincinnati Royals,87,0,N
+1972-01-08,1972,Boston Celtics,106,Golden State Warriors,128,0,N
+1972-01-08,1972,Detroit Pistons,119,Milwaukee Bucks,136,0,N
+1972-01-08,1972,Chicago Bulls,113,New York Knicks,108,0,N
+1972-01-08,1972,Phoenix Suns,119,Philadelphia 76ers,130,0,N
+1972-01-08,1972,Cleveland Cavaliers,102,Portland Trail Blazers,125,0,N
+1972-01-09,1972,Phoenix Suns,103,Baltimore Bullets,109,0,N
+1972-01-09,1972,Cincinnati Royals,104,Chicago Bulls,108,1,N
+1972-01-09,1972,Buffalo Braves,96,Detroit Pistons,101,0,N
+1972-01-09,1972,Golden State Warriors,113,Houston Rockets,112,0,N
+1972-01-09,1972,Los Angeles Lakers,104,Milwaukee Bucks,120,0,N
+1972-01-09,1972,Boston Celtics,119,Seattle SuperSonics,125,0,N
+1972-01-11,1972,Cincinnati Royals,109,Buffalo Braves,107,1,N
+1972-01-11,1972,New York Knicks,91,Chicago Bulls,116,0,N
+1972-01-11,1972,Los Angeles Lakers,123,Detroit Pistons,103,0,N
+1972-01-11,1972,Cleveland Cavaliers,92,Golden State Warriors,101,0,N
+1972-01-11,1972,Phoenix Suns,115,Milwaukee Bucks,114,0,N
+1972-01-11,1972,Baltimore Bullets,106,Portland Trail Blazers,114,0,N
+1972-01-11,1972,Houston Rockets,126,Seattle SuperSonics,141,0,N
+1972-01-12,1972,Milwaukee Bucks,102,Atlanta Hawks,104,0,N
+1972-01-12,1972,Chicago Bulls,112,Boston Celtics,113,0,N
+1972-01-12,1972,Los Angeles Lakers,107,Cincinnati Royals,108,0,N
+1972-01-12,1972,Buffalo Braves,111,Philadelphia 76ers,109,0,N
+1972-01-13,1972,Baltimore Bullets,107,Seattle SuperSonics,112,0,N
+1972-01-14,1972,Detroit Pistons,94,Boston Celtics,108,0,N
+1972-01-14,1972,Portland Trail Blazers,102,Buffalo Braves,100,0,N
+1972-01-14,1972,Atlanta Hawks,102,Cincinnati Royals,126,0,N
+1972-01-14,1972,New York Knicks,111,Golden State Warriors,115,0,N
+1972-01-14,1972,Chicago Bulls,77,Milwaukee Bucks,104,0,N
+1972-01-14,1972,Los Angeles Lakers,135,Philadelphia 76ers,121,0,N
+1972-01-14,1972,Cleveland Cavaliers,107,Phoenix Suns,117,0,N
+1972-01-15,1972,Boston Celtics,122,Atlanta Hawks,106,0,N
+1972-01-15,1972,Portland Trail Blazers,100,Chicago Bulls,120,0,N
+1972-01-15,1972,Philadelphia 76ers,131,Detroit Pistons,121,0,N
+1972-01-15,1972,Baltimore Bullets,95,Golden State Warriors,105,0,N
+1972-01-15,1972,Cleveland Cavaliers,109,Houston Rockets,112,0,N
+1972-01-15,1972,Phoenix Suns,110,Seattle SuperSonics,118,0,N
+1972-01-16,1972,Philadelphia 76ers,116,Atlanta Hawks,124,0,N
+1972-01-16,1972,Cleveland Cavaliers,108,Cincinnati Royals,128,0,N
+1972-01-16,1972,New York Knicks,109,Houston Rockets,108,0,N
+1972-01-16,1972,Portland Trail Blazers,97,Milwaukee Bucks,126,0,N
+1972-01-16,1972,Baltimore Bullets,107,Phoenix Suns,104,0,N
+1972-01-20,1972,Houston Rockets,104,Cincinnati Royals,87,0,N
+1972-01-20,1972,New York Knicks,109,Phoenix Suns,130,0,N
+1972-01-21,1972,Golden State Warriors,113,Atlanta Hawks,111,0,N
+1972-01-21,1972,Houston Rockets,105,Boston Celtics,110,0,N
+1972-01-21,1972,Chicago Bulls,113,Buffalo Braves,93,0,N
+1972-01-21,1972,Baltimore Bullets,102,Detroit Pistons,107,0,N
+1972-01-21,1972,New York Knicks,104,Los Angeles Lakers,101,0,N
+1972-01-21,1972,Cleveland Cavaliers,91,Milwaukee Bucks,120,0,N
+1972-01-21,1972,Portland Trail Blazers,122,Philadelphia 76ers,136,0,N
+1972-01-21,1972,Phoenix Suns,128,Seattle SuperSonics,113,0,N
+1972-01-22,1972,Portland Trail Blazers,99,Baltimore Bullets,116,0,N
+1972-01-22,1972,Houston Rockets,108,Chicago Bulls,115,0,N
+1972-01-22,1972,Cleveland Cavaliers,96,Cincinnati Royals,113,0,N
+1972-01-22,1972,Golden State Warriors,113,Philadelphia 76ers,106,0,N
+1972-01-22,1972,Los Angeles Lakers,102,Phoenix Suns,116,0,N
+1972-01-23,1972,Cincinnati Royals,101,Baltimore Bullets,132,0,N
+1972-01-23,1972,Portland Trail Blazers,105,Boston Celtics,115,0,N
+1972-01-23,1972,Houston Rockets,109,Detroit Pistons,107,0,N
+1972-01-23,1972,Atlanta Hawks,118,Milwaukee Bucks,113,0,N
+1972-01-23,1972,New York Knicks,101,Seattle SuperSonics,99,0,N
+1972-01-24,1972,Golden State Warriors,105,Chicago Bulls,110,0,N
+1972-01-25,1972,Atlanta Hawks,123,Buffalo Braves,110,0,N
+1972-01-25,1972,Golden State Warriors,117,Cleveland Cavaliers,111,0,N
+1972-01-25,1972,Portland Trail Blazers,104,Houston Rockets,118,0,N
+1972-01-25,1972,Phoenix Suns,119,Los Angeles Lakers,129,0,N
+1972-01-25,1972,Seattle SuperSonics,91,Milwaukee Bucks,123,0,N
+1972-01-25,1972,Boston Celtics,106,New York Knicks,109,0,N
+1972-01-26,1972,Seattle SuperSonics,131,Atlanta Hawks,119,0,N
+1972-01-26,1972,Buffalo Braves,114,Baltimore Bullets,115,1,N
+1972-01-26,1972,Cleveland Cavaliers,112,Boston Celtics,108,0,N
+1972-01-26,1972,Houston Rockets,108,Chicago Bulls,117,0,N
+1972-01-26,1972,Milwaukee Bucks,120,Detroit Pistons,94,0,N
+1972-01-26,1972,Cincinnati Royals,102,Philadelphia 76ers,113,0,N
+1972-01-27,1972,Chicago Bulls,107,Golden State Warriors,108,0,N
+1972-01-28,1972,Detroit Pistons,106,Atlanta Hawks,124,0,N
+1972-01-28,1972,New York Knicks,116,Boston Celtics,122,1,N
+1972-01-28,1972,Seattle SuperSonics,104,Buffalo Braves,93,0,N
+1972-01-28,1972,Baltimore Bullets,132,Cincinnati Royals,124,0,N
+1972-01-28,1972,Houston Rockets,105,Los Angeles Lakers,118,0,N
+1972-01-28,1972,Milwaukee Bucks,127,Philadelphia 76ers,118,0,N
+1972-01-28,1972,Chicago Bulls,116,Phoenix Suns,102,0,N
+1972-01-28,1972,Golden State Warriors,105,Portland Trail Blazers,102,0,N
+1972-01-29,1972,Cincinnati Royals,120,Cleveland Cavaliers,118,0,N
+1972-01-29,1972,Boston Celtics,124,Detroit Pistons,112,0,N
+1972-01-29,1972,Phoenix Suns,100,Golden State Warriors,111,0,N
+1972-01-29,1972,Seattle SuperSonics,106,New York Knicks,110,0,N
+1972-01-30,1972,Milwaukee Bucks,116,Baltimore Bullets,112,0,N
+1972-01-30,1972,Philadelphia 76ers,114,Boston Celtics,130,0,N
+1972-01-30,1972,Detroit Pistons,99,Chicago Bulls,109,0,N
+1972-01-30,1972,Buffalo Braves,99,Cleveland Cavaliers,98,0,N
+1972-01-30,1972,Portland Trail Blazers,131,Los Angeles Lakers,153,0,N
+1972-01-30,1972,Atlanta Hawks,103,Phoenix Suns,105,0,N
+1972-02-01,1972,Boston Celtics,115,Baltimore Bullets,108,0,N
+1972-02-01,1972,Cleveland Cavaliers,104,Buffalo Braves,99,0,N
+1972-02-01,1972,Seattle SuperSonics,121,Chicago Bulls,103,0,N
+1972-02-01,1972,Milwaukee Bucks,108,Golden State Warriors,97,0,N
+1972-02-01,1972,Detroit Pistons,106,New York Knicks,115,0,N
+1972-02-01,1972,Phoenix Suns,129,Portland Trail Blazers,117,0,N
+1972-02-02,1972,Chicago Bulls,100,Boston Celtics,124,0,N
+1972-02-02,1972,New York Knicks,105,Cincinnati Royals,116,0,N
+1972-02-02,1972,Cleveland Cavaliers,108,Detroit Pistons,133,0,N
+1972-02-02,1972,Seattle SuperSonics,88,Houston Rockets,111,0,N
+1972-02-02,1972,Buffalo Braves,104,Philadelphia 76ers,119,0,N
+1972-02-02,1972,Milwaukee Bucks,106,Phoenix Suns,103,0,N
+1972-02-03,1972,Atlanta Hawks,115,Golden State Warriors,132,0,N
+1972-02-04,1972,Chicago Bulls,110,Baltimore Bullets,108,0,N
+1972-02-04,1972,Cincinnati Royals,109,Boston Celtics,122,0,N
+1972-02-04,1972,New York Knicks,103,Buffalo Braves,84,0,N
+1972-02-04,1972,Seattle SuperSonics,118,Cleveland Cavaliers,112,0,N
+1972-02-04,1972,Milwaukee Bucks,105,Los Angeles Lakers,118,0,N
+1972-02-04,1972,Detroit Pistons,118,Philadelphia 76ers,113,0,N
+1972-02-04,1972,Golden State Warriors,105,Phoenix Suns,113,0,N
+1972-02-04,1972,Houston Rockets,113,Portland Trail Blazers,114,0,N
+1972-02-05,1972,Cleveland Cavaliers,117,Atlanta Hawks,120,0,N
+1972-02-05,1972,Buffalo Braves,96,Chicago Bulls,130,0,N
+1972-02-05,1972,Detroit Pistons,132,Cincinnati Royals,133,1,N
+1972-02-05,1972,Los Angeles Lakers,108,Golden State Warriors,96,0,N
+1972-02-05,1972,Milwaukee Bucks,119,Houston Rockets,112,0,N
+1972-02-05,1972,Philadelphia 76ers,104,New York Knicks,112,0,N
+1972-02-05,1972,Phoenix Suns,118,Portland Trail Blazers,117,1,N
+1972-02-06,1972,Seattle SuperSonics,123,Boston Celtics,128,0,N
+1972-02-06,1972,Cincinnati Royals,94,Chicago Bulls,119,0,N
+1972-02-06,1972,Buffalo Braves,121,Cleveland Cavaliers,108,0,N
+1972-02-06,1972,Atlanta Hawks,113,Houston Rockets,120,0,N
+1972-02-06,1972,Baltimore Bullets,127,Los Angeles Lakers,151,0,N
+1972-02-06,1972,New York Knicks,109,Philadelphia 76ers,107,0,N
+1972-02-06,1972,Portland Trail Blazers,94,Phoenix Suns,107,0,N
+1972-02-08,1972,Milwaukee Bucks,126,Buffalo Braves,108,0,N
+1972-02-08,1972,Cleveland Cavaliers,90,Chicago Bulls,114,0,N
+1972-02-08,1972,Baltimore Bullets,107,Golden State Warriors,111,0,N
+1972-02-08,1972,Seattle SuperSonics,127,Houston Rockets,119,0,N
+1972-02-08,1972,Los Angeles Lakers,107,New York Knicks,102,0,N
+1972-02-08,1972,Philadelphia 76ers,108,Phoenix Suns,120,0,N
+1972-02-08,1972,Cincinnati Royals,100,Portland Trail Blazers,104,0,N
+1972-02-09,1972,Los Angeles Lakers,117,Atlanta Hawks,113,0,N
+1972-02-09,1972,Buffalo Braves,112,Boston Celtics,139,0,N
+1972-02-09,1972,Milwaukee Bucks,126,Cleveland Cavaliers,121,0,N
+1972-02-09,1972,New York Knicks,126,Detroit Pistons,102,0,N
+1972-02-10,1972,Philadelphia 76ers,112,Golden State Warriors,121,0,N
+1972-02-10,1972,Baltimore Bullets,98,Phoenix Suns,131,0,N
+1972-02-10,1972,Cincinnati Royals,96,Seattle SuperSonics,118,0,N
+1972-02-11,1972,Los Angeles Lakers,108,Boston Celtics,121,0,N
+1972-02-11,1972,Detroit Pistons,88,Buffalo Braves,95,0,N
+1972-02-11,1972,Atlanta Hawks,91,Chicago Bulls,102,0,N
+1972-02-11,1972,Baltimore Bullets,95,Houston Rockets,116,0,N
+1972-02-11,1972,New York Knicks,113,Milwaukee Bucks,107,0,N
+1972-02-11,1972,Philadelphia 76ers,106,Portland Trail Blazers,110,0,N
+1972-02-12,1972,Chicago Bulls,117,Atlanta Hawks,106,0,N
+1972-02-12,1972,Buffalo Braves,87,Detroit Pistons,113,0,N
+1972-02-12,1972,Golden State Warriors,100,Milwaukee Bucks,123,0,N
+1972-02-12,1972,Cleveland Cavaliers,91,New York Knicks,106,0,N
+1972-02-12,1972,Cincinnati Royals,95,Phoenix Suns,117,0,N
+1972-02-12,1972,Portland Trail Blazers,97,Seattle SuperSonics,125,0,N
+1972-02-13,1972,Buffalo Braves,119,Atlanta Hawks,133,0,N
+1972-02-13,1972,Los Angeles Lakers,121,Baltimore Bullets,110,0,N
+1972-02-13,1972,Milwaukee Bucks,117,Boston Celtics,109,0,N
+1972-02-13,1972,Golden State Warriors,107,Chicago Bulls,88,0,N
+1972-02-13,1972,Detroit Pistons,136,Cleveland Cavaliers,121,0,N
+1972-02-13,1972,Cincinnati Royals,111,Houston Rockets,112,0,N
+1972-02-13,1972,Seattle SuperSonics,127,Portland Trail Blazers,117,1,N
+1972-02-14,1972,Houston Rockets,130,Philadelphia 76ers,116,0,N
+1972-02-15,1972,Houston Rockets,98,Baltimore Bullets,113,0,N
+1972-02-15,1972,Golden State Warriors,103,Buffalo Braves,100,0,N
+1972-02-15,1972,Atlanta Hawks,113,Detroit Pistons,105,0,N
+1972-02-15,1972,Cincinnati Royals,118,Los Angeles Lakers,125,0,N
+1972-02-15,1972,Boston Celtics,111,Portland Trail Blazers,104,0,N
+1972-02-16,1972,Baltimore Bullets,103,Atlanta Hawks,105,0,N
+1972-02-16,1972,Houston Rockets,100,New York Knicks,110,0,N
+1972-02-16,1972,Cleveland Cavaliers,116,Philadelphia 76ers,126,0,N
+1972-02-16,1972,Los Angeles Lakers,109,Phoenix Suns,110,0,N
+1972-02-16,1972,Boston Celtics,112,Seattle SuperSonics,113,0,N
+1972-02-17,1972,New York Knicks,102,Chicago Bulls,99,1,N
+1972-02-17,1972,Milwaukee Bucks,111,Cincinnati Royals,97,0,N
+1972-02-18,1972,Atlanta Hawks,81,Baltimore Bullets,106,0,N
+1972-02-18,1972,Houston Rockets,108,Buffalo Braves,96,0,N
+1972-02-18,1972,Cincinnati Royals,109,Cleveland Cavaliers,133,0,N
+1972-02-18,1972,Chicago Bulls,122,Detroit Pistons,97,0,N
+1972-02-18,1972,Portland Trail Blazers,114,Los Angeles Lakers,125,0,N
+1972-02-18,1972,Philadelphia 76ers,132,Milwaukee Bucks,126,0,N
+1972-02-18,1972,Boston Celtics,115,Phoenix Suns,126,0,N
+1972-02-18,1972,Golden State Warriors,108,Seattle SuperSonics,110,0,N
+1972-02-19,1972,Milwaukee Bucks,97,Chicago Bulls,104,0,N
+1972-02-19,1972,Cleveland Cavaliers,92,Cincinnati Royals,112,0,N
+1972-02-19,1972,Boston Celtics,111,Golden State Warriors,115,0,N
+1972-02-19,1972,Buffalo Braves,95,New York Knicks,100,0,N
+1972-02-19,1972,Baltimore Bullets,121,Philadelphia 76ers,105,0,N
+1972-02-19,1972,Los Angeles Lakers,115,Portland Trail Blazers,94,0,N
+1972-02-20,1972,Cincinnati Royals,101,Atlanta Hawks,92,0,N
+1972-02-20,1972,New York Knicks,109,Cleveland Cavaliers,111,0,N
+1972-02-20,1972,Phoenix Suns,121,Detroit Pistons,107,0,N
+1972-02-20,1972,Boston Celtics,113,Los Angeles Lakers,132,0,N
+1972-02-20,1972,Chicago Bulls,100,Milwaukee Bucks,103,0,N
+1972-02-20,1972,Portland Trail Blazers,105,Seattle SuperSonics,109,0,N
+1972-02-21,1972,Philadelphia 76ers,101,Baltimore Bullets,102,0,N
+1972-02-22,1972,Phoenix Suns,103,Boston Celtics,114,0,N
+1972-02-22,1972,Baltimore Bullets,98,Buffalo Braves,99,0,N
+1972-02-22,1972,Philadelphia 76ers,88,Chicago Bulls,119,0,N
+1972-02-22,1972,Seattle SuperSonics,104,Golden State Warriors,120,0,N
+1972-02-22,1972,Detroit Pistons,135,Los Angeles Lakers,134,1,N
+1972-02-22,1972,Portland Trail Blazers,105,New York Knicks,122,0,N
+1972-02-23,1972,Phoenix Suns,118,Atlanta Hawks,120,0,N
+1972-02-23,1972,Milwaukee Bucks,113,Baltimore Bullets,105,0,N
+1972-02-23,1972,Portland Trail Blazers,106,Cincinnati Royals,110,0,N
+1972-02-23,1972,Boston Celtics,113,Cleveland Cavaliers,111,0,N
+1972-02-23,1972,Los Angeles Lakers,110,Houston Rockets,115,0,N
+1972-02-23,1972,Detroit Pistons,96,Seattle SuperSonics,97,0,N
+1972-02-24,1972,Cincinnati Royals,108,Buffalo Braves,97,0,N
+1972-02-24,1972,Detroit Pistons,106,Golden State Warriors,116,0,N
+1972-02-25,1972,Philadelphia 76ers,114,Atlanta Hawks,110,0,N
+1972-02-25,1972,Boston Celtics,117,Buffalo Braves,115,0,N
+1972-02-25,1972,Phoenix Suns,107,Chicago Bulls,115,0,N
+1972-02-25,1972,Portland Trail Blazers,104,Cleveland Cavaliers,113,0,N
+1972-02-25,1972,Cincinnati Royals,88,Los Angeles Lakers,109,0,N
+1972-02-26,1972,Chicago Bulls,107,Golden State Warriors,106,0,N
+1972-02-26,1972,Detroit Pistons,106,Houston Rockets,122,0,N
+1972-02-26,1972,Phoenix Suns,117,Milwaukee Bucks,119,1,N
+1972-02-26,1972,Baltimore Bullets,104,New York Knicks,97,0,N
+1972-02-26,1972,Cincinnati Royals,106,Seattle SuperSonics,122,0,N
+1972-02-27,1972,Portland Trail Blazers,110,Atlanta Hawks,113,0,N
+1972-02-27,1972,New York Knicks,97,Baltimore Bullets,95,1,N
+1972-02-27,1972,Phoenix Suns,127,Cleveland Cavaliers,125,0,N
+1972-02-27,1972,Golden State Warriors,117,Houston Rockets,104,0,N
+1972-02-27,1972,Chicago Bulls,118,Los Angeles Lakers,123,1,N
+1972-02-29,1972,Seattle SuperSonics,118,Baltimore Bullets,117,1,N
+1972-02-29,1972,Atlanta Hawks,99,Buffalo Braves,89,0,N
+1972-02-29,1972,Cincinnati Royals,120,Golden State Warriors,128,0,N
+1972-02-29,1972,Detroit Pistons,113,Milwaukee Bucks,131,0,N
+1972-02-29,1972,Los Angeles Lakers,114,New York Knicks,111,0,N
+1972-02-29,1972,Chicago Bulls,116,Portland Trail Blazers,92,0,N
+1972-03-01,1972,Cleveland Cavaliers,105,Boston Celtics,115,0,N
+1972-03-01,1972,Houston Rockets,108,Cincinnati Royals,96,0,N
+1972-03-01,1972,Seattle SuperSonics,116,Detroit Pistons,102,0,N
+1972-03-01,1972,Milwaukee Bucks,108,Los Angeles Lakers,109,0,N
+1972-03-01,1972,Buffalo Braves,99,Philadelphia 76ers,108,0,N
+1972-03-01,1972,Baltimore Bullets,95,Phoenix Suns,90,0,N
+1972-03-03,1972,New York Knicks,97,Buffalo Braves,105,0,N
+1972-03-03,1972,Boston Celtics,125,Detroit Pistons,96,0,N
+1972-03-03,1972,Houston Rockets,107,Golden State Warriors,108,0,N
+1972-03-03,1972,Atlanta Hawks,104,Los Angeles Lakers,114,0,N
+1972-03-03,1972,Milwaukee Bucks,94,Philadelphia 76ers,81,0,N
+1972-03-03,1972,Baltimore Bullets,90,Portland Trail Blazers,80,0,N
+1972-03-03,1972,Chicago Bulls,103,Seattle SuperSonics,112,0,N
+1972-03-04,1972,Seattle SuperSonics,96,Golden State Warriors,114,0,N
+1972-03-04,1972,Cleveland Cavaliers,130,Houston Rockets,123,0,N
+1972-03-04,1972,Philadelphia 76ers,115,New York Knicks,118,1,N
+1972-03-04,1972,Atlanta Hawks,120,Portland Trail Blazers,101,0,N
+1972-03-05,1972,Cincinnati Royals,125,Boston Celtics,114,0,N
+1972-03-05,1972,Chicago Bulls,128,Houston Rockets,97,0,N
+1972-03-05,1972,Baltimore Bullets,108,Los Angeles Lakers,94,0,N
+1972-03-05,1972,New York Knicks,98,Philadelphia 76ers,100,0,N
+1972-03-05,1972,Buffalo Braves,103,Phoenix Suns,131,0,N
+1972-03-05,1972,Atlanta Hawks,110,Seattle SuperSonics,112,0,N
+1972-03-06,1972,Boston Celtics,127,Milwaukee Bucks,132,1,N
+1972-03-07,1972,Phoenix Suns,129,Detroit Pistons,121,0,N
+1972-03-07,1972,Cleveland Cavaliers,112,Golden State Warriors,119,0,N
+1972-03-07,1972,Philadelphia 76ers,97,Los Angeles Lakers,114,0,N
+1972-03-07,1972,Milwaukee Bucks,101,New York Knicks,110,0,N
+1972-03-07,1972,Buffalo Braves,94,Portland Trail Blazers,98,0,N
+1972-03-07,1972,Baltimore Bullets,105,Seattle SuperSonics,98,0,N
+1972-03-08,1972,Chicago Bulls,98,Atlanta Hawks,96,0,N
+1972-03-08,1972,Phoenix Suns,105,Cincinnati Royals,122,0,N
+1972-03-09,1972,Portland Trail Blazers,111,Houston Rockets,114,0,N
+1972-03-09,1972,Philadelphia 76ers,128,Seattle SuperSonics,123,0,N
+1972-03-10,1972,Chicago Bulls,100,Cincinnati Royals,104,0,N
+1972-03-10,1972,Golden State Warriors,119,Houston Rockets,116,0,N
+1972-03-10,1972,Cleveland Cavaliers,98,Los Angeles Lakers,132,0,N
+1972-03-11,1972,Buffalo Braves,100,Houston Rockets,121,0,N
+1972-03-11,1972,Phoenix Suns,110,New York Knicks,106,0,N
+1972-03-12,1972,Cleveland Cavaliers,114,Atlanta Hawks,135,0,N
+1972-03-12,1972,Detroit Pistons,97,Baltimore Bullets,102,0,N
+1972-03-12,1972,New York Knicks,109,Boston Celtics,112,0,N
+1972-03-12,1972,Golden State Warriors,106,Cincinnati Royals,117,0,N
+1972-03-12,1972,Philadelphia 76ers,112,Houston Rockets,121,0,N
+1972-03-12,1972,Buffalo Braves,102,Los Angeles Lakers,141,0,N
+1972-03-12,1972,Milwaukee Bucks,109,Seattle SuperSonics,99,0,N
+1972-03-14,1972,Cleveland Cavaliers,127,Baltimore Bullets,118,1,N
+1972-03-14,1972,Golden State Warriors,110,Boston Celtics,124,0,N
+1972-03-14,1972,Philadelphia 76ers,105,Buffalo Braves,108,0,N
+1972-03-14,1972,Seattle SuperSonics,115,Chicago Bulls,111,0,N
+1972-03-14,1972,Los Angeles Lakers,129,Detroit Pistons,116,0,N
+1972-03-14,1972,Atlanta Hawks,107,New York Knicks,115,0,N
+1972-03-14,1972,Milwaukee Bucks,109,Portland Trail Blazers,98,0,N
+1972-03-15,1972,Seattle SuperSonics,96,Atlanta Hawks,134,0,N
+1972-03-15,1972,Los Angeles Lakers,121,Cincinnati Royals,116,0,N
+1972-03-15,1972,Boston Celtics,120,Philadelphia 76ers,115,0,N
+1972-03-15,1972,Milwaukee Bucks,106,Phoenix Suns,110,0,N
+1972-03-16,1972,Baltimore Bullets,105,Cleveland Cavaliers,101,0,N
+1972-03-16,1972,Portland Trail Blazers,94,Golden State Warriors,107,0,N
+1972-03-16,1972,New York Knicks,103,Houston Rockets,102,0,N
+1972-03-17,1972,Seattle SuperSonics,107,Baltimore Bullets,112,0,N
+1972-03-17,1972,Philadelphia 76ers,111,Boston Celtics,127,0,N
+1972-03-17,1972,Buffalo Braves,103,Chicago Bulls,126,0,N
+1972-03-17,1972,Atlanta Hawks,112,Detroit Pistons,121,0,N
+1972-03-17,1972,Milwaukee Bucks,107,Los Angeles Lakers,123,0,N
+1972-03-17,1972,New York Knicks,106,Phoenix Suns,111,0,N
+1972-03-17,1972,Golden State Warriors,109,Portland Trail Blazers,114,0,N
+1972-03-18,1972,Cincinnati Royals,106,Atlanta Hawks,115,0,N
+1972-03-18,1972,Detroit Pistons,103,Buffalo Braves,116,0,N
+1972-03-18,1972,Chicago Bulls,109,Cleveland Cavaliers,91,0,N
+1972-03-18,1972,Phoenix Suns,116,Golden State Warriors,134,0,N
+1972-03-18,1972,Milwaukee Bucks,120,Houston Rockets,116,1,N
+1972-03-18,1972,New York Knicks,86,Portland Trail Blazers,133,0,N
+1972-03-19,1972,Baltimore Bullets,125,Boston Celtics,112,0,N
+1972-03-19,1972,Buffalo Braves,105,Cincinnati Royals,136,0,N
+1972-03-19,1972,Atlanta Hawks,115,Cleveland Cavaliers,105,0,N
+1972-03-19,1972,Chicago Bulls,115,Detroit Pistons,107,0,N
+1972-03-19,1972,Golden State Warriors,99,Los Angeles Lakers,162,0,N
+1972-03-19,1972,Seattle SuperSonics,100,Philadelphia 76ers,115,0,N
+1972-03-21,1972,Baltimore Bullets,100,Buffalo Braves,114,0,N
+1972-03-21,1972,Los Angeles Lakers,109,Chicago Bulls,104,0,N
+1972-03-21,1972,Cincinnati Royals,117,Detroit Pistons,120,0,N
+1972-03-21,1972,Houston Rockets,94,Milwaukee Bucks,111,0,N
+1972-03-21,1972,Atlanta Hawks,117,Philadelphia 76ers,111,0,N
+1972-03-21,1972,Portland Trail Blazers,128,Phoenix Suns,160,0,N
+1972-03-22,1972,Houston Rockets,106,Atlanta Hawks,107,0,N
+1972-03-22,1972,Golden State Warriors,121,Baltimore Bullets,101,0,N
+1972-03-22,1972,Philadelphia 76ers,106,Boston Celtics,113,0,N
+1972-03-22,1972,Detroit Pistons,130,Cincinnati Royals,135,0,N
+1972-03-22,1972,Los Angeles Lakers,120,Cleveland Cavaliers,124,0,N
+1972-03-22,1972,Buffalo Braves,99,New York Knicks,123,0,N
+1972-03-24,1972,Golden State Warriors,102,Atlanta Hawks,118,0,N
+1972-03-24,1972,Baltimore Bullets,114,Cincinnati Royals,132,0,N
+1972-03-24,1972,Houston Rockets,127,Cleveland Cavaliers,119,0,N
+1972-03-24,1972,Buffalo Braves,105,Detroit Pistons,112,0,N
+1972-03-24,1972,Phoenix Suns,110,Los Angeles Lakers,112,0,N
+1972-03-24,1972,New York Knicks,88,Milwaukee Bucks,131,0,N
+1972-03-24,1972,Chicago Bulls,116,Philadelphia 76ers,99,0,N
+1972-03-25,1972,Houston Rockets,106,Baltimore Bullets,85,0,N
+1972-03-25,1972,Boston Celtics,121,Buffalo Braves,116,0,N
+1972-03-25,1972,Detroit Pistons,105,Chicago Bulls,121,0,N
+1972-03-25,1972,Cincinnati Royals,95,Milwaukee Bucks,119,0,N
+1972-03-25,1972,Cleveland Cavaliers,83,New York Knicks,98,0,N
+1972-03-25,1972,Seattle SuperSonics,99,Phoenix Suns,118,0,N
+1972-03-26,1972,New York Knicks,106,Atlanta Hawks,120,0,N
+1972-03-26,1972,Buffalo Braves,101,Baltimore Bullets,119,0,N
+1972-03-26,1972,Detroit Pistons,120,Boston Celtics,133,0,N
+1972-03-26,1972,Cincinnati Royals,135,Cleveland Cavaliers,122,0,N
+1972-03-26,1972,Portland Trail Blazers,109,Houston Rockets,131,0,N
+1972-03-26,1972,Seattle SuperSonics,98,Los Angeles Lakers,124,0,N
+1972-03-26,1972,Golden State Warriors,116,Philadelphia 76ers,115,0,N
+1972-03-28,1972,Chicago Bulls,80,Los Angeles Lakers,95,0,Y
+1972-03-28,1972,Golden State Warriors,117,Milwaukee Bucks,106,0,Y
+1972-03-29,1972,Atlanta Hawks,108,Boston Celtics,126,0,Y
+1972-03-30,1972,Chicago Bulls,124,Los Angeles Lakers,131,0,Y
+1972-03-30,1972,Golden State Warriors,93,Milwaukee Bucks,118,0,Y
+1972-03-31,1972,Boston Celtics,104,Atlanta Hawks,113,0,Y
+1972-03-31,1972,New York Knicks,105,Baltimore Bullets,108,1,Y
+1972-04-01,1972,Milwaukee Bucks,122,Golden State Warriors,94,0,Y
+1972-04-02,1972,Atlanta Hawks,113,Boston Celtics,136,0,Y
+1972-04-02,1972,Los Angeles Lakers,108,Chicago Bulls,101,0,Y
+1972-04-02,1972,Baltimore Bullets,88,New York Knicks,110,0,Y
+1972-04-04,1972,Boston Celtics,110,Atlanta Hawks,112,0,Y
+1972-04-04,1972,New York Knicks,103,Baltimore Bullets,104,0,Y
+1972-04-04,1972,Los Angeles Lakers,108,Chicago Bulls,97,0,Y
+1972-04-04,1972,Milwaukee Bucks,106,Golden State Warriors,99,0,Y
+1972-04-06,1972,Golden State Warriors,100,Milwaukee Bucks,108,0,Y
+1972-04-06,1972,Baltimore Bullets,98,New York Knicks,104,0,Y
+1972-04-07,1972,Atlanta Hawks,114,Boston Celtics,124,0,Y
+1972-04-09,1972,Milwaukee Bucks,93,Los Angeles Lakers,72,0,Y
+1972-04-09,1972,New York Knicks,106,Baltimore Bullets,82,0,Y
+1972-04-09,1972,Boston Celtics,127,Atlanta Hawks,118,0,Y
+1972-04-11,1972,Baltimore Bullets,101,New York Knicks,107,0,Y
+1972-04-12,1972,Milwaukee Bucks,134,Los Angeles Lakers,135,0,Y
+1972-04-13,1972,New York Knicks,116,Boston Celtics,94,0,Y
+1972-04-14,1972,Los Angeles Lakers,108,Milwaukee Bucks,105,0,Y
+1972-04-16,1972,Los Angeles Lakers,88,Milwaukee Bucks,114,0,Y
+1972-04-16,1972,Boston Celtics,105,New York Knicks,106,0,Y
+1972-04-18,1972,Milwaukee Bucks,90,Los Angeles Lakers,115,0,Y
+1972-04-19,1972,New York Knicks,109,Boston Celtics,115,0,Y
+1972-04-21,1972,Boston Celtics,98,New York Knicks,116,0,Y
+1972-04-22,1972,Los Angeles Lakers,104,Milwaukee Bucks,100,0,Y
+1972-04-23,1972,New York Knicks,111,Boston Celtics,103,0,Y
+1972-04-26,1972,New York Knicks,114,Los Angeles Lakers,92,0,Y
+1972-04-30,1972,New York Knicks,92,Los Angeles Lakers,106,0,Y
+1972-05-03,1972,Los Angeles Lakers,107,New York Knicks,96,0,Y
+1972-05-05,1972,Los Angeles Lakers,116,New York Knicks,111,1,Y
+1972-05-07,1972,New York Knicks,100,Los Angeles Lakers,114,0,Y

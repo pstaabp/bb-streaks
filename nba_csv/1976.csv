@@ -1,0 +1,789 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1975-10-23,1976,Golden State Warriors,89,Cleveland Cavaliers,83,0,N
+1975-10-23,1976,Los Angeles Lakers,104,New York Knicks,101,0,N
+1975-10-23,1976,Kansas City Kings,95,Washington Bullets,107,0,N
+1975-10-23,1976,New Orleans Jazz,91,Atlanta Hawks,109,0,N
+1975-10-24,1976,Houston Rockets,94,Boston Celtics,109,0,N
+1975-10-24,1976,Philadelphia 76ers,110,Chicago Bulls,103,0,N
+1975-10-24,1976,Detroit Pistons,106,New Orleans Jazz,114,0,N
+1975-10-24,1976,Portland Trail Blazers,97,Seattle SuperSonics,105,0,N
+1975-10-25,1976,Detroit Pistons,108,Atlanta Hawks,102,0,N
+1975-10-25,1976,Golden State Warriors,92,Buffalo Braves,104,0,N
+1975-10-25,1976,Chicago Bulls,91,Milwaukee Bucks,87,0,N
+1975-10-25,1976,Cleveland Cavaliers,91,New York Knicks,100,0,N
+1975-10-25,1976,Phoenix Suns,89,Portland Trail Blazers,88,0,N
+1975-10-26,1976,Phoenix Suns,99,Seattle SuperSonics,113,0,N
+1975-10-26,1976,New York Knicks,114,New Orleans Jazz,125,2,N
+1975-10-27,1976,Los Angeles Lakers,104,Philadelphia 76ers,117,0,N
+1975-10-28,1976,Houston Rockets,108,Buffalo Braves,124,0,N
+1975-10-28,1976,Seattle SuperSonics,90,Chicago Bulls,101,0,N
+1975-10-28,1976,Los Angeles Lakers,99,Milwaukee Bucks,92,0,N
+1975-10-28,1976,Portland Trail Blazers,90,New Orleans Jazz,99,0,N
+1975-10-28,1976,Golden State Warriors,111,New York Knicks,94,0,N
+1975-10-29,1976,Golden State Warriors,106,Boston Celtics,115,0,N
+1975-10-29,1976,Los Angeles Lakers,99,Detroit Pistons,112,0,N
+1975-10-29,1976,Seattle SuperSonics,92,Kansas City Kings,91,0,N
+1975-10-30,1976,Chicago Bulls,91,Cleveland Cavaliers,108,0,N
+1975-10-30,1976,Kansas City Kings,113,New York Knicks,117,0,N
+1975-10-31,1976,Portland Trail Blazers,94,Boston Celtics,112,0,N
+1975-10-31,1976,Houston Rockets,127,Detroit Pistons,131,0,N
+1975-10-31,1976,Seattle SuperSonics,104,Los Angeles Lakers,120,0,N
+1975-10-31,1976,Milwaukee Bucks,85,New Orleans Jazz,100,0,N
+1975-10-31,1976,Buffalo Braves,92,Philadelphia 76ers,87,0,N
+1975-11-01,1976,Detroit Pistons,93,Buffalo Braves,97,0,N
+1975-11-01,1976,Boston Celtics,82,Chicago Bulls,84,0,N
+1975-11-01,1976,New Orleans Jazz,103,Cleveland Cavaliers,91,0,N
+1975-11-01,1976,Washington Bullets,89,Golden State Warriors,100,0,N
+1975-11-01,1976,Phoenix Suns,100,Kansas City Kings,106,0,N
+1975-11-01,1976,Portland Trail Blazers,113,Milwaukee Bucks,97,0,N
+1975-11-01,1976,Philadelphia 76ers,98,New York Knicks,110,0,N
+1975-11-02,1976,Milwaukee Bucks,89,Houston Rockets,104,0,N
+1975-11-02,1976,Atlanta Hawks,113,Los Angeles Lakers,116,1,N
+1975-11-02,1976,Washington Bullets,94,Seattle SuperSonics,85,0,N
+1975-11-04,1976,Philadelphia 76ers,121,Buffalo Braves,114,0,N
+1975-11-04,1976,Phoenix Suns,96,Chicago Bulls,80,0,N
+1975-11-04,1976,New York Knicks,106,Houston Rockets,119,0,N
+1975-11-04,1976,Los Angeles Lakers,98,Kansas City Kings,116,0,N
+1975-11-04,1976,Detroit Pistons,101,Milwaukee Bucks,103,0,N
+1975-11-04,1976,Atlanta Hawks,98,Portland Trail Blazers,97,0,N
+1975-11-04,1976,Cleveland Cavaliers,96,Washington Bullets,113,0,N
+1975-11-05,1976,Buffalo Braves,95,Boston Celtics,105,0,N
+1975-11-05,1976,Seattle SuperSonics,107,Detroit Pistons,124,0,N
+1975-11-05,1976,Los Angeles Lakers,110,New Orleans Jazz,113,0,N
+1975-11-05,1976,Chicago Bulls,82,Philadelphia 76ers,115,0,N
+1975-11-06,1976,Cleveland Cavaliers,113,Atlanta Hawks,108,0,N
+1975-11-06,1976,New York Knicks,96,Golden State Warriors,111,0,N
+1975-11-06,1976,Seattle SuperSonics,100,Washington Bullets,110,0,N
+1975-11-07,1976,Detroit Pistons,124,Chicago Bulls,122,0,N
+1975-11-07,1976,New York Knicks,97,Los Angeles Lakers,105,0,N
+1975-11-07,1976,Boston Celtics,101,Milwaukee Bucks,104,0,N
+1975-11-07,1976,Cleveland Cavaliers,94,New Orleans Jazz,90,0,N
+1975-11-07,1976,Phoenix Suns,99,Philadelphia 76ers,103,0,N
+1975-11-07,1976,Kansas City Kings,88,Portland Trail Blazers,92,0,N
+1975-11-08,1976,Seattle SuperSonics,94,Atlanta Hawks,107,0,N
+1975-11-08,1976,Phoenix Suns,105,Buffalo Braves,110,0,N
+1975-11-08,1976,Boston Celtics,118,Detroit Pistons,104,0,N
+1975-11-08,1976,Los Angeles Lakers,106,Golden State Warriors,114,0,N
+1975-11-08,1976,Cleveland Cavaliers,112,Houston Rockets,116,0,N
+1975-11-08,1976,Milwaukee Bucks,99,Washington Bullets,95,2,N
+1975-11-09,1976,Kansas City Kings,112,Los Angeles Lakers,125,0,N
+1975-11-09,1976,Seattle SuperSonics,111,New Orleans Jazz,97,0,N
+1975-11-09,1976,New York Knicks,96,Portland Trail Blazers,115,0,N
+1975-11-11,1976,Atlanta Hawks,100,Boston Celtics,91,0,N
+1975-11-11,1976,Washington Bullets,105,Buffalo Braves,90,0,N
+1975-11-11,1976,Cleveland Cavaliers,98,Golden State Warriors,103,0,N
+1975-11-11,1976,Philadelphia 76ers,81,Milwaukee Bucks,108,0,N
+1975-11-11,1976,New York Knicks,81,Phoenix Suns,112,0,N
+1975-11-11,1976,New Orleans Jazz,104,Portland Trail Blazers,106,0,N
+1975-11-12,1976,Atlanta Hawks,109,Detroit Pistons,106,0,N
+1975-11-12,1976,Buffalo Braves,93,Houston Rockets,80,0,N
+1975-11-12,1976,New Orleans Jazz,100,Los Angeles Lakers,116,0,N
+1975-11-12,1976,Milwaukee Bucks,107,Philadelphia 76ers,84,0,N
+1975-11-12,1976,Kansas City Kings,107,Seattle SuperSonics,92,0,N
+1975-11-13,1976,Chicago Bulls,87,Golden State Warriors,98,0,N
+1975-11-13,1976,Houston Rockets,102,New York Knicks,108,0,N
+1975-11-13,1976,Seattle SuperSonics,103,Phoenix Suns,106,0,N
+1975-11-13,1976,Boston Celtics,107,Washington Bullets,110,0,N
+1975-11-14,1976,Washington Bullets,88,Atlanta Hawks,97,0,N
+1975-11-14,1976,Philadelphia 76ers,119,Boston Celtics,109,0,N
+1975-11-14,1976,Phoenix Suns,107,Los Angeles Lakers,114,0,N
+1975-11-14,1976,Buffalo Braves,112,Milwaukee Bucks,98,0,N
+1975-11-14,1976,Chicago Bulls,89,Portland Trail Blazers,93,0,N
+1975-11-14,1976,Cleveland Cavaliers,97,Seattle SuperSonics,100,1,N
+1975-11-15,1976,Boston Celtics,112,Buffalo Braves,110,0,N
+1975-11-15,1976,Milwaukee Bucks,89,Detroit Pistons,101,0,N
+1975-11-15,1976,Kansas City Kings,92,Golden State Warriors,123,0,N
+1975-11-15,1976,New Orleans Jazz,101,Houston Rockets,103,0,N
+1975-11-15,1976,Atlanta Hawks,86,New York Knicks,92,0,N
+1975-11-15,1976,Washington Bullets,109,Philadelphia 76ers,110,3,N
+1975-11-15,1976,Cleveland Cavaliers,99,Portland Trail Blazers,95,0,N
+1975-11-16,1976,New York Knicks,96,Atlanta Hawks,97,0,N
+1975-11-16,1976,Chicago Bulls,93,Los Angeles Lakers,110,0,N
+1975-11-16,1976,Golden State Warriors,98,Seattle SuperSonics,102,0,N
+1975-11-18,1976,Los Angeles Lakers,106,Buffalo Braves,120,0,N
+1975-11-18,1976,Houston Rockets,95,Cleveland Cavaliers,91,0,N
+1975-11-18,1976,Golden State Warriors,112,New Orleans Jazz,104,0,N
+1975-11-18,1976,Portland Trail Blazers,92,New York Knicks,101,0,N
+1975-11-19,1976,Golden State Warriors,98,Atlanta Hawks,104,1,N
+1975-11-19,1976,Portland Trail Blazers,114,Detroit Pistons,120,0,N
+1975-11-19,1976,Los Angeles Lakers,118,Houston Rockets,110,0,N
+1975-11-19,1976,Kansas City Kings,103,Philadelphia 76ers,113,0,N
+1975-11-19,1976,Milwaukee Bucks,96,Phoenix Suns,94,0,N
+1975-11-19,1976,Chicago Bulls,87,Seattle SuperSonics,97,0,N
+1975-11-20,1976,Buffalo Braves,118,Cleveland Cavaliers,115,1,N
+1975-11-20,1976,Atlanta Hawks,96,Washington Bullets,105,0,N
+1975-11-21,1976,New York Knicks,101,Boston Celtics,110,0,N
+1975-11-21,1976,Buffalo Braves,94,Detroit Pistons,104,0,N
+1975-11-21,1976,Chicago Bulls,98,Kansas City Kings,107,0,N
+1975-11-21,1976,Milwaukee Bucks,104,Los Angeles Lakers,116,0,N
+1975-11-21,1976,Portland Trail Blazers,111,Philadelphia 76ers,131,0,N
+1975-11-21,1976,Houston Rockets,92,Phoenix Suns,107,0,N
+1975-11-22,1976,New Orleans Jazz,89,Atlanta Hawks,85,0,N
+1975-11-22,1976,Portland Trail Blazers,109,Buffalo Braves,104,0,N
+1975-11-22,1976,Cleveland Cavaliers,95,New York Knicks,94,0,N
+1975-11-22,1976,Golden State Warriors,111,Washington Bullets,71,0,N
+1975-11-23,1976,Philadelphia 76ers,111,Atlanta Hawks,115,0,N
+1975-11-23,1976,Boston Celtics,105,Cleveland Cavaliers,90,0,N
+1975-11-23,1976,Houston Rockets,99,Los Angeles Lakers,110,0,N
+1975-11-23,1976,Milwaukee Bucks,104,Seattle SuperSonics,112,0,N
+1975-11-25,1976,Cleveland Cavaliers,98,Chicago Bulls,94,0,N
+1975-11-25,1976,Seattle SuperSonics,128,New York Knicks,127,1,N
+1975-11-25,1976,Golden State Warriors,108,Philadelphia 76ers,109,0,N
+1975-11-25,1976,Houston Rockets,100,Washington Bullets,89,0,N
+1975-11-26,1976,Seattle SuperSonics,110,Boston Celtics,109,0,N
+1975-11-26,1976,Kansas City Kings,104,Detroit Pistons,120,0,N
+1975-11-26,1976,Washington Bullets,85,Houston Rockets,97,0,N
+1975-11-26,1976,Atlanta Hawks,113,New Orleans Jazz,108,0,N
+1975-11-26,1976,Buffalo Braves,106,Phoenix Suns,107,0,N
+1975-11-26,1976,Los Angeles Lakers,101,Portland Trail Blazers,118,0,N
+1975-11-27,1976,Kansas City Kings,95,Cleveland Cavaliers,91,0,N
+1975-11-27,1976,Golden State Warriors,106,Milwaukee Bucks,105,0,N
+1975-11-27,1976,New York Knicks,96,Washington Bullets,90,0,N
+1975-11-28,1976,Atlanta Hawks,107,Boston Celtics,114,0,N
+1975-11-28,1976,Milwaukee Bucks,69,Chicago Bulls,89,0,N
+1975-11-28,1976,New Orleans Jazz,97,Kansas City Kings,98,0,N
+1975-11-28,1976,Buffalo Braves,105,Los Angeles Lakers,126,0,N
+1975-11-28,1976,Seattle SuperSonics,94,Philadelphia 76ers,113,0,N
+1975-11-28,1976,Portland Trail Blazers,101,Phoenix Suns,110,0,N
+1975-11-29,1976,Seattle SuperSonics,108,Cleveland Cavaliers,124,0,N
+1975-11-29,1976,Phoenix Suns,100,Golden State Warriors,112,0,N
+1975-11-29,1976,Philadelphia 76ers,98,Houston Rockets,99,0,N
+1975-11-29,1976,Chicago Bulls,85,Milwaukee Bucks,88,0,N
+1975-11-29,1976,Detroit Pistons,115,New York Knicks,110,0,N
+1975-11-29,1976,Buffalo Braves,115,Portland Trail Blazers,130,0,N
+1975-11-30,1976,New York Knicks,98,Kansas City Kings,110,0,N
+1975-11-30,1976,Portland Trail Blazers,109,Los Angeles Lakers,116,0,N
+1975-11-30,1976,Philadelphia 76ers,113,New Orleans Jazz,96,0,N
+1975-12-02,1976,New Orleans Jazz,108,Buffalo Braves,96,0,N
+1975-12-02,1976,Houston Rockets,91,Chicago Bulls,77,0,N
+1975-12-02,1976,Portland Trail Blazers,80,Cleveland Cavaliers,91,0,N
+1975-12-02,1976,Seattle SuperSonics,101,Kansas City Kings,90,0,N
+1975-12-02,1976,Boston Celtics,103,New York Knicks,100,0,N
+1975-12-02,1976,Golden State Warriors,98,Phoenix Suns,115,0,N
+1975-12-02,1976,Los Angeles Lakers,104,Washington Bullets,107,0,N
+1975-12-03,1976,Chicago Bulls,109,Boston Celtics,106,0,N
+1975-12-03,1976,Los Angeles Lakers,118,Detroit Pistons,110,0,N
+1975-12-03,1976,Seattle SuperSonics,101,Houston Rockets,107,0,N
+1975-12-03,1976,Portland Trail Blazers,92,Milwaukee Bucks,114,0,N
+1975-12-03,1976,New Orleans Jazz,94,Philadelphia 76ers,102,0,N
+1975-12-04,1976,Portland Trail Blazers,87,Atlanta Hawks,94,0,N
+1975-12-04,1976,Cleveland Cavaliers,101,Kansas City Kings,105,0,N
+1975-12-05,1976,New Orleans Jazz,93,Boston Celtics,104,0,N
+1975-12-05,1976,Cleveland Cavaliers,88,Buffalo Braves,125,0,N
+1975-12-05,1976,Houston Rockets,91,Detroit Pistons,102,0,N
+1975-12-05,1976,Kansas City Kings,95,Milwaukee Bucks,103,0,N
+1975-12-05,1976,New York Knicks,97,Philadelphia 76ers,99,0,N
+1975-12-05,1976,Washington Bullets,92,Phoenix Suns,87,0,N
+1975-12-06,1976,Boston Celtics,111,Atlanta Hawks,104,0,N
+1975-12-06,1976,Portland Trail Blazers,90,Chicago Bulls,77,0,N
+1975-12-06,1976,Seattle SuperSonics,94,Golden State Warriors,104,0,N
+1975-12-06,1976,Detroit Pistons,96,Houston Rockets,105,0,N
+1975-12-06,1976,Philadelphia 76ers,98,Kansas City Kings,84,0,N
+1975-12-06,1976,Buffalo Braves,98,New York Knicks,108,0,N
+1975-12-07,1976,Washington Bullets,106,Los Angeles Lakers,114,0,N
+1975-12-07,1976,Chicago Bulls,97,Phoenix Suns,114,0,N
+1975-12-07,1976,Golden State Warriors,115,Seattle SuperSonics,106,0,N
+1975-12-09,1976,Kansas City Kings,107,Buffalo Braves,126,0,N
+1975-12-09,1976,Detroit Pistons,124,Golden State Warriors,129,0,N
+1975-12-09,1976,Phoenix Suns,104,New Orleans Jazz,89,0,N
+1975-12-09,1976,Milwaukee Bucks,109,New York Knicks,100,0,N
+1975-12-09,1976,Cleveland Cavaliers,85,Philadelphia 76ers,100,0,N
+1975-12-09,1976,Washington Bullets,116,Portland Trail Blazers,95,0,N
+1975-12-10,1976,Milwaukee Bucks,98,Boston Celtics,111,0,N
+1975-12-10,1976,Phoenix Suns,105,Houston Rockets,91,0,N
+1975-12-10,1976,Atlanta Hawks,94,Kansas City Kings,100,0,N
+1975-12-10,1976,Chicago Bulls,79,Seattle SuperSonics,99,0,N
+1975-12-11,1976,Buffalo Braves,99,Atlanta Hawks,122,0,N
+1975-12-11,1976,New York Knicks,95,Cleveland Cavaliers,109,0,N
+1975-12-11,1976,Portland Trail Blazers,89,Golden State Warriors,101,0,N
+1975-12-11,1976,Philadelphia 76ers,110,Phoenix Suns,106,0,N
+1975-12-11,1976,New Orleans Jazz,109,Washington Bullets,117,0,N
+1975-12-12,1976,Washington Bullets,108,Boston Celtics,130,0,N
+1975-12-12,1976,New York Knicks,110,Buffalo Braves,123,0,N
+1975-12-12,1976,Chicago Bulls,99,Kansas City Kings,109,0,N
+1975-12-12,1976,Philadelphia 76ers,102,Los Angeles Lakers,114,0,N
+1975-12-12,1976,Cleveland Cavaliers,109,Milwaukee Bucks,91,0,N
+1975-12-12,1976,Detroit Pistons,95,Seattle SuperSonics,97,0,N
+1975-12-13,1976,Kansas City Kings,101,Atlanta Hawks,115,0,N
+1975-12-13,1976,Buffalo Braves,103,Chicago Bulls,101,0,N
+1975-12-13,1976,New Orleans Jazz,90,Cleveland Cavaliers,112,0,N
+1975-12-13,1976,Boston Celtics,137,Houston Rockets,120,0,N
+1975-12-13,1976,Washington Bullets,107,New York Knicks,126,0,N
+1975-12-13,1976,Los Angeles Lakers,108,Phoenix Suns,116,0,N
+1975-12-13,1976,Detroit Pistons,91,Portland Trail Blazers,101,0,N
+1975-12-14,1976,Golden State Warriors,115,Kansas City Kings,105,0,N
+1975-12-14,1976,Detroit Pistons,100,Los Angeles Lakers,110,0,N
+1975-12-14,1976,Boston Celtics,102,New Orleans Jazz,93,0,N
+1975-12-14,1976,Phoenix Suns,105,Portland Trail Blazers,96,0,N
+1975-12-14,1976,Philadelphia 76ers,105,Seattle SuperSonics,114,0,N
+1975-12-16,1976,Golden State Warriors,91,Chicago Bulls,87,0,N
+1975-12-16,1976,Houston Rockets,111,Kansas City Kings,100,0,N
+1975-12-16,1976,Cleveland Cavaliers,123,Los Angeles Lakers,103,0,N
+1975-12-16,1976,Atlanta Hawks,96,New York Knicks,97,0,N
+1975-12-16,1976,Philadelphia 76ers,105,Portland Trail Blazers,98,0,N
+1975-12-16,1976,Buffalo Braves,94,Washington Bullets,100,0,N
+1975-12-17,1976,Kansas City Kings,104,Boston Celtics,118,0,N
+1975-12-17,1976,Houston Rockets,85,Buffalo Braves,88,0,N
+1975-12-17,1976,Golden State Warriors,113,Detroit Pistons,102,0,N
+1975-12-17,1976,Washington Bullets,88,New Orleans Jazz,105,0,N
+1975-12-17,1976,Milwaukee Bucks,111,Phoenix Suns,116,0,N
+1975-12-17,1976,Cleveland Cavaliers,115,Seattle SuperSonics,101,0,N
+1975-12-18,1976,Los Angeles Lakers,98,Atlanta Hawks,114,0,N
+1975-12-19,1976,New York Knicks,112,Boston Celtics,120,0,N
+1975-12-19,1976,Washington Bullets,88,Buffalo Braves,104,0,N
+1975-12-19,1976,Los Angeles Lakers,91,Chicago Bulls,104,0,N
+1975-12-19,1976,Philadelphia 76ers,115,Detroit Pistons,114,1,N
+1975-12-19,1976,Atlanta Hawks,107,Houston Rockets,113,0,N
+1975-12-19,1976,Cleveland Cavaliers,128,Phoenix Suns,124,2,N
+1975-12-19,1976,New Orleans Jazz,102,Seattle SuperSonics,113,0,N
+1975-12-20,1976,Houston Rockets,108,Atlanta Hawks,123,0,N
+1975-12-20,1976,Milwaukee Bucks,87,Golden State Warriors,124,0,N
+1975-12-20,1976,Buffalo Braves,117,Kansas City Kings,110,0,N
+1975-12-20,1976,Chicago Bulls,89,New York Knicks,96,0,N
+1975-12-20,1976,Boston Celtics,111,Philadelphia 76ers,97,0,N
+1975-12-20,1976,New Orleans Jazz,105,Portland Trail Blazers,97,0,N
+1975-12-20,1976,Detroit Pistons,86,Washington Bullets,98,0,N
+1975-12-21,1976,Chicago Bulls,97,Atlanta Hawks,90,1,N
+1975-12-21,1976,Los Angeles Lakers,98,Cleveland Cavaliers,99,0,N
+1975-12-21,1976,New Orleans Jazz,120,Phoenix Suns,107,0,N
+1975-12-21,1976,Golden State Warriors,108,Portland Trail Blazers,102,0,N
+1975-12-21,1976,Milwaukee Bucks,103,Seattle SuperSonics,101,0,N
+1975-12-23,1976,Boston Celtics,92,Buffalo Braves,101,0,N
+1975-12-23,1976,Washington Bullets,120,Detroit Pistons,102,0,N
+1975-12-23,1976,New Orleans Jazz,97,Golden State Warriors,105,0,N
+1975-12-23,1976,Chicago Bulls,94,Houston Rockets,103,0,N
+1975-12-23,1976,Kansas City Kings,97,Los Angeles Lakers,111,0,N
+1975-12-23,1976,New York Knicks,110,Milwaukee Bucks,108,0,N
+1975-12-23,1976,Seattle SuperSonics,100,Portland Trail Blazers,125,0,N
+1975-12-25,1976,Houston Rockets,99,New Orleans Jazz,101,0,N
+1975-12-25,1976,Philadelphia 76ers,103,New York Knicks,111,0,N
+1975-12-25,1976,Kansas City Kings,111,Phoenix Suns,122,0,N
+1975-12-25,1976,Atlanta Hawks,94,Washington Bullets,99,0,N
+1975-12-26,1976,Atlanta Hawks,98,Cleveland Cavaliers,97,0,N
+1975-12-26,1976,Chicago Bulls,87,Detroit Pistons,101,0,N
+1975-12-26,1976,Portland Trail Blazers,95,Los Angeles Lakers,104,0,N
+1975-12-26,1976,Washington Bullets,81,Milwaukee Bucks,85,0,N
+1975-12-26,1976,Buffalo Braves,95,Philadelphia 76ers,96,0,N
+1975-12-26,1976,Boston Celtics,112,Phoenix Suns,106,0,N
+1975-12-26,1976,Kansas City Kings,87,Seattle SuperSonics,90,0,N
+1975-12-27,1976,Milwaukee Bucks,82,Atlanta Hawks,87,0,N
+1975-12-27,1976,Philadelphia 76ers,105,Buffalo Braves,130,0,N
+1975-12-27,1976,Detroit Pistons,99,Chicago Bulls,112,0,N
+1975-12-27,1976,Houston Rockets,113,Golden State Warriors,110,0,N
+1975-12-27,1976,New Orleans Jazz,101,New York Knicks,108,0,N
+1975-12-27,1976,Los Angeles Lakers,109,Seattle SuperSonics,100,0,N
+1975-12-27,1976,Cleveland Cavaliers,106,Washington Bullets,100,0,N
+1975-12-28,1976,Buffalo Braves,88,Cleveland Cavaliers,111,0,N
+1975-12-28,1976,Detroit Pistons,103,Kansas City Kings,87,0,N
+1975-12-28,1976,Boston Celtics,123,Los Angeles Lakers,113,0,N
+1975-12-28,1976,Phoenix Suns,85,Milwaukee Bucks,88,0,N
+1975-12-28,1976,Golden State Warriors,92,Portland Trail Blazers,96,0,N
+1975-12-28,1976,Houston Rockets,106,Seattle SuperSonics,116,0,N
+1975-12-29,1976,New York Knicks,94,Chicago Bulls,93,0,N
+1975-12-30,1976,Milwaukee Bucks,106,Buffalo Braves,118,0,N
+1975-12-30,1976,Kansas City Kings,106,Cleveland Cavaliers,110,0,N
+1975-12-30,1976,Boston Celtics,101,Golden State Warriors,133,0,N
+1975-12-30,1976,Seattle SuperSonics,112,Los Angeles Lakers,100,0,N
+1975-12-30,1976,Phoenix Suns,88,New York Knicks,114,0,N
+1975-12-30,1976,Detroit Pistons,108,Philadelphia 76ers,114,0,N
+1975-12-30,1976,Chicago Bulls,81,Washington Bullets,96,0,N
+1976-01-01,1976,Houston Rockets,110,Portland Trail Blazers,107,0,N
+1976-01-01,1976,Phoenix Suns,103,Washington Bullets,114,0,N
+1976-01-02,1976,New York Knicks,105,Buffalo Braves,106,0,N
+1976-01-02,1976,Washington Bullets,107,Chicago Bulls,99,1,N
+1976-01-02,1976,Milwaukee Bucks,98,Detroit Pistons,83,0,N
+1976-01-02,1976,Golden State Warriors,113,Los Angeles Lakers,105,0,N
+1976-01-02,1976,Atlanta Hawks,95,New Orleans Jazz,111,0,N
+1976-01-02,1976,Cleveland Cavaliers,101,Philadelphia 76ers,112,0,N
+1976-01-02,1976,Boston Celtics,102,Seattle SuperSonics,98,0,N
+1976-01-03,1976,Phoenix Suns,100,Atlanta Hawks,89,0,N
+1976-01-03,1976,Detroit Pistons,104,Cleveland Cavaliers,100,0,N
+1976-01-03,1976,Los Angeles Lakers,99,Golden State Warriors,130,0,N
+1976-01-03,1976,Houston Rockets,101,Milwaukee Bucks,126,0,N
+1976-01-03,1976,Kansas City Kings,95,New Orleans Jazz,120,0,N
+1976-01-03,1976,Buffalo Braves,106,New York Knicks,107,0,N
+1976-01-03,1976,Boston Celtics,97,Portland Trail Blazers,125,0,N
+1976-01-03,1976,Philadelphia 76ers,104,Washington Bullets,119,0,N
+1976-01-04,1976,Phoenix Suns,86,Kansas City Kings,98,0,N
+1976-01-04,1976,Portland Trail Blazers,101,Los Angeles Lakers,110,0,N
+1976-01-04,1976,Golden State Warriors,85,Seattle SuperSonics,97,0,N
+1976-01-05,1976,Houston Rockets,97,Chicago Bulls,98,0,N
+1976-01-06,1976,Los Angeles Lakers,113,Buffalo Braves,114,0,N
+1976-01-06,1976,New Orleans Jazz,104,Chicago Bulls,98,0,N
+1976-01-06,1976,Washington Bullets,103,Kansas City Kings,98,0,N
+1976-01-06,1976,Atlanta Hawks,91,Milwaukee Bucks,87,0,N
+1976-01-06,1976,New York Knicks,112,Portland Trail Blazers,97,0,N
+1976-01-07,1976,Los Angeles Lakers,103,Boston Celtics,109,0,N
+1976-01-07,1976,Cleveland Cavaliers,118,Detroit Pistons,119,1,N
+1976-01-07,1976,Kansas City Kings,108,Houston Rockets,106,0,N
+1976-01-07,1976,Milwaukee Bucks,102,Philadelphia 76ers,112,0,N
+1976-01-07,1976,Golden State Warriors,114,Phoenix Suns,110,0,N
+1976-01-07,1976,New York Knicks,89,Seattle SuperSonics,91,0,N
+1976-01-08,1976,Houston Rockets,115,Atlanta Hawks,106,0,N
+1976-01-08,1976,Philadelphia 76ers,105,Cleveland Cavaliers,115,0,N
+1976-01-08,1976,Phoenix Suns,113,Golden State Warriors,129,0,N
+1976-01-08,1976,New Orleans Jazz,107,Kansas City Kings,97,0,N
+1976-01-09,1976,Washington Bullets,113,Boston Celtics,118,0,N
+1976-01-09,1976,Chicago Bulls,107,Buffalo Braves,100,0,N
+1976-01-09,1976,Detroit Pistons,95,Milwaukee Bucks,102,0,N
+1976-01-09,1976,Los Angeles Lakers,106,Philadelphia 76ers,109,0,N
+1976-01-09,1976,Seattle SuperSonics,112,Phoenix Suns,110,1,N
+1976-01-10,1976,Cleveland Cavaliers,106,Atlanta Hawks,100,0,N
+1976-01-10,1976,Kansas City Kings,84,Chicago Bulls,111,0,N
+1976-01-10,1976,New Orleans Jazz,104,Detroit Pistons,99,0,N
+1976-01-10,1976,New York Knicks,87,Golden State Warriors,117,0,N
+1976-01-10,1976,Portland Trail Blazers,94,Houston Rockets,105,0,N
+1976-01-10,1976,Milwaukee Bucks,87,Washington Bullets,107,0,N
+1976-01-11,1976,Portland Trail Blazers,116,Atlanta Hawks,109,0,N
+1976-01-11,1976,Washington Bullets,104,Cleveland Cavaliers,106,0,N
+1976-01-11,1976,Detroit Pistons,99,Kansas City Kings,105,0,N
+1976-01-11,1976,Los Angeles Lakers,89,Milwaukee Bucks,95,0,N
+1976-01-11,1976,Boston Celtics,107,Philadelphia 76ers,118,0,N
+1976-01-11,1976,New York Knicks,99,Phoenix Suns,98,0,N
+1976-01-11,1976,Buffalo Braves,125,Seattle SuperSonics,104,0,N
+1976-01-13,1976,Portland Trail Blazers,94,Boston Celtics,106,0,N
+1976-01-13,1976,Los Angeles Lakers,104,Chicago Bulls,102,0,N
+1976-01-13,1976,Buffalo Braves,101,Golden State Warriors,127,0,N
+1976-01-13,1976,Seattle SuperSonics,108,Milwaukee Bucks,114,0,N
+1976-01-14,1976,Seattle SuperSonics,112,Atlanta Hawks,110,0,N
+1976-01-14,1976,New York Knicks,107,Houston Rockets,103,1,N
+1976-01-14,1976,Boston Celtics,101,Kansas City Kings,106,0,N
+1976-01-14,1976,New Orleans Jazz,95,Philadelphia 76ers,100,0,N
+1976-01-14,1976,Cleveland Cavaliers,88,Washington Bullets,92,0,N
+1976-01-15,1976,Atlanta Hawks,98,Cleveland Cavaliers,91,0,N
+1976-01-15,1976,Buffalo Braves,126,Phoenix Suns,119,0,N
+1976-01-16,1976,Philadelphia 76ers,110,Boston Celtics,118,0,N
+1976-01-16,1976,Buffalo Braves,110,Chicago Bulls,104,0,N
+1976-01-16,1976,Portland Trail Blazers,111,Detroit Pistons,104,0,N
+1976-01-16,1976,Golden State Warriors,128,Houston Rockets,103,0,N
+1976-01-16,1976,New York Knicks,102,Kansas City Kings,90,0,N
+1976-01-16,1976,New Orleans Jazz,94,Milwaukee Bucks,92,0,N
+1976-01-16,1976,Seattle SuperSonics,85,Washington Bullets,100,0,N
+1976-01-17,1976,Golden State Warriors,91,Atlanta Hawks,97,0,N
+1976-01-17,1976,Seattle SuperSonics,101,Buffalo Braves,110,0,N
+1976-01-17,1976,Boston Celtics,94,Chicago Bulls,92,0,N
+1976-01-17,1976,Phoenix Suns,85,Cleveland Cavaliers,105,0,N
+1976-01-17,1976,New Orleans Jazz,103,Houston Rockets,97,0,N
+1976-01-17,1976,Portland Trail Blazers,102,Kansas City Kings,94,0,N
+1976-01-17,1976,Philadelphia 76ers,103,Washington Bullets,105,0,N
+1976-01-18,1976,Phoenix Suns,122,Detroit Pistons,118,0,N
+1976-01-18,1976,Boston Celtics,97,Milwaukee Bucks,94,0,N
+1976-01-19,1976,Washington Bullets,96,Houston Rockets,115,0,N
+1976-01-20,1976,Phoenix Suns,103,Buffalo Braves,112,0,N
+1976-01-20,1976,Atlanta Hawks,100,Chicago Bulls,86,0,N
+1976-01-20,1976,Boston Celtics,85,Cleveland Cavaliers,98,0,N
+1976-01-20,1976,Golden State Warriors,116,Kansas City Kings,103,0,N
+1976-01-20,1976,Philadelphia 76ers,111,Milwaukee Bucks,108,0,N
+1976-01-20,1976,Portland Trail Blazers,104,New York Knicks,107,0,N
+1976-01-20,1976,Detroit Pistons,114,Washington Bullets,107,0,N
+1976-01-21,1976,Buffalo Braves,102,Atlanta Hawks,94,0,N
+1976-01-21,1976,Phoenix Suns,100,Boston Celtics,114,0,N
+1976-01-21,1976,Seattle SuperSonics,104,Detroit Pistons,111,0,N
+1976-01-21,1976,Chicago Bulls,102,New Orleans Jazz,93,0,N
+1976-01-22,1976,Seattle SuperSonics,99,Cleveland Cavaliers,109,0,N
+1976-01-22,1976,Los Angeles Lakers,105,Golden State Warriors,129,0,N
+1976-01-22,1976,New Orleans Jazz,86,Washington Bullets,109,0,N
+1976-01-23,1976,Detroit Pistons,91,Boston Celtics,108,0,N
+1976-01-23,1976,Atlanta Hawks,104,Buffalo Braves,119,0,N
+1976-01-23,1976,Kansas City Kings,97,Milwaukee Bucks,113,0,N
+1976-01-23,1976,Philadelphia 76ers,92,New York Knicks,104,0,N
+1976-01-23,1976,Houston Rockets,115,Phoenix Suns,124,0,N
+1976-01-23,1976,Los Angeles Lakers,96,Portland Trail Blazers,119,0,N
+1976-01-24,1976,Milwaukee Bucks,89,Cleveland Cavaliers,132,0,N
+1976-01-24,1976,New York Knicks,117,Detroit Pistons,100,0,N
+1976-01-24,1976,Portland Trail Blazers,125,Golden State Warriors,123,1,N
+1976-01-24,1976,Seattle SuperSonics,103,Houston Rockets,110,0,N
+1976-01-24,1976,Atlanta Hawks,116,Philadelphia 76ers,130,0,N
+1976-01-24,1976,Washington Bullets,100,Phoenix Suns,84,0,N
+1976-01-25,1976,Philadelphia 76ers,112,Atlanta Hawks,109,0,N
+1976-01-25,1976,Buffalo Braves,107,Boston Celtics,135,0,N
+1976-01-25,1976,Chicago Bulls,110,Kansas City Kings,118,0,N
+1976-01-25,1976,Washington Bullets,105,Los Angeles Lakers,101,0,N
+1976-01-26,1976,Golden State Warriors,115,Milwaukee Bucks,104,0,N
+1976-01-27,1976,New Orleans Jazz,105,Buffalo Braves,129,0,N
+1976-01-27,1976,Golden State Warriors,103,Chicago Bulls,110,0,N
+1976-01-27,1976,Detroit Pistons,83,Cleveland Cavaliers,85,0,N
+1976-01-27,1976,Philadelphia 76ers,116,Houston Rockets,127,0,N
+1976-01-27,1976,Milwaukee Bucks,89,Kansas City Kings,107,0,N
+1976-01-27,1976,Atlanta Hawks,114,New York Knicks,113,0,N
+1976-01-27,1976,Washington Bullets,105,Portland Trail Blazers,118,0,N
+1976-01-28,1976,Atlanta Hawks,99,Boston Celtics,110,0,N
+1976-01-28,1976,Chicago Bulls,87,Detroit Pistons,84,0,N
+1976-01-28,1976,Cleveland Cavaliers,93,Houston Rockets,108,0,N
+1976-01-28,1976,Phoenix Suns,118,Los Angeles Lakers,121,0,N
+1976-01-28,1976,Buffalo Braves,126,New Orleans Jazz,112,0,N
+1976-01-28,1976,Seattle SuperSonics,104,Portland Trail Blazers,124,0,N
+1976-01-29,1976,New York Knicks,109,Atlanta Hawks,112,0,N
+1976-01-29,1976,Philadelphia 76ers,114,Golden State Warriors,123,0,N
+1976-01-29,1976,Houston Rockets,86,Kansas City Kings,119,0,N
+1976-01-29,1976,Milwaukee Bucks,105,Phoenix Suns,96,0,N
+1976-01-30,1976,Cleveland Cavaliers,91,Chicago Bulls,89,0,N
+1976-01-30,1976,Kansas City Kings,94,Detroit Pistons,101,0,N
+1976-01-30,1976,Portland Trail Blazers,121,Los Angeles Lakers,113,0,N
+1976-01-30,1976,New York Knicks,97,New Orleans Jazz,119,0,N
+1976-01-30,1976,Washington Bullets,100,Seattle SuperSonics,123,0,N
+1976-01-31,1976,New Orleans Jazz,108,Atlanta Hawks,95,0,N
+1976-01-31,1976,Boston Celtics,109,Buffalo Braves,100,0,N
+1976-01-31,1976,Kansas City Kings,104,Chicago Bulls,96,0,N
+1976-01-31,1976,Milwaukee Bucks,88,Golden State Warriors,90,1,N
+1976-01-31,1976,Houston Rockets,130,New York Knicks,114,0,N
+1976-01-31,1976,Philadelphia 76ers,105,Phoenix Suns,119,0,N
+1976-02-01,1976,Chicago Bulls,80,Atlanta Hawks,84,0,N
+1976-02-01,1976,Boston Celtics,114,Detroit Pistons,109,0,N
+1976-02-01,1976,Washington Bullets,101,Golden State Warriors,99,0,N
+1976-02-01,1976,Philadelphia 76ers,82,Los Angeles Lakers,103,0,N
+1976-02-01,1976,Cleveland Cavaliers,95,New Orleans Jazz,96,0,N
+1976-02-01,1976,Milwaukee Bucks,97,Portland Trail Blazers,107,0,N
+1976-02-05,1976,Detroit Pistons,111,Atlanta Hawks,108,0,N
+1976-02-05,1976,New Orleans Jazz,114,Houston Rockets,111,0,N
+1976-02-05,1976,Los Angeles Lakers,109,Kansas City Kings,117,0,N
+1976-02-06,1976,Milwaukee Bucks,104,Buffalo Braves,109,0,N
+1976-02-06,1976,Los Angeles Lakers,106,Chicago Bulls,112,0,N
+1976-02-06,1976,Kansas City Kings,101,New Orleans Jazz,108,0,N
+1976-02-06,1976,Cleveland Cavaliers,92,Philadelphia 76ers,87,0,N
+1976-02-06,1976,Golden State Warriors,111,Phoenix Suns,118,0,N
+1976-02-06,1976,Portland Trail Blazers,109,Seattle SuperSonics,100,0,N
+1976-02-07,1976,Washington Bullets,103,Atlanta Hawks,90,0,N
+1976-02-07,1976,Milwaukee Bucks,114,Detroit Pistons,106,0,N
+1976-02-07,1976,Seattle SuperSonics,100,Golden State Warriors,127,0,N
+1976-02-07,1976,Chicago Bulls,87,Houston Rockets,89,0,N
+1976-02-07,1976,Boston Celtics,106,New York Knicks,98,0,N
+1976-02-08,1976,Los Angeles Lakers,97,Atlanta Hawks,89,0,N
+1976-02-08,1976,New York Knicks,97,Boston Celtics,89,0,N
+1976-02-08,1976,Washington Bullets,78,Cleveland Cavaliers,83,0,N
+1976-02-08,1976,Detroit Pistons,94,Kansas City Kings,93,0,N
+1976-02-08,1976,Chicago Bulls,96,New Orleans Jazz,92,0,N
+1976-02-08,1976,Buffalo Braves,97,Philadelphia 76ers,100,0,N
+1976-02-08,1976,Golden State Warriors,109,Portland Trail Blazers,105,0,N
+1976-02-08,1976,Phoenix Suns,107,Seattle SuperSonics,101,1,N
+1976-02-09,1976,Kansas City Kings,86,Houston Rockets,105,0,N
+1976-02-10,1976,Kansas City Kings,89,Atlanta Hawks,111,0,N
+1976-02-10,1976,Washington Bullets,105,Buffalo Braves,115,0,N
+1976-02-10,1976,Philadelphia 76ers,85,Chicago Bulls,84,0,N
+1976-02-10,1976,New Orleans Jazz,130,Golden State Warriors,124,1,N
+1976-02-10,1976,Detroit Pistons,88,Los Angeles Lakers,106,0,N
+1976-02-10,1976,New York Knicks,104,Milwaukee Bucks,97,0,N
+1976-02-11,1976,Boston Celtics,103,Houston Rockets,115,0,N
+1976-02-11,1976,Milwaukee Bucks,109,New York Knicks,95,0,N
+1976-02-11,1976,Portland Trail Blazers,106,Philadelphia 76ers,118,0,N
+1976-02-11,1976,Detroit Pistons,94,Phoenix Suns,123,0,N
+1976-02-11,1976,New Orleans Jazz,90,Seattle SuperSonics,93,0,N
+1976-02-12,1976,Chicago Bulls,83,Cleveland Cavaliers,86,0,N
+1976-02-12,1976,Atlanta Hawks,104,Golden State Warriors,113,0,N
+1976-02-12,1976,Portland Trail Blazers,81,Washington Bullets,92,0,N
+1976-02-13,1976,Buffalo Braves,101,Kansas City Kings,96,0,N
+1976-02-13,1976,New Orleans Jazz,112,Los Angeles Lakers,126,0,N
+1976-02-13,1976,Cleveland Cavaliers,101,Milwaukee Bucks,96,0,N
+1976-02-13,1976,Houston Rockets,109,Philadelphia 76ers,134,0,N
+1976-02-13,1976,Boston Celtics,109,Phoenix Suns,108,0,N
+1976-02-13,1976,Atlanta Hawks,102,Seattle SuperSonics,119,0,N
+1976-02-14,1976,Cleveland Cavaliers,114,Buffalo Braves,111,0,N
+1976-02-14,1976,Milwaukee Bucks,95,Chicago Bulls,89,0,N
+1976-02-14,1976,Detroit Pistons,105,Golden State Warriors,106,1,N
+1976-02-14,1976,Philadelphia 76ers,97,New York Knicks,101,1,N
+1976-02-14,1976,New Orleans Jazz,93,Phoenix Suns,112,0,N
+1976-02-14,1976,Seattle SuperSonics,122,Portland Trail Blazers,108,0,N
+1976-02-14,1976,Houston Rockets,89,Washington Bullets,108,0,N
+1976-02-15,1976,Buffalo Braves,104,Atlanta Hawks,112,0,N
+1976-02-15,1976,Houston Rockets,105,Milwaukee Bucks,113,0,N
+1976-02-15,1976,New York Knicks,88,Philadelphia 76ers,82,0,N
+1976-02-15,1976,Boston Celtics,105,Portland Trail Blazers,109,0,N
+1976-02-15,1976,Detroit Pistons,107,Seattle SuperSonics,109,0,N
+1976-02-15,1976,Los Angeles Lakers,88,Washington Bullets,101,0,N
+1976-02-17,1976,Portland Trail Blazers,113,Buffalo Braves,116,0,N
+1976-02-17,1976,Phoenix Suns,111,Chicago Bulls,114,1,N
+1976-02-17,1976,Atlanta Hawks,92,Cleveland Cavaliers,112,0,N
+1976-02-17,1976,Philadelphia 76ers,107,Kansas City Kings,125,0,N
+1976-02-17,1976,Washington Bullets,113,Milwaukee Bucks,112,0,N
+1976-02-17,1976,Los Angeles Lakers,115,New Orleans Jazz,101,0,N
+1976-02-17,1976,Golden State Warriors,104,New York Knicks,96,0,N
+1976-02-18,1976,Phoenix Suns,94,Detroit Pistons,105,0,N
+1976-02-18,1976,Los Angeles Lakers,98,Houston Rockets,114,0,N
+1976-02-18,1976,Golden State Warriors,91,Kansas City Kings,103,0,N
+1976-02-18,1976,Boston Celtics,99,Seattle SuperSonics,124,0,N
+1976-02-19,1976,Portland Trail Blazers,94,Cleveland Cavaliers,112,0,N
+1976-02-20,1976,Portland Trail Blazers,74,Chicago Bulls,130,0,N
+1976-02-20,1976,Washington Bullets,87,Detroit Pistons,102,0,N
+1976-02-20,1976,Milwaukee Bucks,108,Houston Rockets,110,0,N
+1976-02-20,1976,Boston Celtics,125,Los Angeles Lakers,113,0,N
+1976-02-20,1976,Phoenix Suns,103,New Orleans Jazz,102,0,N
+1976-02-20,1976,Philadelphia 76ers,92,Seattle SuperSonics,111,0,N
+1976-02-21,1976,Detroit Pistons,114,Buffalo Braves,112,0,N
+1976-02-21,1976,Boston Celtics,94,Golden State Warriors,100,0,N
+1976-02-21,1976,Phoenix Suns,110,Houston Rockets,108,1,N
+1976-02-21,1976,Portland Trail Blazers,116,Kansas City Kings,97,0,N
+1976-02-21,1976,New Orleans Jazz,98,New York Knicks,102,0,N
+1976-02-21,1976,Atlanta Hawks,95,Washington Bullets,103,0,N
+1976-02-22,1976,Houston Rockets,103,Cleveland Cavaliers,107,0,N
+1976-02-22,1976,Philadelphia 76ers,93,Golden State Warriors,94,0,N
+1976-02-22,1976,Chicago Bulls,112,Milwaukee Bucks,115,0,N
+1976-02-22,1976,Atlanta Hawks,94,New Orleans Jazz,102,0,N
+1976-02-22,1976,Los Angeles Lakers,91,Seattle SuperSonics,97,0,N
+1976-02-23,1976,Cleveland Cavaliers,114,Houston Rockets,117,0,N
+1976-02-24,1976,Washington Bullets,92,Chicago Bulls,83,0,N
+1976-02-24,1976,Buffalo Braves,109,New York Knicks,103,0,N
+1976-02-24,1976,Kansas City Kings,120,Phoenix Suns,117,1,N
+1976-02-24,1976,Philadelphia 76ers,106,Portland Trail Blazers,102,0,N
+1976-02-25,1976,Houston Rockets,102,Boston Celtics,103,0,N
+1976-02-25,1976,Seattle SuperSonics,126,Buffalo Braves,94,0,N
+1976-02-25,1976,Cleveland Cavaliers,108,Detroit Pistons,101,0,N
+1976-02-25,1976,Washington Bullets,104,New Orleans Jazz,105,0,N
+1976-02-26,1976,Atlanta Hawks,97,Phoenix Suns,115,0,N
+1976-02-26,1976,New Orleans Jazz,108,Washington Bullets,118,0,N
+1976-02-27,1976,Seattle SuperSonics,118,Boston Celtics,122,0,N
+1976-02-27,1976,Houston Rockets,113,Buffalo Braves,107,0,N
+1976-02-27,1976,New York Knicks,93,Detroit Pistons,97,0,N
+1976-02-27,1976,Kansas City Kings,90,Los Angeles Lakers,97,0,N
+1976-02-27,1976,Golden State Warriors,121,Philadelphia 76ers,114,0,N
+1976-02-28,1976,Milwaukee Bucks,112,New Orleans Jazz,99,0,N
+1976-02-28,1976,Chicago Bulls,85,New York Knicks,93,0,N
+1976-02-28,1976,Kansas City Kings,105,Portland Trail Blazers,119,0,N
+1976-02-28,1976,Phoenix Suns,89,Washington Bullets,92,0,N
+1976-02-29,1976,Golden State Warriors,101,Boston Celtics,119,0,N
+1976-02-29,1976,Phoenix Suns,109,Detroit Pistons,98,0,N
+1976-02-29,1976,Cleveland Cavaliers,97,Los Angeles Lakers,108,0,N
+1976-02-29,1976,Seattle SuperSonics,115,Philadelphia 76ers,130,0,N
+1976-02-29,1976,Atlanta Hawks,98,Portland Trail Blazers,102,0,N
+1976-02-29,1976,Houston Rockets,108,Washington Bullets,110,0,N
+1976-03-02,1976,Golden State Warriors,100,Buffalo Braves,93,0,N
+1976-03-02,1976,Detroit Pistons,113,Kansas City Kings,127,0,N
+1976-03-02,1976,New Orleans Jazz,109,Milwaukee Bucks,111,1,N
+1976-03-02,1976,Seattle SuperSonics,109,New York Knicks,105,0,N
+1976-03-02,1976,Chicago Bulls,105,Portland Trail Blazers,116,0,N
+1976-03-02,1976,Philadelphia 76ers,111,Washington Bullets,128,0,N
+1976-03-03,1976,Seattle SuperSonics,110,Detroit Pistons,114,0,N
+1976-03-03,1976,Houston Rockets,113,New Orleans Jazz,105,0,N
+1976-03-03,1976,Boston Celtics,110,Philadelphia 76ers,123,0,N
+1976-03-03,1976,Cleveland Cavaliers,92,Phoenix Suns,108,0,N
+1976-03-04,1976,Boston Celtics,98,Atlanta Hawks,103,0,N
+1976-03-04,1976,Chicago Bulls,110,Golden State Warriors,124,0,N
+1976-03-04,1976,Washington Bullets,113,Houston Rockets,106,0,N
+1976-03-04,1976,Kansas City Kings,95,Milwaukee Bucks,99,0,N
+1976-03-05,1976,Seattle SuperSonics,93,Kansas City Kings,111,0,N
+1976-03-05,1976,Golden State Warriors,99,Los Angeles Lakers,106,0,N
+1976-03-05,1976,Boston Celtics,98,New Orleans Jazz,93,0,N
+1976-03-05,1976,Detroit Pistons,112,Philadelphia 76ers,123,0,N
+1976-03-05,1976,Chicago Bulls,97,Phoenix Suns,99,0,N
+1976-03-05,1976,Cleveland Cavaliers,113,Portland Trail Blazers,100,0,N
+1976-03-06,1976,Philadelphia 76ers,99,Buffalo Braves,105,0,N
+1976-03-06,1976,Cleveland Cavaliers,106,Golden State Warriors,117,0,N
+1976-03-06,1976,Atlanta Hawks,97,Houston Rockets,101,0,N
+1976-03-06,1976,Washington Bullets,107,New York Knicks,116,0,N
+1976-03-06,1976,Phoenix Suns,99,Portland Trail Blazers,118,0,N
+1976-03-07,1976,Houston Rockets,106,Atlanta Hawks,123,0,N
+1976-03-07,1976,Detroit Pistons,87,Boston Celtics,88,0,N
+1976-03-07,1976,Milwaukee Bucks,97,Kansas City Kings,113,0,N
+1976-03-07,1976,Chicago Bulls,91,Los Angeles Lakers,88,0,N
+1976-03-07,1976,Seattle SuperSonics,106,New Orleans Jazz,124,0,N
+1976-03-07,1976,Portland Trail Blazers,84,Phoenix Suns,106,0,N
+1976-03-07,1976,New York Knicks,81,Washington Bullets,92,0,N
+1976-03-09,1976,New Orleans Jazz,117,Boston Celtics,99,0,N
+1976-03-09,1976,Seattle SuperSonics,101,Chicago Bulls,102,0,N
+1976-03-09,1976,Golden State Warriors,112,Detroit Pistons,108,0,N
+1976-03-09,1976,Los Angeles Lakers,96,New York Knicks,101,0,N
+1976-03-10,1976,Los Angeles Lakers,89,Boston Celtics,92,0,N
+1976-03-10,1976,Portland Trail Blazers,110,Houston Rockets,113,0,N
+1976-03-10,1976,Seattle SuperSonics,110,Milwaukee Bucks,105,0,N
+1976-03-10,1976,Buffalo Braves,120,New Orleans Jazz,105,0,N
+1976-03-10,1976,Phoenix Suns,108,Philadelphia 76ers,125,0,N
+1976-03-11,1976,Phoenix Suns,104,Atlanta Hawks,99,0,N
+1976-03-11,1976,Golden State Warriors,99,Cleveland Cavaliers,110,0,N
+1976-03-12,1976,Houston Rockets,113,Buffalo Braves,100,0,N
+1976-03-12,1976,Kansas City Kings,95,Chicago Bulls,73,0,N
+1976-03-12,1976,New York Knicks,95,Los Angeles Lakers,113,0,N
+1976-03-12,1976,Detroit Pistons,117,Milwaukee Bucks,101,0,N
+1976-03-12,1976,Portland Trail Blazers,101,New Orleans Jazz,110,0,N
+1976-03-12,1976,Atlanta Hawks,107,Philadelphia 76ers,109,0,N
+1976-03-13,1976,New Orleans Jazz,117,Chicago Bulls,111,0,N
+1976-03-13,1976,Phoenix Suns,77,Cleveland Cavaliers,99,0,N
+1976-03-13,1976,Golden State Warriors,111,Houston Rockets,97,0,N
+1976-03-13,1976,Milwaukee Bucks,121,Kansas City Kings,118,0,N
+1976-03-14,1976,Washington Bullets,102,Boston Celtics,89,0,N
+1976-03-14,1976,Atlanta Hawks,113,Kansas City Kings,114,1,N
+1976-03-14,1976,Buffalo Braves,109,Los Angeles Lakers,137,0,N
+1976-03-14,1976,Phoenix Suns,108,Milwaukee Bucks,106,0,N
+1976-03-14,1976,Golden State Warriors,103,New Orleans Jazz,118,0,N
+1976-03-14,1976,Detroit Pistons,103,Portland Trail Blazers,114,0,N
+1976-03-14,1976,New York Knicks,103,Seattle SuperSonics,113,0,N
+1976-03-16,1976,Phoenix Suns,87,Chicago Bulls,120,0,N
+1976-03-16,1976,Los Angeles Lakers,109,Cleveland Cavaliers,105,0,N
+1976-03-16,1976,Detroit Pistons,101,Golden State Warriors,110,0,N
+1976-03-16,1976,New York Knicks,111,Houston Rockets,116,0,N
+1976-03-16,1976,Buffalo Braves,112,Portland Trail Blazers,95,0,N
+1976-03-17,1976,Atlanta Hawks,112,Houston Rockets,124,0,N
+1976-03-17,1976,Los Angeles Lakers,96,Milwaukee Bucks,109,0,N
+1976-03-17,1976,New York Knicks,112,New Orleans Jazz,107,0,N
+1976-03-17,1976,Chicago Bulls,101,Philadelphia 76ers,108,0,N
+1976-03-17,1976,Buffalo Braves,111,Seattle SuperSonics,122,0,N
+1976-03-18,1976,Philadelphia 76ers,104,Cleveland Cavaliers,110,0,N
+1976-03-18,1976,Buffalo Braves,109,Golden State Warriors,110,0,N
+1976-03-18,1976,Detroit Pistons,100,Phoenix Suns,106,0,N
+1976-03-18,1976,Kansas City Kings,102,Washington Bullets,110,0,N
+1976-03-19,1976,Kansas City Kings,117,Boston Celtics,120,1,N
+1976-03-19,1976,Atlanta Hawks,101,Chicago Bulls,108,0,N
+1976-03-19,1976,Detroit Pistons,107,Los Angeles Lakers,122,0,N
+1976-03-19,1976,Cleveland Cavaliers,81,New Orleans Jazz,103,0,N
+1976-03-19,1976,Houston Rockets,105,Portland Trail Blazers,111,0,N
+1976-03-20,1976,Cleveland Cavaliers,107,Atlanta Hawks,99,0,N
+1976-03-20,1976,New Orleans Jazz,101,Buffalo Braves,115,0,N
+1976-03-20,1976,Milwaukee Bucks,106,Golden State Warriors,120,0,N
+1976-03-20,1976,Boston Celtics,103,Philadelphia 76ers,96,1,N
+1976-03-20,1976,Los Angeles Lakers,93,Phoenix Suns,106,0,N
+1976-03-20,1976,New York Knicks,104,Washington Bullets,109,0,N
+1976-03-21,1976,Philadelphia 76ers,100,Boston Celtics,108,0,N
+1976-03-21,1976,Washington Bullets,92,Cleveland Cavaliers,95,0,N
+1976-03-21,1976,Buffalo Braves,112,Detroit Pistons,118,0,N
+1976-03-21,1976,Chicago Bulls,101,Kansas City Kings,112,0,N
+1976-03-21,1976,Milwaukee Bucks,130,Los Angeles Lakers,111,0,N
+1976-03-21,1976,Houston Rockets,107,Seattle SuperSonics,117,0,N
+1976-03-23,1976,Chicago Bulls,109,Buffalo Braves,122,0,N
+1976-03-23,1976,Atlanta Hawks,100,Golden State Warriors,118,0,N
+1976-03-23,1976,Washington Bullets,101,Kansas City Kings,106,0,N
+1976-03-23,1976,Houston Rockets,106,Los Angeles Lakers,125,0,N
+1976-03-23,1976,Boston Celtics,101,New Orleans Jazz,97,1,N
+1976-03-23,1976,Detroit Pistons,122,New York Knicks,116,0,N
+1976-03-23,1976,Seattle SuperSonics,97,Phoenix Suns,104,0,N
+1976-03-23,1976,Milwaukee Bucks,97,Portland Trail Blazers,100,1,N
+1976-03-24,1976,Chicago Bulls,87,Boston Celtics,94,0,N
+1976-03-24,1976,Kansas City Kings,117,Detroit Pistons,130,0,N
+1976-03-24,1976,New York Knicks,100,Philadelphia 76ers,118,0,N
+1976-03-24,1976,Milwaukee Bucks,110,Seattle SuperSonics,135,0,N
+1976-03-25,1976,Buffalo Braves,109,Cleveland Cavaliers,94,0,N
+1976-03-25,1976,Houston Rockets,123,Golden State Warriors,104,0,N
+1976-03-25,1976,Atlanta Hawks,98,Phoenix Suns,107,0,N
+1976-03-25,1976,Portland Trail Blazers,108,Washington Bullets,105,0,N
+1976-03-26,1976,Cleveland Cavaliers,93,Boston Celtics,95,0,N
+1976-03-26,1976,Detroit Pistons,85,Chicago Bulls,77,0,N
+1976-03-26,1976,Atlanta Hawks,85,Los Angeles Lakers,107,0,N
+1976-03-26,1976,Buffalo Braves,92,Milwaukee Bucks,123,0,N
+1976-03-26,1976,Washington Bullets,126,New Orleans Jazz,131,2,N
+1976-03-27,1976,Milwaukee Bucks,99,Cleveland Cavaliers,103,0,N
+1976-03-27,1976,Portland Trail Blazers,94,Detroit Pistons,112,0,N
+1976-03-27,1976,Los Angeles Lakers,97,Golden State Warriors,113,0,N
+1976-03-27,1976,Philadelphia 76ers,95,Houston Rockets,109,0,N
+1976-03-27,1976,Boston Celtics,103,New York Knicks,105,0,N
+1976-03-27,1976,Kansas City Kings,100,Phoenix Suns,117,0,N
+1976-03-27,1976,Chicago Bulls,84,Washington Bullets,99,0,N
+1976-03-28,1976,New York Knicks,94,Boston Celtics,100,0,N
+1976-03-28,1976,Kansas City Kings,117,Golden State Warriors,134,0,N
+1976-03-28,1976,Phoenix Suns,100,Los Angeles Lakers,97,0,N
+1976-03-28,1976,Portland Trail Blazers,100,Milwaukee Bucks,115,0,N
+1976-03-28,1976,Philadelphia 76ers,107,New Orleans Jazz,110,0,N
+1976-03-28,1976,Atlanta Hawks,112,Seattle SuperSonics,127,0,N
+1976-03-28,1976,Buffalo Braves,90,Washington Bullets,113,0,N
+1976-03-30,1976,Boston Celtics,83,Buffalo Braves,93,0,N
+1976-03-30,1976,Golden State Warriors,94,Chicago Bulls,84,0,N
+1976-03-30,1976,Houston Rockets,86,Cleveland Cavaliers,95,0,N
+1976-03-30,1976,Atlanta Hawks,126,Milwaukee Bucks,130,1,N
+1976-03-30,1976,Phoenix Suns,113,New York Knicks,97,0,N
+1976-03-30,1976,Kansas City Kings,113,Portland Trail Blazers,114,0,N
+1976-03-31,1976,Phoenix Suns,102,Boston Celtics,122,0,N
+1976-03-31,1976,Chicago Bulls,96,Detroit Pistons,102,0,N
+1976-03-31,1976,Cleveland Cavaliers,110,New Orleans Jazz,101,0,N
+1976-03-31,1976,Buffalo Braves,103,Philadelphia 76ers,107,0,N
+1976-03-31,1976,Los Angeles Lakers,109,Seattle SuperSonics,120,0,N
+1976-03-31,1976,Golden State Warriors,95,Washington Bullets,88,0,N
+1976-04-01,1976,Boston Celtics,95,Cleveland Cavaliers,88,0,N
+1976-04-02,1976,Houston Rockets,115,Boston Celtics,119,0,N
+1976-04-02,1976,Portland Trail Blazers,103,Phoenix Suns,106,0,N
+1976-04-02,1976,Washington Bullets,94,Philadelphia 76ers,96,0,N
+1976-04-02,1976,Kansas City Kings,107,Milwaukee Bucks,120,0,N
+1976-04-02,1976,Seattle SuperSonics,105,Los Angeles Lakers,113,0,N
+1976-04-02,1976,New Orleans Jazz,102,Detroit Pistons,116,0,N
+1976-04-02,1976,New York Knicks,110,Chicago Bulls,95,0,N
+1976-04-02,1976,Atlanta Hawks,93,Buffalo Braves,101,0,N
+1976-04-03,1976,Milwaukee Bucks,115,Atlanta Hawks,106,0,N
+1976-04-03,1976,Detroit Pistons,93,Chicago Bulls,97,1,N
+1976-04-03,1976,Seattle SuperSonics,115,Golden State Warriors,130,0,N
+1976-04-03,1976,Cleveland Cavaliers,101,Kansas City Kings,104,0,N
+1976-04-03,1976,Phoenix Suns,97,Portland Trail Blazers,112,0,N
+1976-04-04,1976,New Orleans Jazz,129,Washington Bullets,125,1,N
+1976-04-04,1976,Phoenix Suns,89,Seattle SuperSonics,117,0,N
+1976-04-04,1976,Kansas City Kings,95,New York Knicks,115,0,N
+1976-04-04,1976,Philadelphia 76ers,97,Detroit Pistons,101,0,N
+1976-04-04,1976,Atlanta Hawks,92,Cleveland Cavaliers,120,0,N
+1976-04-04,1976,Buffalo Braves,117,Boston Celtics,114,0,N
+1976-04-04,1976,Golden State Warriors,111,Los Angeles Lakers,118,0,N
+1976-04-05,1976,Washington Bullets,133,Atlanta Hawks,105,0,N
+1976-04-05,1976,Milwaukee Bucks,102,Chicago Bulls,97,0,N
+1976-04-05,1976,Houston Rockets,129,Philadelphia 76ers,130,1,N
+1976-04-06,1976,Cleveland Cavaliers,101,Boston Celtics,92,0,N
+1976-04-06,1976,New York Knicks,106,Buffalo Braves,102,0,N
+1976-04-06,1976,Phoenix Suns,106,Golden State Warriors,111,1,N
+1976-04-06,1976,Los Angeles Lakers,104,Portland Trail Blazers,106,0,N
+1976-04-07,1976,Milwaukee Bucks,96,Detroit Pistons,106,0,N
+1976-04-07,1976,Chicago Bulls,114,Seattle SuperSonics,115,0,N
+1976-04-07,1976,New Orleans Jazz,99,Philadelphia 76ers,102,0,N
+1976-04-07,1976,Washington Bullets,115,Houston Rockets,105,0,N
+1976-04-08,1976,New Orleans Jazz,97,Cleveland Cavaliers,111,0,N
+1976-04-08,1976,Portland Trail Blazers,106,Golden State Warriors,121,0,N
+1976-04-08,1976,Boston Celtics,104,Kansas City Kings,131,0,N
+1976-04-08,1976,Buffalo Braves,105,New York Knicks,98,0,N
+1976-04-08,1976,Los Angeles Lakers,98,Phoenix Suns,113,0,N
+1976-04-09,1976,Golden State Warriors,103,Seattle SuperSonics,119,0,N
+1976-04-09,1976,Chicago Bulls,88,Portland Trail Blazers,100,0,N
+1976-04-09,1976,Kansas City Kings,108,Philadelphia 76ers,112,0,N
+1976-04-09,1976,Atlanta Hawks,108,Detroit Pistons,116,0,N
+1976-04-09,1976,Houston Rockets,88,New Orleans Jazz,99,0,N
+1976-04-09,1976,Milwaukee Bucks,106,Boston Celtics,100,0,N
+1976-04-10,1976,Philadelphia 76ers,109,Atlanta Hawks,123,0,N
+1976-04-10,1976,New York Knicks,94,Cleveland Cavaliers,99,0,N
+1976-04-10,1976,Detroit Pistons,99,Houston Rockets,110,0,N
+1976-04-10,1976,Seattle SuperSonics,95,Phoenix Suns,121,0,N
+1976-04-11,1976,Portland Trail Blazers,131,Seattle SuperSonics,132,0,N
+1976-04-11,1976,Boston Celtics,103,Washington Bullets,99,0,N
+1976-04-11,1976,Cleveland Cavaliers,78,New York Knicks,103,0,N
+1976-04-11,1976,Detroit Pistons,105,New Orleans Jazz,112,0,N
+1976-04-11,1976,Chicago Bulls,111,Milwaukee Bucks,77,0,N
+1976-04-11,1976,Kansas City Kings,98,Buffalo Braves,99,0,N
+1976-04-11,1976,Houston Rockets,122,Atlanta Hawks,111,0,N
+1976-04-13,1976,Washington Bullets,100,Cleveland Cavaliers,95,0,Y
+1976-04-13,1976,Detroit Pistons,107,Milwaukee Bucks,110,0,Y
+1976-04-13,1976,Phoenix Suns,99,Seattle SuperSonics,102,0,Y
+1976-04-15,1976,Milwaukee Bucks,123,Detroit Pistons,126,0,Y
+1976-04-15,1976,Buffalo Braves,95,Philadelphia 76ers,89,0,Y
+1976-04-15,1976,Phoenix Suns,116,Seattle SuperSonics,111,0,Y
+1976-04-15,1976,Cleveland Cavaliers,80,Washington Bullets,79,0,Y
+1976-04-16,1976,Philadelphia 76ers,131,Buffalo Braves,106,0,Y
+1976-04-17,1976,Washington Bullets,76,Cleveland Cavaliers,88,0,Y
+1976-04-18,1976,Buffalo Braves,124,Philadelphia 76ers,123,1,Y
+1976-04-18,1976,Seattle SuperSonics,91,Phoenix Suns,103,0,Y
+1976-04-18,1976,Detroit Pistons,107,Milwaukee Bucks,104,0,Y
+1976-04-20,1976,Detroit Pistons,103,Golden State Warriors,127,0,Y
+1976-04-20,1976,Seattle SuperSonics,114,Phoenix Suns,130,0,Y
+1976-04-21,1976,Buffalo Braves,98,Boston Celtics,107,0,Y
+1976-04-21,1976,Cleveland Cavaliers,98,Washington Bullets,109,0,Y
+1976-04-22,1976,Washington Bullets,91,Cleveland Cavaliers,92,0,Y
+1976-04-22,1976,Detroit Pistons,123,Golden State Warriors,111,0,Y
+1976-04-23,1976,Buffalo Braves,96,Boston Celtics,101,0,Y
+1976-04-24,1976,Golden State Warriors,113,Detroit Pistons,96,0,Y
+1976-04-25,1976,Boston Celtics,93,Buffalo Braves,98,0,Y
+1976-04-25,1976,Phoenix Suns,108,Seattle SuperSonics,114,0,Y
+1976-04-26,1976,Golden State Warriors,102,Detroit Pistons,106,0,Y
+1976-04-26,1976,Cleveland Cavaliers,98,Washington Bullets,102,1,Y
+1976-04-27,1976,Seattle SuperSonics,112,Phoenix Suns,123,0,Y
+1976-04-28,1976,Boston Celtics,122,Buffalo Braves,124,0,Y
+1976-04-28,1976,Detroit Pistons,109,Golden State Warriors,128,0,Y
+1976-04-29,1976,Washington Bullets,85,Cleveland Cavaliers,87,0,Y
+1976-04-30,1976,Buffalo Braves,88,Boston Celtics,99,0,Y
+1976-04-30,1976,Golden State Warriors,118,Detroit Pistons,116,1,Y
+1976-05-02,1976,Phoenix Suns,103,Golden State Warriors,128,0,Y
+1976-05-02,1976,Boston Celtics,104,Buffalo Braves,100,0,Y
+1976-05-05,1976,Phoenix Suns,108,Golden State Warriors,101,0,Y
+1976-05-06,1976,Cleveland Cavaliers,99,Boston Celtics,111,0,Y
+1976-05-07,1976,Golden State Warriors,99,Phoenix Suns,91,0,Y
+1976-05-09,1976,Cleveland Cavaliers,89,Boston Celtics,94,0,Y
+1976-05-09,1976,Golden State Warriors,129,Phoenix Suns,133,2,Y
+1976-05-11,1976,Boston Celtics,78,Cleveland Cavaliers,83,0,Y
+1976-05-12,1976,Phoenix Suns,95,Golden State Warriors,111,0,Y
+1976-05-14,1976,Boston Celtics,87,Cleveland Cavaliers,106,0,Y
+1976-05-14,1976,Golden State Warriors,104,Phoenix Suns,105,0,Y
+1976-05-16,1976,Cleveland Cavaliers,94,Boston Celtics,99,0,Y
+1976-05-16,1976,Phoenix Suns,94,Golden State Warriors,86,0,Y
+1976-05-18,1976,Boston Celtics,94,Cleveland Cavaliers,87,0,Y
+1976-05-23,1976,Phoenix Suns,87,Boston Celtics,98,0,Y
+1976-05-27,1976,Phoenix Suns,90,Boston Celtics,105,0,Y
+1976-05-30,1976,Boston Celtics,98,Phoenix Suns,105,0,Y
+1976-06-02,1976,Boston Celtics,107,Phoenix Suns,109,0,Y
+1976-06-04,1976,Phoenix Suns,126,Boston Celtics,128,3,Y
+1976-06-06,1976,Boston Celtics,87,Phoenix Suns,80,0,Y

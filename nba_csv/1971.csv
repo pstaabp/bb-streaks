@@ -1,0 +1,738 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1970-10-13,1971,Boston Celtics,107,New York Knicks,114,0,N
+1970-10-13,1971,San Diego Rockets,96,Chicago Bulls,111,0,N
+1970-10-14,1971,Cleveland Cavaliers,92,Buffalo Braves,107,0,N
+1970-10-14,1971,San Diego Rockets,105,Baltimore Bullets,123,0,N
+1970-10-14,1971,Detroit Pistons,123,Seattle SuperSonics,117,0,N
+1970-10-14,1971,Chicago Bulls,107,Philadelphia 76ers,110,0,N
+1970-10-14,1971,New York Knicks,128,Cincinnati Royals,104,0,N
+1970-10-15,1971,Boston Celtics,100,Phoenix Suns,119,0,N
+1970-10-16,1971,Los Angeles Lakers,106,Chicago Bulls,102,0,N
+1970-10-16,1971,San Diego Rockets,119,Philadelphia 76ers,127,0,N
+1970-10-16,1971,Cleveland Cavaliers,112,Portland Trail Blazers,115,0,N
+1970-10-16,1971,Detroit Pistons,120,San Francisco Warriors,106,0,N
+1970-10-17,1971,Milwaukee Bucks,107,Atlanta Hawks,98,0,N
+1970-10-17,1971,Los Angeles Lakers,116,Baltimore Bullets,118,1,N
+1970-10-17,1971,San Diego Rockets,102,Buffalo Braves,93,0,N
+1970-10-17,1971,Philadelphia 76ers,123,Cincinnati Royals,105,0,N
+1970-10-17,1971,Chicago Bulls,99,New York Knicks,96,0,N
+1970-10-17,1971,Detroit Pistons,110,Phoenix Suns,107,0,N
+1970-10-17,1971,Boston Celtics,114,Seattle SuperSonics,126,0,N
+1970-10-17,1971,Cleveland Cavaliers,108,San Francisco Warriors,128,0,N
+1970-10-18,1971,Boston Celtics,133,Portland Trail Blazers,115,0,N
+1970-10-20,1971,Philadelphia 76ers,98,Buffalo Braves,89,0,N
+1970-10-20,1971,Milwaukee Bucks,114,Detroit Pistons,115,0,N
+1970-10-20,1971,Los Angeles Lakers,100,New York Knicks,115,0,N
+1970-10-20,1971,Cleveland Cavaliers,98,Portland Trail Blazers,120,0,N
+1970-10-20,1971,Phoenix Suns,114,San Diego Rockets,115,0,N
+1970-10-20,1971,San Francisco Warriors,125,Baltimore Bullets,105,0,N
+1970-10-21,1971,Baltimore Bullets,117,Cincinnati Royals,105,0,N
+1970-10-21,1971,Phoenix Suns,106,Seattle SuperSonics,110,0,N
+1970-10-21,1971,Los Angeles Lakers,141,Philadelphia 76ers,117,0,N
+1970-10-21,1971,Detroit Pistons,121,Boston Celtics,118,0,N
+1970-10-21,1971,San Francisco Warriors,100,Atlanta Hawks,102,0,N
+1970-10-22,1971,Atlanta Hawks,101,Detroit Pistons,120,0,N
+1970-10-22,1971,San Francisco Warriors,92,New York Knicks,95,0,N
+1970-10-22,1971,Cleveland Cavaliers,110,San Diego Rockets,140,0,N
+1970-10-23,1971,Portland Trail Blazers,111,Seattle SuperSonics,141,0,N
+1970-10-23,1971,Cleveland Cavaliers,104,Phoenix Suns,108,0,N
+1970-10-23,1971,Philadelphia 76ers,127,Los Angeles Lakers,122,0,N
+1970-10-23,1971,New York Knicks,92,Baltimore Bullets,98,0,N
+1970-10-23,1971,Cincinnati Royals,126,Boston Celtics,131,0,N
+1970-10-24,1971,Boston Celtics,113,Atlanta Hawks,109,0,N
+1970-10-24,1971,Detroit Pistons,114,Buffalo Braves,95,0,N
+1970-10-24,1971,Baltimore Bullets,120,Milwaukee Bucks,122,2,N
+1970-10-24,1971,Cincinnati Royals,103,New York Knicks,115,0,N
+1970-10-24,1971,Philadelphia 76ers,111,San Diego Rockets,116,0,N
+1970-10-24,1971,Portland Trail Blazers,115,San Francisco Warriors,118,0,N
+1970-10-25,1971,San Diego Rockets,98,Phoenix Suns,117,0,N
+1970-10-25,1971,Chicago Bulls,131,Portland Trail Blazers,116,0,N
+1970-10-25,1971,Seattle SuperSonics,107,Milwaukee Bucks,126,0,N
+1970-10-25,1971,Cleveland Cavaliers,96,Los Angeles Lakers,123,0,N
+1970-10-26,1971,Atlanta Hawks,107,Cincinnati Royals,126,0,N
+1970-10-26,1971,Seattle SuperSonics,111,Detroit Pistons,142,0,N
+1970-10-27,1971,San Diego Rockets,113,Milwaukee Bucks,126,0,N
+1970-10-27,1971,Seattle SuperSonics,104,New York Knicks,117,0,N
+1970-10-27,1971,Buffalo Braves,108,Portland Trail Blazers,119,0,N
+1970-10-28,1971,New York Knicks,126,Boston Celtics,89,0,N
+1970-10-28,1971,Philadelphia 76ers,111,San Francisco Warriors,108,0,N
+1970-10-28,1971,Chicago Bulls,118,Phoenix Suns,105,0,N
+1970-10-28,1971,Seattle SuperSonics,118,Cincinnati Royals,131,0,N
+1970-10-28,1971,Detroit Pistons,109,Baltimore Bullets,103,0,N
+1970-10-28,1971,San Diego Rockets,110,Cleveland Cavaliers,99,0,N
+1970-10-29,1971,San Diego Rockets,107,New York Knicks,114,0,N
+1970-10-30,1971,Seattle SuperSonics,115,Portland Trail Blazers,104,0,N
+1970-10-30,1971,Chicago Bulls,101,San Francisco Warriors,98,0,N
+1970-10-30,1971,Baltimore Bullets,123,Philadelphia 76ers,110,0,N
+1970-10-30,1971,Buffalo Braves,90,Los Angeles Lakers,104,0,N
+1970-10-30,1971,Cincinnati Royals,125,Cleveland Cavaliers,110,0,N
+1970-10-30,1971,Phoenix Suns,112,Boston Celtics,127,0,N
+1970-10-31,1971,San Diego Rockets,121,Atlanta Hawks,117,0,N
+1970-10-31,1971,Phoenix Suns,103,Baltimore Bullets,106,0,N
+1970-10-31,1971,Milwaukee Bucks,121,Cincinnati Royals,100,0,N
+1970-10-31,1971,Detroit Pistons,89,New York Knicks,107,0,N
+1970-10-31,1971,Boston Celtics,133,Philadelphia 76ers,102,0,N
+1970-10-31,1971,Buffalo Braves,102,Portland Trail Blazers,107,0,N
+1970-10-31,1971,Chicago Bulls,119,Seattle SuperSonics,122,0,N
+1970-11-01,1971,Atlanta Hawks,131,Cleveland Cavaliers,107,0,N
+1970-11-02,1971,Cleveland Cavaliers,87,Philadelphia 76ers,141,0,N
+1970-11-02,1971,Buffalo Braves,102,Phoenix Suns,110,0,N
+1970-11-02,1971,New York Knicks,111,San Francisco Warriors,99,0,N
+1970-11-03,1971,Seattle SuperSonics,101,Chicago Bulls,113,0,N
+1970-11-03,1971,Cincinnati Royals,112,Detroit Pistons,115,0,N
+1970-11-03,1971,Los Angeles Lakers,128,Portland Trail Blazers,108,0,N
+1970-11-04,1971,Detroit Pistons,117,Atlanta Hawks,105,0,N
+1970-11-04,1971,Philadelphia 76ers,113,Boston Celtics,115,0,N
+1970-11-04,1971,Seattle SuperSonics,126,Buffalo Braves,101,0,N
+1970-11-04,1971,Phoenix Suns,133,Cincinnati Royals,115,0,N
+1970-11-04,1971,Milwaukee Bucks,110,Cleveland Cavaliers,108,0,N
+1970-11-04,1971,New York Knicks,109,San Diego Rockets,100,0,N
+1970-11-04,1971,Baltimore Bullets,100,San Francisco Warriors,111,0,N
+1970-11-05,1971,Buffalo Braves,109,Detroit Pistons,121,0,N
+1970-11-05,1971,Baltimore Bullets,131,Portland Trail Blazers,135,0,N
+1970-11-06,1971,Seattle SuperSonics,94,Boston Celtics,116,0,N
+1970-11-06,1971,Phoenix Suns,105,Chicago Bulls,102,0,N
+1970-11-06,1971,New York Knicks,104,Los Angeles Lakers,106,0,N
+1970-11-06,1971,Atlanta Hawks,112,Philadelphia 76ers,118,0,N
+1970-11-06,1971,San Francisco Warriors,110,Portland Trail Blazers,103,0,N
+1970-11-06,1971,Baltimore Bullets,125,San Diego Rockets,118,0,N
+1970-11-07,1971,Phoenix Suns,107,Atlanta Hawks,100,0,N
+1970-11-07,1971,Cleveland Cavaliers,91,Buffalo Braves,103,0,N
+1970-11-07,1971,Detroit Pistons,99,Chicago Bulls,125,0,N
+1970-11-07,1971,Boston Celtics,140,Cincinnati Royals,122,0,N
+1970-11-07,1971,Seattle SuperSonics,128,Philadelphia 76ers,134,0,N
+1970-11-07,1971,San Diego Rockets,102,San Francisco Warriors,114,0,N
+1970-11-08,1971,Seattle SuperSonics,111,Cleveland Cavaliers,105,0,N
+1970-11-08,1971,Baltimore Bullets,105,Los Angeles Lakers,124,0,N
+1970-11-08,1971,Phoenix Suns,105,Milwaukee Bucks,125,0,N
+1970-11-08,1971,New York Knicks,125,Portland Trail Blazers,113,0,N
+1970-11-10,1971,Philadelphia 76ers,104,Atlanta Hawks,109,0,N
+1970-11-10,1971,Los Angeles Lakers,96,Chicago Bulls,118,0,N
+1970-11-10,1971,Cincinnati Royals,138,Portland Trail Blazers,121,0,N
+1970-11-10,1971,New York Knicks,91,Seattle SuperSonics,93,0,N
+1970-11-10,1971,Cleveland Cavaliers,74,San Francisco Warriors,109,0,N
+1970-11-11,1971,Philadelphia 76ers,119,Baltimore Bullets,107,0,N
+1970-11-11,1971,Milwaukee Bucks,123,Boston Celtics,113,0,N
+1970-11-11,1971,Atlanta Hawks,118,Buffalo Braves,134,0,N
+1970-11-11,1971,Los Angeles Lakers,117,Detroit Pistons,115,0,N
+1970-11-11,1971,Portland Trail Blazers,100,Phoenix Suns,114,0,N
+1970-11-11,1971,Cincinnati Royals,120,San Diego Rockets,127,0,N
+1970-11-12,1971,Baltimore Bullets,110,New York Knicks,108,0,N
+1970-11-12,1971,Cleveland Cavaliers,105,Portland Trail Blazers,103,0,N
+1970-11-12,1971,Cincinnati Royals,121,San Francisco Warriors,107,0,N
+1970-11-13,1971,Atlanta Hawks,116,Boston Celtics,114,0,N
+1970-11-13,1971,New York Knicks,106,Chicago Bulls,98,0,N
+1970-11-13,1971,Detroit Pistons,109,Los Angeles Lakers,122,0,N
+1970-11-13,1971,Buffalo Braves,111,Philadelphia 76ers,119,0,N
+1970-11-13,1971,Cincinnati Royals,109,Phoenix Suns,115,0,N
+1970-11-13,1971,San Francisco Warriors,107,San Diego Rockets,102,0,N
+1970-11-13,1971,Cleveland Cavaliers,91,Seattle SuperSonics,111,0,N
+1970-11-14,1971,Chicago Bulls,120,Atlanta Hawks,116,0,N
+1970-11-14,1971,Boston Celtics,101,Baltimore Bullets,122,0,N
+1970-11-14,1971,Milwaukee Bucks,116,Buffalo Braves,107,0,N
+1970-11-14,1971,Philadelphia 76ers,94,New York Knicks,126,0,N
+1970-11-14,1971,Cleveland Cavaliers,116,Portland Trail Blazers,126,0,N
+1970-11-14,1971,Detroit Pistons,101,San Diego Rockets,112,0,N
+1970-11-15,1971,Baltimore Bullets,90,Milwaukee Bucks,105,0,N
+1970-11-15,1971,Detroit Pistons,104,Phoenix Suns,108,0,N
+1970-11-16,1971,Cleveland Cavaliers,86,Baltimore Bullets,98,0,N
+1970-11-16,1971,Seattle SuperSonics,103,Buffalo Braves,112,0,N
+1970-11-16,1971,San Francisco Warriors,100,Milwaukee Bucks,119,0,N
+1970-11-16,1971,San Diego Rockets,136,Portland Trail Blazers,118,0,N
+1970-11-17,1971,San Francisco Warriors,111,Chicago Bulls,105,0,N
+1970-11-17,1971,Philadelphia 76ers,113,Detroit Pistons,91,0,N
+1970-11-17,1971,Atlanta Hawks,105,Los Angeles Lakers,116,0,N
+1970-11-17,1971,Phoenix Suns,100,New York Knicks,103,0,N
+1970-11-17,1971,Buffalo Braves,102,Portland Trail Blazers,101,0,N
+1970-11-18,1971,San Francisco Warriors,90,Boston Celtics,89,0,N
+1970-11-18,1971,Chicago Bulls,128,Cincinnati Royals,107,0,N
+1970-11-18,1971,Baltimore Bullets,111,Cleveland Cavaliers,98,0,N
+1970-11-18,1971,New York Knicks,106,Philadelphia 76ers,113,0,N
+1970-11-18,1971,Atlanta Hawks,131,Portland Trail Blazers,146,0,N
+1970-11-18,1971,Milwaukee Bucks,117,San Diego Rockets,111,0,N
+1970-11-19,1971,Phoenix Suns,110,Detroit Pistons,112,0,N
+1970-11-19,1971,Cincinnati Royals,106,New York Knicks,98,0,N
+1970-11-19,1971,Los Angeles Lakers,110,Seattle SuperSonics,111,0,N
+1970-11-20,1971,Phoenix Suns,110,Baltimore Bullets,121,0,N
+1970-11-20,1971,Cleveland Cavaliers,112,Boston Celtics,116,0,N
+1970-11-20,1971,Milwaukee Bucks,117,Los Angeles Lakers,100,0,N
+1970-11-20,1971,Detroit Pistons,120,Philadelphia 76ers,112,0,N
+1970-11-20,1971,Seattle SuperSonics,106,San Diego Rockets,121,0,N
+1970-11-20,1971,Buffalo Braves,108,San Francisco Warriors,123,0,N
+1970-11-21,1971,Baltimore Bullets,103,Atlanta Hawks,130,0,N
+1970-11-21,1971,Portland Trail Blazers,112,Buffalo Braves,108,0,N
+1970-11-21,1971,Boston Celtics,107,Chicago Bulls,110,0,N
+1970-11-21,1971,Detroit Pistons,102,Cincinnati Royals,114,0,N
+1970-11-21,1971,Cleveland Cavaliers,94,New York Knicks,102,0,N
+1970-11-21,1971,Phoenix Suns,125,Philadelphia 76ers,119,0,N
+1970-11-21,1971,San Diego Rockets,115,Seattle SuperSonics,114,0,N
+1970-11-21,1971,Milwaukee Bucks,127,San Francisco Warriors,102,0,N
+1970-11-22,1971,Philadelphia 76ers,115,Atlanta Hawks,125,0,N
+1970-11-22,1971,Phoenix Suns,114,Cleveland Cavaliers,99,0,N
+1970-11-22,1971,Seattle SuperSonics,124,Los Angeles Lakers,149,0,N
+1970-11-22,1971,Milwaukee Bucks,126,Portland Trail Blazers,104,0,N
+1970-11-24,1971,Portland Trail Blazers,104,Baltimore Bullets,156,0,N
+1970-11-24,1971,Phoenix Suns,106,Buffalo Braves,112,0,N
+1970-11-24,1971,Milwaukee Bucks,117,Chicago Bulls,108,0,N
+1970-11-24,1971,San Diego Rockets,104,Detroit Pistons,111,0,N
+1970-11-24,1971,Atlanta Hawks,119,New York Knicks,128,0,N
+1970-11-24,1971,San Francisco Warriors,104,Philadelphia 76ers,96,0,N
+1970-11-25,1971,New York Knicks,114,Atlanta Hawks,111,0,N
+1970-11-25,1971,Portland Trail Blazers,115,Boston Celtics,122,0,N
+1970-11-25,1971,Philadelphia 76ers,99,Buffalo Braves,92,0,N
+1970-11-25,1971,San Diego Rockets,138,Cincinnati Royals,120,0,N
+1970-11-25,1971,San Francisco Warriors,108,Cleveland Cavaliers,99,0,N
+1970-11-25,1971,Detroit Pistons,87,Milwaukee Bucks,113,0,N
+1970-11-26,1971,Seattle SuperSonics,115,Phoenix Suns,126,0,N
+1970-11-27,1971,Baltimore Bullets,107,Boston Celtics,153,0,N
+1970-11-27,1971,Buffalo Braves,104,Chicago Bulls,121,0,N
+1970-11-27,1971,Portland Trail Blazers,111,Cleveland Cavaliers,102,0,N
+1970-11-27,1971,Phoenix Suns,116,Los Angeles Lakers,105,0,N
+1970-11-27,1971,New York Knicks,103,Milwaukee Bucks,94,0,N
+1970-11-27,1971,Cincinnati Royals,113,Philadelphia 76ers,109,0,N
+1970-11-27,1971,Atlanta Hawks,127,San Diego Rockets,128,0,N
+1970-11-27,1971,San Francisco Warriors,96,Seattle SuperSonics,101,0,N
+1970-11-28,1971,Chicago Bulls,91,Baltimore Bullets,99,0,N
+1970-11-28,1971,Portland Trail Blazers,95,Buffalo Braves,111,0,N
+1970-11-28,1971,Cleveland Cavaliers,86,Cincinnati Royals,105,0,N
+1970-11-28,1971,Boston Celtics,121,Detroit Pistons,98,0,N
+1970-11-28,1971,Milwaukee Bucks,99,New York Knicks,100,0,N
+1970-11-28,1971,San Diego Rockets,117,Phoenix Suns,116,0,N
+1970-11-28,1971,Los Angeles Lakers,88,San Francisco Warriors,92,0,N
+1970-11-29,1971,Detroit Pistons,120,Cleveland Cavaliers,99,0,N
+1970-11-29,1971,San Diego Rockets,112,Los Angeles Lakers,130,0,N
+1970-11-29,1971,Portland Trail Blazers,111,Milwaukee Bucks,124,0,N
+1970-11-29,1971,Atlanta Hawks,107,Seattle SuperSonics,130,0,N
+1970-11-30,1971,Buffalo Braves,106,Boston Celtics,109,0,N
+1970-11-30,1971,Baltimore Bullets,98,Philadelphia 76ers,104,0,N
+1970-12-01,1971,Los Angeles Lakers,97,Baltimore Bullets,93,0,N
+1970-12-01,1971,Boston Celtics,117,Buffalo Braves,116,1,N
+1970-12-01,1971,Philadelphia 76ers,91,Chicago Bulls,107,0,N
+1970-12-01,1971,Seattle SuperSonics,109,New York Knicks,114,0,N
+1970-12-01,1971,San Diego Rockets,120,Portland Trail Blazers,114,0,N
+1970-12-01,1971,Atlanta Hawks,106,San Francisco Warriors,113,0,N
+1970-12-02,1971,Los Angeles Lakers,111,Boston Celtics,114,0,N
+1970-12-02,1971,Seattle SuperSonics,119,Cincinnati Royals,111,0,N
+1970-12-02,1971,New York Knicks,82,Detroit Pistons,101,0,N
+1970-12-02,1971,Atlanta Hawks,112,Phoenix Suns,126,0,N
+1970-12-03,1971,Chicago Bulls,100,Milwaukee Bucks,107,0,N
+1970-12-04,1971,Seattle SuperSonics,116,Baltimore Bullets,131,0,N
+1970-12-04,1971,New York Knicks,91,Buffalo Braves,97,0,N
+1970-12-04,1971,Boston Celtics,118,Cleveland Cavaliers,107,0,N
+1970-12-04,1971,Chicago Bulls,103,Detroit Pistons,107,0,N
+1970-12-04,1971,San Francisco Warriors,101,Los Angeles Lakers,123,0,N
+1970-12-04,1971,Philadelphia 76ers,122,Milwaukee Bucks,128,1,N
+1970-12-04,1971,Phoenix Suns,126,Portland Trail Blazers,121,0,N
+1970-12-05,1971,Seattle SuperSonics,100,Atlanta Hawks,106,0,N
+1970-12-05,1971,Boston Celtics,101,Chicago Bulls,97,0,N
+1970-12-05,1971,Philadelphia 76ers,131,Cincinnati Royals,106,0,N
+1970-12-05,1971,Buffalo Braves,93,New York Knicks,117,0,N
+1970-12-05,1971,Los Angeles Lakers,116,San Diego Rockets,119,0,N
+1970-12-05,1971,Phoenix Suns,105,San Francisco Warriors,100,0,N
+1970-12-06,1971,Cincinnati Royals,118,Baltimore Bullets,126,0,N
+1970-12-06,1971,Buffalo Braves,106,Cleveland Cavaliers,108,0,N
+1970-12-06,1971,Portland Trail Blazers,120,Los Angeles Lakers,131,0,N
+1970-12-06,1971,San Diego Rockets,102,Phoenix Suns,108,0,N
+1970-12-07,1971,San Francisco Warriors,113,Cincinnati Royals,124,0,N
+1970-12-08,1971,Boston Celtics,122,Buffalo Braves,102,0,N
+1970-12-08,1971,San Francisco Warriors,87,Chicago Bulls,98,0,N
+1970-12-08,1971,Atlanta Hawks,104,Milwaukee Bucks,125,0,N
+1970-12-08,1971,Portland Trail Blazers,121,New York Knicks,139,0,N
+1970-12-08,1971,Seattle SuperSonics,107,Philadelphia 76ers,104,0,N
+1970-12-08,1971,Los Angeles Lakers,121,Phoenix Suns,112,0,N
+1970-12-09,1971,Milwaukee Bucks,97,Baltimore Bullets,127,0,N
+1970-12-09,1971,Seattle SuperSonics,121,Boston Celtics,136,0,N
+1970-12-09,1971,Atlanta Hawks,106,Cincinnati Royals,118,0,N
+1970-12-09,1971,Portland Trail Blazers,109,Cleveland Cavaliers,102,0,N
+1970-12-09,1971,San Francisco Warriors,110,Detroit Pistons,99,0,N
+1970-12-10,1971,Chicago Bulls,138,Buffalo Braves,120,0,N
+1970-12-11,1971,Detroit Pistons,121,Boston Celtics,118,1,N
+1970-12-11,1971,Portland Trail Blazers,120,Buffalo Braves,105,0,N
+1970-12-11,1971,Atlanta Hawks,86,Chicago Bulls,87,0,N
+1970-12-11,1971,Cleveland Cavaliers,92,Milwaukee Bucks,134,0,N
+1970-12-11,1971,San Francisco Warriors,102,Philadelphia 76ers,101,0,N
+1970-12-11,1971,Phoenix Suns,104,San Diego Rockets,110,0,N
+1970-12-11,1971,Los Angeles Lakers,126,Seattle SuperSonics,118,0,N
+1970-12-12,1971,Portland Trail Blazers,101,Atlanta Hawks,107,0,N
+1970-12-12,1971,San Francisco Warriors,96,Baltimore Bullets,119,0,N
+1970-12-12,1971,San Diego Rockets,98,Chicago Bulls,103,0,N
+1970-12-12,1971,Cleveland Cavaliers,95,Cincinnati Royals,114,0,N
+1970-12-12,1971,Buffalo Braves,93,Detroit Pistons,92,0,N
+1970-12-12,1971,Philadelphia 76ers,101,New York Knicks,118,0,N
+1970-12-12,1971,Milwaukee Bucks,111,Phoenix Suns,113,0,N
+1970-12-13,1971,Buffalo Braves,91,Atlanta Hawks,110,0,N
+1970-12-13,1971,San Diego Rockets,118,Cleveland Cavaliers,95,0,N
+1970-12-13,1971,Detroit Pistons,103,Los Angeles Lakers,100,0,N
+1970-12-13,1971,San Francisco Warriors,101,New York Knicks,94,0,N
+1970-12-13,1971,Milwaukee Bucks,124,Seattle SuperSonics,107,0,N
+1970-12-15,1971,Los Angeles Lakers,111,Buffalo Braves,113,1,N
+1970-12-15,1971,Baltimore Bullets,97,Chicago Bulls,115,0,N
+1970-12-15,1971,Cleveland Cavaliers,92,New York Knicks,110,0,N
+1970-12-15,1971,San Diego Rockets,98,Philadelphia 76ers,122,0,N
+1970-12-15,1971,San Francisco Warriors,129,Phoenix Suns,123,0,N
+1970-12-15,1971,Detroit Pistons,111,Portland Trail Blazers,103,0,N
+1970-12-16,1971,San Diego Rockets,117,Atlanta Hawks,128,0,N
+1970-12-16,1971,Los Angeles Lakers,118,Cincinnati Royals,102,0,N
+1970-12-16,1971,New York Knicks,108,Cleveland Cavaliers,84,0,N
+1970-12-16,1971,Seattle SuperSonics,91,San Francisco Warriors,108,0,N
+1970-12-17,1971,Buffalo Braves,93,Boston Celtics,102,0,N
+1970-12-17,1971,Detroit Pistons,114,Phoenix Suns,117,1,N
+1970-12-17,1971,Philadelphia 76ers,125,Seattle SuperSonics,117,0,N
+1970-12-18,1971,Baltimore Bullets,112,Atlanta Hawks,116,0,N
+1970-12-18,1971,Cleveland Cavaliers,94,Buffalo Braves,113,0,N
+1970-12-18,1971,Cincinnati Royals,122,Chicago Bulls,137,0,N
+1970-12-18,1971,Boston Celtics,114,Milwaukee Bucks,124,0,N
+1970-12-18,1971,San Francisco Warriors,122,Portland Trail Blazers,118,0,N
+1970-12-18,1971,Detroit Pistons,129,San Diego Rockets,116,0,N
+1970-12-19,1971,Los Angeles Lakers,116,Atlanta Hawks,104,0,N
+1970-12-19,1971,Boston Celtics,128,Baltimore Bullets,134,0,N
+1970-12-19,1971,Milwaukee Bucks,110,Cincinnati Royals,119,0,N
+1970-12-19,1971,Buffalo Braves,112,Cleveland Cavaliers,123,0,N
+1970-12-19,1971,Chicago Bulls,87,New York Knicks,98,0,N
+1970-12-19,1971,San Diego Rockets,118,Portland Trail Blazers,108,0,N
+1970-12-19,1971,Phoenix Suns,131,Seattle SuperSonics,135,0,N
+1970-12-19,1971,Philadelphia 76ers,108,San Francisco Warriors,99,0,N
+1970-12-20,1971,Detroit Pistons,136,Cincinnati Royals,135,2,N
+1970-12-20,1971,Chicago Bulls,116,Cleveland Cavaliers,103,0,N
+1970-12-20,1971,Buffalo Braves,101,Milwaukee Bucks,131,0,N
+1970-12-20,1971,New York Knicks,133,Phoenix Suns,118,0,N
+1970-12-20,1971,Philadelphia 76ers,134,Portland Trail Blazers,132,1,N
+1970-12-20,1971,San Diego Rockets,110,Seattle SuperSonics,108,0,N
+1970-12-21,1971,Los Angeles Lakers,88,Milwaukee Bucks,113,0,N
+1970-12-22,1971,Cleveland Cavaliers,80,Chicago Bulls,121,0,N
+1970-12-22,1971,Atlanta Hawks,119,Los Angeles Lakers,115,0,N
+1970-12-22,1971,Philadelphia 76ers,133,Phoenix Suns,129,1,N
+1970-12-22,1971,New York Knicks,108,Seattle SuperSonics,119,0,N
+1970-12-22,1971,Boston Celtics,138,San Francisco Warriors,108,0,N
+1970-12-23,1971,Chicago Bulls,104,Buffalo Braves,103,0,N
+1970-12-23,1971,Baltimore Bullets,115,Cincinnati Royals,120,0,N
+1970-12-23,1971,Atlanta Hawks,102,San Diego Rockets,133,0,N
+1970-12-25,1971,Chicago Bulls,112,Baltimore Bullets,128,0,N
+1970-12-25,1971,Cleveland Cavaliers,100,Cincinnati Royals,117,0,N
+1970-12-25,1971,Boston Celtics,113,Los Angeles Lakers,123,0,N
+1970-12-25,1971,Buffalo Braves,102,New York Knicks,115,0,N
+1970-12-25,1971,Detroit Pistons,100,Philadelphia 76ers,105,0,N
+1970-12-25,1971,Atlanta Hawks,115,Phoenix Suns,127,0,N
+1970-12-26,1971,Cincinnati Royals,130,Atlanta Hawks,118,0,N
+1970-12-26,1971,Detroit Pistons,117,Chicago Bulls,114,0,N
+1970-12-26,1971,Buffalo Braves,107,Cleveland Cavaliers,120,0,N
+1970-12-26,1971,San Francisco Warriors,111,Milwaukee Bucks,131,0,N
+1970-12-26,1971,Portland Trail Blazers,103,Phoenix Suns,115,0,N
+1970-12-26,1971,Boston Celtics,117,Seattle SuperSonics,124,0,N
+1970-12-27,1971,Philadelphia 76ers,101,Cleveland Cavaliers,114,0,N
+1970-12-27,1971,Phoenix Suns,110,Los Angeles Lakers,128,0,N
+1970-12-27,1971,Baltimore Bullets,105,New York Knicks,110,0,N
+1970-12-27,1971,Boston Celtics,123,Portland Trail Blazers,135,0,N
+1970-12-27,1971,Chicago Bulls,110,San Diego Rockets,101,0,N
+1970-12-28,1971,San Francisco Warriors,115,Atlanta Hawks,104,0,N
+1970-12-28,1971,Milwaukee Bucks,137,Cincinnati Royals,114,0,N
+1970-12-29,1971,Philadelphia 76ers,124,Buffalo Braves,113,0,N
+1970-12-29,1971,Milwaukee Bucks,119,Cleveland Cavaliers,97,0,N
+1970-12-29,1971,Atlanta Hawks,97,Detroit Pistons,99,0,N
+1970-12-29,1971,Chicago Bulls,117,Los Angeles Lakers,126,0,N
+1970-12-29,1971,Boston Celtics,110,San Diego Rockets,108,0,N
+1970-12-30,1971,Buffalo Braves,90,Baltimore Bullets,106,0,N
+1970-12-30,1971,Detroit Pistons,119,Cincinnati Royals,115,0,N
+1970-12-30,1971,San Francisco Warriors,103,New York Knicks,111,0,N
+1970-12-30,1971,Milwaukee Bucks,107,Philadelphia 76ers,119,0,N
+1970-12-30,1971,Los Angeles Lakers,114,Phoenix Suns,132,0,N
+1970-12-30,1971,Chicago Bulls,109,Seattle SuperSonics,128,0,N
+1970-12-31,1971,Cleveland Cavaliers,85,Atlanta Hawks,119,0,N
+1970-12-31,1971,San Francisco Warriors,144,Boston Celtics,106,0,N
+1971-01-01,1971,Baltimore Bullets,128,Cleveland Cavaliers,105,0,N
+1971-01-01,1971,San Diego Rockets,117,Los Angeles Lakers,106,0,N
+1971-01-01,1971,Portland Trail Blazers,118,Seattle SuperSonics,121,0,N
+1971-01-02,1971,Cincinnati Royals,115,Buffalo Braves,103,0,N
+1971-01-02,1971,Baltimore Bullets,108,Detroit Pistons,99,0,N
+1971-01-02,1971,Cleveland Cavaliers,73,Milwaukee Bucks,118,0,N
+1971-01-02,1971,Atlanta Hawks,112,New York Knicks,108,0,N
+1971-01-02,1971,Boston Celtics,125,Philadelphia 76ers,120,0,N
+1971-01-02,1971,Chicago Bulls,136,Portland Trail Blazers,113,0,N
+1971-01-02,1971,Los Angeles Lakers,108,San Diego Rockets,109,1,N
+1971-01-02,1971,Phoenix Suns,122,San Francisco Warriors,116,1,N
+1971-01-03,1971,Boston Celtics,140,Atlanta Hawks,128,0,N
+1971-01-03,1971,San Francisco Warriors,81,Phoenix Suns,102,0,N
+1971-01-04,1971,Portland Trail Blazers,119,Cleveland Cavaliers,106,0,N
+1971-01-04,1971,Seattle SuperSonics,110,Milwaukee Bucks,124,0,N
+1971-01-05,1971,Detroit Pistons,98,Atlanta Hawks,90,0,N
+1971-01-05,1971,Seattle SuperSonics,101,Baltimore Bullets,109,0,N
+1971-01-05,1971,Portland Trail Blazers,124,Boston Celtics,120,0,N
+1971-01-05,1971,San Diego Rockets,103,Chicago Bulls,116,0,N
+1971-01-05,1971,Los Angeles Lakers,112,Cincinnati Royals,146,0,N
+1971-01-05,1971,San Francisco Warriors,92,Philadelphia 76ers,97,0,N
+1971-01-06,1971,Seattle SuperSonics,112,Boston Celtics,137,0,N
+1971-01-06,1971,San Francisco Warriors,108,Buffalo Braves,115,0,N
+1971-01-06,1971,Milwaukee Bucks,119,Chicago Bulls,106,0,N
+1971-01-06,1971,Portland Trail Blazers,128,Cincinnati Royals,133,1,N
+1971-01-06,1971,New York Knicks,127,Cleveland Cavaliers,94,0,N
+1971-01-06,1971,San Diego Rockets,99,Detroit Pistons,100,0,N
+1971-01-07,1971,Baltimore Bullets,110,Atlanta Hawks,102,0,N
+1971-01-07,1971,Los Angeles Lakers,110,Cleveland Cavaliers,105,0,N
+1971-01-07,1971,New York Knicks,106,Milwaukee Bucks,116,0,N
+1971-01-08,1971,Atlanta Hawks,104,Baltimore Bullets,115,0,N
+1971-01-08,1971,Phoenix Suns,114,Boston Celtics,122,0,N
+1971-01-08,1971,Seattle SuperSonics,110,Buffalo Braves,102,0,N
+1971-01-08,1971,Portland Trail Blazers,113,Chicago Bulls,105,0,N
+1971-01-08,1971,Cincinnati Royals,109,Detroit Pistons,115,0,N
+1971-01-08,1971,Los Angeles Lakers,123,Philadelphia 76ers,117,0,N
+1971-01-08,1971,San Francisco Warriors,120,San Diego Rockets,117,0,N
+1971-01-09,1971,Seattle SuperSonics,114,Cincinnati Royals,110,0,N
+1971-01-09,1971,Buffalo Braves,89,Cleveland Cavaliers,111,0,N
+1971-01-09,1971,Detroit Pistons,100,Milwaukee Bucks,118,0,N
+1971-01-09,1971,Phoenix Suns,112,Philadelphia 76ers,123,0,N
+1971-01-09,1971,New York Knicks,96,Portland Trail Blazers,114,0,N
+1971-01-09,1971,San Diego Rockets,103,San Francisco Warriors,109,0,N
+1971-01-10,1971,Phoenix Suns,116,Atlanta Hawks,105,0,N
+1971-01-10,1971,Philadelphia 76ers,115,Boston Celtics,107,0,N
+1971-01-10,1971,Buffalo Braves,113,Chicago Bulls,141,0,N
+1971-01-10,1971,Los Angeles Lakers,109,Detroit Pistons,118,0,N
+1971-01-10,1971,Baltimore Bullets,99,Milwaukee Bucks,151,0,N
+1971-01-14,1971,Portland Trail Blazers,113,Buffalo Braves,119,0,N
+1971-01-14,1971,Philadelphia 76ers,103,Chicago Bulls,108,0,N
+1971-01-14,1971,Los Angeles Lakers,126,Cincinnati Royals,120,0,N
+1971-01-14,1971,Cleveland Cavaliers,106,Detroit Pistons,108,0,N
+1971-01-14,1971,New York Knicks,88,Phoenix Suns,107,0,N
+1971-01-14,1971,Baltimore Bullets,110,Seattle SuperSonics,114,0,N
+1971-01-15,1971,Atlanta Hawks,123,Boston Celtics,134,0,N
+1971-01-15,1971,Detroit Pistons,99,Buffalo Braves,97,1,N
+1971-01-15,1971,Cincinnati Royals,116,Milwaukee Bucks,135,0,N
+1971-01-15,1971,Chicago Bulls,96,Philadelphia 76ers,99,0,N
+1971-01-15,1971,Baltimore Bullets,124,San Diego Rockets,117,0,N
+1971-01-16,1971,Los Angeles Lakers,123,Atlanta Hawks,127,0,N
+1971-01-16,1971,Milwaukee Bucks,110,Chicago Bulls,90,0,N
+1971-01-16,1971,Buffalo Braves,113,Cincinnati Royals,114,0,N
+1971-01-16,1971,Boston Celtics,118,Detroit Pistons,121,0,N
+1971-01-16,1971,Cleveland Cavaliers,96,Philadelphia 76ers,115,0,N
+1971-01-16,1971,Baltimore Bullets,100,Phoenix Suns,117,0,N
+1971-01-16,1971,New York Knicks,93,San Francisco Warriors,102,0,N
+1971-01-17,1971,Boston Celtics,113,Milwaukee Bucks,120,0,N
+1971-01-17,1971,Philadelphia 76ers,106,San Diego Rockets,105,0,N
+1971-01-17,1971,Baltimore Bullets,111,Seattle SuperSonics,96,0,N
+1971-01-18,1971,Atlanta Hawks,123,Buffalo Braves,113,0,N
+1971-01-18,1971,Phoenix Suns,118,Cincinnati Royals,99,0,N
+1971-01-19,1971,Cleveland Cavaliers,111,Buffalo Braves,79,0,N
+1971-01-19,1971,Portland Trail Blazers,111,Chicago Bulls,123,0,N
+1971-01-19,1971,Seattle SuperSonics,102,Detroit Pistons,106,0,N
+1971-01-19,1971,Philadelphia 76ers,114,Los Angeles Lakers,134,0,N
+1971-01-19,1971,San Diego Rockets,113,New York Knicks,117,1,N
+1971-01-19,1971,Cincinnati Royals,108,San Francisco Warriors,116,0,N
+1971-01-20,1971,Seattle SuperSonics,112,Atlanta Hawks,108,0,N
+1971-01-20,1971,Milwaukee Bucks,120,Baltimore Bullets,116,0,N
+1971-01-20,1971,San Diego Rockets,112,Boston Celtics,142,0,N
+1971-01-20,1971,Portland Trail Blazers,106,Buffalo Braves,126,0,N
+1971-01-20,1971,New York Knicks,103,Chicago Bulls,109,0,N
+1971-01-20,1971,Cincinnati Royals,126,Phoenix Suns,114,0,N
+1971-01-22,1971,Baltimore Bullets,136,Boston Celtics,117,0,N
+1971-01-22,1971,San Diego Rockets,94,Buffalo Braves,101,0,N
+1971-01-22,1971,Portland Trail Blazers,123,Detroit Pistons,112,0,N
+1971-01-22,1971,San Francisco Warriors,110,Los Angeles Lakers,130,0,N
+1971-01-22,1971,Atlanta Hawks,117,Milwaukee Bucks,110,0,N
+1971-01-22,1971,Philadelphia 76ers,117,Phoenix Suns,116,0,N
+1971-01-22,1971,Cincinnati Royals,131,Seattle SuperSonics,132,1,N
+1971-01-23,1971,San Diego Rockets,120,Baltimore Bullets,127,0,N
+1971-01-23,1971,Portland Trail Blazers,117,Milwaukee Bucks,142,0,N
+1971-01-23,1971,Boston Celtics,107,New York Knicks,128,0,N
+1971-01-23,1971,Chicago Bulls,87,San Francisco Warriors,83,0,N
+1971-01-24,1971,Milwaukee Bucks,142,Atlanta Hawks,120,0,N
+1971-01-24,1971,Cleveland Cavaliers,110,Boston Celtics,121,0,N
+1971-01-24,1971,Portland Trail Blazers,111,Buffalo Braves,123,0,N
+1971-01-24,1971,New York Knicks,117,Detroit Pistons,105,0,N
+1971-01-24,1971,Cincinnati Royals,131,Los Angeles Lakers,142,0,N
+1971-01-24,1971,Chicago Bulls,112,Phoenix Suns,113,0,N
+1971-01-24,1971,Philadelphia 76ers,145,Seattle SuperSonics,119,0,N
+1971-01-25,1971,Boston Celtics,116,Cleveland Cavaliers,117,0,N
+1971-01-25,1971,Buffalo Braves,106,San Diego Rockets,114,0,N
+1971-01-26,1971,San Francisco Warriors,98,Baltimore Bullets,103,0,N
+1971-01-26,1971,Chicago Bulls,111,Los Angeles Lakers,136,0,N
+1971-01-26,1971,Milwaukee Bucks,98,New York Knicks,107,0,N
+1971-01-26,1971,Atlanta Hawks,122,Philadelphia 76ers,129,0,N
+1971-01-26,1971,Buffalo Braves,82,Phoenix Suns,114,0,N
+1971-01-27,1971,New York Knicks,116,Atlanta Hawks,108,0,N
+1971-01-27,1971,Milwaukee Bucks,132,Boston Celtics,129,0,N
+1971-01-27,1971,Baltimore Bullets,113,Cincinnati Royals,115,0,N
+1971-01-27,1971,Portland Trail Blazers,104,Cleveland Cavaliers,118,0,N
+1971-01-27,1971,San Francisco Warriors,129,Detroit Pistons,112,0,N
+1971-01-27,1971,Chicago Bulls,111,San Diego Rockets,106,0,N
+1971-01-28,1971,Los Angeles Lakers,112,Phoenix Suns,118,0,N
+1971-01-28,1971,Buffalo Braves,110,Seattle SuperSonics,120,0,N
+1971-01-29,1971,Cleveland Cavaliers,111,Atlanta Hawks,119,0,N
+1971-01-29,1971,Cincinnati Royals,118,Baltimore Bullets,145,0,N
+1971-01-29,1971,New York Knicks,118,Boston Celtics,111,0,N
+1971-01-29,1971,San Diego Rockets,104,Detroit Pistons,131,0,N
+1971-01-29,1971,Seattle SuperSonics,115,Los Angeles Lakers,122,0,N
+1971-01-29,1971,Milwaukee Bucks,142,Philadelphia 76ers,118,0,N
+1971-01-29,1971,Phoenix Suns,131,Portland Trail Blazers,122,0,N
+1971-01-29,1971,Buffalo Braves,100,San Francisco Warriors,106,0,N
+1971-01-30,1971,San Diego Rockets,110,Cincinnati Royals,116,0,N
+1971-01-30,1971,Philadelphia 76ers,106,New York Knicks,105,0,N
+1971-01-30,1971,Seattle SuperSonics,116,Phoenix Suns,134,0,N
+1971-01-30,1971,Los Angeles Lakers,85,San Francisco Warriors,87,0,N
+1971-01-31,1971,San Diego Rockets,120,Atlanta Hawks,131,0,N
+1971-01-31,1971,New York Knicks,125,Baltimore Bullets,95,0,N
+1971-01-31,1971,Philadelphia 76ers,126,Boston Celtics,132,0,N
+1971-01-31,1971,Cincinnati Royals,99,Chicago Bulls,131,0,N
+1971-01-31,1971,Buffalo Braves,108,Cleveland Cavaliers,117,0,N
+1971-01-31,1971,Milwaukee Bucks,131,Detroit Pistons,104,0,N
+1971-01-31,1971,Portland Trail Blazers,120,Los Angeles Lakers,133,0,N
+1971-02-02,1971,Cleveland Cavaliers,101,Buffalo Braves,91,0,N
+1971-02-02,1971,Seattle SuperSonics,101,Chicago Bulls,118,0,N
+1971-02-02,1971,Baltimore Bullets,113,Detroit Pistons,116,0,N
+1971-02-02,1971,San Diego Rockets,105,Los Angeles Lakers,133,0,N
+1971-02-02,1971,Cincinnati Royals,108,New York Knicks,115,0,N
+1971-02-02,1971,Boston Celtics,105,Philadelphia 76ers,108,0,N
+1971-02-02,1971,Milwaukee Bucks,111,Portland Trail Blazers,123,0,N
+1971-02-02,1971,Atlanta Hawks,99,San Francisco Warriors,101,0,N
+1971-02-03,1971,Chicago Bulls,124,Baltimore Bullets,102,0,N
+1971-02-03,1971,Boston Celtics,115,Cincinnati Royals,134,0,N
+1971-02-03,1971,Seattle SuperSonics,98,Cleveland Cavaliers,95,0,N
+1971-02-03,1971,Milwaukee Bucks,108,San Diego Rockets,101,0,N
+1971-02-04,1971,San Francisco Warriors,117,Phoenix Suns,105,0,N
+1971-02-04,1971,Atlanta Hawks,123,Portland Trail Blazers,137,0,N
+1971-02-05,1971,Cincinnati Royals,110,Boston Celtics,114,0,N
+1971-02-05,1971,Baltimore Bullets,98,Buffalo Braves,90,0,N
+1971-02-05,1971,Philadelphia 76ers,102,Chicago Bulls,114,0,N
+1971-02-05,1971,New York Knicks,99,Detroit Pistons,108,0,N
+1971-02-05,1971,Milwaukee Bucks,93,Los Angeles Lakers,116,0,N
+1971-02-05,1971,San Francisco Warriors,117,Portland Trail Blazers,123,0,N
+1971-02-05,1971,Cleveland Cavaliers,105,San Diego Rockets,116,0,N
+1971-02-05,1971,Atlanta Hawks,121,Seattle SuperSonics,120,1,N
+1971-02-06,1971,Philadelphia 76ers,118,Cincinnati Royals,109,0,N
+1971-02-06,1971,Chicago Bulls,109,New York Knicks,102,0,N
+1971-02-06,1971,Cleveland Cavaliers,91,Phoenix Suns,119,0,N
+1971-02-06,1971,Los Angeles Lakers,115,San Diego Rockets,108,0,N
+1971-02-06,1971,Milwaukee Bucks,111,San Francisco Warriors,85,0,N
+1971-02-07,1971,Cincinnati Royals,118,Atlanta Hawks,121,0,N
+1971-02-07,1971,Detroit Pistons,105,Baltimore Bullets,108,0,N
+1971-02-07,1971,Chicago Bulls,96,Boston Celtics,104,0,N
+1971-02-07,1971,San Francisco Warriors,104,Los Angeles Lakers,119,0,N
+1971-02-07,1971,New York Knicks,99,Philadelphia 76ers,127,0,N
+1971-02-07,1971,Cleveland Cavaliers,103,Portland Trail Blazers,112,0,N
+1971-02-07,1971,San Diego Rockets,124,Seattle SuperSonics,107,0,N
+1971-02-08,1971,Phoenix Suns,94,Milwaukee Bucks,118,0,N
+1971-02-09,1971,Phoenix Suns,120,Baltimore Bullets,115,0,N
+1971-02-09,1971,Boston Celtics,90,Chicago Bulls,88,0,N
+1971-02-09,1971,Los Angeles Lakers,116,Cleveland Cavaliers,111,0,N
+1971-02-09,1971,Milwaukee Bucks,107,Detroit Pistons,106,0,N
+1971-02-09,1971,Atlanta Hawks,114,New York Knicks,109,0,N
+1971-02-09,1971,Seattle SuperSonics,115,San Diego Rockets,132,0,N
+1971-02-10,1971,Boston Celtics,102,Atlanta Hawks,114,0,N
+1971-02-10,1971,New York Knicks,99,Buffalo Braves,106,0,N
+1971-02-10,1971,Seattle SuperSonics,122,San Francisco Warriors,133,0,N
+1971-02-11,1971,Los Angeles Lakers,88,Milwaukee Bucks,122,0,N
+1971-02-11,1971,San Francisco Warriors,111,San Diego Rockets,119,0,N
+1971-02-11,1971,Cincinnati Royals,101,Seattle SuperSonics,119,0,N
+1971-02-12,1971,New York Knicks,116,Atlanta Hawks,125,0,N
+1971-02-12,1971,Boston Celtics,113,Baltimore Bullets,109,1,N
+1971-02-12,1971,Los Angeles Lakers,88,Chicago Bulls,107,0,N
+1971-02-12,1971,Phoenix Suns,114,Cleveland Cavaliers,105,0,N
+1971-02-12,1971,Philadelphia 76ers,109,Detroit Pistons,118,0,N
+1971-02-12,1971,Seattle SuperSonics,125,Portland Trail Blazers,137,0,N
+1971-02-12,1971,Cincinnati Royals,119,San Francisco Warriors,133,0,N
+1971-02-13,1971,Buffalo Braves,111,Cleveland Cavaliers,106,0,N
+1971-02-13,1971,Chicago Bulls,96,Milwaukee Bucks,103,0,N
+1971-02-13,1971,Phoenix Suns,97,New York Knicks,114,0,N
+1971-02-13,1971,Cincinnati Royals,116,San Diego Rockets,120,0,N
+1971-02-14,1971,Milwaukee Bucks,124,Atlanta Hawks,88,0,N
+1971-02-14,1971,Philadelphia 76ers,103,Baltimore Bullets,112,0,N
+1971-02-14,1971,Phoenix Suns,108,Buffalo Braves,97,0,N
+1971-02-14,1971,Cleveland Cavaliers,83,Chicago Bulls,108,0,N
+1971-02-14,1971,Boston Celtics,110,Detroit Pistons,108,0,N
+1971-02-14,1971,Cincinnati Royals,113,Los Angeles Lakers,125,0,N
+1971-02-14,1971,San Francisco Warriors,101,Seattle SuperSonics,146,0,N
+1971-02-16,1971,Phoenix Suns,119,Boston Celtics,116,0,N
+1971-02-16,1971,Milwaukee Bucks,135,Buffalo Braves,103,0,N
+1971-02-16,1971,Atlanta Hawks,102,Chicago Bulls,118,0,N
+1971-02-16,1971,Portland Trail Blazers,102,Cincinnati Royals,109,0,N
+1971-02-16,1971,Baltimore Bullets,95,Detroit Pistons,110,0,N
+1971-02-16,1971,New York Knicks,115,Los Angeles Lakers,130,0,N
+1971-02-17,1971,Buffalo Braves,118,Baltimore Bullets,114,0,N
+1971-02-17,1971,Chicago Bulls,109,Cleveland Cavaliers,104,0,N
+1971-02-17,1971,Philadelphia 76ers,114,Milwaukee Bucks,119,0,N
+1971-02-17,1971,Cincinnati Royals,117,Phoenix Suns,133,0,N
+1971-02-17,1971,Portland Trail Blazers,126,Seattle SuperSonics,130,0,N
+1971-02-17,1971,Boston Celtics,129,San Francisco Warriors,99,0,N
+1971-02-18,1971,Los Angeles Lakers,136,Portland Trail Blazers,114,0,N
+1971-02-18,1971,New York Knicks,116,San Diego Rockets,115,0,N
+1971-02-19,1971,Baltimore Bullets,120,Buffalo Braves,113,0,N
+1971-02-19,1971,Detroit Pistons,114,Chicago Bulls,115,1,N
+1971-02-19,1971,Cincinnati Royals,109,Cleveland Cavaliers,125,0,N
+1971-02-19,1971,Philadelphia 76ers,118,Los Angeles Lakers,104,0,N
+1971-02-19,1971,Boston Celtics,112,Phoenix Suns,116,0,N
+1971-02-19,1971,Milwaukee Bucks,128,Seattle SuperSonics,112,0,N
+1971-02-19,1971,San Diego Rockets,109,San Francisco Warriors,103,0,N
+1971-02-20,1971,Atlanta Hawks,122,Baltimore Bullets,115,0,N
+1971-02-20,1971,Buffalo Braves,94,Cincinnati Royals,120,0,N
+1971-02-20,1971,Detroit Pistons,94,New York Knicks,108,0,N
+1971-02-20,1971,Philadelphia 76ers,118,Portland Trail Blazers,105,0,N
+1971-02-20,1971,Boston Celtics,118,San Diego Rockets,128,0,N
+1971-02-20,1971,Milwaukee Bucks,104,San Francisco Warriors,96,0,N
+1971-02-21,1971,Baltimore Bullets,121,Atlanta Hawks,119,0,N
+1971-02-21,1971,Chicago Bulls,125,Detroit Pistons,112,0,N
+1971-02-21,1971,Boston Celtics,116,Los Angeles Lakers,124,0,N
+1971-02-21,1971,Milwaukee Bucks,125,Phoenix Suns,97,0,N
+1971-02-21,1971,Cleveland Cavaliers,105,Portland Trail Blazers,123,0,N
+1971-02-21,1971,Philadelphia 76ers,128,Seattle SuperSonics,135,0,N
+1971-02-22,1971,San Francisco Warriors,109,Buffalo Braves,91,0,N
+1971-02-23,1971,Los Angeles Lakers,114,Baltimore Bullets,107,0,N
+1971-02-23,1971,San Francisco Warriors,107,Milwaukee Bucks,118,0,N
+1971-02-23,1971,San Diego Rockets,126,New York Knicks,109,0,N
+1971-02-23,1971,Portland Trail Blazers,113,Philadelphia 76ers,119,0,N
+1971-02-24,1971,Portland Trail Blazers,107,Atlanta Hawks,118,0,N
+1971-02-24,1971,Los Angeles Lakers,96,Boston Celtics,116,0,N
+1971-02-24,1971,New York Knicks,125,Cincinnati Royals,105,0,N
+1971-02-24,1971,San Francisco Warriors,117,Detroit Pistons,115,0,N
+1971-02-24,1971,San Diego Rockets,104,Milwaukee Bucks,139,0,N
+1971-02-24,1971,Cleveland Cavaliers,101,Seattle SuperSonics,123,0,N
+1971-02-26,1971,Portland Trail Blazers,97,Baltimore Bullets,114,0,N
+1971-02-26,1971,Atlanta Hawks,129,Boston Celtics,136,1,N
+1971-02-26,1971,Detroit Pistons,127,Buffalo Braves,122,1,N
+1971-02-26,1971,Seattle SuperSonics,121,Los Angeles Lakers,145,0,N
+1971-02-26,1971,Cincinnati Royals,111,Milwaukee Bucks,135,0,N
+1971-02-26,1971,Phoenix Suns,108,Philadelphia 76ers,94,0,N
+1971-02-27,1971,Buffalo Braves,117,Atlanta Hawks,134,0,N
+1971-02-27,1971,Phoenix Suns,124,Detroit Pistons,117,0,N
+1971-02-27,1971,Portland Trail Blazers,102,New York Knicks,113,0,N
+1971-02-27,1971,Chicago Bulls,129,Seattle SuperSonics,114,0,N
+1971-02-27,1971,Los Angeles Lakers,112,San Francisco Warriors,107,0,N
+1971-02-28,1971,Detroit Pistons,106,Atlanta Hawks,105,0,N
+1971-02-28,1971,New York Knicks,110,Baltimore Bullets,104,0,N
+1971-02-28,1971,Milwaukee Bucks,111,Boston Celtics,99,0,N
+1971-02-28,1971,Cleveland Cavaliers,90,Los Angeles Lakers,107,0,N
+1971-02-28,1971,Cincinnati Royals,121,Philadelphia 76ers,131,0,N
+1971-03-01,1971,Cincinnati Royals,94,Chicago Bulls,98,0,N
+1971-03-01,1971,Philadelphia 76ers,103,Milwaukee Bucks,127,0,N
+1971-03-02,1971,Los Angeles Lakers,131,Buffalo Braves,118,0,N
+1971-03-02,1971,Portland Trail Blazers,122,Detroit Pistons,128,0,N
+1971-03-02,1971,Baltimore Bullets,95,New York Knicks,109,0,N
+1971-03-02,1971,San Diego Rockets,111,Philadelphia 76ers,103,0,N
+1971-03-02,1971,Atlanta Hawks,128,Seattle SuperSonics,116,0,N
+1971-03-03,1971,Cincinnati Royals,133,Baltimore Bullets,132,1,N
+1971-03-03,1971,San Diego Rockets,113,Boston Celtics,128,0,N
+1971-03-03,1971,Los Angeles Lakers,97,Milwaukee Bucks,112,0,N
+1971-03-03,1971,Portland Trail Blazers,104,Philadelphia 76ers,120,0,N
+1971-03-03,1971,Chicago Bulls,90,Phoenix Suns,115,0,N
+1971-03-03,1971,Atlanta Hawks,109,San Francisco Warriors,105,0,N
+1971-03-04,1971,Buffalo Braves,113,Milwaukee Bucks,116,0,N
+1971-03-05,1971,San Francisco Warriors,103,Chicago Bulls,130,0,N
+1971-03-05,1971,Portland Trail Blazers,111,Cincinnati Royals,117,0,N
+1971-03-05,1971,Milwaukee Bucks,108,Detroit Pistons,95,0,N
+1971-03-05,1971,Atlanta Hawks,105,Los Angeles Lakers,104,0,N
+1971-03-05,1971,New York Knicks,116,Philadelphia 76ers,121,0,N
+1971-03-05,1971,Seattle SuperSonics,111,San Diego Rockets,110,0,N
+1971-03-06,1971,Cleveland Cavaliers,109,Buffalo Braves,120,0,N
+1971-03-06,1971,San Diego Rockets,99,Chicago Bulls,105,0,N
+1971-03-06,1971,Boston Celtics,104,New York Knicks,112,0,N
+1971-03-06,1971,Detroit Pistons,115,Philadelphia 76ers,121,0,N
+1971-03-06,1971,Los Angeles Lakers,109,Seattle SuperSonics,121,0,N
+1971-03-06,1971,Baltimore Bullets,103,San Francisco Warriors,109,0,N
+1971-03-07,1971,Cincinnati Royals,112,Atlanta Hawks,122,0,N
+1971-03-07,1971,New York Knicks,116,Boston Celtics,110,0,N
+1971-03-07,1971,Cleveland Cavaliers,104,Detroit Pistons,100,0,N
+1971-03-07,1971,Chicago Bulls,108,Los Angeles Lakers,117,0,N
+1971-03-07,1971,Baltimore Bullets,117,Phoenix Suns,108,0,N
+1971-03-07,1971,Portland Trail Blazers,121,San Diego Rockets,135,0,N
+1971-03-08,1971,Seattle SuperSonics,99,Milwaukee Bucks,104,0,N
+1971-03-08,1971,Buffalo Braves,114,Portland Trail Blazers,98,0,N
+1971-03-09,1971,Milwaukee Bucks,103,Chicago Bulls,110,1,N
+1971-03-09,1971,Philadelphia 76ers,124,Cleveland Cavaliers,113,0,N
+1971-03-09,1971,Phoenix Suns,114,Detroit Pistons,108,0,N
+1971-03-09,1971,Baltimore Bullets,107,Los Angeles Lakers,95,0,N
+1971-03-09,1971,Seattle SuperSonics,114,New York Knicks,99,0,N
+1971-03-09,1971,Buffalo Braves,96,San Diego Rockets,106,0,N
+1971-03-09,1971,Boston Celtics,134,San Francisco Warriors,112,0,N
+1971-03-10,1971,Phoenix Suns,98,Atlanta Hawks,139,0,N
+1971-03-10,1971,New York Knicks,118,Cincinnati Royals,120,1,N
+1971-03-11,1971,Baltimore Bullets,118,Portland Trail Blazers,136,0,N
+1971-03-11,1971,Boston Celtics,91,San Diego Rockets,115,0,N
+1971-03-11,1971,Detroit Pistons,97,Seattle SuperSonics,130,0,N
+1971-03-12,1971,Cincinnati Royals,124,Boston Celtics,108,0,N
+1971-03-12,1971,Phoenix Suns,92,Chicago Bulls,116,0,N
+1971-03-12,1971,Atlanta Hawks,119,Cleveland Cavaliers,107,0,N
+1971-03-12,1971,Buffalo Braves,116,Los Angeles Lakers,109,0,N
+1971-03-12,1971,Detroit Pistons,133,Portland Trail Blazers,129,0,N
+1971-03-12,1971,Seattle SuperSonics,98,San Francisco Warriors,111,0,N
+1971-03-13,1971,Phoenix Suns,99,Chicago Bulls,111,0,N
+1971-03-13,1971,Atlanta Hawks,127,Cincinnati Royals,136,0,N
+1971-03-13,1971,Milwaukee Bucks,103,New York Knicks,108,0,N
+1971-03-13,1971,Baltimore Bullets,115,San Diego Rockets,121,0,N
+1971-03-13,1971,Detroit Pistons,107,San Francisco Warriors,116,0,N
+1971-03-14,1971,Philadelphia 76ers,101,Atlanta Hawks,108,0,N
+1971-03-14,1971,Chicago Bulls,104,Boston Celtics,117,0,N
+1971-03-14,1971,Cincinnati Royals,115,Cleveland Cavaliers,103,0,N
+1971-03-14,1971,Detroit Pistons,100,Los Angeles Lakers,110,0,N
+1971-03-14,1971,Phoenix Suns,125,Milwaukee Bucks,113,0,N
+1971-03-14,1971,Buffalo Braves,112,Portland Trail Blazers,122,0,N
+1971-03-14,1971,Baltimore Bullets,121,Seattle SuperSonics,124,0,N
+1971-03-16,1971,Cincinnati Royals,113,Buffalo Braves,102,0,N
+1971-03-16,1971,Baltimore Bullets,99,Chicago Bulls,113,0,N
+1971-03-16,1971,San Francisco Warriors,103,Cleveland Cavaliers,108,0,N
+1971-03-16,1971,Los Angeles Lakers,82,New York Knicks,115,0,N
+1971-03-16,1971,Atlanta Hawks,130,Philadelphia 76ers,125,0,N
+1971-03-16,1971,Milwaukee Bucks,119,Phoenix Suns,111,0,N
+1971-03-17,1971,Cleveland Cavaliers,109,Baltimore Bullets,113,0,N
+1971-03-17,1971,Los Angeles Lakers,104,Boston Celtics,112,0,N
+1971-03-17,1971,San Francisco Warriors,110,Cincinnati Royals,92,0,N
+1971-03-17,1971,Detroit Pistons,99,San Diego Rockets,106,0,N
+1971-03-18,1971,San Francisco Warriors,91,Chicago Bulls,85,0,N
+1971-03-18,1971,New York Knicks,131,Phoenix Suns,123,1,N
+1971-03-18,1971,Milwaukee Bucks,121,Seattle SuperSonics,122,0,N
+1971-03-19,1971,Chicago Bulls,111,Atlanta Hawks,112,1,N
+1971-03-19,1971,Baltimore Bullets,117,Boston Celtics,125,0,N
+1971-03-19,1971,Buffalo Braves,105,Detroit Pistons,111,0,N
+1971-03-19,1971,Phoenix Suns,111,Los Angeles Lakers,106,0,N
+1971-03-19,1971,Cincinnati Royals,127,Philadelphia 76ers,147,0,N
+1971-03-19,1971,Seattle SuperSonics,128,Portland Trail Blazers,135,0,N
+1971-03-19,1971,Milwaukee Bucks,99,San Diego Rockets,111,0,N
+1971-03-20,1971,Philadelphia 76ers,112,Baltimore Bullets,124,0,N
+1971-03-20,1971,Portland Trail Blazers,132,Buffalo Braves,129,1,N
+1971-03-20,1971,Atlanta Hawks,121,Chicago Bulls,138,0,N
+1971-03-20,1971,Detroit Pistons,103,Cleveland Cavaliers,114,0,N
+1971-03-20,1971,Seattle SuperSonics,107,Phoenix Suns,114,0,N
+1971-03-21,1971,Cincinnati Royals,110,Boston Celtics,135,0,N
+1971-03-21,1971,Portland Trail Blazers,113,Cleveland Cavaliers,110,0,N
+1971-03-21,1971,Chicago Bulls,111,Detroit Pistons,116,0,N
+1971-03-21,1971,New York Knicks,98,Los Angeles Lakers,101,0,N
+1971-03-21,1971,Baltimore Bullets,108,Philadelphia 76ers,120,0,N
+1971-03-21,1971,Phoenix Suns,114,San Diego Rockets,132,0,N
+1971-03-21,1971,San Francisco Warriors,106,Seattle SuperSonics,119,0,N
+1971-03-23,1971,Portland Trail Blazers,114,Cleveland Cavaliers,112,0,N
+1971-03-24,1971,Philadelphia 76ers,126,Baltimore Bullets,112,0,Y
+1971-03-24,1971,Chicago Bulls,99,Los Angeles Lakers,100,0,Y
+1971-03-25,1971,Atlanta Hawks,101,New York Knicks,112,0,Y
+1971-03-26,1971,Chicago Bulls,95,Los Angeles Lakers,105,0,Y
+1971-03-26,1971,Baltimore Bullets,119,Philadelphia 76ers,107,0,Y
+1971-03-27,1971,Atlanta Hawks,113,New York Knicks,104,0,Y
+1971-03-27,1971,Milwaukee Bucks,107,San Francisco Warriors,96,0,Y
+1971-03-28,1971,New York Knicks,110,Atlanta Hawks,95,0,Y
+1971-03-28,1971,Philadelphia 76ers,103,Baltimore Bullets,111,0,Y
+1971-03-28,1971,Los Angeles Lakers,98,Chicago Bulls,106,0,Y
+1971-03-29,1971,San Francisco Warriors,90,Milwaukee Bucks,104,0,Y
+1971-03-30,1971,New York Knicks,113,Atlanta Hawks,107,0,Y
+1971-03-30,1971,Los Angeles Lakers,102,Chicago Bulls,112,0,Y
+1971-03-30,1971,San Francisco Warriors,102,Milwaukee Bucks,114,0,Y
+1971-03-30,1971,Baltimore Bullets,120,Philadelphia 76ers,105,0,Y
+1971-04-01,1971,Chicago Bulls,89,Los Angeles Lakers,115,0,Y
+1971-04-01,1971,Atlanta Hawks,107,New York Knicks,111,0,Y
+1971-04-01,1971,Milwaukee Bucks,104,San Francisco Warriors,106,0,Y
+1971-04-01,1971,Philadelphia 76ers,104,Baltimore Bullets,103,0,Y
+1971-04-03,1971,Baltimore Bullets,94,Philadelphia 76ers,98,0,Y
+1971-04-04,1971,Philadelphia 76ers,120,Baltimore Bullets,128,0,Y
+1971-04-04,1971,Los Angeles Lakers,99,Chicago Bulls,113,0,Y
+1971-04-04,1971,San Francisco Warriors,86,Milwaukee Bucks,136,0,Y
+1971-04-06,1971,Chicago Bulls,98,Los Angeles Lakers,109,0,Y
+1971-04-06,1971,Baltimore Bullets,111,New York Knicks,112,0,Y
+1971-04-09,1971,Los Angeles Lakers,85,Milwaukee Bucks,106,0,Y
+1971-04-09,1971,Baltimore Bullets,88,New York Knicks,107,0,Y
+1971-04-11,1971,New York Knicks,88,Baltimore Bullets,114,0,Y
+1971-04-11,1971,Los Angeles Lakers,73,Milwaukee Bucks,91,0,Y
+1971-04-14,1971,New York Knicks,80,Baltimore Bullets,101,0,Y
+1971-04-14,1971,Milwaukee Bucks,107,Los Angeles Lakers,118,0,Y
+1971-04-16,1971,Milwaukee Bucks,117,Los Angeles Lakers,94,0,Y
+1971-04-16,1971,Baltimore Bullets,84,New York Knicks,89,0,Y
+1971-04-18,1971,New York Knicks,96,Baltimore Bullets,113,0,Y
+1971-04-18,1971,Los Angeles Lakers,98,Milwaukee Bucks,116,0,Y
+1971-04-19,1971,Baltimore Bullets,93,New York Knicks,91,0,Y
+1971-04-21,1971,Baltimore Bullets,88,Milwaukee Bucks,98,0,Y
+1971-04-25,1971,Milwaukee Bucks,102,Baltimore Bullets,83,0,Y
+1971-04-28,1971,Baltimore Bullets,99,Milwaukee Bucks,107,0,Y
+1971-04-30,1971,Milwaukee Bucks,118,Baltimore Bullets,106,0,Y

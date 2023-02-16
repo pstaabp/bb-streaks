@@ -1,0 +1,326 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1959-10-17,1960,Cincinnati Royals,125,Boston Celtics,129,0,N
+1959-10-18,1960,Detroit Pistons,106,Minneapolis Lakers,105,0,N
+1959-10-24,1960,Detroit Pistons,103,Cincinnati Royals,108,0,N
+1959-10-24,1960,Philadelphia Warriors,118,New York Knicks,109,0,N
+1959-10-24,1960,Minneapolis Lakers,94,St. Louis Hawks,87,0,N
+1959-10-24,1960,Boston Celtics,121,Syracuse Nationals,109,0,N
+1959-10-25,1960,Minneapolis Lakers,102,Cincinnati Royals,103,0,N
+1959-10-28,1960,Syracuse Nationals,102,Detroit Pistons,117,0,N
+1959-10-30,1960,Syracuse Nationals,136,Cincinnati Royals,127,0,N
+1959-10-31,1960,Boston Celtics,123,New York Knicks,109,0,N
+1959-10-31,1960,Detroit Pistons,112,Philadelphia Warriors,120,0,N
+1959-10-31,1960,Cincinnati Royals,102,St. Louis Hawks,109,0,N
+1959-10-31,1960,Minneapolis Lakers,108,Syracuse Nationals,117,0,N
+1959-11-01,1960,St. Louis Hawks,138,Minneapolis Lakers,101,0,N
+1959-11-01,1960,Boston Celtics,124,Cincinnati Royals,109,0,N
+1959-11-03,1960,Boston Celtics,103,St. Louis Hawks,98,0,N
+1959-11-03,1960,New York Knicks,99,Minneapolis Lakers,93,0,N
+1959-11-04,1960,New York Knicks,107,Detroit Pistons,101,0,N
+1959-11-04,1960,Syracuse Nationals,113,Philadelphia Warriors,124,0,N
+1959-11-06,1960,Detroit Pistons,118,Minneapolis Lakers,113,2,N
+1959-11-07,1960,Philadelphia Warriors,106,Boston Celtics,115,0,N
+1959-11-07,1960,Syracuse Nationals,101,Cincinnati Royals,103,0,N
+1959-11-07,1960,Minneapolis Lakers,113,Detroit Pistons,111,1,N
+1959-11-07,1960,New York Knicks,113,St. Louis Hawks,117,0,N
+1959-11-08,1960,Boston Celtics,115,Minneapolis Lakers,136,0,N
+1959-11-08,1960,Cincinnati Royals,106,Philadelphia Warriors,134,0,N
+1959-11-08,1960,Detroit Pistons,107,Syracuse Nationals,118,0,N
+1959-11-10,1960,Minneapolis Lakers,105,St. Louis Hawks,134,0,N
+1959-11-10,1960,New York Knicks,125,Philadelphia Warriors,126,0,N
+1959-11-10,1960,Detroit Pistons,109,Boston Celtics,128,0,N
+1959-11-11,1960,Cincinnati Royals,118,Boston Celtics,151,0,N
+1959-11-11,1960,Philadelphia Warriors,119,Detroit Pistons,105,0,N
+1959-11-12,1960,Philadelphia Warriors,124,Cincinnati Royals,116,0,N
+1959-11-12,1960,Minneapolis Lakers,93,Detroit Pistons,107,0,N
+1959-11-12,1960,Syracuse Nationals,113,New York Knicks,104,0,N
+1959-11-14,1960,St. Louis Hawks,111,Boston Celtics,113,0,N
+1959-11-14,1960,Cincinnati Royals,103,Detroit Pistons,111,0,N
+1959-11-14,1960,Minneapolis Lakers,98,Philadelphia Warriors,104,0,N
+1959-11-14,1960,New York Knicks,108,Syracuse Nationals,116,0,N
+1959-11-15,1960,Boston Celtics,134,Cincinnati Royals,128,0,N
+1959-11-15,1960,Philadelphia Warriors,100,Minneapolis Lakers,106,0,N
+1959-11-15,1960,Detroit Pistons,103,New York Knicks,94,0,N
+1959-11-17,1960,St. Louis Hawks,97,New York Knicks,105,0,N
+1959-11-17,1960,Boston Celtics,132,Detroit Pistons,129,2,N
+1959-11-17,1960,Syracuse Nationals,121,Cincinnati Royals,116,0,N
+1959-11-18,1960,Detroit Pistons,110,Cincinnati Royals,93,0,N
+1959-11-18,1960,New York Knicks,106,Minneapolis Lakers,105,0,N
+1959-11-18,1960,Boston Celtics,103,Syracuse Nationals,138,0,N
+1959-11-19,1960,New York Knicks,130,Cincinnati Royals,109,0,N
+1959-11-20,1960,Syracuse Nationals,101,Boston Celtics,114,0,N
+1959-11-20,1960,Detroit Pistons,85,Minneapolis Lakers,105,0,N
+1959-11-20,1960,St. Louis Hawks,118,Philadelphia Warriors,117,0,N
+1959-11-21,1960,Minneapolis Lakers,99,Cincinnati Royals,93,1,N
+1959-11-21,1960,Boston Celtics,128,New York Knicks,127,0,N
+1959-11-21,1960,Detroit Pistons,109,St. Louis Hawks,107,0,N
+1959-11-21,1960,Philadelphia Warriors,107,Syracuse Nationals,116,0,N
+1959-11-22,1960,Syracuse Nationals,103,Philadelphia Warriors,114,0,N
+1959-11-22,1960,New York Knicks,104,Detroit Pistons,115,0,N
+1959-11-22,1960,St. Louis Hawks,100,Cincinnati Royals,106,0,N
+1959-11-24,1960,Detroit Pistons,104,Cincinnati Royals,91,0,N
+1959-11-24,1960,Syracuse Nationals,120,New York Knicks,107,0,N
+1959-11-25,1960,Philadelphia Warriors,123,Boston Celtics,113,0,N
+1959-11-25,1960,St. Louis Hawks,104,Detroit Pistons,97,0,N
+1959-11-25,1960,Syracuse Nationals,100,Minneapolis Lakers,93,0,N
+1959-11-26,1960,Minneapolis Lakers,95,Cincinnati Royals,114,0,N
+1959-11-26,1960,Boston Celtics,130,Philadelphia Warriors,143,0,N
+1959-11-26,1960,Syracuse Nationals,95,St. Louis Hawks,112,0,N
+1959-11-28,1960,Detroit Pistons,110,Boston Celtics,136,0,N
+1959-11-28,1960,Syracuse Nationals,111,Cincinnati Royals,105,0,N
+1959-11-28,1960,Philadelphia Warriors,109,New York Knicks,108,0,N
+1959-11-28,1960,Minneapolis Lakers,91,St. Louis Hawks,102,0,N
+1959-11-29,1960,Boston Celtics,109,Minneapolis Lakers,93,0,N
+1959-11-29,1960,New York Knicks,127,Philadelphia Warriors,126,0,N
+1959-12-01,1960,Syracuse Nationals,101,St. Louis Hawks,106,0,N
+1959-12-01,1960,Minneapolis Lakers,103,New York Knicks,100,0,N
+1959-12-02,1960,St. Louis Hawks,121,Syracuse Nationals,130,0,N
+1959-12-02,1960,New York Knicks,118,Cincinnati Royals,135,0,N
+1959-12-03,1960,Cincinnati Royals,111,Boston Celtics,114,0,N
+1959-12-03,1960,Minneapolis Lakers,109,Philadelphia Warriors,123,0,N
+1959-12-04,1960,New York Knicks,107,Boston Celtics,122,0,N
+1959-12-04,1960,Minneapolis Lakers,101,Detroit Pistons,120,0,N
+1959-12-04,1960,St. Louis Hawks,112,Philadelphia Warriors,124,0,N
+1959-12-05,1960,Detroit Pistons,108,New York Knicks,124,0,N
+1959-12-05,1960,Philadelphia Warriors,112,St. Louis Hawks,113,0,N
+1959-12-05,1960,Minneapolis Lakers,95,Syracuse Nationals,108,0,N
+1959-12-06,1960,St. Louis Hawks,118,Cincinnati Royals,104,0,N
+1959-12-06,1960,Boston Celtics,121,Minneapolis Lakers,104,0,N
+1959-12-06,1960,Detroit Pistons,116,Philadelphia Warriors,118,0,N
+1959-12-08,1960,Syracuse Nationals,93,Minneapolis Lakers,89,0,N
+1959-12-08,1960,Boston Celtics,121,New York Knicks,105,0,N
+1959-12-08,1960,St. Louis Hawks,101,Cincinnati Royals,105,0,N
+1959-12-09,1960,Philadelphia Warriors,116,Boston Celtics,137,0,N
+1959-12-09,1960,Detroit Pistons,119,Cincinnati Royals,129,0,N
+1959-12-09,1960,Syracuse Nationals,86,Minneapolis Lakers,96,0,N
+1959-12-10,1960,St. Louis Hawks,129,Detroit Pistons,111,0,N
+1959-12-10,1960,Cincinnati Royals,112,Philadelphia Warriors,131,0,N
+1959-12-11,1960,St. Louis Hawks,99,Boston Celtics,122,0,N
+1959-12-11,1960,Syracuse Nationals,121,New York Knicks,152,0,N
+1959-12-12,1960,Cincinnati Royals,107,Minneapolis Lakers,97,0,N
+1959-12-12,1960,Boston Celtics,126,Philadelphia Warriors,117,0,N
+1959-12-13,1960,New York Knicks,129,Detroit Pistons,147,0,N
+1959-12-13,1960,Cincinnati Royals,98,St. Louis Hawks,118,0,N
+1959-12-13,1960,Philadelphia Warriors,121,Syracuse Nationals,150,0,N
+1959-12-15,1960,St. Louis Hawks,119,New York Knicks,110,0,N
+1959-12-15,1960,Philadelphia Warriors,131,Cincinnati Royals,107,0,N
+1959-12-16,1960,Philadelphia Warriors,114,Cincinnati Royals,105,0,N
+1959-12-16,1960,St. Louis Hawks,107,Detroit Pistons,106,0,N
+1959-12-16,1960,New York Knicks,113,Syracuse Nationals,116,0,N
+1959-12-17,1960,New York Knicks,126,Boston Celtics,137,0,N
+1959-12-19,1960,New York Knicks,116,Boston Celtics,119,0,N
+1959-12-19,1960,Minneapolis Lakers,131,Cincinnati Royals,113,0,N
+1959-12-19,1960,Syracuse Nationals,112,Detroit Pistons,120,0,N
+1959-12-19,1960,Philadelphia Warriors,89,St. Louis Hawks,102,0,N
+1959-12-20,1960,Cincinnati Royals,118,New York Knicks,132,0,N
+1959-12-20,1960,Detroit Pistons,86,St. Louis Hawks,102,0,N
+1959-12-20,1960,Boston Celtics,132,Syracuse Nationals,127,0,N
+1959-12-22,1960,New York Knicks,127,Cincinnati Royals,119,0,N
+1959-12-22,1960,Boston Celtics,136,Detroit Pistons,104,0,N
+1959-12-25,1960,Boston Celtics,123,New York Knicks,119,0,N
+1959-12-25,1960,Minneapolis Lakers,96,St. Louis Hawks,112,0,N
+1959-12-25,1960,Syracuse Nationals,121,Philadelphia Warriors,129,0,N
+1959-12-25,1960,Detroit Pistons,103,Cincinnati Royals,121,0,N
+1959-12-26,1960,Minneapolis Lakers,108,Detroit Pistons,105,0,N
+1959-12-26,1960,New York Knicks,122,Philadelphia Warriors,116,0,N
+1959-12-26,1960,St. Louis Hawks,104,Syracuse Nationals,117,0,N
+1959-12-27,1960,Boston Celtics,122,Cincinnati Royals,111,0,N
+1959-12-27,1960,Detroit Pistons,109,Minneapolis Lakers,119,0,N
+1959-12-28,1960,Minneapolis Lakers,104,Boston Celtics,107,0,N
+1959-12-28,1960,Philadelphia Warriors,109,Cincinnati Royals,104,0,N
+1959-12-28,1960,Syracuse Nationals,106,St. Louis Hawks,120,0,N
+1959-12-30,1960,Syracuse Nationals,131,Cincinnati Royals,127,0,N
+1959-12-30,1960,New York Knicks,124,Detroit Pistons,109,0,N
+1959-12-30,1960,Minneapolis Lakers,107,Philadelphia Warriors,122,0,N
+1959-12-30,1960,Boston Celtics,96,St. Louis Hawks,82,0,N
+1959-12-31,1960,Minneapolis Lakers,102,New York Knicks,127,0,N
+1960-01-01,1960,St. Louis Hawks,107,Detroit Pistons,119,0,N
+1960-01-01,1960,Cincinnati Royals,128,Boston Celtics,115,0,N
+1960-01-01,1960,Syracuse Nationals,109,Minneapolis Lakers,98,0,N
+1960-01-02,1960,New York Knicks,126,Cincinnati Royals,118,0,N
+1960-01-02,1960,Boston Celtics,117,Philadelphia Warriors,118,0,N
+1960-01-02,1960,Detroit Pistons,113,St. Louis Hawks,114,0,N
+1960-01-03,1960,Cincinnati Royals,112,Detroit Pistons,114,0,N
+1960-01-03,1960,New York Knicks,108,St. Louis Hawks,110,0,N
+1960-01-03,1960,Boston Celtics,113,Syracuse Nationals,114,0,N
+1960-01-04,1960,Syracuse Nationals,120,Boston Celtics,127,0,N
+1960-01-05,1960,Philadelphia Warriors,126,Minneapolis Lakers,111,0,N
+1960-01-05,1960,Detroit Pistons,110,New York Knicks,121,0,N
+1960-01-05,1960,Syracuse Nationals,145,Boston Celtics,143,1,N
+1960-01-06,1960,New York Knicks,113,Cincinnati Royals,129,0,N
+1960-01-06,1960,St. Louis Hawks,101,Philadelphia Warriors,121,0,N
+1960-01-07,1960,Philadelphia Warriors,120,Detroit Pistons,105,0,N
+1960-01-07,1960,Cincinnati Royals,114,Syracuse Nationals,132,0,N
+1960-01-08,1960,St. Louis Hawks,102,Cincinnati Royals,112,0,N
+1960-01-08,1960,Syracuse Nationals,118,Detroit Pistons,107,0,N
+1960-01-09,1960,Boston Celtics,126,Detroit Pistons,103,0,N
+1960-01-09,1960,Syracuse Nationals,112,Philadelphia Warriors,119,0,N
+1960-01-09,1960,Cincinnati Royals,91,Minneapolis Lakers,121,0,N
+1960-01-10,1960,Minneapolis Lakers,112,Cincinnati Royals,106,0,N
+1960-01-10,1960,Philadelphia Warriors,116,New York Knicks,103,0,N
+1960-01-10,1960,Boston Celtics,111,St. Louis Hawks,121,0,N
+1960-01-10,1960,Detroit Pistons,103,Syracuse Nationals,108,0,N
+1960-01-12,1960,Syracuse Nationals,127,Boston Celtics,120,0,N
+1960-01-12,1960,New York Knicks,141,Cincinnati Royals,123,0,N
+1960-01-12,1960,St. Louis Hawks,108,Philadelphia Warriors,126,0,N
+1960-01-13,1960,St. Louis Hawks,112,Boston Celtics,134,0,N
+1960-01-13,1960,New York Knicks,113,Detroit Pistons,114,0,N
+1960-01-13,1960,Syracuse Nationals,131,Philadelphia Warriors,132,1,N
+1960-01-14,1960,New York Knicks,131,Minneapolis Lakers,126,0,N
+1960-01-14,1960,St. Louis Hawks,112,Syracuse Nationals,119,0,N
+1960-01-15,1960,Syracuse Nationals,140,St. Louis Hawks,141,1,N
+1960-01-15,1960,Boston Celtics,124,Philadelphia Warriors,112,0,N
+1960-01-15,1960,Minneapolis Lakers,118,Cincinnati Royals,122,0,N
+1960-01-16,1960,Minneapolis Lakers,105,Detroit Pistons,98,0,N
+1960-01-16,1960,Cincinnati Royals,106,New York Knicks,132,0,N
+1960-01-17,1960,Philadelphia Warriors,123,Boston Celtics,129,0,N
+1960-01-17,1960,Cincinnati Royals,110,Detroit Pistons,115,0,N
+1960-01-17,1960,Minneapolis Lakers,119,St. Louis Hawks,135,0,N
+1960-01-17,1960,New York Knicks,117,Syracuse Nationals,129,0,N
+1960-01-19,1960,Philadelphia Warriors,114,New York Knicks,93,0,N
+1960-01-20,1960,New York Knicks,126,Boston Celtics,144,0,N
+1960-01-20,1960,St. Louis Hawks,119,Cincinnati Royals,108,0,N
+1960-01-20,1960,Philadelphia Warriors,129,Syracuse Nationals,123,0,N
+1960-01-23,1960,Syracuse Nationals,121,Boston Celtics,130,0,N
+1960-01-23,1960,Philadelphia Warriors,110,Detroit Pistons,130,0,N
+1960-01-23,1960,New York Knicks,115,Minneapolis Lakers,104,0,N
+1960-01-23,1960,Cincinnati Royals,100,St. Louis Hawks,108,0,N
+1960-01-24,1960,Boston Celtics,131,Syracuse Nationals,110,0,N
+1960-01-24,1960,Philadelphia Warriors,104,Cincinnati Royals,95,0,N
+1960-01-24,1960,New York Knicks,129,St. Louis Hawks,155,0,N
+1960-01-25,1960,Philadelphia Warriors,127,Detroit Pistons,117,0,N
+1960-01-26,1960,Syracuse Nationals,114,Detroit Pistons,121,0,N
+1960-01-26,1960,St. Louis Hawks,119,New York Knicks,123,0,N
+1960-01-27,1960,St. Louis Hawks,114,Boston Celtics,127,0,N
+1960-01-27,1960,Minneapolis Lakers,116,Cincinnati Royals,112,0,N
+1960-01-27,1960,Syracuse Nationals,144,Detroit Pistons,108,0,N
+1960-01-27,1960,Philadelphia Warriors,129,New York Knicks,117,0,N
+1960-01-29,1960,New York Knicks,128,Cincinnati Royals,113,0,N
+1960-01-29,1960,Detroit Pistons,125,St. Louis Hawks,130,1,N
+1960-01-29,1960,Boston Celtics,116,Philadelphia Warriors,124,0,N
+1960-01-29,1960,Syracuse Nationals,119,Minneapolis Lakers,112,0,N
+1960-01-30,1960,Cincinnati Royals,107,Boston Celtics,129,0,N
+1960-01-30,1960,St. Louis Hawks,107,Detroit Pistons,117,0,N
+1960-01-30,1960,Philadelphia Warriors,108,New York Knicks,115,0,N
+1960-01-31,1960,Detroit Pistons,128,Boston Celtics,146,0,N
+1960-01-31,1960,Philadelphia Warriors,114,Minneapolis Lakers,104,0,N
+1960-01-31,1960,Syracuse Nationals,110,St. Louis Hawks,117,0,N
+1960-02-01,1960,Philadelphia Warriors,103,Minneapolis Lakers,96,0,N
+1960-02-02,1960,St. Louis Hawks,114,Boston Celtics,113,0,N
+1960-02-02,1960,Syracuse Nationals,119,New York Knicks,102,0,N
+1960-02-02,1960,Cincinnati Royals,107,Philadelphia Warriors,109,0,N
+1960-02-03,1960,Minneapolis Lakers,108,Boston Celtics,128,0,N
+1960-02-03,1960,Cincinnati Royals,105,Detroit Pistons,117,0,N
+1960-02-03,1960,St. Louis Hawks,125,New York Knicks,115,0,N
+1960-02-04,1960,Detroit Pistons,121,Cincinnati Royals,102,0,N
+1960-02-04,1960,Philadelphia Warriors,110,Syracuse Nationals,137,0,N
+1960-02-05,1960,St. Louis Hawks,114,Minneapolis Lakers,96,0,N
+1960-02-05,1960,Syracuse Nationals,100,Boston Celtics,124,0,N
+1960-02-06,1960,Minneapolis Lakers,101,Detroit Pistons,116,0,N
+1960-02-06,1960,Boston Celtics,143,New York Knicks,117,0,N
+1960-02-06,1960,Syracuse Nationals,126,Philadelphia Warriors,129,0,N
+1960-02-07,1960,New York Knicks,142,Boston Celtics,135,0,N
+1960-02-07,1960,Detroit Pistons,102,Minneapolis Lakers,104,0,N
+1960-02-07,1960,Philadelphia Warriors,108,St. Louis Hawks,130,0,N
+1960-02-07,1960,Cincinnati Royals,112,Syracuse Nationals,135,0,N
+1960-02-09,1960,Syracuse Nationals,117,Cincinnati Royals,111,0,N
+1960-02-09,1960,New York Knicks,104,St. Louis Hawks,114,0,N
+1960-02-09,1960,Philadelphia Warriors,113,Detroit Pistons,122,0,N
+1960-02-09,1960,Minneapolis Lakers,90,Boston Celtics,129,0,N
+1960-02-10,1960,Detroit Pistons,121,Boston Celtics,153,0,N
+1960-02-10,1960,St. Louis Hawks,120,Cincinnati Royals,110,0,N
+1960-02-10,1960,Syracuse Nationals,110,Minneapolis Lakers,109,0,N
+1960-02-10,1960,Philadelphia Warriors,117,New York Knicks,125,0,N
+1960-02-11,1960,Cincinnati Royals,111,Minneapolis Lakers,108,0,N
+1960-02-11,1960,St. Louis Hawks,120,Philadelphia Warriors,139,0,N
+1960-02-11,1960,New York Knicks,109,Syracuse Nationals,116,0,N
+1960-02-12,1960,Detroit Pistons,101,Cincinnati Royals,133,0,N
+1960-02-13,1960,Philadelphia Warriors,120,Boston Celtics,122,0,N
+1960-02-13,1960,Minneapolis Lakers,123,Detroit Pistons,117,1,N
+1960-02-13,1960,St. Louis Hawks,104,New York Knicks,122,0,N
+1960-02-14,1960,Boston Celtics,125,Philadelphia Warriors,115,0,N
+1960-02-14,1960,Cincinnati Royals,105,St. Louis Hawks,107,0,N
+1960-02-14,1960,Minneapolis Lakers,119,Syracuse Nationals,121,0,N
+1960-02-16,1960,Syracuse Nationals,116,New York Knicks,125,0,N
+1960-02-16,1960,Minneapolis Lakers,122,Boston Celtics,130,0,N
+1960-02-16,1960,Philadelphia Warriors,117,Cincinnati Royals,112,0,N
+1960-02-16,1960,St. Louis Hawks,111,Detroit Pistons,104,0,N
+1960-02-17,1960,St. Louis Hawks,131,Minneapolis Lakers,127,0,N
+1960-02-17,1960,Syracuse Nationals,116,Philadelphia Warriors,123,0,N
+1960-02-18,1960,New York Knicks,104,Boston Celtics,109,0,N
+1960-02-18,1960,Philadelphia Warriors,122,Syracuse Nationals,136,0,N
+1960-02-19,1960,Boston Celtics,136,Detroit Pistons,116,0,N
+1960-02-19,1960,St. Louis Hawks,101,Minneapolis Lakers,111,0,N
+1960-02-20,1960,Syracuse Nationals,126,New York Knicks,121,0,N
+1960-02-20,1960,Boston Celtics,105,St. Louis Hawks,121,0,N
+1960-02-20,1960,Minneapolis Lakers,106,Philadelphia Warriors,122,0,N
+1960-02-20,1960,Detroit Pistons,107,Cincinnati Royals,110,0,N
+1960-02-21,1960,Boston Celtics,115,Cincinnati Royals,108,0,N
+1960-02-21,1960,St. Louis Hawks,98,Minneapolis Lakers,112,0,N
+1960-02-21,1960,Philadelphia Warriors,129,New York Knicks,122,0,N
+1960-02-21,1960,Detroit Pistons,120,Syracuse Nationals,122,0,N
+1960-02-22,1960,St. Louis Hawks,113,Minneapolis Lakers,103,0,N
+1960-02-23,1960,Philadelphia Warriors,126,Boston Celtics,108,0,N
+1960-02-23,1960,Minneapolis Lakers,117,New York Knicks,112,0,N
+1960-02-23,1960,Syracuse Nationals,133,Cincinnati Royals,135,0,N
+1960-02-24,1960,Minneapolis Lakers,110,Boston Celtics,131,0,N
+1960-02-24,1960,St. Louis Hawks,122,Cincinnati Royals,124,0,N
+1960-02-24,1960,Syracuse Nationals,110,Detroit Pistons,128,0,N
+1960-02-25,1960,Detroit Pistons,107,Boston Celtics,121,0,N
+1960-02-25,1960,Minneapolis Lakers,105,Cincinnati Royals,95,0,N
+1960-02-25,1960,New York Knicks,121,Philadelphia Warriors,131,0,N
+1960-02-25,1960,St. Louis Hawks,105,Syracuse Nationals,110,0,N
+1960-02-26,1960,Minneapolis Lakers,111,Boston Celtics,128,0,N
+1960-02-27,1960,Philadelphia Warriors,91,Minneapolis Lakers,109,0,N
+1960-02-27,1960,Detroit Pistons,116,St. Louis Hawks,114,0,N
+1960-02-27,1960,New York Knicks,111,Syracuse Nationals,114,0,N
+1960-02-28,1960,Philadelphia Warriors,113,Detroit Pistons,111,0,N
+1960-02-28,1960,Boston Celtics,129,New York Knicks,125,0,N
+1960-02-28,1960,Cincinnati Royals,105,St. Louis Hawks,122,0,N
+1960-03-01,1960,Syracuse Nationals,124,New York Knicks,121,0,N
+1960-03-01,1960,Detroit Pistons,108,Cincinnati Royals,106,0,N
+1960-03-01,1960,Minneapolis Lakers,101,St. Louis Hawks,109,0,N
+1960-03-02,1960,Philadelphia Warriors,119,Boston Celtics,133,0,N
+1960-03-02,1960,St. Louis Hawks,100,Detroit Pistons,116,0,N
+1960-03-02,1960,New York Knicks,113,Minneapolis Lakers,123,0,N
+1960-03-03,1960,Minneapolis Lakers,117,Cincinnati Royals,114,0,N
+1960-03-03,1960,Detroit Pistons,101,Philadelphia Warriors,110,0,N
+1960-03-03,1960,Boston Celtics,108,Syracuse Nationals,149,0,N
+1960-03-04,1960,Philadelphia Warriors,136,New York Knicks,134,1,N
+1960-03-05,1960,St. Louis Hawks,107,Minneapolis Lakers,106,1,N
+1960-03-05,1960,New York Knicks,115,Syracuse Nationals,132,0,N
+1960-03-06,1960,Syracuse Nationals,117,Boston Celtics,126,0,N
+1960-03-06,1960,Philadelphia Warriors,109,St. Louis Hawks,128,0,N
+1960-03-06,1960,Detroit Pistons,112,New York Knicks,120,0,N
+1960-03-06,1960,Cincinnati Royals,105,Minneapolis Lakers,114,0,N
+1960-03-08,1960,Detroit Pistons,101,St. Louis Hawks,122,0,N
+1960-03-09,1960,New York Knicks,128,Boston Celtics,148,0,N
+1960-03-09,1960,St. Louis Hawks,123,Cincinnati Royals,116,0,N
+1960-03-09,1960,Minneapolis Lakers,116,Detroit Pistons,117,0,N
+1960-03-09,1960,Philadelphia Warriors,126,Syracuse Nationals,137,0,N
+1960-03-10,1960,New York Knicks,108,Minneapolis Lakers,133,0,N
+1960-03-11,1960,Syracuse Nationals,92,Philadelphia Warriors,115,0,Y
+1960-03-12,1960,Minneapolis Lakers,113,Detroit Pistons,112,0,Y
+1960-03-13,1960,Detroit Pistons,99,Minneapolis Lakers,114,0,Y
+1960-03-13,1960,Philadelphia Warriors,119,Syracuse Nationals,125,0,Y
+1960-03-14,1960,Syracuse Nationals,112,Philadelphia Warriors,132,0,Y
+1960-03-16,1960,Philadelphia Warriors,105,Boston Celtics,111,0,Y
+1960-03-16,1960,Minneapolis Lakers,99,St. Louis Hawks,112,0,Y
+1960-03-17,1960,Minneapolis Lakers,120,St. Louis Hawks,113,0,Y
+1960-03-18,1960,Boston Celtics,110,Philadelphia Warriors,115,0,Y
+1960-03-19,1960,St. Louis Hawks,93,Minneapolis Lakers,89,0,Y
+1960-03-19,1960,Philadelphia Warriors,90,Boston Celtics,120,0,Y
+1960-03-20,1960,St. Louis Hawks,101,Minneapolis Lakers,103,0,Y
+1960-03-20,1960,Boston Celtics,112,Philadelphia Warriors,104,0,Y
+1960-03-22,1960,Philadelphia Warriors,128,Boston Celtics,107,0,Y
+1960-03-22,1960,Minneapolis Lakers,117,St. Louis Hawks,110,1,Y
+1960-03-24,1960,St. Louis Hawks,117,Minneapolis Lakers,96,0,Y
+1960-03-24,1960,Boston Celtics,119,Philadelphia Warriors,117,0,Y
+1960-03-26,1960,Minneapolis Lakers,86,St. Louis Hawks,97,0,Y
+1960-03-27,1960,St. Louis Hawks,122,Boston Celtics,140,0,Y
+1960-03-29,1960,St. Louis Hawks,113,Boston Celtics,103,0,Y
+1960-04-02,1960,Boston Celtics,102,St. Louis Hawks,86,0,Y
+1960-04-03,1960,Boston Celtics,96,St. Louis Hawks,106,0,Y
+1960-04-05,1960,St. Louis Hawks,102,Boston Celtics,127,0,Y
+1960-04-07,1960,Boston Celtics,102,St. Louis Hawks,105,0,Y
+1960-04-09,1960,St. Louis Hawks,103,Boston Celtics,122,0,Y

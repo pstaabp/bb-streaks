@@ -1,0 +1,312 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1955-11-05,1956,New York Knicks,100,Rochester Royals,98,1,N
+1955-11-05,1956,Minneapolis Lakers,89,St. Louis Hawks,101,0,N
+1955-11-05,1956,Fort Wayne Pistons,113,Syracuse Nationals,114,1,N
+1955-11-05,1956,Philadelphia Warriors,87,Boston Celtics,98,0,N
+1955-11-06,1956,Minneapolis Lakers,96,Fort Wayne Pistons,95,0,N
+1955-11-06,1956,Syracuse Nationals,80,Rochester Royals,83,0,N
+1955-11-09,1956,Minneapolis Lakers,106,Philadelphia Warriors,117,0,N
+1955-11-10,1956,Minneapolis Lakers,105,New York Knicks,112,0,N
+1955-11-10,1956,Rochester Royals,84,Philadelphia Warriors,89,0,N
+1955-11-11,1956,Minneapolis Lakers,75,Boston Celtics,119,0,N
+1955-11-12,1956,Philadelphia Warriors,100,Minneapolis Lakers,89,0,N
+1955-11-12,1956,Syracuse Nationals,91,St. Louis Hawks,81,0,N
+1955-11-12,1956,Boston Celtics,95,New York Knicks,96,0,N
+1955-11-12,1956,Rochester Royals,84,Fort Wayne Pistons,79,0,N
+1955-11-13,1956,Syracuse Nationals,79,Fort Wayne Pistons,93,0,N
+1955-11-13,1956,Rochester Royals,91,New York Knicks,94,0,N
+1955-11-15,1956,New York Knicks,95,St. Louis Hawks,121,0,N
+1955-11-17,1956,New York Knicks,110,Fort Wayne Pistons,88,0,N
+1955-11-17,1956,Boston Celtics,92,Philadelphia Warriors,106,0,N
+1955-11-17,1956,Minneapolis Lakers,91,Syracuse Nationals,105,0,N
+1955-11-19,1956,Minneapolis Lakers,91,Rochester Royals,90,0,N
+1955-11-19,1956,Syracuse Nationals,94,Philadelphia Warriors,102,0,N
+1955-11-19,1956,Fort Wayne Pistons,102,Boston Celtics,104,0,N
+1955-11-19,1956,St. Louis Hawks,104,New York Knicks,91,0,N
+1955-11-20,1956,New York Knicks,119,Fort Wayne Pistons,115,1,N
+1955-11-20,1956,Rochester Royals,104,Minneapolis Lakers,96,0,N
+1955-11-20,1956,St. Louis Hawks,80,Syracuse Nationals,84,0,N
+1955-11-23,1956,New York Knicks,115,Boston Celtics,111,1,N
+1955-11-23,1956,Syracuse Nationals,101,Philadelphia Warriors,104,0,N
+1955-11-23,1956,Rochester Royals,88,St. Louis Hawks,90,1,N
+1955-11-24,1956,Rochester Royals,93,Fort Wayne Pistons,104,0,N
+1955-11-24,1956,St. Louis Hawks,99,Minneapolis Lakers,107,0,N
+1955-11-24,1956,New York Knicks,97,Philadelphia Warriors,118,0,N
+1955-11-24,1956,Boston Celtics,103,Syracuse Nationals,111,0,N
+1955-11-26,1956,Syracuse Nationals,99,New York Knicks,100,0,N
+1955-11-26,1956,Minneapolis Lakers,95,St. Louis Hawks,104,0,N
+1955-11-26,1956,Boston Celtics,104,Rochester Royals,103,0,N
+1955-11-26,1956,Fort Wayne Pistons,82,Philadelphia Warriors,87,0,N
+1955-11-27,1956,St. Louis Hawks,106,Fort Wayne Pistons,114,1,N
+1955-11-27,1956,Philadelphia Warriors,94,Minneapolis Lakers,99,0,N
+1955-11-27,1956,New York Knicks,74,Syracuse Nationals,85,0,N
+1955-11-29,1956,Syracuse Nationals,97,Boston Celtics,105,0,N
+1955-11-29,1956,Fort Wayne Pistons,104,New York Knicks,99,0,N
+1955-11-29,1956,Philadelphia Warriors,95,St. Louis Hawks,108,0,N
+1955-11-30,1956,St. Louis Hawks,99,Minneapolis Lakers,97,0,N
+1955-11-30,1956,Fort Wayne Pistons,76,Rochester Royals,87,0,N
+1955-12-01,1956,St. Louis Hawks,98,Philadelphia Warriors,115,0,N
+1955-12-01,1956,New York Knicks,90,Minneapolis Lakers,97,0,N
+1955-12-02,1956,St. Louis Hawks,81,Boston Celtics,94,0,N
+1955-12-03,1956,Philadelphia Warriors,109,New York Knicks,102,0,N
+1955-12-03,1956,St. Louis Hawks,89,Rochester Royals,78,0,N
+1955-12-03,1956,Minneapolis Lakers,103,Syracuse Nationals,114,0,N
+1955-12-04,1956,Boston Celtics,90,Fort Wayne Pistons,111,0,N
+1955-12-04,1956,Syracuse Nationals,102,Minneapolis Lakers,96,0,N
+1955-12-04,1956,Philadelphia Warriors,84,Rochester Royals,107,0,N
+1955-12-06,1956,Syracuse Nationals,88,Fort Wayne Pistons,90,0,N
+1955-12-06,1956,Philadelphia Warriors,116,Minneapolis Lakers,103,0,N
+1955-12-06,1956,Rochester Royals,105,New York Knicks,116,0,N
+1955-12-06,1956,Boston Celtics,122,St. Louis Hawks,99,0,N
+1955-12-07,1956,Minneapolis Lakers,79,Rochester Royals,92,0,N
+1955-12-08,1956,Syracuse Nationals,94,Fort Wayne Pistons,105,0,N
+1955-12-09,1956,Rochester Royals,109,Boston Celtics,108,0,N
+1955-12-09,1956,Syracuse Nationals,92,Philadelphia Warriors,101,0,N
+1955-12-10,1956,Minneapolis Lakers,102,Boston Celtics,118,0,N
+1955-12-10,1956,Fort Wayne Pistons,116,Rochester Royals,117,1,N
+1955-12-10,1956,New York Knicks,99,St. Louis Hawks,80,0,N
+1955-12-11,1956,Philadelphia Warriors,91,Fort Wayne Pistons,96,0,N
+1955-12-11,1956,St. Louis Hawks,91,Rochester Royals,93,0,N
+1955-12-11,1956,Boston Celtics,89,Syracuse Nationals,101,0,N
+1955-12-13,1956,Philadelphia Warriors,109,Boston Celtics,108,0,N
+1955-12-13,1956,Minneapolis Lakers,91,New York Knicks,98,0,N
+1955-12-14,1956,New York Knicks,100,Boston Celtics,102,0,N
+1955-12-14,1956,Minneapolis Lakers,98,Fort Wayne Pistons,85,0,N
+1955-12-14,1956,St. Louis Hawks,109,Rochester Royals,117,0,N
+1955-12-15,1956,Minneapolis Lakers,135,Syracuse Nationals,133,3,N
+1955-12-15,1956,Fort Wayne Pistons,73,Philadelphia Warriors,80,0,N
+1955-12-16,1956,St. Louis Hawks,100,Rochester Royals,97,1,N
+1955-12-17,1956,Syracuse Nationals,110,Boston Celtics,104,0,N
+1955-12-17,1956,New York Knicks,100,Fort Wayne Pistons,95,0,N
+1955-12-17,1956,Rochester Royals,92,Minneapolis Lakers,94,0,N
+1955-12-18,1956,Philadelphia Warriors,79,Syracuse Nationals,99,0,N
+1955-12-18,1956,Rochester Royals,85,St. Louis Hawks,86,0,N
+1955-12-18,1956,Boston Celtics,95,New York Knicks,92,0,N
+1955-12-18,1956,Minneapolis Lakers,86,Fort Wayne Pistons,96,0,N
+1955-12-20,1956,Minneapolis Lakers,104,Boston Celtics,111,0,N
+1955-12-20,1956,Syracuse Nationals,98,New York Knicks,91,0,N
+1955-12-21,1956,Philadelphia Warriors,96,Rochester Royals,92,0,N
+1955-12-25,1956,New York Knicks,87,Fort Wayne Pistons,92,0,N
+1955-12-25,1956,Boston Celtics,115,Minneapolis Lakers,112,0,N
+1955-12-25,1956,Rochester Royals,96,Syracuse Nationals,111,0,N
+1955-12-26,1956,St. Louis Hawks,67,Fort Wayne Pistons,83,0,N
+1955-12-26,1956,Syracuse Nationals,91,Rochester Royals,93,0,N
+1955-12-26,1956,New York Knicks,108,Philadelphia Warriors,97,0,N
+1955-12-27,1956,Philadelphia Warriors,79,New York Knicks,80,0,N
+1955-12-27,1956,Syracuse Nationals,80,Rochester Royals,91,0,N
+1955-12-27,1956,Boston Celtics,105,St. Louis Hawks,102,0,N
+1955-12-28,1956,St. Louis Hawks,111,Minneapolis Lakers,90,0,N
+1955-12-28,1956,New York Knicks,113,Rochester Royals,91,0,N
+1955-12-29,1956,Rochester Royals,75,Fort Wayne Pistons,83,0,N
+1955-12-29,1956,St. Louis Hawks,71,Minneapolis Lakers,74,0,N
+1955-12-29,1956,Syracuse Nationals,83,Philadelphia Warriors,112,0,N
+1955-12-30,1956,Syracuse Nationals,103,Boston Celtics,110,0,N
+1955-12-30,1956,St. Louis Hawks,89,Fort Wayne Pistons,90,0,N
+1955-12-31,1956,Boston Celtics,112,Rochester Royals,100,0,N
+1955-12-31,1956,New York Knicks,92,Syracuse Nationals,101,0,N
+1956-01-01,1956,St. Louis Hawks,68,Fort Wayne Pistons,85,0,N
+1956-01-01,1956,Philadelphia Warriors,113,Boston Celtics,121,0,N
+1956-01-01,1956,Rochester Royals,101,New York Knicks,92,0,N
+1956-01-01,1956,Syracuse Nationals,85,Minneapolis Lakers,80,0,N
+1956-01-02,1956,Minneapolis Lakers,95,Fort Wayne Pistons,89,0,N
+1956-01-02,1956,Syracuse Nationals,84,St. Louis Hawks,82,0,N
+1956-01-02,1956,Rochester Royals,100,Philadelphia Warriors,130,0,N
+1956-01-03,1956,New York Knicks,107,Boston Celtics,97,0,N
+1956-01-03,1956,Fort Wayne Pistons,82,Philadelphia Warriors,102,0,N
+1956-01-04,1956,New York Knicks,103,Boston Celtics,86,0,N
+1956-01-04,1956,St. Louis Hawks,76,Minneapolis Lakers,94,0,N
+1956-01-04,1956,Fort Wayne Pistons,88,Rochester Royals,86,0,N
+1956-01-04,1956,Philadelphia Warriors,88,Syracuse Nationals,87,0,N
+1956-01-05,1956,Philadelphia Warriors,81,Fort Wayne Pistons,92,0,N
+1956-01-05,1956,Boston Celtics,92,New York Knicks,87,0,N
+1956-01-07,1956,New York Knicks,97,Philadelphia Warriors,104,0,N
+1956-01-07,1956,Minneapolis Lakers,98,Rochester Royals,103,0,N
+1956-01-07,1956,Fort Wayne Pistons,108,St. Louis Hawks,97,0,N
+1956-01-07,1956,Boston Celtics,105,Syracuse Nationals,99,1,N
+1956-01-08,1956,Philadelphia Warriors,95,New York Knicks,83,0,N
+1956-01-08,1956,St. Louis Hawks,96,Fort Wayne Pistons,91,0,N
+1956-01-08,1956,Rochester Royals,111,Boston Celtics,109,0,N
+1956-01-08,1956,Syracuse Nationals,91,Minneapolis Lakers,99,0,N
+1956-01-10,1956,Boston Celtics,89,Fort Wayne Pistons,105,0,N
+1956-01-10,1956,Syracuse Nationals,79,Minneapolis Lakers,90,0,N
+1956-01-10,1956,St. Louis Hawks,107,Philadelphia Warriors,109,1,N
+1956-01-11,1956,Minneapolis Lakers,110,Boston Celtics,114,0,N
+1956-01-11,1956,Philadelphia Warriors,97,Rochester Royals,94,0,N
+1956-01-12,1956,St. Louis Hawks,78,Syracuse Nationals,93,0,N
+1956-01-12,1956,Rochester Royals,94,Philadelphia Warriors,123,0,N
+1956-01-13,1956,Syracuse Nationals,104,Boston Celtics,119,0,N
+1956-01-13,1956,St. Louis Hawks,90,Rochester Royals,98,0,N
+1956-01-14,1956,Fort Wayne Pistons,94,Minneapolis Lakers,117,0,N
+1956-01-14,1956,St. Louis Hawks,104,New York Knicks,101,2,N
+1956-01-14,1956,Boston Celtics,104,Philadelphia Warriors,103,0,N
+1956-01-14,1956,Syracuse Nationals,93,Rochester Royals,102,0,N
+1956-01-15,1956,Rochester Royals,88,Syracuse Nationals,99,0,N
+1956-01-15,1956,Philadelphia Warriors,108,St. Louis Hawks,96,0,N
+1956-01-15,1956,New York Knicks,109,Boston Celtics,104,1,N
+1956-01-15,1956,Minneapolis Lakers,99,Fort Wayne Pistons,104,0,N
+1956-01-17,1956,Fort Wayne Pistons,85,Boston Celtics,91,0,N
+1956-01-17,1956,St. Louis Hawks,86,Minneapolis Lakers,97,0,N
+1956-01-17,1956,Rochester Royals,107,New York Knicks,112,0,N
+1956-01-18,1956,Fort Wayne Pistons,90,Boston Celtics,95,0,N
+1956-01-18,1956,Philadelphia Warriors,94,Minneapolis Lakers,105,0,N
+1956-01-18,1956,New York Knicks,103,Rochester Royals,108,0,N
+1956-01-19,1956,Minneapolis Lakers,100,Syracuse Nationals,122,0,N
+1956-01-19,1956,St. Louis Hawks,83,Fort Wayne Pistons,90,0,N
+1956-01-20,1956,St. Louis Hawks,112,Boston Celtics,133,0,N
+1956-01-20,1956,New York Knicks,122,Minneapolis Lakers,109,0,N
+1956-01-21,1956,Syracuse Nationals,96,Boston Celtics,100,0,N
+1956-01-21,1956,Minneapolis Lakers,109,New York Knicks,89,0,N
+1956-01-21,1956,Fort Wayne Pistons,92,Philadelphia Warriors,91,0,N
+1956-01-21,1956,St. Louis Hawks,90,Rochester Royals,97,0,N
+1956-01-22,1956,St. Louis Hawks,109,Syracuse Nationals,105,0,N
+1956-01-22,1956,New York Knicks,100,Minneapolis Lakers,95,0,N
+1956-01-22,1956,Philadelphia Warriors,129,Boston Celtics,115,0,N
+1956-01-22,1956,Rochester Royals,93,Fort Wayne Pistons,111,0,N
+1956-01-23,1956,Philadelphia Warriors,120,Boston Celtics,104,0,N
+1956-01-25,1956,Fort Wayne Pistons,101,Boston Celtics,100,0,N
+1956-01-25,1956,New York Knicks,95,Minneapolis Lakers,104,0,N
+1956-01-25,1956,Syracuse Nationals,100,Philadelphia Warriors,112,0,N
+1956-01-25,1956,Rochester Royals,106,St. Louis Hawks,114,0,N
+1956-01-26,1956,Philadelphia Warriors,89,Syracuse Nationals,100,0,N
+1956-01-27,1956,Fort Wayne Pistons,106,Boston Celtics,97,0,N
+1956-01-27,1956,Rochester Royals,111,New York Knicks,93,0,N
+1956-01-28,1956,Philadelphia Warriors,108,Minneapolis Lakers,85,0,N
+1956-01-28,1956,Syracuse Nationals,85,St. Louis Hawks,93,0,N
+1956-01-28,1956,Boston Celtics,126,Rochester Royals,119,0,N
+1956-01-28,1956,Fort Wayne Pistons,92,New York Knicks,91,1,N
+1956-01-29,1956,Rochester Royals,103,Boston Celtics,112,0,N
+1956-01-29,1956,Philadelphia Warriors,85,Fort Wayne Pistons,99,0,N
+1956-01-29,1956,St. Louis Hawks,114,Minneapolis Lakers,107,0,N
+1956-01-29,1956,New York Knicks,99,Syracuse Nationals,95,1,N
+1956-01-31,1956,Rochester Royals,86,Minneapolis Lakers,92,0,N
+1956-01-31,1956,Philadelphia Warriors,95,New York Knicks,105,0,N
+1956-01-31,1956,Boston Celtics,91,St. Louis Hawks,114,0,N
+1956-02-01,1956,New York Knicks,105,Philadelphia Warriors,104,2,N
+1956-02-01,1956,Boston Celtics,106,Minneapolis Lakers,107,0,N
+1956-02-01,1956,Syracuse Nationals,77,Rochester Royals,83,0,N
+1956-02-02,1956,Minneapolis Lakers,101,Boston Celtics,102,0,N
+1956-02-02,1956,Rochester Royals,89,Syracuse Nationals,97,0,N
+1956-02-02,1956,Fort Wayne Pistons,90,St. Louis Hawks,98,0,N
+1956-02-02,1956,Philadelphia Warriors,88,New York Knicks,87,0,N
+1956-02-03,1956,Rochester Royals,105,Philadelphia Warriors,96,0,N
+1956-02-04,1956,St. Louis Hawks,98,Fort Wayne Pistons,94,0,N
+1956-02-04,1956,Syracuse Nationals,103,New York Knicks,94,0,N
+1956-02-04,1956,Boston Celtics,69,Rochester Royals,83,0,N
+1956-02-05,1956,New York Knicks,104,Boston Celtics,114,0,N
+1956-02-05,1956,Rochester Royals,121,Minneapolis Lakers,109,0,N
+1956-02-05,1956,Philadelphia Warriors,93,St. Louis Hawks,105,0,N
+1956-02-05,1956,Fort Wayne Pistons,85,Syracuse Nationals,90,0,N
+1956-02-06,1956,Syracuse Nationals,98,Fort Wayne Pistons,99,0,N
+1956-02-07,1956,Boston Celtics,102,New York Knicks,113,0,N
+1956-02-07,1956,Syracuse Nationals,95,Philadelphia Warriors,128,0,N
+1956-02-08,1956,New York Knicks,102,Rochester Royals,97,0,N
+1956-02-08,1956,Fort Wayne Pistons,82,Minneapolis Lakers,106,0,N
+1956-02-08,1956,St. Louis Hawks,111,Boston Celtics,110,0,N
+1956-02-09,1956,St. Louis Hawks,97,Philadelphia Warriors,108,0,N
+1956-02-09,1956,Boston Celtics,98,Syracuse Nationals,97,0,N
+1956-02-10,1956,St. Louis Hawks,100,Boston Celtics,124,0,N
+1956-02-10,1956,Syracuse Nationals,94,New York Knicks,88,0,N
+1956-02-11,1956,Philadelphia Warriors,117,Minneapolis Lakers,102,0,N
+1956-02-11,1956,St. Louis Hawks,91,New York Knicks,107,0,N
+1956-02-11,1956,Fort Wayne Pistons,93,Rochester Royals,97,0,N
+1956-02-12,1956,New York Knicks,108,Boston Celtics,116,0,N
+1956-02-12,1956,Minneapolis Lakers,78,Fort Wayne Pistons,82,0,N
+1956-02-12,1956,Philadelphia Warriors,87,St. Louis Hawks,79,0,N
+1956-02-12,1956,Rochester Royals,74,Syracuse Nationals,101,0,N
+1956-02-13,1956,Philadelphia Warriors,105,Fort Wayne Pistons,94,0,N
+1956-02-14,1956,Rochester Royals,79,Minneapolis Lakers,110,0,N
+1956-02-14,1956,New York Knicks,103,St. Louis Hawks,99,0,N
+1956-02-15,1956,Philadelphia Warriors,101,Fort Wayne Pistons,78,0,N
+1956-02-15,1956,New York Knicks,102,Minneapolis Lakers,113,0,N
+1956-02-16,1956,Rochester Royals,81,Fort Wayne Pistons,93,0,N
+1956-02-17,1956,Syracuse Nationals,91,New York Knicks,86,0,N
+1956-02-17,1956,Minneapolis Lakers,111,Philadelphia Warriors,134,0,N
+1956-02-18,1956,Philadelphia Warriors,115,Boston Celtics,101,0,N
+1956-02-18,1956,Minneapolis Lakers,119,Rochester Royals,99,0,N
+1956-02-18,1956,Fort Wayne Pistons,84,Syracuse Nationals,85,0,N
+1956-02-19,1956,Philadelphia Warriors,118,Boston Celtics,120,0,N
+1956-02-19,1956,Rochester Royals,93,Minneapolis Lakers,100,0,N
+1956-02-19,1956,Fort Wayne Pistons,89,St. Louis Hawks,83,0,N
+1956-02-19,1956,New York Knicks,98,Syracuse Nationals,118,0,N
+1956-02-20,1956,St. Louis Hawks,84,Fort Wayne Pistons,82,0,N
+1956-02-21,1956,Rochester Royals,106,Fort Wayne Pistons,102,0,N
+1956-02-21,1956,Syracuse Nationals,108,New York Knicks,107,2,N
+1956-02-21,1956,Boston Celtics,97,St. Louis Hawks,101,0,N
+1956-02-22,1956,St. Louis Hawks,109,Rochester Royals,110,0,N
+1956-02-22,1956,Boston Celtics,93,Minneapolis Lakers,90,0,N
+1956-02-22,1956,New York Knicks,117,Philadelphia Warriors,108,0,N
+1956-02-23,1956,Fort Wayne Pistons,92,Syracuse Nationals,94,0,N
+1956-02-24,1956,Boston Celtics,129,Philadelphia Warriors,135,0,N
+1956-02-24,1956,Syracuse Nationals,103,St. Louis Hawks,116,0,N
+1956-02-25,1956,St. Louis Hawks,99,New York Knicks,89,0,N
+1956-02-25,1956,Fort Wayne Pistons,97,Rochester Royals,72,0,N
+1956-02-26,1956,New York Knicks,85,St. Louis Hawks,103,0,N
+1956-02-26,1956,Philadelphia Warriors,87,Syracuse Nationals,85,0,N
+1956-02-26,1956,Fort Wayne Pistons,95,Minneapolis Lakers,90,0,N
+1956-02-26,1956,Rochester Royals,100,Boston Celtics,111,0,N
+1956-02-27,1956,Syracuse Nationals,98,Fort Wayne Pistons,95,1,N
+1956-02-27,1956,St. Louis Hawks,109,New York Knicks,113,0,N
+1956-02-28,1956,Rochester Royals,113,Boston Celtics,97,0,N
+1956-02-28,1956,Fort Wayne Pistons,99,New York Knicks,95,0,N
+1956-02-29,1956,Fort Wayne Pistons,99,Boston Celtics,106,0,N
+1956-02-29,1956,Syracuse Nationals,94,Minneapolis Lakers,98,0,N
+1956-02-29,1956,Rochester Royals,81,Philadelphia Warriors,86,0,N
+1956-03-01,1956,Rochester Royals,95,St. Louis Hawks,94,0,N
+1956-03-01,1956,Minneapolis Lakers,102,Philadelphia Warriors,100,0,N
+1956-03-01,1956,Boston Celtics,100,Syracuse Nationals,111,0,N
+1956-03-02,1956,Minneapolis Lakers,113,Boston Celtics,119,0,N
+1956-03-02,1956,New York Knicks,97,Fort Wayne Pistons,104,0,N
+1956-03-03,1956,Syracuse Nationals,96,Philadelphia Warriors,102,0,N
+1956-03-03,1956,Minneapolis Lakers,90,Rochester Royals,94,0,N
+1956-03-03,1956,Fort Wayne Pistons,86,St. Louis Hawks,92,0,N
+1956-03-04,1956,Philadelphia Warriors,114,Boston Celtics,128,0,N
+1956-03-04,1956,Rochester Royals,88,Fort Wayne Pistons,103,0,N
+1956-03-04,1956,St. Louis Hawks,84,Minneapolis Lakers,113,0,N
+1956-03-04,1956,New York Knicks,118,Syracuse Nationals,111,2,N
+1956-03-06,1956,Boston Celtics,99,New York Knicks,119,0,N
+1956-03-06,1956,St. Louis Hawks,102,Philadelphia Warriors,97,0,N
+1956-03-07,1956,Fort Wayne Pistons,95,Minneapolis Lakers,98,0,N
+1956-03-07,1956,St. Louis Hawks,96,Rochester Royals,89,0,N
+1956-03-07,1956,Philadelphia Warriors,108,New York Knicks,87,0,N
+1956-03-07,1956,Syracuse Nationals,98,Boston Celtics,111,0,N
+1956-03-08,1956,Minneapolis Lakers,82,Fort Wayne Pistons,100,0,N
+1956-03-08,1956,Boston Celtics,120,Philadelphia Warriors,142,0,N
+1956-03-08,1956,St. Louis Hawks,88,Syracuse Nationals,92,0,N
+1956-03-09,1956,Minneapolis Lakers,102,St. Louis Hawks,103,0,N
+1956-03-10,1956,Fort Wayne Pistons,106,Boston Celtics,103,0,N
+1956-03-10,1956,Syracuse Nationals,84,New York Knicks,104,0,N
+1956-03-10,1956,Philadelphia Warriors,96,Rochester Royals,111,0,N
+1956-03-10,1956,Minneapolis Lakers,97,St. Louis Hawks,105,0,N
+1956-03-11,1956,Philadelphia Warriors,88,Syracuse Nationals,99,0,N
+1956-03-11,1956,New York Knicks,122,Fort Wayne Pistons,96,0,N
+1956-03-11,1956,St. Louis Hawks,127,Boston Celtics,121,0,N
+1956-03-11,1956,Rochester Royals,98,Minneapolis Lakers,126,0,N
+1956-03-12,1956,Syracuse Nationals,97,St. Louis Hawks,92,0,N
+1956-03-13,1956,New York Knicks,89,Minneapolis Lakers,102,0,N
+1956-03-13,1956,St. Louis Hawks,113,Philadelphia Warriors,116,0,N
+1956-03-14,1956,Syracuse Nationals,103,Boston Celtics,122,0,N
+1956-03-14,1956,Fort Wayne Pistons,96,Minneapolis Lakers,100,0,N
+1956-03-14,1956,Philadelphia Warriors,108,New York Knicks,115,0,N
+1956-03-15,1956,New York Knicks,77,Syracuse Nationals,82,0,Y
+1956-03-16,1956,Minneapolis Lakers,103,St. Louis Hawks,97,0,Y
+1956-03-17,1956,Syracuse Nationals,93,Boston Celtics,110,0,Y
+1956-03-17,1956,Minneapolis Lakers,115,St. Louis Hawks,116,0,Y
+1956-03-19,1956,Boston Celtics,98,Syracuse Nationals,101,0,Y
+1956-03-19,1956,St. Louis Hawks,75,Minneapolis Lakers,133,0,Y
+1956-03-21,1956,Syracuse Nationals,102,Boston Celtics,97,0,Y
+1956-03-21,1956,St. Louis Hawks,116,Minneapolis Lakers,115,0,Y
+1956-03-22,1956,St. Louis Hawks,86,Fort Wayne Pistons,85,0,Y
+1956-03-23,1956,Syracuse Nationals,87,Philadelphia Warriors,109,0,Y
+1956-03-24,1956,Fort Wayne Pistons,74,St. Louis Hawks,84,0,Y
+1956-03-25,1956,St. Louis Hawks,84,Fort Wayne Pistons,107,0,Y
+1956-03-25,1956,Philadelphia Warriors,118,Syracuse Nationals,122,0,Y
+1956-03-27,1956,Syracuse Nationals,96,Philadelphia Warriors,119,0,Y
+1956-03-27,1956,Fort Wayne Pistons,93,St. Louis Hawks,84,0,Y
+1956-03-28,1956,Philadelphia Warriors,104,Syracuse Nationals,108,0,Y
+1956-03-29,1956,St. Louis Hawks,97,Fort Wayne Pistons,102,0,Y
+1956-03-29,1956,Syracuse Nationals,104,Philadelphia Warriors,109,0,Y
+1956-03-31,1956,Fort Wayne Pistons,94,Philadelphia Warriors,98,0,Y
+1956-04-01,1956,Philadelphia Warriors,83,Fort Wayne Pistons,84,0,Y
+1956-04-03,1956,Fort Wayne Pistons,96,Philadelphia Warriors,100,0,Y
+1956-04-05,1956,Philadelphia Warriors,107,Fort Wayne Pistons,105,0,Y
+1956-04-07,1956,Fort Wayne Pistons,88,Philadelphia Warriors,99,0,Y

@@ -1,0 +1,1023 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1983-10-28,1984,Utah Jazz,125,Denver Nuggets,139,0,N
+1983-10-28,1984,Boston Celtics,121,Detroit Pistons,127,0,N
+1983-10-28,1984,Los Angeles Lakers,117,Kansas City Kings,107,0,N
+1983-10-28,1984,Indiana Pacers,83,Milwaukee Bucks,104,0,N
+1983-10-28,1984,Atlanta Hawks,108,New Jersey Nets,126,0,N
+1983-10-28,1984,Washington Bullets,114,Philadelphia 76ers,117,0,N
+1983-10-28,1984,San Diego Clippers,93,Portland Trail Blazers,107,0,N
+1983-10-28,1984,Golden State Warriors,110,Seattle SuperSonics,109,0,N
+1983-10-28,1984,New York Knicks,113,Cleveland Cavaliers,106,0,N
+1983-10-29,1984,New Jersey Nets,97,Chicago Bulls,104,0,N
+1983-10-29,1984,Los Angeles Lakers,120,Utah Jazz,115,0,N
+1983-10-29,1984,Denver Nuggets,128,San Diego Clippers,141,0,N
+1983-10-29,1984,Washington Bullets,97,New York Knicks,100,0,N
+1983-10-29,1984,Philadelphia 76ers,124,Indiana Pacers,112,1,N
+1983-10-29,1984,San Antonio Spurs,100,Houston Rockets,106,0,N
+1983-10-29,1984,Portland Trail Blazers,95,Golden State Warriors,97,0,N
+1983-10-29,1984,Phoenix Suns,103,Dallas Mavericks,120,0,N
+1983-10-29,1984,Boston Celtics,108,Cleveland Cavaliers,89,0,N
+1983-10-29,1984,Detroit Pistons,115,Atlanta Hawks,117,0,N
+1983-10-30,1984,Seattle SuperSonics,121,Kansas City Kings,116,0,N
+1983-10-30,1984,Dallas Mavericks,101,San Antonio Spurs,123,0,N
+1983-11-01,1984,Washington Bullets,92,Atlanta Hawks,95,0,N
+1983-11-01,1984,Dallas Mavericks,130,Denver Nuggets,124,0,N
+1983-11-01,1984,Milwaukee Bucks,93,Detroit Pistons,106,0,N
+1983-11-01,1984,Houston Rockets,108,Indiana Pacers,116,0,N
+1983-11-01,1984,Golden State Warriors,114,Kansas City Kings,116,0,N
+1983-11-01,1984,Cleveland Cavaliers,113,New Jersey Nets,125,0,N
+1983-11-01,1984,Chicago Bulls,91,Philadelphia 76ers,99,0,N
+1983-11-01,1984,Seattle SuperSonics,103,Phoenix Suns,93,0,N
+1983-11-01,1984,Portland Trail Blazers,126,San Antonio Spurs,124,0,N
+1983-11-02,1984,Milwaukee Bucks,105,Boston Celtics,119,0,N
+1983-11-02,1984,Houston Rockets,94,Cleveland Cavaliers,103,0,N
+1983-11-02,1984,Portland Trail Blazers,117,Dallas Mavericks,123,0,N
+1983-11-02,1984,Los Angeles Lakers,106,San Diego Clippers,110,0,N
+1983-11-02,1984,New York Knicks,119,Seattle SuperSonics,125,0,N
+1983-11-03,1984,Denver Nuggets,131,Kansas City Kings,128,0,N
+1983-11-03,1984,Chicago Bulls,107,New Jersey Nets,112,0,N
+1983-11-03,1984,San Antonio Spurs,120,Phoenix Suns,142,0,N
+1983-11-03,1984,Golden State Warriors,112,Utah Jazz,129,0,N
+1983-11-03,1984,Detroit Pistons,88,Washington Bullets,111,0,N
+1983-11-04,1984,Chicago Bulls,90,Atlanta Hawks,103,0,N
+1983-11-04,1984,Indiana Pacers,105,Boston Celtics,121,0,N
+1983-11-04,1984,Dallas Mavericks,84,Cleveland Cavaliers,105,0,N
+1983-11-04,1984,Houston Rockets,113,Detroit Pistons,108,0,N
+1983-11-04,1984,Milwaukee Bucks,104,Philadelphia 76ers,94,0,N
+1983-11-04,1984,New York Knicks,97,Portland Trail Blazers,106,0,N
+1983-11-04,1984,Seattle SuperSonics,97,San Diego Clippers,121,0,N
+1983-11-05,1984,Los Angeles Lakers,102,Dallas Mavericks,107,0,N
+1983-11-05,1984,San Diego Clippers,121,Denver Nuggets,127,0,N
+1983-11-05,1984,New York Knicks,100,Golden State Warriors,102,0,N
+1983-11-05,1984,Cleveland Cavaliers,87,Indiana Pacers,99,0,N
+1983-11-05,1984,Houston Rockets,106,Kansas City Kings,123,0,N
+1983-11-05,1984,Philadelphia 76ers,119,New Jersey Nets,112,0,N
+1983-11-05,1984,San Antonio Spurs,118,Utah Jazz,124,0,N
+1983-11-05,1984,Boston Celtics,120,Washington Bullets,117,0,N
+1983-11-06,1984,Atlanta Hawks,84,Milwaukee Bucks,97,0,N
+1983-11-06,1984,Phoenix Suns,96,Portland Trail Blazers,122,0,N
+1983-11-06,1984,Seattle SuperSonics,115,San Antonio Spurs,132,0,N
+1983-11-08,1984,Kansas City Kings,97,Chicago Bulls,100,0,N
+1983-11-08,1984,Los Angeles Lakers,133,Denver Nuggets,124,0,N
+1983-11-08,1984,Atlanta Hawks,90,Golden State Warriors,97,0,N
+1983-11-08,1984,Portland Trail Blazers,122,Houston Rockets,104,0,N
+1983-11-08,1984,Boston Celtics,99,Indiana Pacers,97,0,N
+1983-11-08,1984,Milwaukee Bucks,97,New York Knicks,90,0,N
+1983-11-08,1984,Phoenix Suns,116,Seattle SuperSonics,123,0,N
+1983-11-08,1984,San Diego Clippers,113,Washington Bullets,119,0,N
+1983-11-09,1984,San Diego Clippers,122,Boston Celtics,129,0,N
+1983-11-09,1984,Philadelphia 76ers,116,Detroit Pistons,120,0,N
+1983-11-09,1984,Dallas Mavericks,106,Los Angeles Lakers,120,0,N
+1983-11-09,1984,Kansas City Kings,93,Milwaukee Bucks,95,0,N
+1983-11-09,1984,Washington Bullets,110,New Jersey Nets,127,0,N
+1983-11-09,1984,Utah Jazz,99,San Antonio Spurs,105,0,N
+1983-11-09,1984,Cleveland Cavaliers,101,Seattle SuperSonics,113,0,N
+1983-11-10,1984,Phoenix Suns,104,Golden State Warriors,99,0,N
+1983-11-10,1984,Utah Jazz,118,Houston Rockets,109,0,N
+1983-11-10,1984,New York Knicks,99,Indiana Pacers,91,0,N
+1983-11-10,1984,Cleveland Cavaliers,110,Portland Trail Blazers,115,0,N
+1983-11-11,1984,Detroit Pistons,118,Boston Celtics,126,0,N
+1983-11-11,1984,San Antonio Spurs,105,Dallas Mavericks,112,0,N
+1983-11-11,1984,Phoenix Suns,105,Los Angeles Lakers,119,0,N
+1983-11-11,1984,Milwaukee Bucks,103,New Jersey Nets,107,0,N
+1983-11-11,1984,San Diego Clippers,95,New York Knicks,116,0,N
+1983-11-11,1984,Kansas City Kings,100,Philadelphia 76ers,108,0,N
+1983-11-11,1984,Atlanta Hawks,93,Seattle SuperSonics,104,0,N
+1983-11-11,1984,Chicago Bulls,124,Washington Bullets,125,2,N
+1983-11-12,1984,Boston Celtics,116,Chicago Bulls,101,0,N
+1983-11-12,1984,Kansas City Kings,106,Detroit Pistons,131,0,N
+1983-11-12,1984,Cleveland Cavaliers,102,Golden State Warriors,109,0,N
+1983-11-12,1984,Dallas Mavericks,98,Houston Rockets,100,0,N
+1983-11-12,1984,New Jersey Nets,101,Indiana Pacers,111,0,N
+1983-11-12,1984,Denver Nuggets,107,San Antonio Spurs,126,0,N
+1983-11-12,1984,Portland Trail Blazers,122,Utah Jazz,136,0,N
+1983-11-13,1984,Utah Jazz,118,Los Angeles Lakers,124,0,N
+1983-11-13,1984,Seattle SuperSonics,107,Milwaukee Bucks,108,0,N
+1983-11-13,1984,San Diego Clippers,116,Philadelphia 76ers,124,1,N
+1983-11-13,1984,Golden State Warriors,98,Phoenix Suns,113,0,N
+1983-11-13,1984,Atlanta Hawks,105,Portland Trail Blazers,135,0,N
+1983-11-15,1984,San Diego Clippers,102,Atlanta Hawks,107,0,N
+1983-11-15,1984,Detroit Pistons,110,Chicago Bulls,112,0,N
+1983-11-15,1984,Boston Celtics,140,Denver Nuggets,124,0,N
+1983-11-15,1984,San Antonio Spurs,112,Golden State Warriors,115,0,N
+1983-11-15,1984,New Jersey Nets,104,Houston Rockets,86,0,N
+1983-11-15,1984,Milwaukee Bucks,97,Los Angeles Lakers,126,0,N
+1983-11-15,1984,Indiana Pacers,87,New York Knicks,94,0,N
+1983-11-15,1984,Utah Jazz,112,Portland Trail Blazers,114,0,N
+1983-11-15,1984,Kansas City Kings,101,Washington Bullets,100,0,N
+1983-11-16,1984,Seattle SuperSonics,120,Detroit Pistons,122,0,N
+1983-11-16,1984,New York Knicks,97,Philadelphia 76ers,102,0,N
+1983-11-16,1984,Cleveland Cavaliers,104,Phoenix Suns,115,0,N
+1983-11-16,1984,Boston Celtics,109,Utah Jazz,122,0,N
+1983-11-17,1984,Philadelphia 76ers,94,Atlanta Hawks,99,0,N
+1983-11-17,1984,Seattle SuperSonics,119,Chicago Bulls,110,0,N
+1983-11-17,1984,New Jersey Nets,113,Dallas Mavericks,115,0,N
+1983-11-17,1984,Denver Nuggets,131,Golden State Warriors,120,0,N
+1983-11-17,1984,Cleveland Cavaliers,114,Los Angeles Lakers,127,0,N
+1983-11-17,1984,Kansas City Kings,129,San Antonio Spurs,128,0,N
+1983-11-17,1984,Milwaukee Bucks,122,San Diego Clippers,141,0,N
+1983-11-17,1984,Indiana Pacers,94,Washington Bullets,102,0,N
+1983-11-18,1984,New York Knicks,110,Boston Celtics,103,0,N
+1983-11-18,1984,Houston Rockets,127,Denver Nuggets,134,0,N
+1983-11-18,1984,Utah Jazz,120,Detroit Pistons,128,0,N
+1983-11-18,1984,Milwaukee Bucks,109,Phoenix Suns,94,0,N
+1983-11-19,1984,Seattle SuperSonics,92,Atlanta Hawks,104,0,N
+1983-11-19,1984,Indiana Pacers,105,Chicago Bulls,110,0,N
+1983-11-19,1984,Phoenix Suns,107,Dallas Mavericks,116,0,N
+1983-11-19,1984,Milwaukee Bucks,126,Denver Nuggets,133,0,N
+1983-11-19,1984,Golden State Warriors,105,Houston Rockets,125,0,N
+1983-11-19,1984,Detroit Pistons,101,New York Knicks,104,1,N
+1983-11-19,1984,Boston Celtics,91,Philadelphia 76ers,92,0,N
+1983-11-19,1984,Los Angeles Lakers,117,Portland Trail Blazers,110,0,N
+1983-11-19,1984,New Jersey Nets,100,San Antonio Spurs,109,0,N
+1983-11-19,1984,Utah Jazz,113,Washington Bullets,126,0,N
+1983-11-20,1984,Cleveland Cavaliers,97,San Diego Clippers,99,0,N
+1983-11-22,1984,Indiana Pacers,93,Atlanta Hawks,104,0,N
+1983-11-22,1984,San Antonio Spurs,117,Dallas Mavericks,118,0,N
+1983-11-22,1984,Phoenix Suns,96,Houston Rockets,118,0,N
+1983-11-22,1984,San Diego Clippers,99,Kansas City Kings,118,0,N
+1983-11-22,1984,Utah Jazz,130,Los Angeles Lakers,126,1,N
+1983-11-22,1984,Boston Celtics,113,New York Knicks,117,2,N
+1983-11-22,1984,Detroit Pistons,108,Philadelphia 76ers,112,0,N
+1983-11-22,1984,Denver Nuggets,116,Portland Trail Blazers,156,0,N
+1983-11-22,1984,Golden State Warriors,102,Washington Bullets,101,0,N
+1983-11-23,1984,Washington Bullets,98,Cleveland Cavaliers,107,0,N
+1983-11-23,1984,San Diego Clippers,114,Denver Nuggets,133,0,N
+1983-11-23,1984,Detroit Pistons,115,Indiana Pacers,113,0,N
+1983-11-23,1984,Golden State Warriors,94,Milwaukee Bucks,118,0,N
+1983-11-23,1984,New Jersey Nets,110,Phoenix Suns,108,0,N
+1983-11-23,1984,Philadelphia 76ers,113,San Antonio Spurs,105,0,N
+1983-11-23,1984,Los Angeles Lakers,98,Seattle SuperSonics,106,0,N
+1983-11-23,1984,Chicago Bulls,128,Utah Jazz,117,0,N
+1983-11-25,1984,Atlanta Hawks,102,Boston Celtics,109,0,N
+1983-11-25,1984,Kansas City Kings,96,Dallas Mavericks,98,0,N
+1983-11-25,1984,Washington Bullets,120,Detroit Pistons,111,0,N
+1983-11-25,1984,Philadelphia 76ers,115,Houston Rockets,101,0,N
+1983-11-25,1984,Golden State Warriors,110,Indiana Pacers,105,0,N
+1983-11-25,1984,New Jersey Nets,123,Los Angeles Lakers,147,0,N
+1983-11-25,1984,Chicago Bulls,94,Phoenix Suns,120,0,N
+1983-11-25,1984,San Diego Clippers,120,San Antonio Spurs,133,0,N
+1983-11-25,1984,Portland Trail Blazers,100,Seattle SuperSonics,90,0,N
+1983-11-25,1984,Denver Nuggets,124,Utah Jazz,126,0,N
+1983-11-26,1984,Houston Rockets,109,Atlanta Hawks,115,0,N
+1983-11-26,1984,Golden State Warriors,109,Dallas Mavericks,115,0,N
+1983-11-26,1984,Phoenix Suns,104,Denver Nuggets,107,0,N
+1983-11-26,1984,Utah Jazz,116,Kansas City Kings,117,0,N
+1983-11-26,1984,Washington Bullets,92,Milwaukee Bucks,109,0,N
+1983-11-26,1984,Cleveland Cavaliers,84,New York Knicks,96,0,N
+1983-11-26,1984,Seattle SuperSonics,94,Portland Trail Blazers,122,0,N
+1983-11-26,1984,New Jersey Nets,104,San Diego Clippers,102,0,N
+1983-11-27,1984,Detroit Pistons,99,Boston Celtics,114,0,N
+1983-11-27,1984,San Antonio Spurs,106,Cleveland Cavaliers,114,0,N
+1983-11-27,1984,New York Knicks,91,Indiana Pacers,101,0,N
+1983-11-27,1984,Chicago Bulls,100,Los Angeles Lakers,103,0,N
+1983-11-28,1984,Portland Trail Blazers,104,Kansas City Kings,113,0,N
+1983-11-29,1984,Denver Nuggets,105,Atlanta Hawks,96,0,N
+1983-11-29,1984,Cleveland Cavaliers,93,Detroit Pistons,103,0,N
+1983-11-29,1984,Los Angeles Lakers,111,Golden State Warriors,105,0,N
+1983-11-29,1984,Chicago Bulls,110,Houston Rockets,116,0,N
+1983-11-29,1984,Philadelphia 76ers,98,Indiana Pacers,96,0,N
+1983-11-29,1984,San Antonio Spurs,106,New York Knicks,118,0,N
+1983-11-29,1984,San Diego Clippers,114,Seattle SuperSonics,119,0,N
+1983-11-29,1984,Phoenix Suns,110,Utah Jazz,114,0,N
+1983-11-29,1984,Milwaukee Bucks,94,Washington Bullets,88,0,N
+1983-11-30,1984,San Antonio Spurs,106,Boston Celtics,130,0,N
+1983-11-30,1984,Portland Trail Blazers,105,Cleveland Cavaliers,112,0,N
+1983-11-30,1984,Houston Rockets,102,Dallas Mavericks,113,0,N
+1983-11-30,1984,Denver Nuggets,122,Milwaukee Bucks,139,0,N
+1983-11-30,1984,New York Knicks,113,New Jersey Nets,104,0,N
+1983-11-30,1984,Atlanta Hawks,110,Philadelphia 76ers,122,0,N
+1983-11-30,1984,Kansas City Kings,120,Phoenix Suns,118,0,N
+1983-11-30,1984,Utah Jazz,117,San Diego Clippers,115,0,N
+1983-12-01,1984,Kansas City Kings,95,Golden State Warriors,106,0,N
+1983-12-01,1984,Washington Bullets,93,New York Knicks,127,0,N
+1983-12-02,1984,Portland Trail Blazers,106,Boston Celtics,115,0,N
+1983-12-02,1984,Indiana Pacers,99,Cleveland Cavaliers,108,0,N
+1983-12-02,1984,Atlanta Hawks,92,Detroit Pistons,128,0,N
+1983-12-02,1984,Seattle SuperSonics,102,Houston Rockets,125,0,N
+1983-12-02,1984,Dallas Mavericks,133,Los Angeles Lakers,118,0,N
+1983-12-02,1984,New Jersey Nets,107,Milwaukee Bucks,122,0,N
+1983-12-02,1984,Utah Jazz,116,Phoenix Suns,113,0,N
+1983-12-02,1984,Chicago Bulls,94,San Antonio Spurs,123,0,N
+1983-12-02,1984,Golden State Warriors,108,San Diego Clippers,109,0,N
+1983-12-03,1984,Cleveland Cavaliers,91,Atlanta Hawks,102,0,N
+1983-12-03,1984,Chicago Bulls,100,Dallas Mavericks,110,0,N
+1983-12-03,1984,Seattle SuperSonics,111,Denver Nuggets,121,0,N
+1983-12-03,1984,Indiana Pacers,99,Detroit Pistons,117,0,N
+1983-12-03,1984,Portland Trail Blazers,128,New Jersey Nets,122,1,N
+1983-12-03,1984,Houston Rockets,101,New York Knicks,117,0,N
+1983-12-03,1984,Kansas City Kings,107,Utah Jazz,112,0,N
+1983-12-03,1984,Philadelphia 76ers,98,Washington Bullets,103,0,N
+1983-12-04,1984,Philadelphia 76ers,121,Boston Celtics,114,1,N
+1983-12-04,1984,San Diego Clippers,99,Los Angeles Lakers,120,0,N
+1983-12-04,1984,Phoenix Suns,122,San Antonio Spurs,106,0,N
+1983-12-06,1984,Phoenix Suns,88,Atlanta Hawks,95,0,N
+1983-12-06,1984,Boston Celtics,118,Chicago Bulls,105,0,N
+1983-12-06,1984,Seattle SuperSonics,103,Golden State Warriors,108,0,N
+1983-12-06,1984,Washington Bullets,113,Houston Rockets,109,0,N
+1983-12-06,1984,Dallas Mavericks,103,Kansas City Kings,112,0,N
+1983-12-06,1984,Cleveland Cavaliers,105,New Jersey Nets,114,0,N
+1983-12-06,1984,Denver Nuggets,117,New York Knicks,112,0,N
+1983-12-06,1984,San Antonio Spurs,118,Portland Trail Blazers,130,0,N
+1983-12-07,1984,Atlanta Hawks,92,Cleveland Cavaliers,106,0,N
+1983-12-07,1984,Washington Bullets,114,Dallas Mavericks,112,0,N
+1983-12-07,1984,Boston Celtics,100,Indiana Pacers,95,0,N
+1983-12-07,1984,Houston Rockets,101,Milwaukee Bucks,103,0,N
+1983-12-07,1984,Denver Nuggets,128,Philadelphia 76ers,133,0,N
+1983-12-07,1984,San Antonio Spurs,102,San Diego Clippers,106,0,N
+1983-12-07,1984,Portland Trail Blazers,111,Utah Jazz,116,0,N
+1983-12-08,1984,Detroit Pistons,129,Golden State Warriors,130,0,N
+1983-12-08,1984,Kansas City Kings,106,Los Angeles Lakers,129,0,N
+1983-12-08,1984,New York Knicks,97,Phoenix Suns,120,0,N
+1983-12-09,1984,Denver Nuggets,90,Boston Celtics,119,0,N
+1983-12-09,1984,Houston Rockets,115,Chicago Bulls,112,1,N
+1983-12-09,1984,Milwaukee Bucks,96,Cleveland Cavaliers,83,0,N
+1983-12-09,1984,Atlanta Hawks,104,Indiana Pacers,110,0,N
+1983-12-09,1984,New Jersey Nets,100,Philadelphia 76ers,93,0,N
+1983-12-09,1984,Detroit Pistons,117,Portland Trail Blazers,123,0,N
+1983-12-09,1984,New York Knicks,111,San Diego Clippers,92,0,N
+1983-12-09,1984,Dallas Mavericks,124,Seattle SuperSonics,132,0,N
+1983-12-09,1984,San Antonio Spurs,126,Utah Jazz,117,0,N
+1983-12-10,1984,Boston Celtics,104,Atlanta Hawks,87,0,N
+1983-12-10,1984,Cleveland Cavaliers,101,Chicago Bulls,95,0,N
+1983-12-10,1984,Dallas Mavericks,126,Golden State Warriors,123,1,N
+1983-12-10,1984,Utah Jazz,128,Houston Rockets,121,0,N
+1983-12-10,1984,Indiana Pacers,103,Kansas City Kings,119,0,N
+1983-12-10,1984,San Diego Clippers,93,Phoenix Suns,109,0,N
+1983-12-10,1984,Washington Bullets,102,San Antonio Spurs,125,0,N
+1983-12-11,1984,New York Knicks,109,Los Angeles Lakers,98,0,N
+1983-12-11,1984,Philadelphia 76ers,97,Milwaukee Bucks,87,0,N
+1983-12-11,1984,Denver Nuggets,130,New Jersey Nets,141,0,N
+1983-12-11,1984,Golden State Warriors,101,Portland Trail Blazers,105,0,N
+1983-12-11,1984,Dallas Mavericks,116,San Diego Clippers,118,0,N
+1983-12-11,1984,Detroit Pistons,131,Seattle SuperSonics,135,0,N
+1983-12-13,1984,Milwaukee Bucks,88,Chicago Bulls,96,0,N
+1983-12-13,1984,Utah Jazz,107,Cleveland Cavaliers,105,0,N
+1983-12-13,1984,Detroit Pistons,186,Denver Nuggets,184,3,N
+1983-12-13,1984,New Jersey Nets,133,Golden State Warriors,122,0,N
+1983-12-13,1984,Phoenix Suns,110,Houston Rockets,129,0,N
+1983-12-13,1984,Boston Celtics,102,New York Knicks,100,0,N
+1983-12-13,1984,Seattle SuperSonics,89,Portland Trail Blazers,102,0,N
+1983-12-13,1984,Atlanta Hawks,94,Washington Bullets,89,0,N
+1983-12-14,1984,Washington Bullets,99,Atlanta Hawks,96,0,N
+1983-12-14,1984,Cleveland Cavaliers,108,Boston Celtics,110,0,N
+1983-12-14,1984,Indiana Pacers,109,Dallas Mavericks,117,0,N
+1983-12-14,1984,Milwaukee Bucks,93,Philadelphia 76ers,115,0,N
+1983-12-14,1984,San Diego Clippers,114,San Antonio Spurs,129,0,N
+1983-12-14,1984,Kansas City Kings,105,Seattle SuperSonics,99,0,N
+1983-12-15,1984,Kansas City Kings,116,Golden State Warriors,119,0,N
+1983-12-15,1984,Chicago Bulls,113,New York Knicks,107,0,N
+1983-12-15,1984,Los Angeles Lakers,104,Phoenix Suns,114,0,N
+1983-12-15,1984,New Jersey Nets,105,Portland Trail Blazers,118,0,N
+1983-12-15,1984,Houston Rockets,111,Utah Jazz,138,0,N
+1983-12-16,1984,Washington Bullets,100,Boston Celtics,93,0,N
+1983-12-16,1984,Portland Trail Blazers,119,Denver Nuggets,115,0,N
+1983-12-16,1984,San Diego Clippers,109,Los Angeles Lakers,122,0,N
+1983-12-16,1984,Dallas Mavericks,105,Milwaukee Bucks,110,0,N
+1983-12-16,1984,Cleveland Cavaliers,105,Philadelphia 76ers,115,0,N
+1983-12-16,1984,Indiana Pacers,92,San Antonio Spurs,120,0,N
+1983-12-16,1984,New Jersey Nets,106,Seattle SuperSonics,110,0,N
+1983-12-17,1984,San Antonio Spurs,108,Atlanta Hawks,113,0,N
+1983-12-17,1984,Dallas Mavericks,84,Chicago Bulls,102,0,N
+1983-12-17,1984,Boston Celtics,129,Detroit Pistons,115,0,N
+1983-12-17,1984,Indiana Pacers,94,Houston Rockets,109,0,N
+1983-12-17,1984,Milwaukee Bucks,96,New York Knicks,102,0,N
+1983-12-17,1984,Kansas City Kings,99,Phoenix Suns,119,0,N
+1983-12-17,1984,Golden State Warriors,111,Utah Jazz,127,0,N
+1983-12-17,1984,Cleveland Cavaliers,95,Washington Bullets,119,0,N
+1983-12-18,1984,New Jersey Nets,118,Denver Nuggets,122,0,N
+1983-12-18,1984,San Diego Clippers,97,Golden State Warriors,99,0,N
+1983-12-18,1984,Portland Trail Blazers,115,Los Angeles Lakers,122,0,N
+1983-12-20,1984,New Jersey Nets,87,Atlanta Hawks,98,0,N
+1983-12-20,1984,Dallas Mavericks,104,Detroit Pistons,116,0,N
+1983-12-20,1984,Phoenix Suns,109,Golden State Warriors,105,0,N
+1983-12-20,1984,Denver Nuggets,114,Kansas City Kings,131,0,N
+1983-12-20,1984,Los Angeles Lakers,108,Seattle SuperSonics,102,0,N
+1983-12-20,1984,San Antonio Spurs,106,Washington Bullets,108,1,N
+1983-12-21,1984,Atlanta Hawks,96,Boston Celtics,107,0,N
+1983-12-21,1984,Detroit Pistons,119,Cleveland Cavaliers,112,0,N
+1983-12-21,1984,San Antonio Spurs,121,Philadelphia 76ers,122,0,N
+1983-12-21,1984,Portland Trail Blazers,116,Phoenix Suns,112,0,N
+1983-12-21,1984,Houston Rockets,97,San Diego Clippers,128,0,N
+1983-12-21,1984,Indiana Pacers,115,Utah Jazz,133,0,N
+1983-12-22,1984,Indiana Pacers,133,Denver Nuggets,132,0,N
+1983-12-22,1984,Los Angeles Lakers,102,Golden State Warriors,109,0,N
+1983-12-22,1984,Chicago Bulls,116,Milwaukee Bucks,99,0,N
+1983-12-22,1984,Dallas Mavericks,98,New Jersey Nets,101,0,N
+1983-12-22,1984,Houston Rockets,116,Seattle SuperSonics,112,0,N
+1983-12-23,1984,New York Knicks,113,Atlanta Hawks,114,2,N
+1983-12-23,1984,New Jersey Nets,113,Boston Celtics,125,0,N
+1983-12-23,1984,Washington Bullets,93,Chicago Bulls,114,0,N
+1983-12-23,1984,Milwaukee Bucks,89,Cleveland Cavaliers,83,0,N
+1983-12-23,1984,Philadelphia 76ers,108,Detroit Pistons,106,0,N
+1983-12-23,1984,San Antonio Spurs,122,Kansas City Kings,126,0,N
+1983-12-23,1984,Golden State Warriors,116,Los Angeles Lakers,123,0,N
+1983-12-23,1984,Houston Rockets,84,Portland Trail Blazers,97,0,N
+1983-12-23,1984,Phoenix Suns,121,San Diego Clippers,115,0,N
+1983-12-23,1984,Denver Nuggets,116,Utah Jazz,118,0,N
+1983-12-25,1984,New Jersey Nets,110,New York Knicks,112,1,N
+1983-12-25,1984,Los Angeles Lakers,121,Portland Trail Blazers,141,0,N
+1983-12-26,1984,Denver Nuggets,133,Phoenix Suns,140,1,N
+1983-12-27,1984,Dallas Mavericks,109,Atlanta Hawks,112,0,N
+1983-12-27,1984,New York Knicks,96,Chicago Bulls,102,0,N
+1983-12-27,1984,Portland Trail Blazers,100,Detroit Pistons,140,0,N
+1983-12-27,1984,Utah Jazz,111,Golden State Warriors,102,0,N
+1983-12-27,1984,San Diego Clippers,110,Houston Rockets,95,0,N
+1983-12-27,1984,Milwaukee Bucks,104,Indiana Pacers,115,0,N
+1983-12-27,1984,Philadelphia 76ers,112,Kansas City Kings,109,0,N
+1983-12-27,1984,Denver Nuggets,116,Los Angeles Lakers,118,0,N
+1983-12-27,1984,Boston Celtics,115,San Antonio Spurs,100,0,N
+1983-12-27,1984,New Jersey Nets,106,Washington Bullets,116,0,N
+1983-12-28,1984,San Diego Clippers,92,Dallas Mavericks,109,0,N
+1983-12-28,1984,Milwaukee Bucks,89,New Jersey Nets,85,0,N
+1983-12-28,1984,Detroit Pistons,111,New York Knicks,108,0,N
+1983-12-28,1984,Golden State Warriors,105,Phoenix Suns,128,0,N
+1983-12-28,1984,Utah Jazz,113,Seattle SuperSonics,105,0,N
+1983-12-29,1984,Portland Trail Blazers,99,Chicago Bulls,100,0,N
+1983-12-29,1984,Atlanta Hawks,77,Cleveland Cavaliers,88,0,N
+1983-12-29,1984,Philadelphia 76ers,89,Denver Nuggets,101,0,N
+1983-12-29,1984,Boston Celtics,94,Houston Rockets,107,0,N
+1983-12-29,1984,Kansas City Kings,127,San Antonio Spurs,138,0,N
+1983-12-30,1984,Cleveland Cavaliers,98,Atlanta Hawks,109,0,N
+1983-12-30,1984,Boston Celtics,114,Dallas Mavericks,109,1,N
+1983-12-30,1984,Utah Jazz,130,Denver Nuggets,135,0,N
+1983-12-30,1984,Chicago Bulls,96,Detroit Pistons,103,0,N
+1983-12-30,1984,San Diego Clippers,99,Kansas City Kings,96,0,N
+1983-12-30,1984,Golden State Warriors,116,Los Angeles Lakers,105,0,N
+1983-12-30,1984,Portland Trail Blazers,88,Milwaukee Bucks,93,0,N
+1983-12-30,1984,Indiana Pacers,106,New Jersey Nets,118,0,N
+1983-12-30,1984,Houston Rockets,110,Phoenix Suns,121,0,N
+1983-12-30,1984,Philadelphia 76ers,93,Seattle SuperSonics,97,1,N
+1983-12-30,1984,New York Knicks,86,Washington Bullets,91,0,N
+1984-01-01,1984,Philadelphia 76ers,115,Portland Trail Blazers,103,0,N
+1984-01-02,1984,Atlanta Hawks,86,Indiana Pacers,96,0,N
+1984-01-03,1984,Phoenix Suns,97,Chicago Bulls,102,0,N
+1984-01-03,1984,Seattle SuperSonics,110,Denver Nuggets,109,0,N
+1984-01-03,1984,Philadelphia 76ers,106,Golden State Warriors,115,0,N
+1984-01-03,1984,Dallas Mavericks,119,Houston Rockets,117,0,N
+1984-01-03,1984,Cleveland Cavaliers,92,Milwaukee Bucks,104,0,N
+1984-01-03,1984,Boston Celtics,105,New Jersey Nets,103,0,N
+1984-01-03,1984,Los Angeles Lakers,105,New York Knicks,117,0,N
+1984-01-03,1984,Kansas City Kings,104,Portland Trail Blazers,123,0,N
+1984-01-03,1984,Utah Jazz,124,San Antonio Spurs,137,0,N
+1984-01-03,1984,Detroit Pistons,102,Washington Bullets,103,0,N
+1984-01-04,1984,New Jersey Nets,91,Atlanta Hawks,88,0,N
+1984-01-04,1984,Washington Bullets,104,Boston Celtics,113,0,N
+1984-01-04,1984,Los Angeles Lakers,106,Cleveland Cavaliers,99,0,N
+1984-01-04,1984,Seattle SuperSonics,102,Dallas Mavericks,105,0,N
+1984-01-04,1984,Phoenix Suns,114,Detroit Pistons,128,0,N
+1984-01-04,1984,Chicago Bulls,89,Indiana Pacers,102,0,N
+1984-01-04,1984,Kansas City Kings,121,San Diego Clippers,122,0,N
+1984-01-04,1984,Houston Rockets,111,Utah Jazz,116,0,N
+1984-01-05,1984,Philadelphia 76ers,103,Milwaukee Bucks,102,1,N
+1984-01-06,1984,Milwaukee Bucks,87,Atlanta Hawks,91,0,N
+1984-01-06,1984,Cleveland Cavaliers,97,Boston Celtics,115,0,N
+1984-01-06,1984,New York Knicks,107,Detroit Pistons,118,0,N
+1984-01-06,1984,Phoenix Suns,88,Indiana Pacers,104,0,N
+1984-01-06,1984,San Antonio Spurs,124,Los Angeles Lakers,117,0,N
+1984-01-06,1984,New Jersey Nets,104,Philadelphia 76ers,108,0,N
+1984-01-06,1984,Denver Nuggets,129,Portland Trail Blazers,144,0,N
+1984-01-06,1984,Dallas Mavericks,123,San Diego Clippers,106,0,N
+1984-01-06,1984,Houston Rockets,102,Seattle SuperSonics,118,0,N
+1984-01-06,1984,Kansas City Kings,110,Utah Jazz,130,0,N
+1984-01-06,1984,Chicago Bulls,88,Washington Bullets,96,1,N
+1984-01-07,1984,Washington Bullets,73,Chicago Bulls,87,0,N
+1984-01-07,1984,Philadelphia 76ers,98,Cleveland Cavaliers,106,0,N
+1984-01-07,1984,Dallas Mavericks,117,Denver Nuggets,141,0,N
+1984-01-07,1984,San Antonio Spurs,133,Golden State Warriors,154,0,N
+1984-01-07,1984,Phoenix Suns,98,Kansas City Kings,100,0,N
+1984-01-07,1984,Atlanta Hawks,104,New Jersey Nets,108,0,N
+1984-01-07,1984,Indiana Pacers,103,New York Knicks,140,0,N
+1984-01-08,1984,Houston Rockets,129,Los Angeles Lakers,118,0,N
+1984-01-08,1984,Detroit Pistons,111,Milwaukee Bucks,100,0,N
+1984-01-08,1984,Portland Trail Blazers,110,Seattle SuperSonics,125,0,N
+1984-01-09,1984,Washington Bullets,103,New Jersey Nets,107,0,N
+1984-01-09,1984,Philadelphia 76ers,73,New York Knicks,111,0,N
+1984-01-10,1984,Golden State Warriors,101,Atlanta Hawks,103,0,N
+1984-01-10,1984,Indiana Pacers,104,Chicago Bulls,105,0,N
+1984-01-10,1984,Los Angeles Lakers,136,Houston Rockets,132,1,N
+1984-01-10,1984,Dallas Mavericks,102,Kansas City Kings,112,0,N
+1984-01-10,1984,Cleveland Cavaliers,116,Milwaukee Bucks,104,0,N
+1984-01-10,1984,San Antonio Spurs,120,Portland Trail Blazers,133,0,N
+1984-01-10,1984,San Diego Clippers,106,Seattle SuperSonics,111,0,N
+1984-01-10,1984,Phoenix Suns,98,Utah Jazz,107,0,N
+1984-01-11,1984,Golden State Warriors,112,Boston Celtics,135,0,N
+1984-01-11,1984,Utah Jazz,102,Dallas Mavericks,117,0,N
+1984-01-11,1984,San Antonio Spurs,155,Denver Nuggets,163,0,N
+1984-01-11,1984,Detroit Pistons,112,Indiana Pacers,96,0,N
+1984-01-11,1984,Chicago Bulls,105,New Jersey Nets,120,0,N
+1984-01-11,1984,Washington Bullets,99,Philadelphia 76ers,121,0,N
+1984-01-11,1984,San Diego Clippers,104,Phoenix Suns,129,0,N
+1984-01-12,1984,Portland Trail Blazers,120,Houston Rockets,117,0,N
+1984-01-12,1984,Los Angeles Lakers,95,Kansas City Kings,89,0,N
+1984-01-12,1984,Atlanta Hawks,106,Washington Bullets,91,0,N
+1984-01-13,1984,Indiana Pacers,108,Atlanta Hawks,117,0,N
+1984-01-13,1984,Portland Trail Blazers,110,Dallas Mavericks,113,0,N
+1984-01-13,1984,Los Angeles Lakers,141,Denver Nuggets,134,0,N
+1984-01-13,1984,Chicago Bulls,104,Detroit Pistons,115,0,N
+1984-01-13,1984,New York Knicks,101,Milwaukee Bucks,103,0,N
+1984-01-13,1984,Golden State Warriors,114,New Jersey Nets,111,0,N
+1984-01-13,1984,Boston Celtics,105,Philadelphia 76ers,104,0,N
+1984-01-13,1984,Houston Rockets,103,San Antonio Spurs,133,0,N
+1984-01-13,1984,Utah Jazz,122,San Diego Clippers,119,0,N
+1984-01-13,1984,Phoenix Suns,99,Seattle SuperSonics,103,0,N
+1984-01-14,1984,New York Knicks,113,Chicago Bulls,111,0,N
+1984-01-14,1984,Detroit Pistons,132,Cleveland Cavaliers,131,1,N
+1984-01-14,1984,Kansas City Kings,104,Houston Rockets,109,0,N
+1984-01-14,1984,Golden State Warriors,103,Philadelphia 76ers,129,0,N
+1984-01-14,1984,Washington Bullets,96,Utah Jazz,121,0,N
+1984-01-15,1984,Denver Nuggets,107,Dallas Mavericks,126,0,N
+1984-01-15,1984,New Jersey Nets,140,Indiana Pacers,134,1,N
+1984-01-15,1984,San Diego Clippers,96,Kansas City Kings,109,0,N
+1984-01-15,1984,Seattle SuperSonics,102,Los Angeles Lakers,91,0,N
+1984-01-15,1984,Boston Celtics,87,Milwaukee Bucks,106,0,N
+1984-01-15,1984,Washington Bullets,101,Phoenix Suns,110,0,N
+1984-01-15,1984,Portland Trail Blazers,111,San Antonio Spurs,126,0,N
+1984-01-17,1984,Utah Jazz,106,Atlanta Hawks,112,0,N
+1984-01-17,1984,Cleveland Cavaliers,105,Chicago Bulls,103,0,N
+1984-01-17,1984,San Diego Clippers,110,Golden State Warriors,123,0,N
+1984-01-17,1984,Denver Nuggets,115,Houston Rockets,124,0,N
+1984-01-17,1984,Milwaukee Bucks,112,Indiana Pacers,92,0,N
+1984-01-17,1984,Boston Celtics,122,Kansas City Kings,113,0,N
+1984-01-17,1984,Washington Bullets,95,Los Angeles Lakers,108,0,N
+1984-01-17,1984,New Jersey Nets,121,New York Knicks,115,0,N
+1984-01-17,1984,Detroit Pistons,117,Philadelphia 76ers,128,0,N
+1984-01-17,1984,Dallas Mavericks,114,Portland Trail Blazers,121,0,N
+1984-01-18,1984,Philadelphia 76ers,109,Cleveland Cavaliers,107,0,N
+1984-01-18,1984,New Jersey Nets,124,Detroit Pistons,115,0,N
+1984-01-18,1984,Atlanta Hawks,90,Milwaukee Bucks,99,0,N
+1984-01-18,1984,Denver Nuggets,127,San Antonio Spurs,148,0,N
+1984-01-18,1984,Washington Bullets,101,San Diego Clippers,110,0,N
+1984-01-18,1984,Dallas Mavericks,107,Seattle SuperSonics,114,0,N
+1984-01-19,1984,Portland Trail Blazers,103,Golden State Warriors,107,0,N
+1984-01-19,1984,Chicago Bulls,92,New York Knicks,109,0,N
+1984-01-19,1984,Los Angeles Lakers,123,Phoenix Suns,138,0,N
+1984-01-20,1984,Indiana Pacers,125,Boston Celtics,132,0,N
+1984-01-20,1984,Utah Jazz,120,Dallas Mavericks,113,0,N
+1984-01-20,1984,Kansas City Kings,114,Denver Nuggets,116,0,N
+1984-01-20,1984,Atlanta Hawks,94,Detroit Pistons,116,0,N
+1984-01-20,1984,San Antonio Spurs,104,Houston Rockets,138,0,N
+1984-01-20,1984,Washington Bullets,103,Milwaukee Bucks,133,0,N
+1984-01-20,1984,Cleveland Cavaliers,106,Philadelphia 76ers,109,0,N
+1984-01-20,1984,Seattle SuperSonics,110,San Diego Clippers,108,0,N
+1984-01-21,1984,Chicago Bulls,111,Cleveland Cavaliers,94,0,N
+1984-01-21,1984,Golden State Warriors,115,Denver Nuggets,126,0,N
+1984-01-21,1984,Utah Jazz,105,Houston Rockets,115,0,N
+1984-01-21,1984,Dallas Mavericks,118,Indiana Pacers,111,0,N
+1984-01-21,1984,Detroit Pistons,103,New Jersey Nets,120,0,N
+1984-01-21,1984,Atlanta Hawks,97,New York Knicks,95,0,N
+1984-01-21,1984,Seattle SuperSonics,102,Phoenix Suns,131,0,N
+1984-01-21,1984,Kansas City Kings,94,Portland Trail Blazers,114,0,N
+1984-01-21,1984,Los Angeles Lakers,108,San Antonio Spurs,113,0,N
+1984-01-21,1984,Philadelphia 76ers,90,Washington Bullets,94,0,N
+1984-01-22,1984,Milwaukee Bucks,98,Boston Celtics,109,0,N
+1984-01-24,1984,Atlanta Hawks,100,Chicago Bulls,93,0,N
+1984-01-24,1984,Boston Celtics,118,Cleveland Cavaliers,97,0,N
+1984-01-24,1984,Indiana Pacers,114,Detroit Pistons,107,0,N
+1984-01-24,1984,Golden State Warriors,98,Houston Rockets,118,0,N
+1984-01-24,1984,New Jersey Nets,104,Kansas City Kings,113,0,N
+1984-01-24,1984,Phoenix Suns,110,Los Angeles Lakers,116,0,N
+1984-01-24,1984,Philadelphia 76ers,102,New York Knicks,111,0,N
+1984-01-24,1984,Seattle SuperSonics,109,San Antonio Spurs,117,0,N
+1984-01-24,1984,Portland Trail Blazers,113,San Diego Clippers,118,0,N
+1984-01-24,1984,Dallas Mavericks,123,Utah Jazz,115,0,N
+1984-01-24,1984,Milwaukee Bucks,117,Washington Bullets,123,2,N
+1984-01-25,1984,Milwaukee Bucks,105,Atlanta Hawks,109,0,N
+1984-01-25,1984,Philadelphia 76ers,98,Boston Celtics,102,0,N
+1984-01-25,1984,Golden State Warriors,110,Dallas Mavericks,112,1,N
+1984-01-25,1984,Denver Nuggets,112,Indiana Pacers,117,0,N
+1984-01-26,1984,Denver Nuggets,126,Chicago Bulls,125,0,N
+1984-01-26,1984,Seattle SuperSonics,114,Kansas City Kings,106,0,N
+1984-01-26,1984,Houston Rockets,102,Los Angeles Lakers,131,0,N
+1984-01-26,1984,Golden State Warriors,116,San Antonio Spurs,123,0,N
+1984-01-26,1984,Phoenix Suns,101,San Diego Clippers,119,0,N
+1984-01-26,1984,New Jersey Nets,115,Utah Jazz,125,0,N
+1984-01-26,1984,New York Knicks,104,Washington Bullets,97,0,N
+1984-01-31,1984,Boston Celtics,106,Chicago Bulls,83,0,N
+1984-01-31,1984,Detroit Pistons,112,Cleveland Cavaliers,114,1,N
+1984-01-31,1984,Milwaukee Bucks,123,Golden State Warriors,119,1,N
+1984-01-31,1984,San Diego Clippers,97,Indiana Pacers,111,0,N
+1984-01-31,1984,Houston Rockets,122,Kansas City Kings,107,0,N
+1984-01-31,1984,Portland Trail Blazers,124,Los Angeles Lakers,129,0,N
+1984-01-31,1984,New York Knicks,117,San Antonio Spurs,113,0,N
+1984-01-31,1984,Seattle SuperSonics,94,Utah Jazz,98,1,N
+1984-01-31,1984,Atlanta Hawks,94,Washington Bullets,118,0,N
+1984-02-01,1984,Chicago Bulls,103,Atlanta Hawks,116,0,N
+1984-02-01,1984,Kansas City Kings,110,Boston Celtics,119,0,N
+1984-02-01,1984,New York Knicks,105,Dallas Mavericks,98,0,N
+1984-02-01,1984,Los Angeles Lakers,116,Denver Nuggets,108,0,N
+1984-02-01,1984,San Diego Clippers,106,New Jersey Nets,111,0,N
+1984-02-01,1984,Indiana Pacers,103,Philadelphia 76ers,111,0,N
+1984-02-01,1984,Portland Trail Blazers,106,Phoenix Suns,109,0,N
+1984-02-01,1984,Milwaukee Bucks,98,Seattle SuperSonics,99,0,N
+1984-02-02,1984,San Antonio Spurs,107,Golden State Warriors,117,0,N
+1984-02-02,1984,Dallas Mavericks,107,Houston Rockets,123,0,N
+1984-02-02,1984,Phoenix Suns,95,Utah Jazz,116,0,N
+1984-02-02,1984,Detroit Pistons,139,Washington Bullets,129,0,N
+1984-02-03,1984,Indiana Pacers,106,Boston Celtics,125,0,N
+1984-02-03,1984,Chicago Bulls,76,Cleveland Cavaliers,106,0,N
+1984-02-03,1984,Denver Nuggets,114,Dallas Mavericks,111,0,N
+1984-02-03,1984,San Diego Clippers,111,Detroit Pistons,126,0,N
+1984-02-03,1984,Utah Jazz,105,Los Angeles Lakers,109,0,N
+1984-02-03,1984,Kansas City Kings,114,New Jersey Nets,112,0,N
+1984-02-03,1984,Atlanta Hawks,99,Philadelphia 76ers,88,0,N
+1984-02-03,1984,Milwaukee Bucks,110,Portland Trail Blazers,116,0,N
+1984-02-03,1984,San Antonio Spurs,106,Seattle SuperSonics,121,0,N
+1984-02-04,1984,Philadelphia 76ers,97,Atlanta Hawks,102,0,N
+1984-02-04,1984,New Jersey Nets,108,Chicago Bulls,105,0,N
+1984-02-04,1984,San Diego Clippers,100,Cleveland Cavaliers,108,0,N
+1984-02-04,1984,Phoenix Suns,104,Golden State Warriors,107,0,N
+1984-02-04,1984,New York Knicks,103,Houston Rockets,95,0,N
+1984-02-04,1984,Denver Nuggets,100,Kansas City Kings,107,0,N
+1984-02-04,1984,Milwaukee Bucks,102,Utah Jazz,116,0,N
+1984-02-04,1984,Indiana Pacers,101,Washington Bullets,125,0,N
+1984-02-05,1984,Detroit Pistons,134,Boston Celtics,137,1,N
+1984-02-05,1984,Phoenix Suns,82,Portland Trail Blazers,97,0,N
+1984-02-05,1984,Los Angeles Lakers,110,San Antonio Spurs,98,0,N
+1984-02-05,1984,Dallas Mavericks,96,Seattle SuperSonics,104,0,N
+1984-02-06,1984,Boston Celtics,112,New Jersey Nets,115,0,N
+1984-02-06,1984,Golden State Warriors,94,New York Knicks,116,0,N
+1984-02-07,1984,New Jersey Nets,102,Atlanta Hawks,109,0,N
+1984-02-07,1984,Philadelphia 76ers,89,Chicago Bulls,104,0,N
+1984-02-07,1984,Cleveland Cavaliers,99,Detroit Pistons,130,0,N
+1984-02-07,1984,Los Angeles Lakers,106,Indiana Pacers,105,0,N
+1984-02-07,1984,Milwaukee Bucks,112,Kansas City Kings,110,1,N
+1984-02-07,1984,San Antonio Spurs,131,Phoenix Suns,138,0,N
+1984-02-07,1984,Dallas Mavericks,85,Portland Trail Blazers,101,0,N
+1984-02-07,1984,Denver Nuggets,105,Seattle SuperSonics,115,0,N
+1984-02-07,1984,San Diego Clippers,109,Utah Jazz,103,0,N
+1984-02-07,1984,Houston Rockets,92,Washington Bullets,95,0,N
+1984-02-08,1984,Los Angeles Lakers,111,Boston Celtics,109,0,N
+1984-02-08,1984,Golden State Warriors,108,Cleveland Cavaliers,119,0,N
+1984-02-08,1984,Dallas Mavericks,120,Denver Nuggets,114,0,N
+1984-02-08,1984,New York Knicks,103,Milwaukee Bucks,113,0,N
+1984-02-08,1984,Chicago Bulls,114,New Jersey Nets,110,1,N
+1984-02-08,1984,Houston Rockets,107,Philadelphia 76ers,118,0,N
+1984-02-08,1984,Kansas City Kings,118,San Antonio Spurs,110,0,N
+1984-02-08,1984,Portland Trail Blazers,114,San Diego Clippers,105,0,N
+1984-02-09,1984,Seattle SuperSonics,102,Indiana Pacers,107,0,N
+1984-02-09,1984,Atlanta Hawks,105,Phoenix Suns,118,0,N
+1984-02-10,1984,Houston Rockets,101,Boston Celtics,114,0,N
+1984-02-10,1984,Seattle SuperSonics,90,Cleveland Cavaliers,95,0,N
+1984-02-10,1984,Kansas City Kings,96,Dallas Mavericks,115,0,N
+1984-02-10,1984,Golden State Warriors,116,Detroit Pistons,134,0,N
+1984-02-10,1984,San Antonio Spurs,132,Milwaukee Bucks,127,0,N
+1984-02-10,1984,Chicago Bulls,100,Philadelphia 76ers,91,0,N
+1984-02-10,1984,Denver Nuggets,117,Portland Trail Blazers,123,0,N
+1984-02-10,1984,Atlanta Hawks,101,San Diego Clippers,113,0,N
+1984-02-10,1984,New York Knicks,121,Utah Jazz,111,0,N
+1984-02-10,1984,Los Angeles Lakers,93,Washington Bullets,96,0,N
+1984-02-11,1984,Golden State Warriors,96,Chicago Bulls,101,0,N
+1984-02-11,1984,New York Knicks,138,Denver Nuggets,112,0,N
+1984-02-11,1984,San Antonio Spurs,123,Detroit Pistons,116,0,N
+1984-02-11,1984,Cleveland Cavaliers,86,Indiana Pacers,83,0,N
+1984-02-11,1984,Washington Bullets,91,Kansas City Kings,94,0,N
+1984-02-11,1984,Dallas Mavericks,89,Phoenix Suns,108,0,N
+1984-02-12,1984,Philadelphia 76ers,109,Boston Celtics,91,0,N
+1984-02-12,1984,Atlanta Hawks,87,Los Angeles Lakers,108,0,N
+1984-02-12,1984,San Diego Clippers,100,Milwaukee Bucks,107,1,N
+1984-02-12,1984,Houston Rockets,103,New Jersey Nets,107,0,N
+1984-02-12,1984,Utah Jazz,114,Portland Trail Blazers,112,0,N
+1984-02-13,1984,San Antonio Spurs,117,Indiana Pacers,108,0,N
+1984-02-14,1984,San Diego Clippers,99,Chicago Bulls,112,0,N
+1984-02-14,1984,New Jersey Nets,93,Cleveland Cavaliers,103,0,N
+1984-02-14,1984,Washington Bullets,108,Denver Nuggets,96,0,N
+1984-02-14,1984,Seattle SuperSonics,102,Golden State Warriors,105,0,N
+1984-02-14,1984,Detroit Pistons,126,Houston Rockets,119,0,N
+1984-02-14,1984,New York Knicks,106,Kansas City Kings,100,0,N
+1984-02-14,1984,Phoenix Suns,83,Milwaukee Bucks,92,0,N
+1984-02-14,1984,Atlanta Hawks,98,Utah Jazz,100,0,N
+1984-02-15,1984,Phoenix Suns,90,Cleveland Cavaliers,104,0,N
+1984-02-15,1984,Philadelphia 76ers,116,Dallas Mavericks,119,2,N
+1984-02-15,1984,Milwaukee Bucks,107,Indiana Pacers,91,0,N
+1984-02-15,1984,San Antonio Spurs,114,New Jersey Nets,108,0,N
+1984-02-15,1984,Washington Bullets,99,Seattle SuperSonics,116,0,N
+1984-02-16,1984,Atlanta Hawks,102,Denver Nuggets,117,0,N
+1984-02-16,1984,Boston Celtics,125,Golden State Warriors,115,0,N
+1984-02-16,1984,Utah Jazz,99,Kansas City Kings,121,0,N
+1984-02-16,1984,Indiana Pacers,94,New York Knicks,100,0,N
+1984-02-16,1984,Houston Rockets,111,San Diego Clippers,100,0,N
+1984-02-17,1984,San Antonio Spurs,111,Chicago Bulls,109,0,N
+1984-02-17,1984,Phoenix Suns,123,Dallas Mavericks,129,0,N
+1984-02-17,1984,Denver Nuggets,141,Los Angeles Lakers,138,0,N
+1984-02-17,1984,Utah Jazz,91,Milwaukee Bucks,105,0,N
+1984-02-17,1984,New Jersey Nets,109,Philadelphia 76ers,114,0,N
+1984-02-17,1984,Washington Bullets,96,Portland Trail Blazers,87,0,N
+1984-02-17,1984,Boston Celtics,111,Seattle SuperSonics,100,0,N
+1984-02-18,1984,Indiana Pacers,118,Cleveland Cavaliers,93,0,N
+1984-02-18,1984,Detroit Pistons,120,Dallas Mavericks,115,0,N
+1984-02-18,1984,Washington Bullets,107,Golden State Warriors,113,0,N
+1984-02-18,1984,Phoenix Suns,126,Houston Rockets,102,0,N
+1984-02-18,1984,Atlanta Hawks,106,Kansas City Kings,111,0,N
+1984-02-18,1984,New Jersey Nets,102,New York Knicks,112,0,N
+1984-02-18,1984,Los Angeles Lakers,120,San Diego Clippers,116,0,N
+1984-02-19,1984,Milwaukee Bucks,113,Chicago Bulls,103,0,N
+1984-02-19,1984,Utah Jazz,104,Indiana Pacers,106,0,N
+1984-02-19,1984,New York Knicks,97,Philadelphia 76ers,101,0,N
+1984-02-19,1984,Boston Celtics,107,Portland Trail Blazers,101,0,N
+1984-02-19,1984,Detroit Pistons,142,San Antonio Spurs,140,1,N
+1984-02-19,1984,Denver Nuggets,120,Seattle SuperSonics,132,0,N
+1984-02-21,1984,Cleveland Cavaliers,84,Atlanta Hawks,102,0,N
+1984-02-21,1984,Utah Jazz,117,Chicago Bulls,95,0,N
+1984-02-21,1984,Denver Nuggets,133,Golden State Warriors,135,0,N
+1984-02-21,1984,Milwaukee Bucks,102,Houston Rockets,119,0,N
+1984-02-21,1984,Detroit Pistons,112,Kansas City Kings,119,0,N
+1984-02-21,1984,Seattle SuperSonics,112,Los Angeles Lakers,128,0,N
+1984-02-21,1984,Philadelphia 76ers,116,New Jersey Nets,119,1,N
+1984-02-21,1984,Portland Trail Blazers,106,New York Knicks,89,0,N
+1984-02-21,1984,Phoenix Suns,114,San Antonio Spurs,111,1,N
+1984-02-22,1984,Houston Rockets,106,Dallas Mavericks,112,0,N
+1984-02-22,1984,San Antonio Spurs,121,Denver Nuggets,127,0,N
+1984-02-22,1984,New York Knicks,111,Detroit Pistons,114,0,N
+1984-02-22,1984,Chicago Bulls,121,Indiana Pacers,111,0,N
+1984-02-22,1984,Boston Celtics,107,San Diego Clippers,114,0,N
+1984-02-22,1984,Los Angeles Lakers,114,Seattle SuperSonics,121,0,N
+1984-02-22,1984,Portland Trail Blazers,104,Washington Bullets,101,0,N
+1984-02-23,1984,Philadelphia 76ers,109,Cleveland Cavaliers,116,1,N
+1984-02-23,1984,San Diego Clippers,108,Golden State Warriors,103,0,N
+1984-02-23,1984,Phoenix Suns,107,Kansas City Kings,95,0,N
+1984-02-23,1984,Indiana Pacers,103,New Jersey Nets,110,0,N
+1984-02-23,1984,San Antonio Spurs,142,Utah Jazz,143,2,N
+1984-02-24,1984,New York Knicks,104,Atlanta Hawks,105,1,N
+1984-02-24,1984,Washington Bullets,102,Chicago Bulls,96,0,N
+1984-02-24,1984,Milwaukee Bucks,95,Dallas Mavericks,88,0,N
+1984-02-24,1984,Detroit Pistons,100,Indiana Pacers,108,0,N
+1984-02-24,1984,Boston Celtics,108,Los Angeles Lakers,116,0,N
+1984-02-24,1984,Portland Trail Blazers,119,Philadelphia 76ers,114,0,N
+1984-02-24,1984,Denver Nuggets,117,Phoenix Suns,100,0,N
+1984-02-24,1984,Utah Jazz,81,Seattle SuperSonics,112,0,N
+1984-02-25,1984,Chicago Bulls,87,Atlanta Hawks,122,0,N
+1984-02-25,1984,Washington Bullets,83,Cleveland Cavaliers,94,0,N
+1984-02-25,1984,Kansas City Kings,136,Denver Nuggets,148,0,N
+1984-02-25,1984,Golden State Warriors,118,Houston Rockets,112,0,N
+1984-02-25,1984,New York Knicks,104,New Jersey Nets,117,0,N
+1984-02-25,1984,Milwaukee Bucks,130,San Antonio Spurs,119,0,N
+1984-02-25,1984,Dallas Mavericks,97,Utah Jazz,95,0,N
+1984-02-26,1984,Cleveland Cavaliers,109,Detroit Pistons,121,0,N
+1984-02-26,1984,Portland Trail Blazers,100,Indiana Pacers,102,0,N
+1984-02-26,1984,Los Angeles Lakers,101,Philadelphia 76ers,99,0,N
+1984-02-26,1984,Boston Celtics,116,Phoenix Suns,109,0,N
+1984-02-26,1984,San Diego Clippers,101,Seattle SuperSonics,93,0,N
+1984-02-27,1984,Atlanta Hawks,92,New York Knicks,96,0,N
+1984-02-28,1984,Detroit Pistons,101,Atlanta Hawks,96,0,N
+1984-02-28,1984,Los Angeles Lakers,124,Chicago Bulls,108,0,N
+1984-02-28,1984,Denver Nuggets,137,Golden State Warriors,140,1,N
+1984-02-28,1984,Seattle SuperSonics,105,Houston Rockets,111,0,N
+1984-02-28,1984,Washington Bullets,100,Indiana Pacers,92,0,N
+1984-02-28,1984,Cleveland Cavaliers,137,Kansas City Kings,142,2,N
+1984-02-28,1984,Utah Jazz,100,Phoenix Suns,113,0,N
+1984-02-28,1984,San Diego Clippers,99,Portland Trail Blazers,117,0,N
+1984-02-28,1984,Dallas Mavericks,116,San Antonio Spurs,104,0,N
+1984-02-29,1984,New York Knicks,102,Boston Celtics,98,0,N
+1984-02-29,1984,Seattle SuperSonics,127,Dallas Mavericks,124,2,N
+1984-02-29,1984,Washington Bullets,106,Detroit Pistons,137,0,N
+1984-02-29,1984,Chicago Bulls,83,Milwaukee Bucks,112,0,N
+1984-02-29,1984,Los Angeles Lakers,92,New Jersey Nets,102,0,N
+1984-02-29,1984,Phoenix Suns,95,San Diego Clippers,102,0,N
+1984-02-29,1984,Philadelphia 76ers,103,Utah Jazz,97,0,N
+1984-03-01,1984,Cleveland Cavaliers,113,Denver Nuggets,119,0,N
+1984-03-01,1984,Kansas City Kings,108,Houston Rockets,101,0,N
+1984-03-01,1984,Philadelphia 76ers,100,Phoenix Suns,112,0,N
+1984-03-01,1984,San Antonio Spurs,98,Portland Trail Blazers,121,0,N
+1984-03-02,1984,Los Angeles Lakers,98,Atlanta Hawks,94,0,N
+1984-03-02,1984,Chicago Bulls,100,Boston Celtics,104,0,N
+1984-03-02,1984,Kansas City Kings,94,Dallas Mavericks,108,0,N
+1984-03-02,1984,New York Knicks,117,Detroit Pistons,102,0,N
+1984-03-02,1984,Golden State Warriors,110,San Diego Clippers,103,0,N
+1984-03-02,1984,Indiana Pacers,90,Seattle SuperSonics,99,0,N
+1984-03-02,1984,Cleveland Cavaliers,104,Utah Jazz,110,0,N
+1984-03-02,1984,Milwaukee Bucks,98,Washington Bullets,78,0,N
+1984-03-03,1984,Atlanta Hawks,98,Chicago Bulls,102,0,N
+1984-03-03,1984,Utah Jazz,122,Denver Nuggets,131,0,N
+1984-03-03,1984,Houston Rockets,108,Golden State Warriors,106,0,N
+1984-03-03,1984,Dallas Mavericks,103,Kansas City Kings,105,0,N
+1984-03-03,1984,Washington Bullets,90,New Jersey Nets,100,0,N
+1984-03-03,1984,Milwaukee Bucks,111,New York Knicks,106,0,N
+1984-03-03,1984,San Antonio Spurs,106,Phoenix Suns,120,0,N
+1984-03-03,1984,Indiana Pacers,98,Portland Trail Blazers,118,0,N
+1984-03-04,1984,Seattle SuperSonics,93,Boston Celtics,117,0,N
+1984-03-04,1984,Los Angeles Lakers,118,Detroit Pistons,114,0,N
+1984-03-04,1984,Philadelphia 76ers,127,San Diego Clippers,122,0,N
+1984-03-05,1984,Utah Jazz,116,New Jersey Nets,120,0,N
+1984-03-06,1984,Milwaukee Bucks,109,Atlanta Hawks,104,1,N
+1984-03-06,1984,Detroit Pistons,124,Chicago Bulls,108,0,N
+1984-03-06,1984,Houston Rockets,128,Denver Nuggets,130,0,N
+1984-03-06,1984,Indiana Pacers,109,Golden State Warriors,125,0,N
+1984-03-06,1984,Portland Trail Blazers,110,Kansas City Kings,128,0,N
+1984-03-06,1984,Seattle SuperSonics,110,New York Knicks,124,0,N
+1984-03-06,1984,Cleveland Cavaliers,122,San Antonio Spurs,129,0,N
+1984-03-06,1984,Boston Celtics,108,Washington Bullets,85,0,N
+1984-03-07,1984,Utah Jazz,106,Boston Celtics,117,0,N
+1984-03-07,1984,Cleveland Cavaliers,103,Dallas Mavericks,115,0,N
+1984-03-07,1984,Atlanta Hawks,93,Detroit Pistons,107,0,N
+1984-03-07,1984,Philadelphia 76ers,113,Los Angeles Lakers,105,0,N
+1984-03-07,1984,New Jersey Nets,106,Milwaukee Bucks,100,0,N
+1984-03-07,1984,Houston Rockets,110,Phoenix Suns,123,0,N
+1984-03-07,1984,Indiana Pacers,110,San Diego Clippers,114,0,N
+1984-03-08,1984,Chicago Bulls,110,Kansas City Kings,115,0,N
+1984-03-08,1984,Seattle SuperSonics,96,Washington Bullets,106,0,N
+1984-03-09,1984,Portland Trail Blazers,104,Atlanta Hawks,101,0,N
+1984-03-09,1984,Los Angeles Lakers,121,Dallas Mavericks,120,2,N
+1984-03-09,1984,New Jersey Nets,118,Detroit Pistons,122,0,N
+1984-03-09,1984,Boston Celtics,129,Milwaukee Bucks,128,2,N
+1984-03-09,1984,Seattle SuperSonics,84,Philadelphia 76ers,92,0,N
+1984-03-09,1984,Indiana Pacers,110,Phoenix Suns,130,0,N
+1984-03-09,1984,Denver Nuggets,126,San Diego Clippers,134,0,N
+1984-03-10,1984,Golden State Warriors,103,Dallas Mavericks,120,0,N
+1984-03-10,1984,Washington Bullets,100,Detroit Pistons,115,0,N
+1984-03-10,1984,Indiana Pacers,126,Los Angeles Lakers,114,0,N
+1984-03-10,1984,Utah Jazz,105,New York Knicks,114,0,N
+1984-03-10,1984,Houston Rockets,118,San Antonio Spurs,123,0,N
+1984-03-10,1984,Chicago Bulls,110,San Diego Clippers,115,0,N
+1984-03-11,1984,Phoenix Suns,109,Boston Celtics,117,0,N
+1984-03-11,1984,Portland Trail Blazers,123,Denver Nuggets,149,0,N
+1984-03-11,1984,Cleveland Cavaliers,101,Houston Rockets,108,0,N
+1984-03-11,1984,Golden State Warriors,115,Kansas City Kings,109,0,N
+1984-03-11,1984,Atlanta Hawks,108,Milwaukee Bucks,94,0,N
+1984-03-11,1984,Seattle SuperSonics,105,New Jersey Nets,106,0,N
+1984-03-11,1984,Utah Jazz,97,Philadelphia 76ers,120,0,N
+1984-03-13,1984,Atlanta Hawks,83,Cleveland Cavaliers,92,0,N
+1984-03-13,1984,Chicago Bulls,112,Golden State Warriors,101,0,N
+1984-03-13,1984,San Diego Clippers,109,Houston Rockets,117,0,N
+1984-03-13,1984,Philadelphia 76ers,121,Indiana Pacers,106,0,N
+1984-03-13,1984,Seattle SuperSonics,98,Los Angeles Lakers,114,0,N
+1984-03-13,1984,Detroit Pistons,95,Milwaukee Bucks,116,0,N
+1984-03-13,1984,Phoenix Suns,96,New York Knicks,117,0,N
+1984-03-13,1984,Dallas Mavericks,131,San Antonio Spurs,137,2,N
+1984-03-13,1984,Portland Trail Blazers,119,Utah Jazz,124,0,N
+1984-03-13,1984,Denver Nuggets,103,Washington Bullets,108,0,N
+1984-03-14,1984,Kansas City Kings,101,Atlanta Hawks,93,0,N
+1984-03-14,1984,Washington Bullets,103,Boston Celtics,99,0,N
+1984-03-14,1984,San Diego Clippers,101,Dallas Mavericks,105,0,N
+1984-03-14,1984,Denver Nuggets,125,Detroit Pistons,121,0,N
+1984-03-14,1984,Phoenix Suns,102,New Jersey Nets,108,0,N
+1984-03-14,1984,Milwaukee Bucks,91,Philadelphia 76ers,92,0,N
+1984-03-15,1984,Utah Jazz,115,Golden State Warriors,111,0,N
+1984-03-15,1984,Kansas City Kings,108,Indiana Pacers,107,0,N
+1984-03-15,1984,San Antonio Spurs,124,Los Angeles Lakers,143,0,N
+1984-03-15,1984,Cleveland Cavaliers,82,New York Knicks,105,0,N
+1984-03-15,1984,Chicago Bulls,90,Seattle SuperSonics,106,0,N
+1984-03-16,1984,Milwaukee Bucks,99,Boston Celtics,109,0,N
+1984-03-16,1984,Denver Nuggets,118,Cleveland Cavaliers,102,0,N
+1984-03-16,1984,New Jersey Nets,117,Detroit Pistons,108,0,N
+1984-03-16,1984,Atlanta Hawks,105,Philadelphia 76ers,102,0,N
+1984-03-16,1984,Chicago Bulls,156,Portland Trail Blazers,155,4,N
+1984-03-16,1984,Houston Rockets,118,San Diego Clippers,128,0,N
+1984-03-16,1984,San Antonio Spurs,123,Seattle SuperSonics,126,0,N
+1984-03-16,1984,Phoenix Suns,110,Washington Bullets,109,1,N
+1984-03-17,1984,Boston Celtics,103,Atlanta Hawks,88,0,N
+1984-03-17,1984,Los Angeles Lakers,123,Houston Rockets,111,0,N
+1984-03-17,1984,New Jersey Nets,100,Indiana Pacers,98,0,N
+1984-03-17,1984,Kansas City Kings,109,New York Knicks,123,0,N
+1984-03-17,1984,Phoenix Suns,112,Philadelphia 76ers,131,0,N
+1984-03-17,1984,Golden State Warriors,96,Portland Trail Blazers,133,0,N
+1984-03-17,1984,Dallas Mavericks,103,Utah Jazz,118,0,N
+1984-03-18,1984,Kansas City Kings,108,Cleveland Cavaliers,97,0,N
+1984-03-18,1984,Chicago Bulls,104,Denver Nuggets,107,0,N
+1984-03-18,1984,Washington Bullets,101,Milwaukee Bucks,109,0,N
+1984-03-18,1984,San Antonio Spurs,140,San Diego Clippers,135,0,N
+1984-03-18,1984,Golden State Warriors,99,Seattle SuperSonics,126,0,N
+1984-03-19,1984,Detroit Pistons,125,Utah Jazz,143,0,N
+1984-03-20,1984,Cleveland Cavaliers,104,Chicago Bulls,108,1,N
+1984-03-20,1984,Seattle SuperSonics,102,Golden State Warriors,103,0,N
+1984-03-20,1984,Kansas City Kings,115,Houston Rockets,102,0,N
+1984-03-20,1984,Boston Celtics,121,Indiana Pacers,123,1,N
+1984-03-20,1984,Los Angeles Lakers,99,Milwaukee Bucks,94,0,N
+1984-03-20,1984,Denver Nuggets,120,Phoenix Suns,146,0,N
+1984-03-20,1984,San Diego Clippers,105,Portland Trail Blazers,106,0,N
+1984-03-20,1984,Atlanta Hawks,132,San Antonio Spurs,135,3,N
+1984-03-20,1984,New Jersey Nets,91,Washington Bullets,99,0,N
+1984-03-21,1984,New York Knicks,99,Cleveland Cavaliers,100,0,N
+1984-03-21,1984,Atlanta Hawks,101,Dallas Mavericks,102,0,N
+1984-03-21,1984,Houston Rockets,125,Denver Nuggets,134,0,N
+1984-03-21,1984,Los Angeles Lakers,123,Kansas City Kings,116,0,N
+1984-03-21,1984,Milwaukee Bucks,102,New Jersey Nets,95,0,N
+1984-03-21,1984,Detroit Pistons,132,San Diego Clippers,123,0,N
+1984-03-21,1984,Phoenix Suns,102,Seattle SuperSonics,104,0,N
+1984-03-22,1984,Boston Celtics,108,New York Knicks,100,0,N
+1984-03-22,1984,Utah Jazz,126,San Antonio Spurs,129,0,N
+1984-03-22,1984,Philadelphia 76ers,106,Washington Bullets,101,0,N
+1984-03-23,1984,New Jersey Nets,101,Boston Celtics,97,0,N
+1984-03-23,1984,Houston Rockets,104,Dallas Mavericks,116,0,N
+1984-03-23,1984,Kansas City Kings,116,Denver Nuggets,126,0,N
+1984-03-23,1984,Chicago Bulls,112,Indiana Pacers,119,0,N
+1984-03-23,1984,Detroit Pistons,121,Los Angeles Lakers,118,0,N
+1984-03-23,1984,Cleveland Cavaliers,95,Philadelphia 76ers,100,0,N
+1984-03-23,1984,Phoenix Suns,98,Portland Trail Blazers,124,0,N
+1984-03-23,1984,Seattle SuperSonics,102,San Diego Clippers,108,0,N
+1984-03-23,1984,Golden State Warriors,115,Utah Jazz,104,0,N
+1984-03-24,1984,Denver Nuggets,101,Dallas Mavericks,119,0,N
+1984-03-24,1984,Portland Trail Blazers,106,Golden State Warriors,94,0,N
+1984-03-24,1984,Atlanta Hawks,102,Houston Rockets,103,0,N
+1984-03-24,1984,San Antonio Spurs,118,Kansas City Kings,125,0,N
+1984-03-24,1984,Indiana Pacers,92,Milwaukee Bucks,106,0,N
+1984-03-24,1984,Washington Bullets,99,New York Knicks,107,0,N
+1984-03-24,1984,Detroit Pistons,120,Phoenix Suns,109,0,N
+1984-03-25,1984,Indiana Pacers,102,Chicago Bulls,99,0,N
+1984-03-25,1984,Washington Bullets,96,Cleveland Cavaliers,101,0,N
+1984-03-25,1984,San Diego Clippers,102,Los Angeles Lakers,114,0,N
+1984-03-25,1984,New York Knicks,94,New Jersey Nets,107,0,N
+1984-03-25,1984,Boston Celtics,114,Philadelphia 76ers,119,2,N
+1984-03-25,1984,Utah Jazz,121,Seattle SuperSonics,98,0,N
+1984-03-27,1984,Philadelphia 76ers,78,Atlanta Hawks,97,0,N
+1984-03-27,1984,Detroit Pistons,111,Chicago Bulls,83,0,N
+1984-03-27,1984,New Jersey Nets,103,Cleveland Cavaliers,106,0,N
+1984-03-27,1984,Denver Nuggets,137,Houston Rockets,140,0,N
+1984-03-27,1984,Dallas Mavericks,88,New York Knicks,97,0,N
+1984-03-27,1984,San Diego Clippers,109,Phoenix Suns,116,0,N
+1984-03-27,1984,Seattle SuperSonics,87,Portland Trail Blazers,93,0,N
+1984-03-27,1984,Golden State Warriors,116,San Antonio Spurs,117,1,N
+1984-03-27,1984,Kansas City Kings,106,Utah Jazz,110,0,N
+1984-03-27,1984,Boston Celtics,106,Washington Bullets,93,0,N
+1984-03-28,1984,Dallas Mavericks,107,Boston Celtics,114,0,N
+1984-03-28,1984,Chicago Bulls,101,Detroit Pistons,108,0,N
+1984-03-28,1984,New York Knicks,93,Indiana Pacers,99,0,N
+1984-03-28,1984,Cleveland Cavaliers,98,Milwaukee Bucks,130,0,N
+1984-03-28,1984,Washington Bullets,103,Philadelphia 76ers,109,0,N
+1984-03-28,1984,Los Angeles Lakers,115,San Diego Clippers,122,0,N
+1984-03-28,1984,Kansas City Kings,94,Seattle SuperSonics,111,0,N
+1984-03-29,1984,Houston Rockets,109,Los Angeles Lakers,115,0,N
+1984-03-29,1984,Detroit Pistons,116,New Jersey Nets,118,0,N
+1984-03-29,1984,Golden State Warriors,119,Phoenix Suns,124,1,N
+1984-03-29,1984,Kansas City Kings,113,Portland Trail Blazers,120,0,N
+1984-03-29,1984,Seattle SuperSonics,96,Utah Jazz,106,0,N
+1984-03-30,1984,Atlanta Hawks,96,Boston Celtics,105,0,N
+1984-03-30,1984,San Antonio Spurs,136,Denver Nuggets,145,0,N
+1984-03-30,1984,Cleveland Cavaliers,87,Indiana Pacers,90,0,N
+1984-03-30,1984,Chicago Bulls,86,Milwaukee Bucks,119,0,N
+1984-03-30,1984,Dallas Mavericks,110,Philadelphia 76ers,118,0,N
+1984-03-30,1984,Golden State Warriors,112,San Diego Clippers,124,0,N
+1984-03-30,1984,New York Knicks,79,Washington Bullets,107,0,N
+1984-03-31,1984,New York Knicks,106,Atlanta Hawks,109,0,N
+1984-03-31,1984,Philadelphia 76ers,111,Chicago Bulls,104,0,N
+1984-03-31,1984,Indiana Pacers,120,Cleveland Cavaliers,119,1,N
+1984-03-31,1984,Milwaukee Bucks,105,Detroit Pistons,107,0,N
+1984-03-31,1984,Portland Trail Blazers,106,Houston Rockets,102,0,N
+1984-03-31,1984,Utah Jazz,103,Kansas City Kings,105,0,N
+1984-03-31,1984,Boston Celtics,107,New Jersey Nets,98,0,N
+1984-03-31,1984,Los Angeles Lakers,119,Phoenix Suns,97,0,N
+1984-03-31,1984,Seattle SuperSonics,124,San Antonio Spurs,106,0,N
+1984-04-01,1984,San Diego Clippers,103,Denver Nuggets,129,0,N
+1984-04-01,1984,Golden State Warriors,110,Los Angeles Lakers,121,0,N
+1984-04-01,1984,Dallas Mavericks,98,Washington Bullets,102,0,N
+1984-04-02,1984,Chicago Bulls,113,New York Knicks,115,0,N
+1984-04-02,1984,Houston Rockets,100,Utah Jazz,111,0,N
+1984-04-03,1984,New York Knicks,113,Chicago Bulls,96,0,N
+1984-04-03,1984,Boston Celtics,98,Cleveland Cavaliers,86,0,N
+1984-04-03,1984,Portland Trail Blazers,91,Dallas Mavericks,88,0,N
+1984-04-03,1984,Seattle SuperSonics,113,Denver Nuggets,124,0,N
+1984-04-03,1984,Philadelphia 76ers,115,Detroit Pistons,118,0,N
+1984-04-03,1984,Houston Rockets,92,Golden State Warriors,99,0,N
+1984-04-03,1984,New Jersey Nets,92,Milwaukee Bucks,109,0,N
+1984-04-03,1984,Kansas City Kings,109,Phoenix Suns,113,0,N
+1984-04-03,1984,Los Angeles Lakers,109,San Antonio Spurs,137,0,N
+1984-04-03,1984,Indiana Pacers,94,Washington Bullets,106,0,N
+1984-04-04,1984,Washington Bullets,92,Atlanta Hawks,99,0,N
+1984-04-04,1984,Indiana Pacers,111,New Jersey Nets,112,0,N
+1984-04-04,1984,Kansas City Kings,121,San Diego Clippers,116,0,N
+1984-04-05,1984,Chicago Bulls,99,Cleveland Cavaliers,114,0,N
+1984-04-05,1984,Golden State Warriors,128,Denver Nuggets,124,0,N
+1984-04-05,1984,Philadelphia 76ers,103,Milwaukee Bucks,113,0,N
+1984-04-05,1984,Houston Rockets,129,Portland Trail Blazers,114,0,N
+1984-04-05,1984,Los Angeles Lakers,129,Utah Jazz,115,0,N
+1984-04-06,1984,Cleveland Cavaliers,94,Boston Celtics,113,0,N
+1984-04-06,1984,Atlanta Hawks,103,Chicago Bulls,111,0,N
+1984-04-06,1984,San Antonio Spurs,118,Dallas Mavericks,131,0,N
+1984-04-06,1984,Kansas City Kings,97,Los Angeles Lakers,112,0,N
+1984-04-06,1984,Detroit Pistons,115,New York Knicks,107,0,N
+1984-04-06,1984,Indiana Pacers,106,Philadelphia 76ers,112,0,N
+1984-04-06,1984,Seattle SuperSonics,108,Phoenix Suns,117,0,N
+1984-04-06,1984,Portland Trail Blazers,112,San Diego Clippers,121,0,N
+1984-04-07,1984,Indiana Pacers,103,Atlanta Hawks,122,0,N
+1984-04-07,1984,Utah Jazz,100,Dallas Mavericks,109,0,N
+1984-04-07,1984,Kansas City Kings,89,Golden State Warriors,98,0,N
+1984-04-07,1984,Detroit Pistons,92,Milwaukee Bucks,110,0,N
+1984-04-07,1984,San Diego Clippers,112,San Antonio Spurs,126,0,N
+1984-04-07,1984,New Jersey Nets,121,Washington Bullets,98,0,N
+1984-04-08,1984,Chicago Bulls,110,Boston Celtics,117,0,N
+1984-04-08,1984,Phoenix Suns,126,Denver Nuggets,121,0,N
+1984-04-08,1984,Cleveland Cavaliers,97,New Jersey Nets,124,0,N
+1984-04-08,1984,New York Knicks,108,Philadelphia 76ers,109,0,N
+1984-04-08,1984,Los Angeles Lakers,119,Portland Trail Blazers,113,0,N
+1984-04-08,1984,Houston Rockets,107,Seattle SuperSonics,120,0,N
+1984-04-09,1984,Cleveland Cavaliers,113,New York Knicks,118,0,N
+1984-04-09,1984,Chicago Bulls,134,Washington Bullets,136,2,N
+1984-04-10,1984,Indiana Pacers,98,Detroit Pistons,100,0,N
+1984-04-10,1984,Los Angeles Lakers,115,Golden State Warriors,117,0,N
+1984-04-10,1984,Seattle SuperSonics,125,Kansas City Kings,113,0,N
+1984-04-10,1984,Boston Celtics,96,Milwaukee Bucks,95,0,N
+1984-04-10,1984,Philadelphia 76ers,102,New Jersey Nets,106,0,N
+1984-04-10,1984,Portland Trail Blazers,88,Phoenix Suns,100,0,N
+1984-04-10,1984,Houston Rockets,111,San Antonio Spurs,121,0,N
+1984-04-10,1984,Dallas Mavericks,116,San Diego Clippers,114,0,N
+1984-04-10,1984,Denver Nuggets,120,Utah Jazz,135,0,N
+1984-04-11,1984,New York Knicks,96,Boston Celtics,102,0,N
+1984-04-11,1984,New Jersey Nets,129,Chicago Bulls,112,0,N
+1984-04-11,1984,Milwaukee Bucks,108,Cleveland Cavaliers,95,0,N
+1984-04-11,1984,Denver Nuggets,130,Houston Rockets,110,0,N
+1984-04-11,1984,Atlanta Hawks,114,Indiana Pacers,111,0,N
+1984-04-11,1984,Portland Trail Blazers,108,Los Angeles Lakers,121,0,N
+1984-04-11,1984,Detroit Pistons,126,Philadelphia 76ers,113,0,N
+1984-04-12,1984,San Antonio Spurs,102,Kansas City Kings,114,0,N
+1984-04-12,1984,Dallas Mavericks,118,Phoenix Suns,119,0,N
+1984-04-12,1984,Golden State Warriors,100,Seattle SuperSonics,105,0,N
+1984-04-12,1984,San Diego Clippers,94,Utah Jazz,113,0,N
+1984-04-13,1984,Milwaukee Bucks,109,Chicago Bulls,85,0,N
+1984-04-13,1984,New York Knicks,107,Cleveland Cavaliers,98,0,N
+1984-04-13,1984,Boston Celtics,120,Detroit Pistons,128,1,N
+1984-04-13,1984,San Antonio Spurs,129,Houston Rockets,128,1,N
+1984-04-13,1984,Washington Bullets,115,Indiana Pacers,119,0,N
+1984-04-13,1984,Dallas Mavericks,104,Los Angeles Lakers,103,0,N
+1984-04-13,1984,Atlanta Hawks,118,New Jersey Nets,112,0,N
+1984-04-13,1984,Golden State Warriors,101,Portland Trail Blazers,102,0,N
+1984-04-14,1984,Detroit Pistons,107,Atlanta Hawks,115,0,N
+1984-04-14,1984,Houston Rockets,96,Kansas City Kings,108,0,N
+1984-04-14,1984,Indiana Pacers,92,Milwaukee Bucks,104,0,N
+1984-04-14,1984,Philadelphia 76ers,103,New York Knicks,100,0,N
+1984-04-14,1984,Utah Jazz,128,San Diego Clippers,146,0,N
+1984-04-14,1984,Cleveland Cavaliers,117,Washington Bullets,109,0,N
+1984-04-15,1984,New Jersey Nets,111,Boston Celtics,118,0,N
+1984-04-15,1984,Dallas Mavericks,96,Golden State Warriors,98,0,N
+1984-04-15,1984,Phoenix Suns,123,Los Angeles Lakers,114,0,N
+1984-04-15,1984,Chicago Bulls,115,Philadelphia 76ers,129,0,N
+1984-04-15,1984,Denver Nuggets,154,San Antonio Spurs,157,0,N
+1984-04-15,1984,Portland Trail Blazers,103,Seattle SuperSonics,108,0,N
+1984-04-17,1984,Washington Bullets,83,Boston Celtics,91,0,Y
+1984-04-17,1984,Seattle SuperSonics,86,Dallas Mavericks,88,0,Y
+1984-04-17,1984,New York Knicks,94,Detroit Pistons,93,0,Y
+1984-04-17,1984,Atlanta Hawks,89,Milwaukee Bucks,105,0,Y
+1984-04-17,1984,Denver Nuggets,121,Utah Jazz,123,0,Y
+1984-04-18,1984,Kansas City Kings,105,Los Angeles Lakers,116,0,Y
+1984-04-18,1984,New Jersey Nets,116,Philadelphia 76ers,101,0,Y
+1984-04-18,1984,Phoenix Suns,113,Portland Trail Blazers,106,0,Y
+1984-04-19,1984,Washington Bullets,85,Boston Celtics,88,0,Y
+1984-04-19,1984,Seattle SuperSonics,95,Dallas Mavericks,92,0,Y
+1984-04-19,1984,New York Knicks,105,Detroit Pistons,113,0,Y
+1984-04-19,1984,Atlanta Hawks,87,Milwaukee Bucks,101,0,Y
+1984-04-19,1984,Denver Nuggets,132,Utah Jazz,116,0,Y
+1984-04-20,1984,Kansas City Kings,102,Los Angeles Lakers,109,0,Y
+1984-04-20,1984,New Jersey Nets,116,Philadelphia 76ers,102,0,Y
+1984-04-20,1984,Phoenix Suns,116,Portland Trail Blazers,122,0,Y
+1984-04-21,1984,Milwaukee Bucks,94,Atlanta Hawks,103,0,Y
+1984-04-21,1984,Dallas Mavericks,94,Seattle SuperSonics,104,0,Y
+1984-04-21,1984,Boston Celtics,108,Washington Bullets,111,1,Y
+1984-04-22,1984,Utah Jazz,117,Denver Nuggets,121,0,Y
+1984-04-22,1984,Los Angeles Lakers,108,Kansas City Kings,102,0,Y
+1984-04-22,1984,Philadelphia 76ers,108,New Jersey Nets,100,0,Y
+1984-04-22,1984,Detroit Pistons,113,New York Knicks,120,0,Y
+1984-04-22,1984,Portland Trail Blazers,103,Phoenix Suns,106,0,Y
+1984-04-24,1984,Milwaukee Bucks,97,Atlanta Hawks,100,0,Y
+1984-04-24,1984,Utah Jazz,129,Denver Nuggets,124,0,Y
+1984-04-24,1984,Philadelphia 76ers,110,New Jersey Nets,102,0,Y
+1984-04-24,1984,Portland Trail Blazers,113,Phoenix Suns,110,0,Y
+1984-04-24,1984,Dallas Mavericks,107,Seattle SuperSonics,96,0,Y
+1984-04-24,1984,Boston Celtics,99,Washington Bullets,96,0,Y
+1984-04-25,1984,Detroit Pistons,119,New York Knicks,112,0,Y
+1984-04-26,1984,Seattle SuperSonics,104,Dallas Mavericks,105,1,Y
+1984-04-26,1984,Atlanta Hawks,89,Milwaukee Bucks,118,0,Y
+1984-04-26,1984,New Jersey Nets,101,Philadelphia 76ers,98,0,Y
+1984-04-26,1984,Phoenix Suns,117,Portland Trail Blazers,105,0,Y
+1984-04-26,1984,Denver Nuggets,111,Utah Jazz,127,0,Y
+1984-04-27,1984,New York Knicks,127,Detroit Pistons,123,1,Y
+1984-04-28,1984,Dallas Mavericks,91,Los Angeles Lakers,134,0,Y
+1984-04-29,1984,New York Knicks,92,Boston Celtics,110,0,Y
+1984-04-29,1984,New Jersey Nets,106,Milwaukee Bucks,100,0,Y
+1984-04-29,1984,Phoenix Suns,95,Utah Jazz,105,0,Y
+1984-05-01,1984,New Jersey Nets,94,Milwaukee Bucks,98,0,Y
+1984-05-01,1984,Dallas Mavericks,101,Los Angeles Lakers,117,0,Y
+1984-05-02,1984,New York Knicks,102,Boston Celtics,116,0,Y
+1984-05-02,1984,Phoenix Suns,102,Utah Jazz,97,0,Y
+1984-05-03,1984,Milwaukee Bucks,100,New Jersey Nets,93,0,Y
+1984-05-04,1984,Los Angeles Lakers,115,Dallas Mavericks,125,0,Y
+1984-05-04,1984,Boston Celtics,92,New York Knicks,100,0,Y
+1984-05-04,1984,Utah Jazz,94,Phoenix Suns,106,0,Y
+1984-05-05,1984,Milwaukee Bucks,99,New Jersey Nets,106,0,Y
+1984-05-06,1984,Los Angeles Lakers,122,Dallas Mavericks,115,1,Y
+1984-05-06,1984,Boston Celtics,113,New York Knicks,118,0,Y
+1984-05-06,1984,Utah Jazz,110,Phoenix Suns,111,1,Y
+1984-05-08,1984,Dallas Mavericks,99,Los Angeles Lakers,115,0,Y
+1984-05-08,1984,New Jersey Nets,82,Milwaukee Bucks,94,0,Y
+1984-05-08,1984,Phoenix Suns,106,Utah Jazz,118,0,Y
+1984-05-09,1984,New York Knicks,99,Boston Celtics,121,0,Y
+1984-05-10,1984,Milwaukee Bucks,98,New Jersey Nets,97,0,Y
+1984-05-10,1984,Utah Jazz,82,Phoenix Suns,102,0,Y
+1984-05-11,1984,Boston Celtics,104,New York Knicks,106,0,Y
+1984-05-12,1984,Phoenix Suns,94,Los Angeles Lakers,110,0,Y
+1984-05-13,1984,New York Knicks,104,Boston Celtics,121,0,Y
+1984-05-15,1984,Milwaukee Bucks,96,Boston Celtics,119,0,Y
+1984-05-15,1984,Phoenix Suns,102,Los Angeles Lakers,118,0,Y
+1984-05-17,1984,Milwaukee Bucks,110,Boston Celtics,125,0,Y
+1984-05-18,1984,Los Angeles Lakers,127,Phoenix Suns,135,1,Y
+1984-05-19,1984,Boston Celtics,109,Milwaukee Bucks,100,0,Y
+1984-05-20,1984,Los Angeles Lakers,126,Phoenix Suns,115,0,Y
+1984-05-21,1984,Boston Celtics,113,Milwaukee Bucks,122,0,Y
+1984-05-23,1984,Milwaukee Bucks,108,Boston Celtics,115,0,Y
+1984-05-23,1984,Phoenix Suns,126,Los Angeles Lakers,121,0,Y
+1984-05-25,1984,Los Angeles Lakers,99,Phoenix Suns,97,0,Y
+1984-05-27,1984,Los Angeles Lakers,115,Boston Celtics,109,0,Y
+1984-05-31,1984,Los Angeles Lakers,121,Boston Celtics,124,1,Y
+1984-06-03,1984,Boston Celtics,104,Los Angeles Lakers,137,0,Y
+1984-06-06,1984,Boston Celtics,129,Los Angeles Lakers,125,1,Y
+1984-06-08,1984,Los Angeles Lakers,103,Boston Celtics,121,0,Y
+1984-06-10,1984,Boston Celtics,108,Los Angeles Lakers,119,0,Y
+1984-06-12,1984,Los Angeles Lakers,102,Boston Celtics,111,0,Y

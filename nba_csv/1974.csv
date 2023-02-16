@@ -1,0 +1,739 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1973-10-09,1974,Houston Rockets,105,Buffalo Braves,107,1,N
+1973-10-09,1974,Los Angeles Lakers,117,Chicago Bulls,97,0,N
+1973-10-09,1974,Detroit Pistons,100,New York Knicks,101,0,N
+1973-10-09,1974,Capital Bullets,114,Atlanta Hawks,128,0,N
+1973-10-10,1974,Chicago Bulls,105,Kansas City-Omaha Kings,90,0,N
+1973-10-10,1974,Houston Rockets,104,Philadelphia 76ers,88,0,N
+1973-10-10,1974,Seattle SuperSonics,111,Phoenix Suns,115,0,N
+1973-10-11,1974,Los Angeles Lakers,102,Atlanta Hawks,129,0,N
+1973-10-12,1974,Buffalo Braves,112,Boston Celtics,118,0,N
+1973-10-12,1974,Capital Bullets,102,Seattle SuperSonics,103,0,N
+1973-10-12,1974,Milwaukee Bucks,107,Phoenix Suns,84,0,N
+1973-10-12,1974,Chicago Bulls,84,Kansas City-Omaha Kings,88,0,N
+1973-10-12,1974,Atlanta Hawks,105,Detroit Pistons,122,0,N
+1973-10-12,1974,Houston Rockets,106,Cleveland Cavaliers,99,0,N
+1973-10-13,1974,Boston Celtics,111,Philadelphia 76ers,106,0,N
+1973-10-13,1974,Capital Bullets,87,Portland Trail Blazers,132,0,N
+1973-10-13,1974,Houston Rockets,86,New York Knicks,85,0,N
+1973-10-13,1974,Detroit Pistons,94,Chicago Bulls,101,0,N
+1973-10-13,1974,Kansas City-Omaha Kings,117,Atlanta Hawks,102,0,N
+1973-10-13,1974,Los Angeles Lakers,125,Buffalo Braves,122,0,N
+1973-10-13,1974,Milwaukee Bucks,97,Golden State Warriors,85,0,N
+1973-10-14,1974,Detroit Pistons,95,Cleveland Cavaliers,83,0,N
+1973-10-14,1974,Golden State Warriors,120,Phoenix Suns,95,0,N
+1973-10-14,1974,Milwaukee Bucks,100,Seattle SuperSonics,109,0,N
+1973-10-16,1974,Philadelphia 76ers,106,Houston Rockets,101,0,N
+1973-10-16,1974,Buffalo Braves,91,New York Knicks,117,0,N
+1973-10-17,1974,Kansas City-Omaha Kings,108,Seattle SuperSonics,106,0,N
+1973-10-17,1974,Golden State Warriors,95,Milwaukee Bucks,109,0,N
+1973-10-19,1974,Philadelphia 76ers,102,Boston Celtics,133,0,N
+1973-10-19,1974,Capital Bullets,103,Chicago Bulls,117,0,N
+1973-10-19,1974,New York Knicks,92,Cleveland Cavaliers,90,0,N
+1973-10-19,1974,Milwaukee Bucks,96,Detroit Pistons,94,0,N
+1973-10-19,1974,Seattle SuperSonics,91,Los Angeles Lakers,118,0,N
+1973-10-19,1974,Kansas City-Omaha Kings,99,Portland Trail Blazers,111,0,N
+1973-10-20,1974,Seattle SuperSonics,108,Portland Trail Blazers,123,0,N
+1973-10-20,1974,Atlanta Hawks,108,Phoenix Suns,118,0,N
+1973-10-20,1974,Chicago Bulls,85,New York Knicks,69,0,N
+1973-10-20,1974,Cleveland Cavaliers,88,Milwaukee Bucks,101,0,N
+1973-10-20,1974,Kansas City-Omaha Kings,81,Golden State Warriors,100,0,N
+1973-10-20,1974,Detroit Pistons,107,Houston Rockets,104,0,N
+1973-10-20,1974,Philadelphia 76ers,110,Buffalo Braves,116,0,N
+1973-10-20,1974,Boston Celtics,87,Capital Bullets,96,0,N
+1973-10-21,1974,Chicago Bulls,107,Capital Bullets,99,0,N
+1973-10-21,1974,Atlanta Hawks,119,Los Angeles Lakers,100,0,N
+1973-10-21,1974,Phoenix Suns,112,Seattle SuperSonics,116,0,N
+1973-10-23,1974,Portland Trail Blazers,96,Cleveland Cavaliers,103,0,N
+1973-10-23,1974,Phoenix Suns,109,Golden State Warriors,121,0,N
+1973-10-23,1974,Los Angeles Lakers,107,Houston Rockets,98,0,N
+1973-10-23,1974,Capital Bullets,101,New York Knicks,84,0,N
+1973-10-24,1974,Los Angeles Lakers,92,Kansas City-Omaha Kings,91,0,N
+1973-10-24,1974,Atlanta Hawks,131,Seattle SuperSonics,106,0,N
+1973-10-24,1974,Detroit Pistons,115,Phoenix Suns,99,0,N
+1973-10-24,1974,Portland Trail Blazers,110,Philadelphia 76ers,132,0,N
+1973-10-24,1974,Buffalo Braves,113,Milwaukee Bucks,130,0,N
+1973-10-24,1974,Houston Rockets,132,Boston Celtics,117,0,N
+1973-10-26,1974,Golden State Warriors,117,Seattle SuperSonics,110,0,N
+1973-10-26,1974,Atlanta Hawks,110,Portland Trail Blazers,127,0,N
+1973-10-26,1974,Milwaukee Bucks,98,Philadelphia 76ers,92,0,N
+1973-10-26,1974,Detroit Pistons,92,Los Angeles Lakers,94,0,N
+1973-10-26,1974,Houston Rockets,113,Chicago Bulls,121,0,N
+1973-10-26,1974,Cleveland Cavaliers,97,Buffalo Braves,104,0,N
+1973-10-26,1974,New York Knicks,101,Boston Celtics,113,0,N
+1973-10-26,1974,Phoenix Suns,93,Kansas City-Omaha Kings,98,0,N
+1973-10-27,1974,Buffalo Braves,111,Cleveland Cavaliers,101,0,N
+1973-10-27,1974,Atlanta Hawks,125,Golden State Warriors,116,0,N
+1973-10-27,1974,Chicago Bulls,102,Houston Rockets,92,0,N
+1973-10-27,1974,Phoenix Suns,95,Milwaukee Bucks,104,0,N
+1973-10-27,1974,Philadelphia 76ers,90,New York Knicks,96,0,N
+1973-10-27,1974,Detroit Pistons,111,Portland Trail Blazers,98,0,N
+1973-10-28,1974,Boston Celtics,99,Cleveland Cavaliers,102,0,N
+1973-10-28,1974,Detroit Pistons,115,Seattle SuperSonics,93,0,N
+1973-10-28,1974,Portland Trail Blazers,98,Los Angeles Lakers,111,0,N
+1973-10-28,1974,Buffalo Braves,112,Kansas City-Omaha Kings,100,0,N
+1973-10-28,1974,Philadelphia 76ers,99,Capital Bullets,119,0,N
+1973-10-30,1974,Phoenix Suns,101,Atlanta Hawks,122,0,N
+1973-10-30,1974,Seattle SuperSonics,103,Buffalo Braves,105,0,N
+1973-10-30,1974,Milwaukee Bucks,112,Kansas City-Omaha Kings,78,0,N
+1973-10-30,1974,Los Angeles Lakers,112,Portland Trail Blazers,114,0,N
+1973-10-31,1974,Cleveland Cavaliers,110,Boston Celtics,128,0,N
+1973-10-31,1974,Seattle SuperSonics,107,Detroit Pistons,114,0,N
+1973-10-31,1974,New York Knicks,102,Houston Rockets,91,0,N
+1973-11-02,1974,Golden State Warriors,105,Boston Celtics,108,0,N
+1973-11-02,1974,Buffalo Braves,97,Chicago Bulls,107,0,N
+1973-11-02,1974,Milwaukee Bucks,118,Cleveland Cavaliers,100,0,N
+1973-11-02,1974,Phoenix Suns,107,Detroit Pistons,114,0,N
+1973-11-02,1974,Atlanta Hawks,125,Houston Rockets,123,0,N
+1973-11-02,1974,Seattle SuperSonics,115,Kansas City-Omaha Kings,109,0,N
+1973-11-02,1974,New York Knicks,106,Los Angeles Lakers,91,0,N
+1973-11-03,1974,Boston Celtics,122,Atlanta Hawks,109,0,N
+1973-11-03,1974,Golden State Warriors,124,Buffalo Braves,121,1,N
+1973-11-03,1974,Cleveland Cavaliers,94,Chicago Bulls,105,0,N
+1973-11-03,1974,Detroit Pistons,115,Milwaukee Bucks,123,1,N
+1973-11-03,1974,Capital Bullets,112,Philadelphia 76ers,84,0,N
+1973-11-03,1974,New York Knicks,100,Portland Trail Blazers,107,0,N
+1973-11-04,1974,Chicago Bulls,101,Buffalo Braves,95,1,N
+1973-11-04,1974,Phoenix Suns,99,Capital Bullets,102,0,N
+1973-11-04,1974,Atlanta Hawks,115,Cleveland Cavaliers,110,0,N
+1973-11-04,1974,Golden State Warriors,92,Kansas City-Omaha Kings,91,0,N
+1973-11-04,1974,Houston Rockets,93,Los Angeles Lakers,106,0,N
+1973-11-04,1974,New York Knicks,111,Seattle SuperSonics,106,0,N
+1973-11-06,1974,Los Angeles Lakers,96,Cleveland Cavaliers,115,0,N
+1973-11-07,1974,Capital Bullets,111,Houston Rockets,97,0,N
+1973-11-07,1974,Los Angeles Lakers,92,Milwaukee Bucks,109,0,N
+1973-11-07,1974,Phoenix Suns,115,Philadelphia 76ers,122,0,N
+1973-11-07,1974,Buffalo Braves,113,Seattle SuperSonics,130,0,N
+1973-11-08,1974,Detroit Pistons,129,Atlanta Hawks,115,0,N
+1973-11-08,1974,Chicago Bulls,112,Golden State Warriors,111,0,N
+1973-11-08,1974,Boston Celtics,94,New York Knicks,84,0,N
+1973-11-09,1974,Phoenix Suns,107,Boston Celtics,122,0,N
+1973-11-09,1974,Houston Rockets,106,Cleveland Cavaliers,111,0,N
+1973-11-09,1974,Capital Bullets,109,Kansas City-Omaha Kings,96,0,N
+1973-11-09,1974,New York Knicks,91,Philadelphia 76ers,94,0,N
+1973-11-09,1974,Buffalo Braves,108,Portland Trail Blazers,122,0,N
+1973-11-09,1974,Los Angeles Lakers,118,Seattle SuperSonics,111,0,N
+1973-11-10,1974,Philadelphia 76ers,97,Atlanta Hawks,120,0,N
+1973-11-10,1974,Detroit Pistons,97,Boston Celtics,102,0,N
+1973-11-10,1974,Buffalo Braves,105,Golden State Warriors,128,0,N
+1973-11-10,1974,Kansas City-Omaha Kings,83,Milwaukee Bucks,84,0,N
+1973-11-10,1974,Cleveland Cavaliers,90,New York Knicks,100,0,N
+1973-11-10,1974,Chicago Bulls,106,Portland Trail Blazers,104,0,N
+1973-11-11,1974,Milwaukee Bucks,110,Capital Bullets,91,0,N
+1973-11-11,1974,Kansas City-Omaha Kings,103,Cleveland Cavaliers,93,0,N
+1973-11-11,1974,Chicago Bulls,116,Seattle SuperSonics,98,0,N
+1973-11-13,1974,Atlanta Hawks,114,Buffalo Braves,121,0,N
+1973-11-13,1974,Cleveland Cavaliers,115,Golden State Warriors,128,0,N
+1973-11-13,1974,Philadelphia 76ers,83,Houston Rockets,97,0,N
+1973-11-13,1974,Portland Trail Blazers,100,Milwaukee Bucks,108,0,N
+1973-11-13,1974,Seattle SuperSonics,102,New York Knicks,104,0,N
+1973-11-13,1974,Chicago Bulls,108,Phoenix Suns,116,0,N
+1973-11-14,1974,Seattle SuperSonics,104,Boston Celtics,110,0,N
+1973-11-14,1974,Portland Trail Blazers,111,Detroit Pistons,108,0,N
+1973-11-14,1974,Houston Rockets,116,Kansas City-Omaha Kings,118,1,N
+1973-11-15,1974,Portland Trail Blazers,114,Atlanta Hawks,123,0,N
+1973-11-15,1974,Buffalo Braves,86,New York Knicks,97,0,N
+1973-11-15,1974,Philadelphia 76ers,94,Phoenix Suns,116,0,N
+1973-11-16,1974,Milwaukee Bucks,90,Boston Celtics,105,0,N
+1973-11-16,1974,Kansas City-Omaha Kings,98,Detroit Pistons,125,0,N
+1973-11-16,1974,Chicago Bulls,102,Los Angeles Lakers,118,0,N
+1973-11-16,1974,Cleveland Cavaliers,93,Seattle SuperSonics,117,0,N
+1973-11-17,1974,Capital Bullets,115,Atlanta Hawks,109,0,N
+1973-11-17,1974,Detroit Pistons,98,Buffalo Braves,94,0,N
+1973-11-17,1974,Philadelphia 76ers,109,Golden State Warriors,106,0,N
+1973-11-17,1974,Portland Trail Blazers,96,Houston Rockets,87,0,N
+1973-11-17,1974,Boston Celtics,123,Kansas City-Omaha Kings,110,0,N
+1973-11-17,1974,Milwaukee Bucks,93,New York Knicks,100,0,N
+1973-11-17,1974,Los Angeles Lakers,130,Phoenix Suns,110,0,N
+1973-11-18,1974,Buffalo Braves,112,Capital Bullets,101,0,N
+1973-11-18,1974,Chicago Bulls,104,Detroit Pistons,102,0,N
+1973-11-18,1974,Cleveland Cavaliers,100,Los Angeles Lakers,102,0,N
+1973-11-18,1974,Philadelphia 76ers,91,Seattle SuperSonics,95,0,N
+1973-11-20,1974,Phoenix Suns,100,Buffalo Braves,127,0,N
+1973-11-20,1974,Portland Trail Blazers,101,Chicago Bulls,106,0,N
+1973-11-20,1974,Philadelphia 76ers,109,Kansas City-Omaha Kings,103,0,N
+1973-11-20,1974,Golden State Warriors,108,Milwaukee Bucks,105,0,N
+1973-11-20,1974,Los Angeles Lakers,89,New York Knicks,105,0,N
+1973-11-21,1974,Los Angeles Lakers,106,Capital Bullets,97,0,N
+1973-11-21,1974,Phoenix Suns,104,Detroit Pistons,107,0,N
+1973-11-21,1974,Philadelphia 76ers,103,Kansas City-Omaha Kings,90,0,N
+1973-11-22,1974,Golden State Warriors,101,Atlanta Hawks,99,0,N
+1973-11-22,1974,Cleveland Cavaliers,104,Houston Rockets,96,0,N
+1973-11-22,1974,New York Knicks,91,Milwaukee Bucks,107,0,N
+1973-11-22,1974,Seattle SuperSonics,125,Portland Trail Blazers,131,0,N
+1973-11-23,1974,Kansas City-Omaha Kings,102,Boston Celtics,119,0,N
+1973-11-23,1974,Atlanta Hawks,86,Capital Bullets,101,0,N
+1973-11-23,1974,Phoenix Suns,99,Chicago Bulls,94,0,N
+1973-11-23,1974,Philadelphia 76ers,106,Golden State Warriors,111,0,N
+1973-11-23,1974,Cleveland Cavaliers,85,Houston Rockets,83,0,N
+1973-11-23,1974,Portland Trail Blazers,106,Seattle SuperSonics,127,0,N
+1973-11-24,1974,Milwaukee Bucks,112,Atlanta Hawks,92,0,N
+1973-11-24,1974,Kansas City-Omaha Kings,131,Buffalo Braves,143,0,N
+1973-11-24,1974,Detroit Pistons,112,Chicago Bulls,114,1,N
+1973-11-24,1974,Golden State Warriors,107,New York Knicks,99,0,N
+1973-11-24,1974,Los Angeles Lakers,113,Portland Trail Blazers,108,0,N
+1973-11-25,1974,New York Knicks,81,Capital Bullets,109,0,N
+1973-11-25,1974,Boston Celtics,107,Cleveland Cavaliers,101,0,N
+1973-11-25,1974,Seattle SuperSonics,104,Kansas City-Omaha Kings,99,0,N
+1973-11-25,1974,Portland Trail Blazers,109,Los Angeles Lakers,137,0,N
+1973-11-25,1974,Philadelphia 76ers,96,Milwaukee Bucks,105,0,N
+1973-11-27,1974,Milwaukee Bucks,115,Buffalo Braves,110,0,N
+1973-11-27,1974,Golden State Warriors,117,Chicago Bulls,123,0,N
+1973-11-27,1974,Seattle SuperSonics,118,Cleveland Cavaliers,120,0,N
+1973-11-27,1974,Phoenix Suns,111,Houston Rockets,125,0,N
+1973-11-27,1974,Atlanta Hawks,129,Kansas City-Omaha Kings,110,0,N
+1973-11-28,1974,Buffalo Braves,106,Atlanta Hawks,130,0,N
+1973-11-28,1974,Capital Bullets,104,Boston Celtics,111,0,N
+1973-11-28,1974,Cleveland Cavaliers,96,Detroit Pistons,91,0,N
+1973-11-28,1974,Seattle SuperSonics,93,Milwaukee Bucks,127,0,N
+1973-11-28,1974,Houston Rockets,114,New York Knicks,106,0,N
+1973-11-28,1974,Chicago Bulls,96,Philadelphia 76ers,101,0,N
+1973-11-29,1974,Portland Trail Blazers,89,Golden State Warriors,119,0,N
+1973-11-29,1974,Kansas City-Omaha Kings,99,Phoenix Suns,119,0,N
+1973-11-30,1974,Capital Bullets,121,Buffalo Braves,113,0,N
+1973-11-30,1974,New York Knicks,97,Chicago Bulls,115,0,N
+1973-11-30,1974,Philadelphia 76ers,110,Cleveland Cavaliers,112,0,N
+1973-11-30,1974,Detroit Pistons,95,Houston Rockets,110,0,N
+1973-11-30,1974,Kansas City-Omaha Kings,107,Los Angeles Lakers,123,0,N
+1973-11-30,1974,Boston Celtics,93,Milwaukee Bucks,117,0,N
+1973-11-30,1974,Phoenix Suns,107,Portland Trail Blazers,99,0,N
+1973-12-01,1974,Seattle SuperSonics,110,Atlanta Hawks,120,0,N
+1973-12-01,1974,Chicago Bulls,98,Boston Celtics,120,0,N
+1973-12-01,1974,Kansas City-Omaha Kings,108,Golden State Warriors,120,0,N
+1973-12-01,1974,Cleveland Cavaliers,99,New York Knicks,119,0,N
+1973-12-01,1974,Houston Rockets,106,Philadelphia 76ers,108,1,N
+1973-12-01,1974,Detroit Pistons,121,Phoenix Suns,109,0,N
+1973-12-01,1974,Los Angeles Lakers,115,Portland Trail Blazers,134,0,N
+1973-12-02,1974,Seattle SuperSonics,96,Capital Bullets,98,0,N
+1973-12-02,1974,Houston Rockets,130,Cleveland Cavaliers,104,0,N
+1973-12-02,1974,Detroit Pistons,114,Los Angeles Lakers,108,0,N
+1973-12-04,1974,Seattle SuperSonics,107,Chicago Bulls,130,0,N
+1973-12-04,1974,Detroit Pistons,112,Golden State Warriors,93,0,N
+1973-12-04,1974,Phoenix Suns,103,Los Angeles Lakers,120,0,N
+1973-12-04,1974,Houston Rockets,109,Milwaukee Bucks,124,0,N
+1973-12-04,1974,Portland Trail Blazers,100,New York Knicks,113,0,N
+1973-12-05,1974,New York Knicks,97,Boston Celtics,119,0,N
+1973-12-05,1974,Portland Trail Blazers,110,Buffalo Braves,114,0,N
+1973-12-05,1974,Capital Bullets,99,Houston Rockets,119,0,N
+1973-12-05,1974,Atlanta Hawks,105,Kansas City-Omaha Kings,117,0,N
+1973-12-05,1974,Cleveland Cavaliers,89,Philadelphia 76ers,75,0,N
+1973-12-05,1974,Golden State Warriors,97,Phoenix Suns,103,0,N
+1973-12-06,1974,Philadelphia 76ers,98,Chicago Bulls,103,0,N
+1973-12-06,1974,Detroit Pistons,110,Seattle SuperSonics,108,0,N
+1973-12-07,1974,Atlanta Hawks,112,Boston Celtics,116,0,N
+1973-12-07,1974,New York Knicks,113,Buffalo Braves,108,0,N
+1973-12-07,1974,Chicago Bulls,96,Cleveland Cavaliers,91,0,N
+1973-12-07,1974,Seattle SuperSonics,115,Los Angeles Lakers,111,0,N
+1973-12-07,1974,Portland Trail Blazers,86,Milwaukee Bucks,116,0,N
+1973-12-07,1974,Kansas City-Omaha Kings,113,Philadelphia 76ers,102,0,N
+1973-12-07,1974,Capital Bullets,92,Phoenix Suns,114,0,N
+1973-12-08,1974,Boston Celtics,95,Chicago Bulls,112,0,N
+1973-12-08,1974,Portland Trail Blazers,91,Detroit Pistons,106,0,N
+1973-12-08,1974,Los Angeles Lakers,111,Golden State Warriors,135,0,N
+1973-12-08,1974,Atlanta Hawks,100,New York Knicks,117,0,N
+1973-12-08,1974,Milwaukee Bucks,105,Philadelphia 76ers,92,0,N
+1973-12-09,1974,Buffalo Braves,114,Boston Celtics,118,0,N
+1973-12-09,1974,Phoenix Suns,117,Cleveland Cavaliers,106,0,N
+1973-12-09,1974,Detroit Pistons,86,Kansas City-Omaha Kings,80,0,N
+1973-12-09,1974,Capital Bullets,110,Los Angeles Lakers,96,0,N
+1973-12-09,1974,Houston Rockets,110,Seattle SuperSonics,107,0,N
+1973-12-11,1974,Buffalo Braves,132,Atlanta Hawks,127,1,N
+1973-12-11,1974,Kansas City-Omaha Kings,104,Chicago Bulls,105,0,N
+1973-12-11,1974,Los Angeles Lakers,100,Cleveland Cavaliers,101,1,N
+1973-12-11,1974,Houston Rockets,107,Golden State Warriors,114,0,N
+1973-12-11,1974,Seattle SuperSonics,91,Milwaukee Bucks,130,0,N
+1973-12-11,1974,Phoenix Suns,97,New York Knicks,105,0,N
+1973-12-11,1974,Capital Bullets,87,Portland Trail Blazers,82,0,N
+1973-12-12,1974,Buffalo Braves,119,Boston Celtics,126,0,N
+1973-12-12,1974,Los Angeles Lakers,96,Detroit Pistons,114,0,N
+1973-12-12,1974,Seattle SuperSonics,100,Philadelphia 76ers,93,0,N
+1973-12-13,1974,Chicago Bulls,97,Milwaukee Bucks,94,0,N
+1973-12-13,1974,Portland Trail Blazers,119,Phoenix Suns,108,0,N
+1973-12-14,1974,Los Angeles Lakers,100,Chicago Bulls,97,0,N
+1973-12-14,1974,Buffalo Braves,102,Cleveland Cavaliers,98,0,N
+1973-12-14,1974,Philadelphia 76ers,96,Detroit Pistons,93,0,N
+1973-12-14,1974,Boston Celtics,114,Houston Rockets,106,0,N
+1973-12-14,1974,Golden State Warriors,101,Portland Trail Blazers,109,0,N
+1973-12-14,1974,Capital Bullets,88,Seattle SuperSonics,93,0,N
+1973-12-15,1974,Houston Rockets,100,Chicago Bulls,104,0,N
+1973-12-15,1974,Capital Bullets,106,Golden State Warriors,93,0,N
+1973-12-15,1974,Atlanta Hawks,82,Milwaukee Bucks,116,0,N
+1973-12-15,1974,Kansas City-Omaha Kings,107,New York Knicks,116,0,N
+1973-12-15,1974,Detroit Pistons,99,Philadelphia 76ers,89,0,N
+1973-12-15,1974,Boston Celtics,120,Phoenix Suns,121,0,N
+1973-12-16,1974,Detroit Pistons,104,Kansas City-Omaha Kings,105,0,N
+1973-12-16,1974,Boston Celtics,115,Los Angeles Lakers,110,0,N
+1973-12-16,1974,Milwaukee Bucks,121,Portland Trail Blazers,98,0,N
+1973-12-16,1974,Phoenix Suns,113,Seattle SuperSonics,109,0,N
+1973-12-17,1974,New York Knicks,109,Houston Rockets,97,0,N
+1973-12-18,1974,Cleveland Cavaliers,93,Buffalo Braves,100,0,N
+1973-12-18,1974,Atlanta Hawks,98,Capital Bullets,91,0,N
+1973-12-18,1974,Seattle SuperSonics,93,Chicago Bulls,92,0,N
+1973-12-18,1974,Boston Celtics,125,Golden State Warriors,106,0,N
+1973-12-18,1974,Milwaukee Bucks,107,Los Angeles Lakers,109,0,N
+1973-12-18,1974,Phoenix Suns,117,Portland Trail Blazers,133,0,N
+1973-12-19,1974,New York Knicks,105,Atlanta Hawks,107,0,N
+1973-12-19,1974,Chicago Bulls,87,Detroit Pistons,89,0,N
+1973-12-19,1974,Seattle SuperSonics,124,Houston Rockets,118,1,N
+1973-12-19,1974,Cleveland Cavaliers,92,Kansas City-Omaha Kings,106,0,N
+1973-12-19,1974,Philadelphia 76ers,101,Phoenix Suns,98,0,N
+1973-12-20,1974,Capital Bullets,98,Kansas City-Omaha Kings,92,0,N
+1973-12-21,1974,New York Knicks,115,Buffalo Braves,117,0,N
+1973-12-21,1974,Seattle SuperSonics,96,Cleveland Cavaliers,101,0,N
+1973-12-21,1974,Golden State Warriors,104,Detroit Pistons,107,0,N
+1973-12-21,1974,Atlanta Hawks,124,Houston Rockets,110,0,N
+1973-12-21,1974,Philadelphia 76ers,107,Los Angeles Lakers,116,0,N
+1973-12-21,1974,Boston Celtics,124,Portland Trail Blazers,120,1,N
+1973-12-22,1974,Cleveland Cavaliers,108,Atlanta Hawks,98,0,N
+1973-12-22,1974,Houston Rockets,89,Capital Bullets,98,0,N
+1973-12-22,1974,Golden State Warriors,86,Chicago Bulls,110,0,N
+1973-12-22,1974,Buffalo Braves,112,Kansas City-Omaha Kings,122,0,N
+1973-12-22,1974,Detroit Pistons,88,New York Knicks,99,0,N
+1973-12-22,1974,Milwaukee Bucks,112,Phoenix Suns,121,0,N
+1973-12-22,1974,Philadelphia 76ers,105,Portland Trail Blazers,110,0,N
+1973-12-23,1974,Capital Bullets,110,Buffalo Braves,85,0,N
+1973-12-23,1974,Houston Rockets,91,Cleveland Cavaliers,99,0,N
+1973-12-23,1974,Golden State Warriors,93,Kansas City-Omaha Kings,101,0,N
+1973-12-23,1974,Boston Celtics,96,Seattle SuperSonics,95,0,N
+1973-12-25,1974,Capital Bullets,102,New York Knicks,100,0,N
+1973-12-25,1974,Los Angeles Lakers,100,Phoenix Suns,135,0,N
+1973-12-26,1974,Philadelphia 76ers,118,Atlanta Hawks,145,0,N
+1973-12-26,1974,Boston Celtics,125,Buffalo Braves,123,0,N
+1973-12-26,1974,Chicago Bulls,81,Capital Bullets,82,0,N
+1973-12-26,1974,New York Knicks,96,Detroit Pistons,91,0,N
+1973-12-26,1974,Kansas City-Omaha Kings,95,Houston Rockets,110,0,N
+1973-12-26,1974,Cleveland Cavaliers,110,Milwaukee Bucks,123,0,N
+1973-12-26,1974,Los Angeles Lakers,105,Seattle SuperSonics,129,0,N
+1973-12-27,1974,Kansas City-Omaha Kings,110,Cleveland Cavaliers,100,0,N
+1973-12-27,1974,Portland Trail Blazers,118,Golden State Warriors,117,0,N
+1973-12-27,1974,Philadelphia 76ers,107,Milwaukee Bucks,129,0,N
+1973-12-27,1974,Seattle SuperSonics,100,Phoenix Suns,111,0,N
+1973-12-28,1974,Atlanta Hawks,94,Chicago Bulls,118,0,N
+1973-12-28,1974,Capital Bullets,93,Detroit Pistons,102,0,N
+1973-12-28,1974,Milwaukee Bucks,127,Houston Rockets,111,0,N
+1973-12-28,1974,Phoenix Suns,107,Los Angeles Lakers,119,0,N
+1973-12-28,1974,Portland Trail Blazers,93,Seattle SuperSonics,110,0,N
+1973-12-29,1974,Houston Rockets,110,Atlanta Hawks,114,0,N
+1973-12-29,1974,Cleveland Cavaliers,92,Boston Celtics,111,0,N
+1973-12-29,1974,Kansas City-Omaha Kings,106,Capital Bullets,102,0,N
+1973-12-29,1974,Detroit Pistons,103,Chicago Bulls,108,0,N
+1973-12-29,1974,Los Angeles Lakers,100,Golden State Warriors,102,0,N
+1973-12-29,1974,Philadelphia 76ers,92,New York Knicks,112,0,N
+1973-12-29,1974,Buffalo Braves,120,Phoenix Suns,108,0,N
+1973-12-30,1974,Atlanta Hawks,99,Cleveland Cavaliers,94,0,N
+1973-12-30,1974,New York Knicks,102,Kansas City-Omaha Kings,85,0,N
+1973-12-30,1974,Buffalo Braves,105,Los Angeles Lakers,108,0,N
+1973-12-30,1974,Detroit Pistons,98,Milwaukee Bucks,91,0,N
+1973-12-30,1974,Chicago Bulls,92,Portland Trail Blazers,99,0,N
+1973-12-30,1974,Golden State Warriors,92,Seattle SuperSonics,96,0,N
+1973-12-31,1974,Philadelphia 76ers,97,Boston Celtics,106,0,N
+1974-01-01,1974,Chicago Bulls,91,Golden State Warriors,80,0,N
+1974-01-01,1974,Atlanta Hawks,89,New York Knicks,99,0,N
+1974-01-01,1974,Buffalo Braves,120,Portland Trail Blazers,119,0,N
+1974-01-02,1974,Phoenix Suns,116,Atlanta Hawks,113,0,N
+1974-01-02,1974,New York Knicks,92,Capital Bullets,81,0,N
+1974-01-02,1974,Milwaukee Bucks,92,Detroit Pistons,106,0,N
+1974-01-02,1974,Boston Celtics,97,Kansas City-Omaha Kings,109,0,N
+1974-01-02,1974,Houston Rockets,101,Philadelphia 76ers,99,0,N
+1974-01-02,1974,Buffalo Braves,115,Seattle SuperSonics,111,0,N
+1974-01-03,1974,Kansas City-Omaha Kings,105,Milwaukee Bucks,120,0,N
+1974-01-04,1974,Capital Bullets,94,Cleveland Cavaliers,91,0,N
+1974-01-04,1974,Boston Celtics,101,Detroit Pistons,106,0,N
+1974-01-04,1974,Phoenix Suns,97,Kansas City-Omaha Kings,122,0,N
+1974-01-04,1974,Golden State Warriors,111,Los Angeles Lakers,114,0,N
+1974-01-04,1974,New York Knicks,75,Philadelphia 76ers,78,0,N
+1974-01-04,1974,Houston Rockets,119,Portland Trail Blazers,113,0,N
+1974-01-04,1974,Chicago Bulls,101,Seattle SuperSonics,103,1,N
+1974-01-05,1974,Cleveland Cavaliers,86,Atlanta Hawks,99,0,N
+1974-01-05,1974,Philadelphia 76ers,102,Boston Celtics,108,1,N
+1974-01-05,1974,Detroit Pistons,90,Capital Bullets,93,0,N
+1974-01-05,1974,Houston Rockets,106,Golden State Warriors,108,0,N
+1974-01-05,1974,Phoenix Suns,109,Milwaukee Bucks,118,0,N
+1974-01-05,1974,Buffalo Braves,111,New York Knicks,110,0,N
+1974-01-06,1974,Buffalo Braves,117,Atlanta Hawks,109,0,N
+1974-01-06,1974,Milwaukee Bucks,88,Capital Bullets,90,0,N
+1974-01-06,1974,Phoenix Suns,116,Chicago Bulls,120,1,N
+1974-01-06,1974,Kansas City-Omaha Kings,105,Los Angeles Lakers,109,0,N
+1974-01-06,1974,Golden State Warriors,105,Portland Trail Blazers,106,0,N
+1974-01-06,1974,Houston Rockets,90,Seattle SuperSonics,91,0,N
+1974-01-08,1974,Atlanta Hawks,96,Buffalo Braves,100,0,N
+1974-01-08,1974,Los Angeles Lakers,92,Capital Bullets,94,0,N
+1974-01-08,1974,New York Knicks,108,Chicago Bulls,80,0,N
+1974-01-08,1974,Golden State Warriors,104,Houston Rockets,92,0,N
+1974-01-08,1974,Kansas City-Omaha Kings,110,Portland Trail Blazers,129,0,N
+1974-01-09,1974,Chicago Bulls,89,Boston Celtics,106,0,N
+1974-01-09,1974,Los Angeles Lakers,94,Detroit Pistons,123,0,N
+1974-01-09,1974,Cleveland Cavaliers,86,Philadelphia 76ers,90,0,N
+1974-01-09,1974,Houston Rockets,101,Phoenix Suns,105,0,N
+1974-01-09,1974,Kansas City-Omaha Kings,96,Seattle SuperSonics,100,0,N
+1974-01-10,1974,Chicago Bulls,116,Atlanta Hawks,104,0,N
+1974-01-10,1974,Seattle SuperSonics,89,Golden State Warriors,125,0,N
+1974-01-11,1974,Philadelphia 76ers,121,Atlanta Hawks,100,0,N
+1974-01-11,1974,Los Angeles Lakers,111,Boston Celtics,103,0,N
+1974-01-11,1974,Houston Rockets,99,Buffalo Braves,117,0,N
+1974-01-11,1974,Detroit Pistons,106,Cleveland Cavaliers,96,0,N
+1974-01-11,1974,Capital Bullets,113,Milwaukee Bucks,115,1,N
+1974-01-11,1974,Kansas City-Omaha Kings,117,Phoenix Suns,100,0,N
+1974-01-11,1974,New York Knicks,107,Seattle SuperSonics,98,0,N
+1974-01-12,1974,Buffalo Braves,97,Capital Bullets,96,0,N
+1974-01-12,1974,Milwaukee Bucks,101,Chicago Bulls,82,0,N
+1974-01-12,1974,Cleveland Cavaliers,117,Detroit Pistons,112,1,N
+1974-01-12,1974,New York Knicks,96,Golden State Warriors,80,0,N
+1974-01-12,1974,Los Angeles Lakers,108,Philadelphia 76ers,101,0,N
+1974-01-13,1974,Boston Celtics,128,Atlanta Hawks,105,0,N
+1974-01-13,1974,Houston Rockets,121,Buffalo Braves,112,0,N
+1974-01-13,1974,Philadelphia 76ers,94,Cleveland Cavaliers,96,0,N
+1974-01-13,1974,Portland Trail Blazers,99,Kansas City-Omaha Kings,103,0,N
+1974-01-13,1974,Chicago Bulls,94,Milwaukee Bucks,124,0,N
+1974-01-13,1974,Seattle SuperSonics,123,Phoenix Suns,112,0,N
+1974-01-17,1974,Portland Trail Blazers,99,Atlanta Hawks,126,0,N
+1974-01-17,1974,Cleveland Cavaliers,86,Capital Bullets,101,0,N
+1974-01-17,1974,Phoenix Suns,120,Golden State Warriors,127,0,N
+1974-01-18,1974,Atlanta Hawks,94,Boston Celtics,98,0,N
+1974-01-18,1974,Capital Bullets,94,Buffalo Braves,98,0,N
+1974-01-18,1974,Chicago Bulls,95,Detroit Pistons,113,0,N
+1974-01-18,1974,New York Knicks,90,Houston Rockets,96,0,N
+1974-01-18,1974,Los Angeles Lakers,116,Kansas City-Omaha Kings,115,0,N
+1974-01-18,1974,Seattle SuperSonics,116,Philadelphia 76ers,104,0,N
+1974-01-19,1974,Seattle SuperSonics,109,Atlanta Hawks,127,0,N
+1974-01-19,1974,Golden State Warriors,90,Capital Bullets,117,0,N
+1974-01-19,1974,Cleveland Cavaliers,108,Kansas City-Omaha Kings,111,0,N
+1974-01-19,1974,Portland Trail Blazers,106,Milwaukee Bucks,121,0,N
+1974-01-19,1974,New York Knicks,89,Phoenix Suns,112,0,N
+1974-01-20,1974,Golden State Warriors,123,Boston Celtics,102,0,N
+1974-01-20,1974,Houston Rockets,105,Capital Bullets,111,0,N
+1974-01-20,1974,Portland Trail Blazers,97,Chicago Bulls,99,0,N
+1974-01-20,1974,Kansas City-Omaha Kings,79,Detroit Pistons,105,0,N
+1974-01-20,1974,Los Angeles Lakers,90,Milwaukee Bucks,94,0,N
+1974-01-20,1974,Buffalo Braves,112,Philadelphia 76ers,129,0,N
+1974-01-22,1974,Philadelphia 76ers,109,Buffalo Braves,119,0,N
+1974-01-22,1974,Atlanta Hawks,89,Chicago Bulls,102,0,N
+1974-01-22,1974,Capital Bullets,97,Golden State Warriors,99,0,N
+1974-01-22,1974,Portland Trail Blazers,96,Kansas City-Omaha Kings,103,0,N
+1974-01-22,1974,Cleveland Cavaliers,111,Los Angeles Lakers,110,1,N
+1974-01-22,1974,Houston Rockets,108,New York Knicks,93,0,N
+1974-01-23,1974,Houston Rockets,115,Atlanta Hawks,104,0,N
+1974-01-23,1974,Seattle SuperSonics,98,Boston Celtics,97,0,N
+1974-01-23,1974,Milwaukee Bucks,114,Buffalo Braves,88,0,N
+1974-01-23,1974,Portland Trail Blazers,95,Detroit Pistons,121,0,N
+1974-01-23,1974,Cleveland Cavaliers,103,Phoenix Suns,110,0,N
+1974-01-25,1974,Philadelphia 76ers,97,Boston Celtics,112,0,N
+1974-01-25,1974,Kansas City-Omaha Kings,118,Buffalo Braves,113,0,N
+1974-01-25,1974,Seattle SuperSonics,99,Chicago Bulls,104,0,N
+1974-01-25,1974,Houston Rockets,89,Detroit Pistons,93,0,N
+1974-01-25,1974,Capital Bullets,124,Los Angeles Lakers,143,0,N
+1974-01-25,1974,Milwaukee Bucks,112,Phoenix Suns,108,0,N
+1974-01-25,1974,Cleveland Cavaliers,87,Portland Trail Blazers,84,0,N
+1974-01-26,1974,Buffalo Braves,122,Atlanta Hawks,132,0,N
+1974-01-26,1974,Seattle SuperSonics,83,Detroit Pistons,94,0,N
+1974-01-26,1974,Cleveland Cavaliers,93,Golden State Warriors,106,0,N
+1974-01-26,1974,Philadelphia 76ers,98,New York Knicks,122,0,N
+1974-01-27,1974,New York Knicks,111,Atlanta Hawks,89,0,N
+1974-01-27,1974,Kansas City-Omaha Kings,98,Boston Celtics,119,0,N
+1974-01-27,1974,Detroit Pistons,91,Chicago Bulls,109,0,N
+1974-01-27,1974,Buffalo Braves,122,Houston Rockets,108,0,N
+1974-01-27,1974,Milwaukee Bucks,92,Los Angeles Lakers,99,0,N
+1974-01-27,1974,Capital Bullets,107,Phoenix Suns,127,0,N
+1974-01-29,1974,Golden State Warriors,128,Buffalo Braves,121,0,N
+1974-01-29,1974,Atlanta Hawks,111,Cleveland Cavaliers,118,0,N
+1974-01-29,1974,Seattle SuperSonics,115,Houston Rockets,107,0,N
+1974-01-29,1974,Boston Celtics,83,New York Knicks,104,0,N
+1974-01-29,1974,Milwaukee Bucks,126,Portland Trail Blazers,106,0,N
+1974-01-30,1974,Golden State Warriors,129,Atlanta Hawks,122,0,N
+1974-01-30,1974,Cleveland Cavaliers,108,Boston Celtics,120,0,N
+1974-01-30,1974,Capital Bullets,94,Chicago Bulls,103,0,N
+1974-01-30,1974,Buffalo Braves,96,Detroit Pistons,111,0,N
+1974-01-30,1974,New York Knicks,108,Kansas City-Omaha Kings,88,0,N
+1974-01-31,1974,Golden State Warriors,109,Houston Rockets,108,0,N
+1974-01-31,1974,Portland Trail Blazers,100,Phoenix Suns,112,0,N
+1974-02-01,1974,Philadelphia 76ers,105,Boston Celtics,106,0,N
+1974-02-01,1974,Kansas City-Omaha Kings,88,Chicago Bulls,99,0,N
+1974-02-01,1974,Capital Bullets,107,Cleveland Cavaliers,99,0,N
+1974-02-01,1974,New York Knicks,91,Detroit Pistons,96,0,N
+1974-02-01,1974,Phoenix Suns,110,Los Angeles Lakers,121,0,N
+1974-02-01,1974,Milwaukee Bucks,85,Seattle SuperSonics,110,0,N
+1974-02-02,1974,Houston Rockets,107,Atlanta Hawks,117,0,N
+1974-02-02,1974,Milwaukee Bucks,91,Golden State Warriors,120,0,N
+1974-02-02,1974,Cleveland Cavaliers,87,New York Knicks,103,0,N
+1974-02-02,1974,Chicago Bulls,105,Philadelphia 76ers,89,0,N
+1974-02-02,1974,Los Angeles Lakers,112,Phoenix Suns,119,0,N
+1974-02-02,1974,Seattle SuperSonics,97,Portland Trail Blazers,102,0,N
+1974-02-03,1974,Capital Bullets,112,Boston Celtics,99,0,N
+1974-02-03,1974,Philadelphia 76ers,98,Buffalo Braves,112,0,N
+1974-02-03,1974,Chicago Bulls,108,Cleveland Cavaliers,94,0,N
+1974-02-03,1974,Atlanta Hawks,112,Houston Rockets,123,0,N
+1974-02-03,1974,Portland Trail Blazers,91,Los Angeles Lakers,124,0,N
+1974-02-03,1974,Detroit Pistons,114,Seattle SuperSonics,100,0,N
+1974-02-05,1974,Capital Bullets,103,Atlanta Hawks,121,0,N
+1974-02-05,1974,Boston Celtics,98,Chicago Bulls,100,0,N
+1974-02-05,1974,Milwaukee Bucks,102,Cleveland Cavaliers,87,0,N
+1974-02-05,1974,Seattle SuperSonics,113,Golden State Warriors,129,0,N
+1974-02-05,1974,Los Angeles Lakers,112,Houston Rockets,116,1,N
+1974-02-05,1974,Phoenix Suns,90,New York Knicks,106,0,N
+1974-02-05,1974,Detroit Pistons,104,Portland Trail Blazers,102,0,N
+1974-02-06,1974,Los Angeles Lakers,103,Atlanta Hawks,107,0,N
+1974-02-06,1974,Phoenix Suns,101,Capital Bullets,109,0,N
+1974-02-06,1974,Chicago Bulls,112,Kansas City-Omaha Kings,95,0,N
+1974-02-06,1974,Boston Celtics,105,Milwaukee Bucks,104,0,N
+1974-02-06,1974,Buffalo Braves,114,Philadelphia 76ers,98,0,N
+1974-02-06,1974,Portland Trail Blazers,94,Seattle SuperSonics,107,0,N
+1974-02-07,1974,Detroit Pistons,110,Golden State Warriors,86,0,N
+1974-02-08,1974,New York Knicks,97,Boston Celtics,125,0,N
+1974-02-08,1974,Chicago Bulls,101,Buffalo Braves,106,0,N
+1974-02-08,1974,Cleveland Cavaliers,106,Houston Rockets,120,0,N
+1974-02-08,1974,Capital Bullets,96,Milwaukee Bucks,105,0,N
+1974-02-08,1974,Atlanta Hawks,84,Philadelphia 76ers,104,0,N
+1974-02-08,1974,Detroit Pistons,99,Phoenix Suns,94,0,N
+1974-02-08,1974,Kansas City-Omaha Kings,104,Portland Trail Blazers,99,0,N
+1974-02-09,1974,Cleveland Cavaliers,90,Atlanta Hawks,99,0,N
+1974-02-09,1974,Philadelphia 76ers,75,Capital Bullets,108,0,N
+1974-02-09,1974,Kansas City-Omaha Kings,121,Golden State Warriors,120,0,N
+1974-02-09,1974,Buffalo Braves,103,New York Knicks,100,1,N
+1974-02-10,1974,Milwaukee Bucks,95,Boston Celtics,86,0,N
+1974-02-10,1974,Los Angeles Lakers,86,Chicago Bulls,96,0,N
+1974-02-10,1974,Buffalo Braves,121,Cleveland Cavaliers,125,0,N
+1974-02-10,1974,Capital Bullets,94,Philadelphia 76ers,95,0,N
+1974-02-10,1974,Golden State Warriors,121,Phoenix Suns,105,0,N
+1974-02-10,1974,Houston Rockets,112,Portland Trail Blazers,106,0,N
+1974-02-10,1974,Kansas City-Omaha Kings,103,Seattle SuperSonics,119,0,N
+1974-02-11,1974,Philadelphia 76ers,116,Atlanta Hawks,95,0,N
+1974-02-12,1974,New York Knicks,100,Buffalo Braves,93,0,N
+1974-02-12,1974,Milwaukee Bucks,81,Chicago Bulls,93,0,N
+1974-02-12,1974,Capital Bullets,107,Cleveland Cavaliers,99,0,N
+1974-02-12,1974,Kansas City-Omaha Kings,106,Detroit Pistons,113,0,N
+1974-02-12,1974,Boston Celtics,107,Golden State Warriors,102,0,N
+1974-02-12,1974,Houston Rockets,129,Los Angeles Lakers,119,0,N
+1974-02-12,1974,Phoenix Suns,104,Portland Trail Blazers,113,0,N
+1974-02-13,1974,Kansas City-Omaha Kings,87,Capital Bullets,89,0,N
+1974-02-13,1974,Chicago Bulls,80,New York Knicks,89,0,N
+1974-02-13,1974,Buffalo Braves,129,Philadelphia 76ers,106,0,N
+1974-02-13,1974,Boston Celtics,100,Seattle SuperSonics,118,0,N
+1974-02-14,1974,Milwaukee Bucks,102,Detroit Pistons,99,0,N
+1974-02-14,1974,Atlanta Hawks,105,Golden State Warriors,121,0,N
+1974-02-14,1974,Houston Rockets,99,Phoenix Suns,107,0,N
+1974-02-15,1974,Detroit Pistons,116,Buffalo Braves,118,0,N
+1974-02-15,1974,Seattle SuperSonics,96,Los Angeles Lakers,112,0,N
+1974-02-15,1974,Chicago Bulls,92,Milwaukee Bucks,90,0,N
+1974-02-15,1974,Kansas City-Omaha Kings,89,Philadelphia 76ers,92,0,N
+1974-02-15,1974,Boston Celtics,106,Portland Trail Blazers,104,0,N
+1974-02-16,1974,Buffalo Braves,92,Capital Bullets,101,0,N
+1974-02-16,1974,Golden State Warriors,107,New York Knicks,117,0,N
+1974-02-16,1974,Atlanta Hawks,123,Phoenix Suns,124,1,N
+1974-02-16,1974,Cleveland Cavaliers,106,Portland Trail Blazers,101,0,N
+1974-02-17,1974,Boston Celtics,95,Capital Bullets,99,0,N
+1974-02-17,1974,Golden State Warriors,108,Chicago Bulls,105,0,N
+1974-02-17,1974,Buffalo Braves,135,Houston Rockets,118,0,N
+1974-02-17,1974,Atlanta Hawks,113,Los Angeles Lakers,110,0,N
+1974-02-17,1974,New York Knicks,86,Milwaukee Bucks,97,0,N
+1974-02-17,1974,Detroit Pistons,118,Philadelphia 76ers,107,0,N
+1974-02-17,1974,Portland Trail Blazers,100,Phoenix Suns,112,0,N
+1974-02-17,1974,Cleveland Cavaliers,97,Seattle SuperSonics,106,0,N
+1974-02-19,1974,Detroit Pistons,97,Boston Celtics,107,0,N
+1974-02-19,1974,Milwaukee Bucks,109,Buffalo Braves,145,0,N
+1974-02-19,1974,Phoenix Suns,96,Chicago Bulls,130,0,N
+1974-02-19,1974,Golden State Warriors,104,Cleveland Cavaliers,98,0,N
+1974-02-19,1974,Los Angeles Lakers,86,Kansas City-Omaha Kings,92,0,N
+1974-02-19,1974,Portland Trail Blazers,116,New York Knicks,119,1,N
+1974-02-20,1974,Milwaukee Bucks,110,Atlanta Hawks,94,0,N
+1974-02-20,1974,Portland Trail Blazers,101,Capital Bullets,116,0,N
+1974-02-20,1974,Los Angeles Lakers,110,Detroit Pistons,112,0,N
+1974-02-20,1974,Philadelphia 76ers,98,Houston Rockets,115,0,N
+1974-02-20,1974,Golden State Warriors,97,Kansas City-Omaha Kings,116,0,N
+1974-02-21,1974,New York Knicks,97,Buffalo Braves,119,0,N
+1974-02-21,1974,Golden State Warriors,122,Cleveland Cavaliers,103,0,N
+1974-02-22,1974,Boston Celtics,116,Buffalo Braves,109,0,N
+1974-02-22,1974,Portland Trail Blazers,100,Chicago Bulls,117,0,N
+1974-02-22,1974,New York Knicks,117,Cleveland Cavaliers,110,0,N
+1974-02-22,1974,Capital Bullets,83,Detroit Pistons,84,0,N
+1974-02-22,1974,Milwaukee Bucks,122,Houston Rockets,113,0,N
+1974-02-22,1974,Phoenix Suns,104,Kansas City-Omaha Kings,119,0,N
+1974-02-22,1974,Philadelphia 76ers,103,Los Angeles Lakers,104,0,N
+1974-02-23,1974,Cleveland Cavaliers,104,Capital Bullets,101,0,N
+1974-02-23,1974,Phoenix Suns,107,Detroit Pistons,119,0,N
+1974-02-23,1974,Philadelphia 76ers,106,Golden State Warriors,125,0,N
+1974-02-23,1974,Atlanta Hawks,90,New York Knicks,98,0,N
+1974-02-23,1974,Los Angeles Lakers,118,Seattle SuperSonics,116,0,N
+1974-02-24,1974,Boston Celtics,111,Atlanta Hawks,96,0,N
+1974-02-24,1974,Detroit Pistons,84,Capital Bullets,94,0,N
+1974-02-24,1974,Phoenix Suns,97,Cleveland Cavaliers,101,0,N
+1974-02-24,1974,Portland Trail Blazers,115,Houston Rockets,133,0,N
+1974-02-24,1974,Milwaukee Bucks,100,Kansas City-Omaha Kings,93,0,N
+1974-02-24,1974,Chicago Bulls,90,Los Angeles Lakers,100,0,N
+1974-02-24,1974,Philadelphia 76ers,105,Seattle SuperSonics,115,0,N
+1974-02-26,1974,Los Angeles Lakers,119,Buffalo Braves,112,0,N
+1974-02-26,1974,Boston Celtics,86,Detroit Pistons,83,0,N
+1974-02-26,1974,Phoenix Suns,100,Golden State Warriors,120,0,N
+1974-02-26,1974,Kansas City-Omaha Kings,101,Houston Rockets,118,0,N
+1974-02-26,1974,Capital Bullets,71,New York Knicks,85,0,N
+1974-02-26,1974,Philadelphia 76ers,118,Portland Trail Blazers,110,0,N
+1974-02-27,1974,Kansas City-Omaha Kings,85,Atlanta Hawks,76,0,N
+1974-02-27,1974,Buffalo Braves,122,Boston Celtics,104,0,N
+1974-02-27,1974,Seattle SuperSonics,100,Capital Bullets,104,0,N
+1974-02-27,1974,Los Angeles Lakers,110,Milwaukee Bucks,108,0,N
+1974-02-27,1974,Chicago Bulls,107,Phoenix Suns,95,0,N
+1974-02-28,1974,Portland Trail Blazers,109,Golden State Warriors,129,0,N
+1974-02-28,1974,Detroit Pistons,90,Milwaukee Bucks,113,0,N
+1974-03-01,1974,Milwaukee Bucks,89,Atlanta Hawks,105,0,N
+1974-03-01,1974,Boston Celtics,94,Buffalo Braves,110,0,N
+1974-03-01,1974,New York Knicks,112,Capital Bullets,103,0,N
+1974-03-01,1974,Seattle SuperSonics,105,Detroit Pistons,103,0,N
+1974-03-01,1974,Phoenix Suns,111,Houston Rockets,117,0,N
+1974-03-01,1974,Kansas City-Omaha Kings,100,Los Angeles Lakers,107,0,N
+1974-03-01,1974,Cleveland Cavaliers,110,Philadelphia 76ers,93,0,N
+1974-03-01,1974,Chicago Bulls,91,Portland Trail Blazers,95,0,N
+1974-03-02,1974,Houston Rockets,122,Atlanta Hawks,129,0,N
+1974-03-02,1974,Chicago Bulls,88,Golden State Warriors,103,0,N
+1974-03-02,1974,Seattle SuperSonics,99,Milwaukee Bucks,116,0,N
+1974-03-02,1974,Boston Celtics,104,New York Knicks,88,0,N
+1974-03-02,1974,Buffalo Braves,103,Philadelphia 76ers,99,0,N
+1974-03-03,1974,New York Knicks,108,Boston Celtics,102,1,N
+1974-03-03,1974,Cleveland Cavaliers,93,Capital Bullets,98,0,N
+1974-03-03,1974,Milwaukee Bucks,112,Houston Rockets,106,1,N
+1974-03-03,1974,Golden State Warriors,104,Los Angeles Lakers,108,0,N
+1974-03-03,1974,Kansas City-Omaha Kings,100,Phoenix Suns,113,0,N
+1974-03-03,1974,Detroit Pistons,99,Portland Trail Blazers,95,0,N
+1974-03-04,1974,Kansas City-Omaha Kings,103,Milwaukee Bucks,109,0,N
+1974-03-05,1974,Atlanta Hawks,89,Capital Bullets,103,0,N
+1974-03-05,1974,Detroit Pistons,95,Golden State Warriors,93,0,N
+1974-03-05,1974,Seattle SuperSonics,106,New York Knicks,111,0,N
+1974-03-05,1974,Chicago Bulls,111,Phoenix Suns,91,0,N
+1974-03-05,1974,Los Angeles Lakers,102,Portland Trail Blazers,107,0,N
+1974-03-06,1974,New York Knicks,96,Atlanta Hawks,94,0,N
+1974-03-06,1974,Chicago Bulls,105,Houston Rockets,93,0,N
+1974-03-06,1974,Milwaukee Bucks,111,Kansas City-Omaha Kings,99,0,N
+1974-03-06,1974,Boston Celtics,111,Los Angeles Lakers,116,0,N
+1974-03-06,1974,Capital Bullets,99,Philadelphia 76ers,112,0,N
+1974-03-07,1974,Golden State Warriors,97,Milwaukee Bucks,95,0,N
+1974-03-07,1974,Boston Celtics,99,Phoenix Suns,97,0,N
+1974-03-08,1974,Seattle SuperSonics,123,Buffalo Braves,117,1,N
+1974-03-08,1974,Boston Celtics,106,Houston Rockets,113,0,N
+1974-03-08,1974,Detroit Pistons,113,Los Angeles Lakers,129,0,N
+1974-03-08,1974,Golden State Warriors,106,Philadelphia 76ers,96,0,N
+1974-03-09,1974,Chicago Bulls,99,Atlanta Hawks,106,0,N
+1974-03-09,1974,Portland Trail Blazers,103,Capital Bullets,106,0,N
+1974-03-09,1974,Seattle SuperSonics,96,Kansas City-Omaha Kings,106,0,N
+1974-03-09,1974,Milwaukee Bucks,75,New York Knicks,88,0,N
+1974-03-09,1974,Cleveland Cavaliers,100,Phoenix Suns,109,0,N
+1974-03-10,1974,Detroit Pistons,116,Atlanta Hawks,111,0,N
+1974-03-10,1974,Los Angeles Lakers,82,Boston Celtics,94,0,N
+1974-03-10,1974,Portland Trail Blazers,112,Buffalo Braves,122,0,N
+1974-03-10,1974,Golden State Warriors,107,Capital Bullets,117,0,N
+1974-03-10,1974,Cleveland Cavaliers,108,Houston Rockets,113,0,N
+1974-03-10,1974,New York Knicks,108,Philadelphia 76ers,109,0,N
+1974-03-11,1974,Golden State Warriors,120,Detroit Pistons,108,0,N
+1974-03-11,1974,Phoenix Suns,92,Milwaukee Bucks,105,0,N
+1974-03-12,1974,Portland Trail Blazers,93,Boston Celtics,110,0,N
+1974-03-12,1974,Phoenix Suns,94,Buffalo Braves,124,0,N
+1974-03-12,1974,Philadelphia 76ers,101,Capital Bullets,112,0,N
+1974-03-12,1974,Kansas City-Omaha Kings,93,Chicago Bulls,91,0,N
+1974-03-12,1974,Atlanta Hawks,84,Cleveland Cavaliers,95,0,N
+1974-03-12,1974,Golden State Warriors,108,Detroit Pistons,113,0,N
+1974-03-12,1974,Los Angeles Lakers,109,New York Knicks,102,0,N
+1974-03-13,1974,Phoenix Suns,97,Boston Celtics,104,0,N
+1974-03-13,1974,Capital Bullets,93,Houston Rockets,117,0,N
+1974-03-13,1974,Los Angeles Lakers,121,Philadelphia 76ers,100,0,N
+1974-03-14,1974,New York Knicks,107,Golden State Warriors,95,0,N
+1974-03-15,1974,Buffalo Braves,97,Chicago Bulls,114,0,N
+1974-03-15,1974,Boston Celtics,103,Cleveland Cavaliers,104,0,N
+1974-03-15,1974,Milwaukee Bucks,89,Detroit Pistons,93,0,N
+1974-03-15,1974,Capital Bullets,105,Houston Rockets,114,0,N
+1974-03-15,1974,Golden State Warriors,112,Los Angeles Lakers,107,0,N
+1974-03-15,1974,Phoenix Suns,101,Philadelphia 76ers,108,0,N
+1974-03-15,1974,New York Knicks,105,Portland Trail Blazers,107,0,N
+1974-03-15,1974,Atlanta Hawks,126,Seattle SuperSonics,107,0,N
+1974-03-16,1974,Cleveland Cavaliers,105,Buffalo Braves,114,0,N
+1974-03-16,1974,Los Angeles Lakers,105,Golden State Warriors,135,0,N
+1974-03-16,1974,Boston Celtics,146,Philadelphia 76ers,127,0,N
+1974-03-16,1974,Atlanta Hawks,127,Portland Trail Blazers,128,0,N
+1974-03-17,1974,Capital Bullets,103,Boston Celtics,129,0,N
+1974-03-17,1974,Milwaukee Bucks,107,Chicago Bulls,82,0,N
+1974-03-17,1974,Philadelphia 76ers,99,Cleveland Cavaliers,115,0,N
+1974-03-17,1974,Buffalo Braves,109,Detroit Pistons,116,0,N
+1974-03-17,1974,Houston Rockets,114,Kansas City-Omaha Kings,125,0,N
+1974-03-17,1974,New York Knicks,114,Los Angeles Lakers,126,0,N
+1974-03-17,1974,Phoenix Suns,133,Seattle SuperSonics,108,0,N
+1974-03-18,1974,Portland Trail Blazers,105,Kansas City-Omaha Kings,114,0,N
+1974-03-19,1974,Philadelphia 76ers,94,Chicago Bulls,103,0,N
+1974-03-19,1974,Portland Trail Blazers,103,Cleveland Cavaliers,107,0,N
+1974-03-19,1974,Milwaukee Bucks,111,Golden State Warriors,100,0,N
+1974-03-19,1974,Boston Celtics,110,Houston Rockets,107,0,N
+1974-03-20,1974,Boston Celtics,89,Atlanta Hawks,99,0,N
+1974-03-20,1974,Cleveland Cavaliers,91,Capital Bullets,101,0,N
+1974-03-20,1974,Houston Rockets,99,Detroit Pistons,103,0,N
+1974-03-20,1974,Chicago Bulls,87,Kansas City-Omaha Kings,86,0,N
+1974-03-20,1974,Milwaukee Bucks,114,Los Angeles Lakers,120,0,N
+1974-03-20,1974,Portland Trail Blazers,113,Philadelphia 76ers,106,0,N
+1974-03-20,1974,New York Knicks,106,Phoenix Suns,104,1,N
+1974-03-20,1974,Golden State Warriors,107,Seattle SuperSonics,110,0,N
+1974-03-21,1974,Buffalo Braves,115,Golden State Warriors,102,0,N
+1974-03-22,1974,Portland Trail Blazers,118,Boston Celtics,126,0,N
+1974-03-22,1974,Houston Rockets,95,Capital Bullets,109,0,N
+1974-03-22,1974,Detroit Pistons,105,Kansas City-Omaha Kings,107,0,N
+1974-03-22,1974,Chicago Bulls,93,Los Angeles Lakers,99,0,N
+1974-03-22,1974,Atlanta Hawks,107,Philadelphia 76ers,106,0,N
+1974-03-22,1974,Buffalo Braves,119,Phoenix Suns,126,0,N
+1974-03-22,1974,Milwaukee Bucks,106,Seattle SuperSonics,101,0,N
+1974-03-23,1974,Capital Bullets,108,Atlanta Hawks,119,1,N
+1974-03-23,1974,Houston Rockets,105,Boston Celtics,108,0,N
+1974-03-23,1974,Philadelphia 76ers,97,Detroit Pistons,89,0,N
+1974-03-23,1974,Seattle SuperSonics,139,Golden State Warriors,137,0,N
+1974-03-23,1974,Kansas City-Omaha Kings,107,New York Knicks,106,0,N
+1974-03-24,1974,Houston Rockets,106,Boston Celtics,109,1,N
+1974-03-24,1974,Atlanta Hawks,92,Capital Bullets,120,0,N
+1974-03-24,1974,New York Knicks,92,Cleveland Cavaliers,114,0,N
+1974-03-24,1974,Buffalo Braves,124,Los Angeles Lakers,150,0,N
+1974-03-24,1974,Golden State Warriors,121,Phoenix Suns,134,0,N
+1974-03-24,1974,Milwaukee Bucks,120,Portland Trail Blazers,110,0,N
+1974-03-24,1974,Chicago Bulls,122,Seattle SuperSonics,113,0,N
+1974-03-26,1974,Boston Celtics,108,Capital Bullets,126,0,N
+1974-03-26,1974,Cleveland Cavaliers,98,Chicago Bulls,104,0,N
+1974-03-26,1974,Atlanta Hawks,108,Detroit Pistons,109,0,N
+1974-03-26,1974,Portland Trail Blazers,120,Golden State Warriors,143,0,N
+1974-03-26,1974,Buffalo Braves,96,Houston Rockets,119,0,N
+1974-03-26,1974,Seattle SuperSonics,121,Los Angeles Lakers,115,0,N
+1974-03-26,1974,Kansas City-Omaha Kings,98,Milwaukee Bucks,118,0,N
+1974-03-26,1974,Philadelphia 76ers,90,New York Knicks,117,0,N
+1974-03-27,1974,Boston Celtics,108,Philadelphia 76ers,117,0,N
+1974-03-27,1974,Golden State Warriors,122,Portland Trail Blazers,132,0,N
+1974-03-27,1974,Phoenix Suns,123,Seattle SuperSonics,127,0,N
+1974-03-29,1974,Los Angeles Lakers,95,Milwaukee Bucks,99,0,Y
+1974-03-29,1974,Capital Bullets,91,New York Knicks,102,0,Y
+1974-03-30,1974,Buffalo Braves,97,Boston Celtics,107,0,Y
+1974-03-30,1974,Detroit Pistons,97,Chicago Bulls,88,0,Y
+1974-03-31,1974,New York Knicks,87,Capital Bullets,99,0,Y
+1974-03-31,1974,Los Angeles Lakers,90,Milwaukee Bucks,109,0,Y
+1974-04-01,1974,Chicago Bulls,108,Detroit Pistons,103,0,Y
+1974-04-02,1974,Boston Celtics,105,Buffalo Braves,115,0,Y
+1974-04-02,1974,Milwaukee Bucks,96,Los Angeles Lakers,98,0,Y
+1974-04-02,1974,Capital Bullets,88,New York Knicks,79,0,Y
+1974-04-03,1974,Buffalo Braves,107,Boston Celtics,120,0,Y
+1974-04-04,1974,Milwaukee Bucks,112,Los Angeles Lakers,90,0,Y
+1974-04-05,1974,New York Knicks,101,Capital Bullets,93,1,Y
+1974-04-05,1974,Detroit Pistons,83,Chicago Bulls,84,0,Y
+1974-04-06,1974,Boston Celtics,102,Buffalo Braves,104,0,Y
+1974-04-07,1974,Chicago Bulls,87,Detroit Pistons,102,0,Y
+1974-04-07,1974,Los Angeles Lakers,92,Milwaukee Bucks,114,0,Y
+1974-04-07,1974,Capital Bullets,105,New York Knicks,106,0,Y
+1974-04-09,1974,Buffalo Braves,97,Boston Celtics,100,0,Y
+1974-04-09,1974,Detroit Pistons,94,Chicago Bulls,98,0,Y
+1974-04-10,1974,New York Knicks,92,Capital Bullets,109,0,Y
+1974-04-11,1974,Chicago Bulls,88,Detroit Pistons,92,0,Y
+1974-04-12,1974,Boston Celtics,106,Buffalo Braves,104,0,Y
+1974-04-12,1974,Capital Bullets,81,New York Knicks,91,0,Y
+1974-04-13,1974,Detroit Pistons,94,Chicago Bulls,96,0,Y
+1974-04-14,1974,New York Knicks,88,Boston Celtics,113,0,Y
+1974-04-16,1974,Chicago Bulls,85,Milwaukee Bucks,101,0,Y
+1974-04-16,1974,Boston Celtics,111,New York Knicks,99,0,Y
+1974-04-18,1974,Milwaukee Bucks,113,Chicago Bulls,111,0,Y
+1974-04-19,1974,New York Knicks,103,Boston Celtics,100,0,Y
+1974-04-20,1974,Chicago Bulls,90,Milwaukee Bucks,113,0,Y
+1974-04-21,1974,Boston Celtics,98,New York Knicks,91,0,Y
+1974-04-22,1974,Milwaukee Bucks,115,Chicago Bulls,99,0,Y
+1974-04-24,1974,New York Knicks,94,Boston Celtics,105,0,Y
+1974-04-28,1974,Boston Celtics,98,Milwaukee Bucks,83,0,Y
+1974-04-30,1974,Boston Celtics,96,Milwaukee Bucks,105,1,Y
+1974-05-03,1974,Milwaukee Bucks,83,Boston Celtics,95,0,Y
+1974-05-05,1974,Milwaukee Bucks,97,Boston Celtics,89,0,Y
+1974-05-07,1974,Boston Celtics,96,Milwaukee Bucks,87,0,Y
+1974-05-10,1974,Milwaukee Bucks,102,Boston Celtics,101,2,Y
+1974-05-12,1974,Boston Celtics,102,Milwaukee Bucks,87,0,Y

@@ -1,0 +1,991 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1981-10-30,1982,Golden State Warriors,121,Denver Nuggets,134,0,N
+1981-10-30,1982,Dallas Mavericks,89,Utah Jazz,105,0,N
+1981-10-30,1982,Phoenix Suns,95,Portland Trail Blazers,103,0,N
+1981-10-30,1982,Cleveland Cavaliers,104,Philadelphia 76ers,128,0,N
+1981-10-30,1982,New York Knicks,103,New Jersey Nets,99,0,N
+1981-10-30,1982,Houston Rockets,113,Los Angeles Lakers,112,2,N
+1981-10-30,1982,San Antonio Spurs,113,Kansas City Kings,102,0,N
+1981-10-30,1982,Chicago Bulls,94,Indiana Pacers,96,0,N
+1981-10-30,1982,Milwaukee Bucks,113,Detroit Pistons,118,0,N
+1981-10-30,1982,Washington Bullets,100,Boston Celtics,124,0,N
+1981-10-31,1982,Philadelphia 76ers,108,Atlanta Hawks,106,0,N
+1981-10-31,1982,Detroit Pistons,119,Chicago Bulls,106,0,N
+1981-10-31,1982,Kansas City Kings,89,Dallas Mavericks,95,0,N
+1981-10-31,1982,Utah Jazz,91,Golden State Warriors,106,0,N
+1981-10-31,1982,Boston Celtics,103,Milwaukee Bucks,119,0,N
+1981-10-31,1982,Indiana Pacers,106,New York Knicks,99,0,N
+1981-10-31,1982,Denver Nuggets,120,San Antonio Spurs,145,0,N
+1981-10-31,1982,Houston Rockets,110,San Diego Clippers,125,0,N
+1981-10-31,1982,Phoenix Suns,84,Seattle SuperSonics,94,0,N
+1981-11-01,1982,Seattle SuperSonics,94,Portland Trail Blazers,104,0,N
+1981-11-03,1982,Atlanta Hawks,96,Chicago Bulls,104,0,N
+1981-11-03,1982,Cleveland Cavaliers,125,Dallas Mavericks,110,0,N
+1981-11-03,1982,New York Knicks,98,Houston Rockets,101,0,N
+1981-11-03,1982,San Antonio Spurs,88,Phoenix Suns,111,0,N
+1981-11-03,1982,Los Angeles Lakers,100,Portland Trail Blazers,102,0,N
+1981-11-03,1982,Philadelphia 76ers,112,Washington Bullets,99,0,N
+1981-11-04,1982,Chicago Bulls,93,Boston Celtics,115,0,N
+1981-11-04,1982,Houston Rockets,100,Denver Nuggets,112,0,N
+1981-11-04,1982,Portland Trail Blazers,109,Golden State Warriors,108,0,N
+1981-11-04,1982,San Diego Clippers,128,Kansas City Kings,129,0,N
+1981-11-04,1982,Atlanta Hawks,95,New Jersey Nets,86,0,N
+1981-11-04,1982,Indiana Pacers,99,Philadelphia 76ers,107,0,N
+1981-11-04,1982,Cleveland Cavaliers,102,San Antonio Spurs,128,0,N
+1981-11-04,1982,Los Angeles Lakers,106,Seattle SuperSonics,103,0,N
+1981-11-05,1982,New Jersey Nets,103,Detroit Pistons,109,0,N
+1981-11-05,1982,Washington Bullets,90,Milwaukee Bucks,98,0,N
+1981-11-05,1982,Dallas Mavericks,93,Phoenix Suns,121,0,N
+1981-11-05,1982,Golden State Warriors,101,Utah Jazz,110,0,N
+1981-11-06,1982,Indiana Pacers,94,Boston Celtics,111,0,N
+1981-11-06,1982,San Diego Clippers,93,Chicago Bulls,114,0,N
+1981-11-06,1982,New York Knicks,104,Dallas Mavericks,95,0,N
+1981-11-06,1982,Houston Rockets,86,Kansas City Kings,90,0,N
+1981-11-06,1982,Phoenix Suns,101,Los Angeles Lakers,99,0,N
+1981-11-06,1982,Atlanta Hawks,106,Philadelphia 76ers,99,0,N
+1981-11-06,1982,Utah Jazz,109,Portland Trail Blazers,119,0,N
+1981-11-06,1982,Denver Nuggets,109,Seattle SuperSonics,105,0,N
+1981-11-06,1982,Detroit Pistons,82,Washington Bullets,86,0,N
+1981-11-07,1982,New Jersey Nets,105,Chicago Bulls,118,0,N
+1981-11-07,1982,Boston Celtics,129,Detroit Pistons,88,0,N
+1981-11-07,1982,Denver Nuggets,107,Golden State Warriors,152,0,N
+1981-11-07,1982,Cleveland Cavaliers,96,Houston Rockets,92,0,N
+1981-11-07,1982,San Diego Clippers,102,Milwaukee Bucks,105,0,N
+1981-11-07,1982,New York Knicks,96,San Antonio Spurs,103,0,N
+1981-11-07,1982,Phoenix Suns,87,Utah Jazz,95,0,N
+1981-11-08,1982,Dallas Mavericks,111,Los Angeles Lakers,121,0,N
+1981-11-08,1982,Indiana Pacers,86,New Jersey Nets,89,0,N
+1981-11-08,1982,Denver Nuggets,116,Portland Trail Blazers,120,0,N
+1981-11-09,1982,Chicago Bulls,101,Cleveland Cavaliers,102,0,N
+1981-11-10,1982,Milwaukee Bucks,83,Atlanta Hawks,94,0,N
+1981-11-10,1982,Kansas City Kings,107,Chicago Bulls,119,0,N
+1981-11-10,1982,Phoenix Suns,109,Denver Nuggets,106,0,N
+1981-11-10,1982,Philadelphia 76ers,95,Detroit Pistons,93,0,N
+1981-11-10,1982,Seattle SuperSonics,123,Golden State Warriors,113,0,N
+1981-11-10,1982,Cleveland Cavaliers,102,Indiana Pacers,109,0,N
+1981-11-10,1982,New Jersey Nets,99,New York Knicks,111,0,N
+1981-11-10,1982,Dallas Mavericks,95,Portland Trail Blazers,117,0,N
+1981-11-10,1982,Los Angeles Lakers,102,San Antonio Spurs,128,0,N
+1981-11-10,1982,Utah Jazz,106,San Diego Clippers,97,0,N
+1981-11-10,1982,Boston Celtics,90,Washington Bullets,84,0,N
+1981-11-11,1982,Kansas City Kings,100,Boston Celtics,115,0,N
+1981-11-11,1982,Los Angeles Lakers,95,Houston Rockets,93,0,N
+1981-11-11,1982,Milwaukee Bucks,100,New Jersey Nets,88,0,N
+1981-11-11,1982,Chicago Bulls,90,Philadelphia 76ers,117,0,N
+1981-11-11,1982,Dallas Mavericks,79,Seattle SuperSonics,107,0,N
+1981-11-12,1982,Washington Bullets,95,Atlanta Hawks,87,0,N
+1981-11-12,1982,Cleveland Cavaliers,99,Detroit Pistons,130,0,N
+1981-11-12,1982,Indiana Pacers,93,Phoenix Suns,95,0,N
+1981-11-12,1982,Portland Trail Blazers,115,San Diego Clippers,122,0,N
+1981-11-13,1982,New Jersey Nets,97,Boston Celtics,111,0,N
+1981-11-13,1982,Golden State Warriors,102,Houston Rockets,100,0,N
+1981-11-13,1982,Portland Trail Blazers,115,Los Angeles Lakers,119,0,N
+1981-11-13,1982,New York Knicks,85,Milwaukee Bucks,95,0,N
+1981-11-13,1982,Kansas City Kings,85,Philadelphia 76ers,105,0,N
+1981-11-13,1982,San Antonio Spurs,119,Seattle SuperSonics,112,0,N
+1981-11-13,1982,Denver Nuggets,124,Utah Jazz,131,0,N
+1981-11-14,1982,Detroit Pistons,117,Atlanta Hawks,104,0,N
+1981-11-14,1982,Boston Celtics,92,Cleveland Cavaliers,91,0,N
+1981-11-14,1982,Golden State Warriors,118,Dallas Mavericks,112,0,N
+1981-11-14,1982,Utah Jazz,105,Houston Rockets,109,1,N
+1981-11-14,1982,Kansas City Kings,92,New Jersey Nets,103,0,N
+1981-11-14,1982,Philadelphia 76ers,109,New York Knicks,102,0,N
+1981-11-14,1982,Los Angeles Lakers,98,Phoenix Suns,97,0,N
+1981-11-14,1982,Indiana Pacers,123,San Diego Clippers,114,0,N
+1981-11-14,1982,Chicago Bulls,99,Washington Bullets,104,0,N
+1981-11-15,1982,Indiana Pacers,123,Los Angeles Lakers,124,2,N
+1981-11-15,1982,Cleveland Cavaliers,96,Milwaukee Bucks,98,0,N
+1981-11-15,1982,San Antonio Spurs,110,Portland Trail Blazers,105,0,N
+1981-11-17,1982,Boston Celtics,98,Chicago Bulls,95,0,N
+1981-11-17,1982,San Antonio Spurs,112,Dallas Mavericks,105,0,N
+1981-11-17,1982,Houston Rockets,102,Indiana Pacers,82,0,N
+1981-11-17,1982,Kansas City Kings,124,New York Knicks,110,0,N
+1981-11-17,1982,Milwaukee Bucks,99,Washington Bullets,95,0,N
+1981-11-18,1982,Phoenix Suns,97,Atlanta Hawks,102,0,N
+1981-11-18,1982,Houston Rockets,106,Boston Celtics,104,0,N
+1981-11-18,1982,Detroit Pistons,103,Cleveland Cavaliers,110,0,N
+1981-11-18,1982,San Diego Clippers,128,Denver Nuggets,133,0,N
+1981-11-18,1982,New Jersey Nets,107,Golden State Warriors,121,0,N
+1981-11-18,1982,Milwaukee Bucks,100,Philadelphia 76ers,102,0,N
+1981-11-18,1982,Seattle SuperSonics,93,San Antonio Spurs,111,0,N
+1981-11-18,1982,Los Angeles Lakers,113,Utah Jazz,110,0,N
+1981-11-19,1982,Washington Bullets,97,Detroit Pistons,122,0,N
+1981-11-19,1982,Kansas City Kings,99,Indiana Pacers,102,0,N
+1981-11-19,1982,Atlanta Hawks,89,New York Knicks,84,0,N
+1981-11-19,1982,Golden State Warriors,105,San Diego Clippers,100,0,N
+1981-11-20,1982,Milwaukee Bucks,89,Boston Celtics,112,0,N
+1981-11-20,1982,Utah Jazz,105,Chicago Bulls,103,0,N
+1981-11-20,1982,Philadelphia 76ers,99,Cleveland Cavaliers,94,0,N
+1981-11-20,1982,Seattle SuperSonics,90,Dallas Mavericks,89,0,N
+1981-11-20,1982,San Antonio Spurs,116,Los Angeles Lakers,136,0,N
+1981-11-20,1982,New Jersey Nets,86,Portland Trail Blazers,106,0,N
+1981-11-20,1982,Houston Rockets,95,Washington Bullets,94,0,N
+1981-11-21,1982,Indiana Pacers,100,Atlanta Hawks,107,0,N
+1981-11-21,1982,Washington Bullets,105,Chicago Bulls,117,0,N
+1981-11-21,1982,Phoenix Suns,110,Dallas Mavericks,88,0,N
+1981-11-21,1982,Kansas City Kings,121,Denver Nuggets,128,0,N
+1981-11-21,1982,Utah Jazz,86,Detroit Pistons,95,0,N
+1981-11-21,1982,San Antonio Spurs,122,Golden State Warriors,129,0,N
+1981-11-21,1982,Milwaukee Bucks,112,New York Knicks,118,0,N
+1981-11-21,1982,Houston Rockets,106,Philadelphia 76ers,135,0,N
+1981-11-21,1982,Los Angeles Lakers,119,San Diego Clippers,117,0,N
+1981-11-22,1982,New Jersey Nets,92,Seattle SuperSonics,109,0,N
+1981-11-24,1982,Cleveland Cavaliers,92,Atlanta Hawks,94,1,N
+1981-11-24,1982,Los Angeles Lakers,125,Dallas Mavericks,110,0,N
+1981-11-24,1982,New Jersey Nets,102,Houston Rockets,84,0,N
+1981-11-24,1982,New York Knicks,112,Indiana Pacers,127,0,N
+1981-11-24,1982,Detroit Pistons,95,Milwaukee Bucks,103,0,N
+1981-11-24,1982,Chicago Bulls,109,San Diego Clippers,102,0,N
+1981-11-24,1982,Golden State Warriors,88,Washington Bullets,107,0,N
+1981-11-25,1982,Golden State Warriors,101,Boston Celtics,122,0,N
+1981-11-25,1982,Indiana Pacers,108,Cleveland Cavaliers,102,0,N
+1981-11-25,1982,Dallas Mavericks,133,Denver Nuggets,139,0,N
+1981-11-25,1982,Detroit Pistons,129,Kansas City Kings,122,1,N
+1981-11-25,1982,Houston Rockets,114,Phoenix Suns,128,0,N
+1981-11-25,1982,Los Angeles Lakers,117,San Antonio Spurs,96,0,N
+1981-11-25,1982,Portland Trail Blazers,103,Seattle SuperSonics,110,0,N
+1981-11-25,1982,San Diego Clippers,100,Utah Jazz,102,0,N
+1981-11-27,1982,Washington Bullets,100,Boston Celtics,113,0,N
+1981-11-27,1982,New York Knicks,116,Cleveland Cavaliers,95,0,N
+1981-11-27,1982,Atlanta Hawks,114,Detroit Pistons,112,1,N
+1981-11-27,1982,Philadelphia 76ers,124,Indiana Pacers,112,1,N
+1981-11-27,1982,Denver Nuggets,123,Kansas City Kings,115,0,N
+1981-11-27,1982,San Diego Clippers,138,Los Angeles Lakers,129,0,N
+1981-11-27,1982,Golden State Warriors,113,Milwaukee Bucks,96,0,N
+1981-11-27,1982,Chicago Bulls,107,Phoenix Suns,111,0,N
+1981-11-27,1982,New Jersey Nets,86,San Antonio Spurs,114,0,N
+1981-11-27,1982,Houston Rockets,110,Seattle SuperSonics,117,0,N
+1981-11-27,1982,Portland Trail Blazers,103,Utah Jazz,93,0,N
+1981-11-28,1982,Boston Celtics,98,Atlanta Hawks,90,0,N
+1981-11-28,1982,New Jersey Nets,107,Dallas Mavericks,111,0,N
+1981-11-28,1982,Utah Jazz,124,Denver Nuggets,131,1,N
+1981-11-28,1982,Cleveland Cavaliers,90,New York Knicks,101,0,N
+1981-11-28,1982,Detroit Pistons,103,Philadelphia 76ers,116,0,N
+1981-11-28,1982,Seattle SuperSonics,120,San Diego Clippers,122,0,N
+1981-11-28,1982,Indiana Pacers,92,Washington Bullets,90,0,N
+1981-11-29,1982,Golden State Warriors,100,Kansas City Kings,104,0,N
+1981-11-29,1982,Houston Rockets,104,Los Angeles Lakers,122,0,N
+1981-11-29,1982,San Antonio Spurs,89,Milwaukee Bucks,105,0,N
+1981-11-29,1982,Chicago Bulls,109,Portland Trail Blazers,114,0,N
+1981-12-01,1982,Philadelphia 76ers,107,Atlanta Hawks,98,0,N
+1981-12-01,1982,Milwaukee Bucks,126,Cleveland Cavaliers,110,0,N
+1981-12-01,1982,Portland Trail Blazers,121,Denver Nuggets,113,0,N
+1981-12-01,1982,Kansas City Kings,106,Houston Rockets,104,0,N
+1981-12-01,1982,Boston Celtics,87,Indiana Pacers,90,0,N
+1981-12-01,1982,Utah Jazz,86,Los Angeles Lakers,117,0,N
+1981-12-01,1982,Detroit Pistons,100,New York Knicks,112,0,N
+1981-12-01,1982,San Diego Clippers,94,Phoenix Suns,117,0,N
+1981-12-01,1982,Chicago Bulls,87,Seattle SuperSonics,103,0,N
+1981-12-01,1982,San Antonio Spurs,110,Washington Bullets,99,0,N
+1981-12-02,1982,Detroit Pistons,114,Boston Celtics,115,0,N
+1981-12-02,1982,Chicago Bulls,119,Golden State Warriors,120,0,N
+1981-12-02,1982,Portland Trail Blazers,112,Kansas City Kings,107,0,N
+1981-12-02,1982,Cleveland Cavaliers,106,New Jersey Nets,125,0,N
+1981-12-02,1982,San Antonio Spurs,106,Philadelphia 76ers,101,0,N
+1981-12-02,1982,Los Angeles Lakers,96,Seattle SuperSonics,104,0,N
+1981-12-02,1982,Dallas Mavericks,103,Utah Jazz,114,0,N
+1981-12-03,1982,Washington Bullets,114,New York Knicks,88,0,N
+1981-12-03,1982,Denver Nuggets,109,Phoenix Suns,137,0,N
+1981-12-03,1982,Dallas Mavericks,111,San Diego Clippers,113,0,N
+1981-12-04,1982,Philadelphia 76ers,103,Boston Celtics,111,0,N
+1981-12-04,1982,Los Angeles Lakers,126,Denver Nuggets,117,0,N
+1981-12-04,1982,Detroit Pistons,95,Indiana Pacers,105,0,N
+1981-12-04,1982,Seattle SuperSonics,109,Kansas City Kings,112,0,N
+1981-12-04,1982,Atlanta Hawks,80,Milwaukee Bucks,97,0,N
+1981-12-04,1982,Portland Trail Blazers,111,San Antonio Spurs,127,0,N
+1981-12-04,1982,Chicago Bulls,105,Utah Jazz,101,0,N
+1981-12-05,1982,Seattle SuperSonics,92,Atlanta Hawks,85,0,N
+1981-12-05,1982,Denver Nuggets,105,Dallas Mavericks,109,0,N
+1981-12-05,1982,Milwaukee Bucks,111,Detroit Pistons,108,0,N
+1981-12-05,1982,San Diego Clippers,113,Golden State Warriors,138,0,N
+1981-12-05,1982,Portland Trail Blazers,98,Houston Rockets,110,0,N
+1981-12-05,1982,Philadelphia 76ers,114,New Jersey Nets,105,0,N
+1981-12-05,1982,Boston Celtics,83,New York Knicks,103,0,N
+1981-12-05,1982,Utah Jazz,99,Phoenix Suns,101,0,N
+1981-12-05,1982,Cleveland Cavaliers,87,Washington Bullets,94,0,N
+1981-12-06,1982,Kansas City Kings,106,Los Angeles Lakers,119,0,N
+1981-12-08,1982,New Jersey Nets,98,Atlanta Hawks,88,0,N
+1981-12-08,1982,Indiana Pacers,116,Chicago Bulls,118,1,N
+1981-12-08,1982,Utah Jazz,103,Dallas Mavericks,128,0,N
+1981-12-08,1982,Seattle SuperSonics,107,Houston Rockets,96,0,N
+1981-12-08,1982,Washington Bullets,98,Los Angeles Lakers,102,0,N
+1981-12-08,1982,Denver Nuggets,122,New York Knicks,135,0,N
+1981-12-08,1982,Golden State Warriors,122,Portland Trail Blazers,108,0,N
+1981-12-08,1982,Phoenix Suns,110,San Diego Clippers,121,0,N
+1981-12-09,1982,New Jersey Nets,100,Boston Celtics,109,0,N
+1981-12-09,1982,Atlanta Hawks,108,Cleveland Cavaliers,112,1,N
+1981-12-09,1982,Phoenix Suns,127,Golden State Warriors,134,2,N
+1981-12-09,1982,Utah Jazz,77,Indiana Pacers,113,0,N
+1981-12-09,1982,Dallas Mavericks,109,Kansas City Kings,113,1,N
+1981-12-09,1982,Houston Rockets,83,Milwaukee Bucks,89,0,N
+1981-12-09,1982,Denver Nuggets,109,Philadelphia 76ers,137,0,N
+1981-12-09,1982,Seattle SuperSonics,99,San Antonio Spurs,110,0,N
+1981-12-10,1982,New York Knicks,106,Detroit Pistons,101,1,N
+1981-12-10,1982,Portland Trail Blazers,110,Phoenix Suns,117,0,N
+1981-12-11,1982,Atlanta Hawks,86,Boston Celtics,94,0,N
+1981-12-11,1982,Houston Rockets,105,Chicago Bulls,118,0,N
+1981-12-11,1982,San Antonio Spurs,101,Dallas Mavericks,99,0,N
+1981-12-11,1982,Portland Trail Blazers,116,Los Angeles Lakers,124,0,N
+1981-12-11,1982,Indiana Pacers,100,Milwaukee Bucks,103,1,N
+1981-12-11,1982,Denver Nuggets,123,New Jersey Nets,131,0,N
+1981-12-11,1982,Cleveland Cavaliers,113,Philadelphia 76ers,131,0,N
+1981-12-11,1982,Washington Bullets,106,San Diego Clippers,102,0,N
+1981-12-11,1982,Kansas City Kings,102,Utah Jazz,122,0,N
+1981-12-12,1982,Boston Celtics,97,Atlanta Hawks,108,0,N
+1981-12-12,1982,Philadelphia 76ers,117,Chicago Bulls,114,1,N
+1981-12-12,1982,Denver Nuggets,120,Cleveland Cavaliers,115,0,N
+1981-12-12,1982,Kansas City Kings,96,Golden State Warriors,98,0,N
+1981-12-12,1982,Dallas Mavericks,97,Houston Rockets,101,0,N
+1981-12-12,1982,New Jersey Nets,88,Indiana Pacers,101,0,N
+1981-12-12,1982,Milwaukee Bucks,104,New York Knicks,86,0,N
+1981-12-12,1982,Washington Bullets,105,Phoenix Suns,98,0,N
+1981-12-12,1982,Utah Jazz,97,San Antonio Spurs,111,0,N
+1981-12-12,1982,Detroit Pistons,111,Seattle SuperSonics,117,0,N
+1981-12-13,1982,Golden State Warriors,118,Los Angeles Lakers,122,0,N
+1981-12-13,1982,Philadelphia 76ers,108,Milwaukee Bucks,127,0,N
+1981-12-13,1982,Detroit Pistons,99,Portland Trail Blazers,105,0,N
+1981-12-13,1982,San Diego Clippers,74,Seattle SuperSonics,98,0,N
+1981-12-15,1982,New York Knicks,98,Atlanta Hawks,111,0,N
+1981-12-15,1982,Cleveland Cavaliers,89,Chicago Bulls,98,0,N
+1981-12-15,1982,Seattle SuperSonics,126,Denver Nuggets,120,0,N
+1981-12-15,1982,Detroit Pistons,108,Golden State Warriors,104,0,N
+1981-12-15,1982,Phoenix Suns,95,Houston Rockets,99,0,N
+1981-12-15,1982,Milwaukee Bucks,104,Indiana Pacers,96,0,N
+1981-12-15,1982,San Diego Clippers,101,Portland Trail Blazers,118,0,N
+1981-12-15,1982,San Antonio Spurs,103,Utah Jazz,108,0,N
+1981-12-15,1982,Dallas Mavericks,107,Washington Bullets,102,0,N
+1981-12-16,1982,Dallas Mavericks,92,Boston Celtics,109,0,N
+1981-12-16,1982,Washington Bullets,106,Cleveland Cavaliers,102,0,N
+1981-12-16,1982,Phoenix Suns,81,Kansas City Kings,97,0,N
+1981-12-16,1982,Chicago Bulls,98,New Jersey Nets,97,1,N
+1981-12-16,1982,New York Knicks,117,Philadelphia 76ers,115,0,N
+1981-12-17,1982,Atlanta Hawks,103,Denver Nuggets,138,0,N
+1981-12-17,1982,Indiana Pacers,100,Detroit Pistons,96,0,N
+1981-12-17,1982,Los Angeles Lakers,115,Golden State Warriors,120,0,N
+1981-12-17,1982,Seattle SuperSonics,106,San Diego Clippers,92,0,N
+1981-12-18,1982,Houston Rockets,112,Dallas Mavericks,93,0,N
+1981-12-18,1982,Cleveland Cavaliers,73,Indiana Pacers,109,0,N
+1981-12-18,1982,Utah Jazz,95,Kansas City Kings,100,0,N
+1981-12-18,1982,New Jersey Nets,100,Milwaukee Bucks,88,0,N
+1981-12-18,1982,Chicago Bulls,106,New York Knicks,121,0,N
+1981-12-18,1982,Phoenix Suns,108,San Antonio Spurs,104,0,N
+1981-12-18,1982,Boston Celtics,99,Washington Bullets,98,0,N
+1981-12-19,1982,New Jersey Nets,119,Cleveland Cavaliers,107,0,N
+1981-12-19,1982,Portland Trail Blazers,95,Dallas Mavericks,102,0,N
+1981-12-19,1982,San Antonio Spurs,125,Denver Nuggets,138,0,N
+1981-12-19,1982,New York Knicks,104,Detroit Pistons,132,0,N
+1981-12-19,1982,Atlanta Hawks,109,Golden State Warriors,126,0,N
+1981-12-19,1982,Chicago Bulls,95,Houston Rockets,102,0,N
+1981-12-19,1982,Boston Celtics,118,Philadelphia 76ers,123,1,N
+1981-12-19,1982,Kansas City Kings,87,Phoenix Suns,95,0,N
+1981-12-19,1982,Los Angeles Lakers,106,San Diego Clippers,100,0,N
+1981-12-19,1982,Seattle SuperSonics,115,Utah Jazz,103,0,N
+1981-12-20,1982,Atlanta Hawks,94,Los Angeles Lakers,112,0,N
+1981-12-22,1982,Cleveland Cavaliers,116,Boston Celtics,120,0,N
+1981-12-22,1982,Washington Bullets,90,Chicago Bulls,92,0,N
+1981-12-22,1982,Detroit Pistons,106,Dallas Mavericks,98,0,N
+1981-12-22,1982,Denver Nuggets,121,Houston Rockets,109,0,N
+1981-12-22,1982,Atlanta Hawks,88,Indiana Pacers,92,0,N
+1981-12-22,1982,Kansas City Kings,106,Milwaukee Bucks,101,0,N
+1981-12-22,1982,Philadelphia 76ers,112,New York Knicks,105,0,N
+1981-12-22,1982,Los Angeles Lakers,124,Portland Trail Blazers,110,0,N
+1981-12-23,1982,Kansas City Kings,95,Cleveland Cavaliers,114,0,N
+1981-12-23,1982,Detroit Pistons,124,Denver Nuggets,119,0,N
+1981-12-23,1982,New York Knicks,99,New Jersey Nets,115,0,N
+1981-12-23,1982,Golden State Warriors,103,Phoenix Suns,118,0,N
+1981-12-23,1982,San Antonio Spurs,114,San Diego Clippers,109,0,N
+1981-12-23,1982,Utah Jazz,99,Seattle SuperSonics,113,0,N
+1981-12-25,1982,New Jersey Nets,96,New York Knicks,95,0,N
+1981-12-25,1982,Los Angeles Lakers,104,Phoenix Suns,101,0,N
+1981-12-25,1982,Seattle SuperSonics,94,Portland Trail Blazers,99,0,N
+1981-12-25,1982,Indiana Pacers,98,Washington Bullets,115,0,N
+1981-12-26,1982,Milwaukee Bucks,109,Cleveland Cavaliers,102,0,N
+1981-12-26,1982,Denver Nuggets,124,Dallas Mavericks,117,0,N
+1981-12-26,1982,Chicago Bulls,94,Detroit Pistons,96,0,N
+1981-12-26,1982,Phoenix Suns,96,Golden State Warriors,112,0,N
+1981-12-26,1982,New York Knicks,112,Indiana Pacers,106,0,N
+1981-12-26,1982,Boston Celtics,124,Kansas City Kings,119,1,N
+1981-12-26,1982,Washington Bullets,105,New Jersey Nets,90,0,N
+1981-12-26,1982,Atlanta Hawks,105,San Antonio Spurs,97,0,N
+1981-12-26,1982,Portland Trail Blazers,128,San Diego Clippers,116,0,N
+1981-12-26,1982,Houston Rockets,115,Utah Jazz,104,0,N
+1981-12-27,1982,San Diego Clippers,117,Los Angeles Lakers,139,0,N
+1981-12-27,1982,Chicago Bulls,96,Milwaukee Bucks,108,0,N
+1981-12-27,1982,Philadelphia 76ers,96,Phoenix Suns,99,0,N
+1981-12-28,1982,Indiana Pacers,103,New Jersey Nets,95,0,N
+1981-12-28,1982,Golden State Warriors,100,Seattle SuperSonics,104,0,N
+1981-12-29,1982,New York Knicks,111,Chicago Bulls,108,0,N
+1981-12-29,1982,Kansas City Kings,92,Dallas Mavericks,104,0,N
+1981-12-29,1982,Boston Celtics,123,Denver Nuggets,128,0,N
+1981-12-29,1982,Philadelphia 76ers,142,Golden State Warriors,135,0,N
+1981-12-29,1982,Atlanta Hawks,102,Houston Rockets,93,0,N
+1981-12-29,1982,Milwaukee Bucks,107,Indiana Pacers,96,0,N
+1981-12-29,1982,Utah Jazz,114,Los Angeles Lakers,121,0,N
+1981-12-29,1982,San Diego Clippers,107,San Antonio Spurs,119,0,N
+1981-12-29,1982,Detroit Pistons,125,Washington Bullets,129,0,N
+1981-12-30,1982,San Diego Clippers,94,Atlanta Hawks,91,0,N
+1981-12-30,1982,New York Knicks,110,Cleveland Cavaliers,108,1,N
+1981-12-30,1982,Denver Nuggets,116,Kansas City Kings,120,0,N
+1981-12-30,1982,Washington Bullets,103,Milwaukee Bucks,107,0,N
+1981-12-30,1982,Detroit Pistons,119,New Jersey Nets,130,0,N
+1981-12-30,1982,Portland Trail Blazers,112,Phoenix Suns,113,0,N
+1981-12-30,1982,Houston Rockets,104,San Antonio Spurs,109,0,N
+1981-12-30,1982,Philadelphia 76ers,102,Seattle SuperSonics,99,0,N
+1981-12-30,1982,Boston Celtics,121,Utah Jazz,110,0,N
+1982-01-01,1982,Kansas City Kings,93,Golden State Warriors,125,0,N
+1982-01-01,1982,Philadelphia 76ers,120,Portland Trail Blazers,105,0,N
+1982-01-02,1982,New Jersey Nets,95,Atlanta Hawks,97,0,N
+1982-01-02,1982,Milwaukee Bucks,128,Chicago Bulls,121,0,N
+1982-01-02,1982,Boston Celtics,106,Cleveland Cavaliers,103,0,N
+1982-01-02,1982,Dallas Mavericks,100,Golden State Warriors,119,0,N
+1982-01-02,1982,Washington Bullets,107,Indiana Pacers,103,0,N
+1982-01-02,1982,Detroit Pistons,108,New York Knicks,121,0,N
+1982-01-02,1982,Seattle SuperSonics,97,Phoenix Suns,120,0,N
+1982-01-02,1982,Denver Nuggets,133,San Antonio Spurs,148,0,N
+1982-01-02,1982,Houston Rockets,108,San Diego Clippers,101,0,N
+1982-01-02,1982,Philadelphia 76ers,109,Utah Jazz,107,0,N
+1982-01-03,1982,Seattle SuperSonics,110,Los Angeles Lakers,90,0,N
+1982-01-03,1982,Denver Nuggets,128,Milwaukee Bucks,122,0,N
+1982-01-03,1982,Kansas City Kings,116,Portland Trail Blazers,127,1,N
+1982-01-05,1982,Cleveland Cavaliers,103,Atlanta Hawks,113,0,N
+1982-01-05,1982,Denver Nuggets,128,Chicago Bulls,134,0,N
+1982-01-05,1982,Philadelphia 76ers,101,Detroit Pistons,124,0,N
+1982-01-05,1982,Houston Rockets,112,Golden State Warriors,111,0,N
+1982-01-05,1982,Phoenix Suns,82,Indiana Pacers,87,0,N
+1982-01-05,1982,New York Knicks,112,Milwaukee Bucks,102,0,N
+1982-01-05,1982,San Antonio Spurs,110,Portland Trail Blazers,115,0,N
+1982-01-05,1982,Kansas City Kings,104,San Diego Clippers,112,0,N
+1982-01-05,1982,New Jersey Nets,114,Washington Bullets,108,0,N
+1982-01-06,1982,Chicago Bulls,116,Boston Celtics,102,0,N
+1982-01-06,1982,San Diego Clippers,114,Denver Nuggets,136,0,N
+1982-01-06,1982,Milwaukee Bucks,109,New Jersey Nets,95,0,N
+1982-01-06,1982,Washington Bullets,112,Philadelphia 76ers,126,0,N
+1982-01-06,1982,Dallas Mavericks,100,Seattle SuperSonics,107,0,N
+1982-01-06,1982,San Antonio Spurs,115,Utah Jazz,130,0,N
+1982-01-07,1982,Washington Bullets,109,Cleveland Cavaliers,100,0,N
+1982-01-07,1982,Phoenix Suns,110,Detroit Pistons,94,0,N
+1982-01-07,1982,San Antonio Spurs,123,Golden State Warriors,112,0,N
+1982-01-07,1982,New York Knicks,103,Kansas City Kings,107,0,N
+1982-01-07,1982,Dallas Mavericks,113,San Diego Clippers,112,0,N
+1982-01-07,1982,Houston Rockets,107,Seattle SuperSonics,116,0,N
+1982-01-08,1982,Philadelphia 76ers,90,Boston Celtics,96,0,N
+1982-01-08,1982,Los Angeles Lakers,113,Chicago Bulls,119,0,N
+1982-01-08,1982,Atlanta Hawks,90,Milwaukee Bucks,88,0,N
+1982-01-08,1982,Cleveland Cavaliers,100,New Jersey Nets,110,0,N
+1982-01-08,1982,Denver Nuggets,124,Portland Trail Blazers,121,0,N
+1982-01-08,1982,Indiana Pacers,102,Utah Jazz,108,0,N
+1982-01-09,1982,New York Knicks,89,Atlanta Hawks,102,0,N
+1982-01-09,1982,Phoenix Suns,101,Dallas Mavericks,105,0,N
+1982-01-09,1982,Seattle SuperSonics,125,Denver Nuggets,110,0,N
+1982-01-09,1982,Los Angeles Lakers,130,Detroit Pistons,127,0,N
+1982-01-09,1982,Indiana Pacers,106,Golden State Warriors,115,0,N
+1982-01-09,1982,New Jersey Nets,120,Philadelphia 76ers,113,0,N
+1982-01-09,1982,Kansas City Kings,100,San Antonio Spurs,113,0,N
+1982-01-09,1982,Utah Jazz,118,San Diego Clippers,125,0,N
+1982-01-10,1982,Detroit Pistons,124,Boston Celtics,134,0,N
+1982-01-10,1982,Los Angeles Lakers,107,Milwaukee Bucks,118,0,N
+1982-01-10,1982,Washington Bullets,129,New York Knicks,126,1,N
+1982-01-10,1982,Houston Rockets,111,Portland Trail Blazers,109,0,N
+1982-01-11,1982,Boston Celtics,112,New Jersey Nets,94,0,N
+1982-01-12,1982,Detroit Pistons,122,Chicago Bulls,111,0,N
+1982-01-12,1982,Los Angeles Lakers,114,Cleveland Cavaliers,100,0,N
+1982-01-12,1982,Kansas City Kings,126,Denver Nuggets,139,0,N
+1982-01-12,1982,San Diego Clippers,106,Houston Rockets,107,0,N
+1982-01-12,1982,Golden State Warriors,121,Phoenix Suns,133,0,N
+1982-01-12,1982,Indiana Pacers,93,Portland Trail Blazers,105,0,N
+1982-01-12,1982,Dallas Mavericks,109,San Antonio Spurs,127,0,N
+1982-01-12,1982,New York Knicks,129,Utah Jazz,121,0,N
+1982-01-12,1982,Philadelphia 76ers,95,Washington Bullets,92,0,N
+1982-01-13,1982,Atlanta Hawks,95,Boston Celtics,116,0,N
+1982-01-13,1982,San Diego Clippers,105,Dallas Mavericks,102,0,N
+1982-01-13,1982,Denver Nuggets,128,Golden State Warriors,143,0,N
+1982-01-13,1982,Cleveland Cavaliers,104,Kansas City Kings,117,0,N
+1982-01-13,1982,Milwaukee Bucks,111,Philadelphia 76ers,107,0,N
+1982-01-13,1982,Indiana Pacers,86,Seattle SuperSonics,106,0,N
+1982-01-14,1982,Washington Bullets,121,Detroit Pistons,114,0,N
+1982-01-14,1982,Portland Trail Blazers,111,Houston Rockets,100,0,N
+1982-01-14,1982,Chicago Bulls,104,New Jersey Nets,130,0,N
+1982-01-14,1982,New York Knicks,89,Phoenix Suns,90,0,N
+1982-01-15,1982,Dallas Mavericks,113,Denver Nuggets,128,0,N
+1982-01-15,1982,New York Knicks,102,Golden State Warriors,104,0,N
+1982-01-15,1982,Los Angeles Lakers,97,Indiana Pacers,92,0,N
+1982-01-15,1982,New Jersey Nets,104,Kansas City Kings,114,0,N
+1982-01-15,1982,Boston Celtics,118,Milwaukee Bucks,122,0,N
+1982-01-15,1982,Atlanta Hawks,96,Philadelphia 76ers,90,0,N
+1982-01-15,1982,Houston Rockets,90,San Antonio Spurs,128,0,N
+1982-01-15,1982,Cleveland Cavaliers,108,San Diego Clippers,117,0,N
+1982-01-15,1982,Utah Jazz,103,Seattle SuperSonics,115,0,N
+1982-01-15,1982,Chicago Bulls,90,Washington Bullets,93,0,N
+1982-01-16,1982,Portland Trail Blazers,110,Dallas Mavericks,103,0,N
+1982-01-16,1982,Boston Celtics,128,Detroit Pistons,120,0,N
+1982-01-16,1982,San Antonio Spurs,99,Houston Rockets,116,0,N
+1982-01-16,1982,San Diego Clippers,87,Phoenix Suns,106,0,N
+1982-01-16,1982,Cleveland Cavaliers,125,Utah Jazz,120,0,N
+1982-01-17,1982,Chicago Bulls,103,Indiana Pacers,116,0,N
+1982-01-17,1982,Los Angeles Lakers,109,Kansas City Kings,97,0,N
+1982-01-17,1982,Detroit Pistons,108,Milwaukee Bucks,103,0,N
+1982-01-17,1982,Philadelphia 76ers,97,New Jersey Nets,105,0,N
+1982-01-17,1982,Denver Nuggets,138,San Diego Clippers,131,0,N
+1982-01-17,1982,Golden State Warriors,97,Seattle SuperSonics,122,0,N
+1982-01-17,1982,Atlanta Hawks,78,Washington Bullets,96,0,N
+1982-01-19,1982,Portland Trail Blazers,101,Atlanta Hawks,112,0,N
+1982-01-19,1982,Indiana Pacers,100,Chicago Bulls,110,0,N
+1982-01-19,1982,Seattle SuperSonics,99,Cleveland Cavaliers,97,0,N
+1982-01-19,1982,Los Angeles Lakers,139,Denver Nuggets,140,0,N
+1982-01-19,1982,Kansas City Kings,112,Houston Rockets,120,0,N
+1982-01-19,1982,Boston Celtics,111,New York Knicks,107,0,N
+1982-01-19,1982,San Antonio Spurs,96,Phoenix Suns,108,0,N
+1982-01-19,1982,Detroit Pistons,117,Utah Jazz,123,0,N
+1982-01-20,1982,Indiana Pacers,103,Boston Celtics,112,0,N
+1982-01-20,1982,Milwaukee Bucks,104,Dallas Mavericks,109,0,N
+1982-01-20,1982,San Diego Clippers,108,Golden State Warriors,99,0,N
+1982-01-20,1982,New Jersey Nets,113,Los Angeles Lakers,132,0,N
+1982-01-20,1982,Portland Trail Blazers,110,Philadelphia 76ers,115,0,N
+1982-01-20,1982,Seattle SuperSonics,95,Washington Bullets,106,0,N
+1982-01-21,1982,Dallas Mavericks,110,Kansas City Kings,94,0,N
+1982-01-21,1982,Atlanta Hawks,101,New York Knicks,104,0,N
+1982-01-21,1982,Utah Jazz,104,San Antonio Spurs,123,0,N
+1982-01-21,1982,Detroit Pistons,120,San Diego Clippers,110,0,N
+1982-01-22,1982,San Antonio Spurs,115,Atlanta Hawks,107,0,N
+1982-01-22,1982,Seattle SuperSonics,118,Boston Celtics,106,0,N
+1982-01-22,1982,Cleveland Cavaliers,93,Chicago Bulls,108,0,N
+1982-01-22,1982,Milwaukee Bucks,131,Denver Nuggets,125,0,N
+1982-01-22,1982,Utah Jazz,110,Houston Rockets,128,0,N
+1982-01-22,1982,Philadelphia 76ers,112,Indiana Pacers,105,0,N
+1982-01-22,1982,Detroit Pistons,111,Los Angeles Lakers,123,0,N
+1982-01-22,1982,New Jersey Nets,99,Phoenix Suns,97,0,N
+1982-01-22,1982,Portland Trail Blazers,97,Washington Bullets,110,0,N
+1982-01-23,1982,Atlanta Hawks,109,Cleveland Cavaliers,99,0,N
+1982-01-23,1982,Utah Jazz,110,Dallas Mavericks,122,0,N
+1982-01-23,1982,Milwaukee Bucks,113,Golden State Warriors,119,0,N
+1982-01-23,1982,Denver Nuggets,111,Houston Rockets,109,0,N
+1982-01-23,1982,Washington Bullets,109,Kansas City Kings,106,1,N
+1982-01-23,1982,Chicago Bulls,140,New York Knicks,139,1,N
+1982-01-23,1982,Seattle SuperSonics,87,Philadelphia 76ers,100,0,N
+1982-01-23,1982,Detroit Pistons,90,Phoenix Suns,113,0,N
+1982-01-23,1982,Indiana Pacers,107,San Antonio Spurs,98,0,N
+1982-01-23,1982,New Jersey Nets,113,San Diego Clippers,109,0,N
+1982-01-24,1982,Portland Trail Blazers,123,Boston Celtics,119,0,N
+1982-01-25,1982,Seattle SuperSonics,113,New York Knicks,99,0,N
+1982-01-26,1982,Dallas Mavericks,90,Atlanta Hawks,88,0,N
+1982-01-26,1982,Indiana Pacers,94,Houston Rockets,104,0,N
+1982-01-26,1982,Milwaukee Bucks,96,Los Angeles Lakers,94,0,N
+1982-01-26,1982,Philadelphia 76ers,95,San Antonio Spurs,103,0,N
+1982-01-26,1982,New Jersey Nets,138,Utah Jazz,129,1,N
+1982-01-26,1982,Chicago Bulls,84,Washington Bullets,94,0,N
+1982-01-27,1982,New York Knicks,99,Boston Celtics,131,0,N
+1982-01-27,1982,Golden State Warriors,106,Cleveland Cavaliers,110,0,N
+1982-01-27,1982,Philadelphia 76ers,99,Dallas Mavericks,86,0,N
+1982-01-27,1982,New Jersey Nets,116,Denver Nuggets,130,0,N
+1982-01-27,1982,Atlanta Hawks,107,Detroit Pistons,108,0,N
+1982-01-27,1982,Seattle SuperSonics,110,Kansas City Kings,103,0,N
+1982-01-27,1982,Phoenix Suns,92,San Diego Clippers,99,0,N
+1982-01-28,1982,Golden State Warriors,111,Chicago Bulls,110,0,N
+1982-01-28,1982,Boston Celtics,116,Cleveland Cavaliers,104,0,N
+1982-01-28,1982,Philadelphia 76ers,101,Houston Rockets,109,0,N
+1982-01-28,1982,Phoenix Suns,87,Los Angeles Lakers,97,0,N
+1982-01-28,1982,San Diego Clippers,93,Portland Trail Blazers,96,0,N
+1982-01-28,1982,Kansas City Kings,115,San Antonio Spurs,126,0,N
+1982-01-28,1982,Milwaukee Bucks,119,Utah Jazz,101,0,N
+1982-01-28,1982,New York Knicks,102,Washington Bullets,98,0,N
+1982-02-02,1982,Detroit Pistons,106,Atlanta Hawks,105,0,N
+1982-02-02,1982,New Jersey Nets,116,Chicago Bulls,112,0,N
+1982-02-02,1982,New York Knicks,117,Denver Nuggets,128,0,N
+1982-02-02,1982,Los Angeles Lakers,117,Golden State Warriors,119,0,N
+1982-02-02,1982,San Diego Clippers,106,Houston Rockets,122,0,N
+1982-02-02,1982,Boston Celtics,109,Indiana Pacers,105,0,N
+1982-02-02,1982,Kansas City Kings,97,Portland Trail Blazers,102,0,N
+1982-02-02,1982,Dallas Mavericks,98,San Antonio Spurs,103,0,N
+1982-02-02,1982,Cleveland Cavaliers,100,Washington Bullets,99,0,N
+1982-02-03,1982,Indiana Pacers,104,Cleveland Cavaliers,108,0,N
+1982-02-03,1982,San Diego Clippers,113,Dallas Mavericks,106,0,N
+1982-02-03,1982,New York Knicks,98,Los Angeles Lakers,94,0,N
+1982-02-03,1982,Chicago Bulls,98,Milwaukee Bucks,113,0,N
+1982-02-03,1982,Atlanta Hawks,103,New Jersey Nets,112,0,N
+1982-02-03,1982,Washington Bullets,96,Philadelphia 76ers,122,0,N
+1982-02-03,1982,Golden State Warriors,90,Phoenix Suns,88,0,N
+1982-02-03,1982,Kansas City Kings,87,Seattle SuperSonics,97,0,N
+1982-02-03,1982,Portland Trail Blazers,118,Utah Jazz,122,0,N
+1982-02-04,1982,Denver Nuggets,114,Indiana Pacers,131,0,N
+1982-02-04,1982,Phoenix Suns,112,San Antonio Spurs,118,0,N
+1982-02-05,1982,Denver Nuggets,144,Boston Celtics,145,0,N
+1982-02-05,1982,Detroit Pistons,110,Chicago Bulls,103,0,N
+1982-02-05,1982,Seattle SuperSonics,108,Golden State Warriors,99,0,N
+1982-02-05,1982,Phoenix Suns,104,Houston Rockets,106,0,N
+1982-02-05,1982,San Antonio Spurs,102,Kansas City Kings,109,0,N
+1982-02-05,1982,Dallas Mavericks,92,Milwaukee Bucks,117,0,N
+1982-02-05,1982,New Jersey Nets,112,Philadelphia 76ers,116,0,N
+1982-02-05,1982,Utah Jazz,100,Portland Trail Blazers,121,0,N
+1982-02-05,1982,New York Knicks,90,San Diego Clippers,85,0,N
+1982-02-05,1982,Los Angeles Lakers,90,Washington Bullets,87,0,N
+1982-02-06,1982,Cleveland Cavaliers,88,Atlanta Hawks,87,0,N
+1982-02-06,1982,New Jersey Nets,125,Detroit Pistons,120,0,N
+1982-02-06,1982,Dallas Mavericks,95,Indiana Pacers,89,0,N
+1982-02-06,1982,Utah Jazz,103,Seattle SuperSonics,129,0,N
+1982-02-07,1982,Los Angeles Lakers,119,Boston Celtics,113,0,N
+1982-02-07,1982,New Jersey Nets,110,Cleveland Cavaliers,94,0,N
+1982-02-07,1982,San Antonio Spurs,111,Golden State Warriors,116,0,N
+1982-02-07,1982,Houston Rockets,126,Kansas City Kings,110,0,N
+1982-02-07,1982,Phoenix Suns,92,Milwaukee Bucks,107,0,N
+1982-02-07,1982,Chicago Bulls,107,Philadelphia 76ers,123,0,N
+1982-02-07,1982,New York Knicks,98,Portland Trail Blazers,100,0,N
+1982-02-07,1982,San Diego Clippers,97,Seattle SuperSonics,99,0,N
+1982-02-07,1982,Denver Nuggets,124,Washington Bullets,115,0,N
+1982-02-09,1982,Los Angeles Lakers,130,Atlanta Hawks,117,0,N
+1982-02-09,1982,Chicago Bulls,123,Detroit Pistons,128,1,N
+1982-02-09,1982,Milwaukee Bucks,108,Indiana Pacers,101,0,N
+1982-02-09,1982,Washington Bullets,112,San Antonio Spurs,110,0,N
+1982-02-09,1982,Houston Rockets,129,San Diego Clippers,121,0,N
+1982-02-09,1982,New York Knicks,105,Seattle SuperSonics,114,0,N
+1982-02-09,1982,Golden State Warriors,107,Utah Jazz,123,0,N
+1982-02-10,1982,Atlanta Hawks,73,Chicago Bulls,91,0,N
+1982-02-10,1982,Portland Trail Blazers,105,Cleveland Cavaliers,91,0,N
+1982-02-10,1982,Washington Bullets,119,Dallas Mavericks,102,0,N
+1982-02-10,1982,Utah Jazz,151,Denver Nuggets,148,0,N
+1982-02-10,1982,Los Angeles Lakers,102,Kansas City Kings,125,0,N
+1982-02-10,1982,Detroit Pistons,108,New Jersey Nets,115,0,N
+1982-02-10,1982,Indiana Pacers,96,Philadelphia 76ers,102,0,N
+1982-02-10,1982,Boston Celtics,110,Phoenix Suns,112,0,N
+1982-02-11,1982,Cleveland Cavaliers,113,Detroit Pistons,123,0,N
+1982-02-11,1982,Seattle SuperSonics,100,Houston Rockets,117,0,N
+1982-02-11,1982,Portland Trail Blazers,105,Milwaukee Bucks,116,0,N
+1982-02-11,1982,Golden State Warriors,117,New York Knicks,120,0,N
+1982-02-12,1982,Seattle SuperSonics,100,Dallas Mavericks,103,0,N
+1982-02-12,1982,Utah Jazz,129,Kansas City Kings,114,0,N
+1982-02-12,1982,San Antonio Spurs,100,Los Angeles Lakers,94,0,N
+1982-02-12,1982,Golden State Warriors,98,New Jersey Nets,109,0,N
+1982-02-12,1982,Atlanta Hawks,90,Phoenix Suns,94,0,N
+1982-02-12,1982,Boston Celtics,129,San Diego Clippers,116,0,N
+1982-02-13,1982,Milwaukee Bucks,120,Chicago Bulls,90,0,N
+1982-02-13,1982,Indiana Pacers,110,Cleveland Cavaliers,109,0,N
+1982-02-13,1982,San Diego Clippers,129,Denver Nuggets,146,0,N
+1982-02-13,1982,Portland Trail Blazers,128,Detroit Pistons,120,0,N
+1982-02-13,1982,Washington Bullets,104,Houston Rockets,111,0,N
+1982-02-13,1982,Philadelphia 76ers,114,New York Knicks,107,0,N
+1982-02-13,1982,Phoenix Suns,115,Utah Jazz,120,0,N
+1982-02-14,1982,Milwaukee Bucks,125,Cleveland Cavaliers,97,0,N
+1982-02-14,1982,Portland Trail Blazers,91,Indiana Pacers,107,0,N
+1982-02-14,1982,Golden State Warriors,103,Kansas City Kings,93,0,N
+1982-02-14,1982,Boston Celtics,108,Los Angeles Lakers,103,0,N
+1982-02-14,1982,Dallas Mavericks,111,New Jersey Nets,109,0,N
+1982-02-14,1982,New York Knicks,105,Philadelphia 76ers,117,0,N
+1982-02-14,1982,Seattle SuperSonics,94,San Antonio Spurs,114,0,N
+1982-02-15,1982,Denver Nuggets,145,Utah Jazz,134,0,N
+1982-02-16,1982,Phoenix Suns,91,Chicago Bulls,86,0,N
+1982-02-16,1982,Kansas City Kings,106,Denver Nuggets,119,0,N
+1982-02-16,1982,Houston Rockets,109,Detroit Pistons,111,0,N
+1982-02-16,1982,Seattle SuperSonics,101,Los Angeles Lakers,108,0,N
+1982-02-16,1982,Dallas Mavericks,112,New York Knicks,110,0,N
+1982-02-16,1982,Washington Bullets,100,Portland Trail Blazers,97,0,N
+1982-02-16,1982,Atlanta Hawks,102,San Diego Clippers,91,0,N
+1982-02-17,1982,Houston Rockets,110,Cleveland Cavaliers,102,0,N
+1982-02-17,1982,Boston Celtics,105,Golden State Warriors,121,0,N
+1982-02-17,1982,Phoenix Suns,107,Kansas City Kings,110,0,N
+1982-02-17,1982,Indiana Pacers,93,Milwaukee Bucks,104,0,N
+1982-02-17,1982,Chicago Bulls,105,New Jersey Nets,115,0,N
+1982-02-17,1982,Dallas Mavericks,109,Philadelphia 76ers,114,0,N
+1982-02-17,1982,Detroit Pistons,112,San Antonio Spurs,126,0,N
+1982-02-17,1982,Atlanta Hawks,117,Utah Jazz,109,0,N
+1982-02-18,1982,San Diego Clippers,114,Indiana Pacers,119,0,N
+1982-02-18,1982,Washington Bullets,87,Seattle SuperSonics,105,0,N
+1982-02-19,1982,San Antonio Spurs,126,Denver Nuggets,121,0,N
+1982-02-19,1982,San Diego Clippers,97,Kansas City Kings,113,0,N
+1982-02-19,1982,Golden State Warriors,106,Los Angeles Lakers,126,0,N
+1982-02-19,1982,Cleveland Cavaliers,88,Milwaukee Bucks,106,0,N
+1982-02-19,1982,Houston Rockets,103,New Jersey Nets,96,0,N
+1982-02-19,1982,Phoenix Suns,104,New York Knicks,90,0,N
+1982-02-19,1982,Utah Jazz,117,Philadelphia 76ers,132,0,N
+1982-02-19,1982,Boston Celtics,127,Portland Trail Blazers,117,0,N
+1982-02-19,1982,Atlanta Hawks,127,Seattle SuperSonics,122,4,N
+1982-02-20,1982,Dallas Mavericks,109,Cleveland Cavaliers,116,0,N
+1982-02-20,1982,Indiana Pacers,100,Detroit Pistons,115,0,N
+1982-02-20,1982,Washington Bullets,102,Golden State Warriors,110,0,N
+1982-02-20,1982,Utah Jazz,108,New Jersey Nets,125,0,N
+1982-02-20,1982,San Diego Clippers,118,San Antonio Spurs,101,0,N
+1982-02-21,1982,Dallas Mavericks,113,Chicago Bulls,97,0,N
+1982-02-21,1982,Los Angeles Lakers,132,Denver Nuggets,131,0,N
+1982-02-21,1982,New Jersey Nets,107,Indiana Pacers,118,0,N
+1982-02-21,1982,Milwaukee Bucks,110,Kansas City Kings,104,0,N
+1982-02-21,1982,Houston Rockets,106,New York Knicks,122,0,N
+1982-02-21,1982,Phoenix Suns,102,Philadelphia 76ers,109,0,N
+1982-02-21,1982,Atlanta Hawks,109,Portland Trail Blazers,97,0,N
+1982-02-21,1982,Boston Celtics,100,Seattle SuperSonics,103,0,N
+1982-02-23,1982,Kansas City Kings,94,Atlanta Hawks,103,0,N
+1982-02-23,1982,Portland Trail Blazers,122,Chicago Bulls,123,0,N
+1982-02-23,1982,Dallas Mavericks,95,Houston Rockets,105,0,N
+1982-02-23,1982,Denver Nuggets,129,Los Angeles Lakers,145,0,N
+1982-02-23,1982,Milwaukee Bucks,110,New York Knicks,113,0,N
+1982-02-23,1982,Golden State Warriors,123,San Antonio Spurs,143,0,N
+1982-02-23,1982,Philadelphia 76ers,115,San Diego Clippers,101,0,N
+1982-02-23,1982,Utah Jazz,113,Washington Bullets,106,0,N
+1982-02-24,1982,Utah Jazz,90,Boston Celtics,132,0,N
+1982-02-24,1982,Houston Rockets,120,Denver Nuggets,110,0,N
+1982-02-24,1982,New York Knicks,87,Indiana Pacers,118,0,N
+1982-02-24,1982,Portland Trail Blazers,123,Kansas City Kings,111,0,N
+1982-02-24,1982,Milwaukee Bucks,113,New Jersey Nets,106,0,N
+1982-02-24,1982,Cleveland Cavaliers,97,Phoenix Suns,131,0,N
+1982-02-25,1982,Golden State Warriors,106,Dallas Mavericks,104,0,N
+1982-02-25,1982,San Antonio Spurs,119,Detroit Pistons,116,0,N
+1982-02-25,1982,Los Angeles Lakers,104,Seattle SuperSonics,98,0,N
+1982-02-26,1982,Chicago Bulls,116,Atlanta Hawks,110,1,N
+1982-02-26,1982,San Diego Clippers,110,Boston Celtics,122,0,N
+1982-02-26,1982,Golden State Warriors,95,Houston Rockets,111,0,N
+1982-02-26,1982,San Antonio Spurs,100,Indiana Pacers,108,0,N
+1982-02-26,1982,Philadelphia 76ers,114,Los Angeles Lakers,116,2,N
+1982-02-26,1982,Portland Trail Blazers,106,New Jersey Nets,110,0,N
+1982-02-26,1982,Denver Nuggets,122,Phoenix Suns,131,0,N
+1982-02-26,1982,Seattle SuperSonics,98,Utah Jazz,97,0,N
+1982-02-26,1982,Kansas City Kings,98,Washington Bullets,100,0,N
+1982-02-27,1982,Houston Rockets,105,Dallas Mavericks,108,1,N
+1982-02-27,1982,Philadelphia 76ers,125,Denver Nuggets,134,0,N
+1982-02-27,1982,Kansas City Kings,119,Detroit Pistons,127,1,N
+1982-02-27,1982,Portland Trail Blazers,105,New York Knicks,107,0,N
+1982-02-28,1982,Golden State Warriors,105,Atlanta Hawks,77,0,N
+1982-02-28,1982,Milwaukee Bucks,102,Boston Celtics,106,0,N
+1982-02-28,1982,San Antonio Spurs,104,Chicago Bulls,118,0,N
+1982-02-28,1982,Detroit Pistons,101,Indiana Pacers,112,0,N
+1982-02-28,1982,Cleveland Cavaliers,101,Los Angeles Lakers,102,0,N
+1982-02-28,1982,San Diego Clippers,95,New Jersey Nets,110,0,N
+1982-02-28,1982,Phoenix Suns,103,Seattle SuperSonics,98,0,N
+1982-02-28,1982,New York Knicks,109,Washington Bullets,113,1,N
+1982-03-02,1982,Philadelphia 76ers,109,Chicago Bulls,112,0,N
+1982-03-02,1982,Boston Celtics,101,Dallas Mavericks,97,0,N
+1982-03-02,1982,Indiana Pacers,132,Denver Nuggets,124,1,N
+1982-03-02,1982,Cleveland Cavaliers,108,Golden State Warriors,117,0,N
+1982-03-02,1982,San Antonio Spurs,119,Houston Rockets,117,0,N
+1982-03-02,1982,Detroit Pistons,91,Milwaukee Bucks,101,0,N
+1982-03-02,1982,San Diego Clippers,101,New York Knicks,108,0,N
+1982-03-02,1982,Phoenix Suns,108,Portland Trail Blazers,119,1,N
+1982-03-02,1982,Kansas City Kings,125,Utah Jazz,117,0,N
+1982-03-02,1982,New Jersey Nets,130,Washington Bullets,124,2,N
+1982-03-03,1982,Milwaukee Bucks,96,Atlanta Hawks,87,0,N
+1982-03-03,1982,Indiana Pacers,82,Kansas City Kings,120,0,N
+1982-03-03,1982,Los Angeles Lakers,103,New Jersey Nets,111,0,N
+1982-03-03,1982,San Diego Clippers,107,Philadelphia 76ers,125,0,N
+1982-03-03,1982,Utah Jazz,102,Phoenix Suns,115,0,N
+1982-03-03,1982,Cleveland Cavaliers,107,Seattle SuperSonics,136,0,N
+1982-03-04,1982,Chicago Bulls,97,Detroit Pistons,122,0,N
+1982-03-04,1982,Dallas Mavericks,98,Golden State Warriors,104,0,N
+1982-03-04,1982,Los Angeles Lakers,119,New York Knicks,129,1,N
+1982-03-04,1982,Boston Celtics,110,San Antonio Spurs,101,0,N
+1982-03-04,1982,Houston Rockets,128,Utah Jazz,124,0,N
+1982-03-05,1982,New Jersey Nets,107,Chicago Bulls,90,0,N
+1982-03-05,1982,Washington Bullets,126,Denver Nuggets,127,0,N
+1982-03-05,1982,Boston Celtics,100,Houston Rockets,98,0,N
+1982-03-05,1982,Atlanta Hawks,80,Philadelphia 76ers,89,0,N
+1982-03-05,1982,Kansas City Kings,98,Phoenix Suns,110,0,N
+1982-03-05,1982,Cleveland Cavaliers,111,Portland Trail Blazers,110,0,N
+1982-03-05,1982,Golden State Warriors,117,San Diego Clippers,116,1,N
+1982-03-05,1982,Dallas Mavericks,97,Seattle SuperSonics,98,0,N
+1982-03-06,1982,New Jersey Nets,92,Atlanta Hawks,112,0,N
+1982-03-06,1982,Detroit Pistons,115,New York Knicks,111,0,N
+1982-03-06,1982,Milwaukee Bucks,166,San Antonio Spurs,171,3,N
+1982-03-06,1982,Washington Bullets,127,Utah Jazz,113,0,N
+1982-03-07,1982,New York Knicks,106,Boston Celtics,107,0,N
+1982-03-07,1982,Indiana Pacers,108,Dallas Mavericks,106,0,N
+1982-03-07,1982,Cleveland Cavaliers,127,Denver Nuggets,147,0,N
+1982-03-07,1982,Portland Trail Blazers,106,Golden State Warriors,102,0,N
+1982-03-07,1982,Chicago Bulls,122,Kansas City Kings,124,2,N
+1982-03-07,1982,Los Angeles Lakers,113,Philadelphia 76ers,119,0,N
+1982-03-07,1982,Houston Rockets,94,Phoenix Suns,92,0,N
+1982-03-07,1982,San Diego Clippers,106,Seattle SuperSonics,144,0,N
+1982-03-08,1982,Milwaukee Bucks,95,Atlanta Hawks,98,0,N
+1982-03-08,1982,Boston Celtics,111,Detroit Pistons,101,0,N
+1982-03-08,1982,Dallas Mavericks,121,San Antonio Spurs,113,0,N
+1982-03-09,1982,Denver Nuggets,106,Atlanta Hawks,120,0,N
+1982-03-09,1982,Seattle SuperSonics,104,Chicago Bulls,109,0,N
+1982-03-09,1982,Milwaukee Bucks,91,Houston Rockets,103,0,N
+1982-03-09,1982,Golden State Warriors,92,Indiana Pacers,85,0,N
+1982-03-09,1982,Kansas City Kings,99,Los Angeles Lakers,105,0,N
+1982-03-09,1982,Utah Jazz,112,New York Knicks,126,0,N
+1982-03-09,1982,San Antonio Spurs,127,San Diego Clippers,138,0,N
+1982-03-09,1982,Phoenix Suns,103,Washington Bullets,95,0,N
+1982-03-10,1982,Indiana Pacers,100,Boston Celtics,121,0,N
+1982-03-10,1982,Portland Trail Blazers,102,Dallas Mavericks,104,0,N
+1982-03-10,1982,Denver Nuggets,124,Detroit Pistons,113,0,N
+1982-03-10,1982,Chicago Bulls,101,Milwaukee Bucks,98,0,N
+1982-03-10,1982,Phoenix Suns,105,New Jersey Nets,113,0,N
+1982-03-10,1982,Golden State Warriors,114,Philadelphia 76ers,134,0,N
+1982-03-11,1982,Utah Jazz,91,Atlanta Hawks,107,0,N
+1982-03-11,1982,Phoenix Suns,101,Cleveland Cavaliers,95,0,N
+1982-03-11,1982,Kansas City Kings,113,San Diego Clippers,107,0,N
+1982-03-12,1982,Golden State Warriors,117,Detroit Pistons,121,0,N
+1982-03-12,1982,Denver Nuggets,130,Houston Rockets,115,0,N
+1982-03-12,1982,Chicago Bulls,111,Los Angeles Lakers,105,0,N
+1982-03-12,1982,Seattle SuperSonics,112,Milwaukee Bucks,110,0,N
+1982-03-12,1982,Boston Celtics,113,New Jersey Nets,109,0,N
+1982-03-12,1982,Portland Trail Blazers,112,San Antonio Spurs,108,0,N
+1982-03-12,1982,Indiana Pacers,105,Washington Bullets,110,0,N
+1982-03-13,1982,Indiana Pacers,90,Atlanta Hawks,110,0,N
+1982-03-13,1982,Utah Jazz,115,Cleveland Cavaliers,121,0,N
+1982-03-13,1982,Portland Trail Blazers,107,Houston Rockets,112,0,N
+1982-03-13,1982,Washington Bullets,109,New York Knicks,99,0,N
+1982-03-13,1982,Dallas Mavericks,126,San Diego Clippers,118,0,N
+1982-03-14,1982,Phoenix Suns,92,Boston Celtics,105,0,N
+1982-03-14,1982,Detroit Pistons,109,Cleveland Cavaliers,103,0,N
+1982-03-14,1982,Golden State Warriors,101,Denver Nuggets,127,0,N
+1982-03-14,1982,Philadelphia 76ers,128,Kansas City Kings,114,0,N
+1982-03-14,1982,Dallas Mavericks,116,Los Angeles Lakers,138,0,N
+1982-03-14,1982,Utah Jazz,100,Milwaukee Bucks,129,0,N
+1982-03-14,1982,Seattle SuperSonics,98,New Jersey Nets,97,0,N
+1982-03-14,1982,Chicago Bulls,117,San Antonio Spurs,119,0,N
+1982-03-14,1982,Atlanta Hawks,85,Washington Bullets,92,0,N
+1982-03-16,1982,Utah Jazz,138,Denver Nuggets,154,0,N
+1982-03-16,1982,San Diego Clippers,110,Detroit Pistons,114,0,N
+1982-03-16,1982,Phoenix Suns,114,Houston Rockets,109,0,N
+1982-03-16,1982,Seattle SuperSonics,96,Indiana Pacers,109,0,N
+1982-03-16,1982,Philadelphia 76ers,91,Milwaukee Bucks,106,0,N
+1982-03-16,1982,San Antonio Spurs,114,New York Knicks,91,0,N
+1982-03-16,1982,Los Angeles Lakers,120,Portland Trail Blazers,108,0,N
+1982-03-16,1982,Boston Celtics,98,Washington Bullets,97,1,N
+1982-03-17,1982,Atlanta Hawks,109,Boston Celtics,113,0,N
+1982-03-17,1982,San Diego Clippers,107,Cleveland Cavaliers,113,1,N
+1982-03-17,1982,Chicago Bulls,102,Dallas Mavericks,92,0,N
+1982-03-17,1982,Kansas City Kings,117,Golden State Warriors,116,0,N
+1982-03-17,1982,San Antonio Spurs,90,New Jersey Nets,93,0,N
+1982-03-17,1982,Washington Bullets,93,Philadelphia 76ers,102,0,N
+1982-03-17,1982,Denver Nuggets,135,Phoenix Suns,133,1,N
+1982-03-17,1982,Los Angeles Lakers,120,Utah Jazz,112,0,N
+1982-03-18,1982,Houston Rockets,94,Atlanta Hawks,95,0,N
+1982-03-18,1982,Seattle SuperSonics,115,Detroit Pistons,119,0,N
+1982-03-18,1982,Golden State Warriors,95,Portland Trail Blazers,109,0,N
+1982-03-19,1982,San Antonio Spurs,110,Boston Celtics,134,0,N
+1982-03-19,1982,Los Angeles Lakers,112,Dallas Mavericks,106,0,N
+1982-03-19,1982,Chicago Bulls,120,Denver Nuggets,130,0,N
+1982-03-19,1982,Detroit Pistons,111,Houston Rockets,102,0,N
+1982-03-19,1982,Seattle SuperSonics,109,Kansas City Kings,103,0,N
+1982-03-19,1982,Cleveland Cavaliers,97,Milwaukee Bucks,119,0,N
+1982-03-19,1982,Indiana Pacers,95,Philadelphia 76ers,112,0,N
+1982-03-19,1982,Portland Trail Blazers,131,Utah Jazz,129,1,N
+1982-03-19,1982,San Diego Clippers,98,Washington Bullets,108,0,N
+1982-03-20,1982,San Antonio Spurs,115,Cleveland Cavaliers,102,0,N
+1982-03-20,1982,New Jersey Nets,101,Indiana Pacers,104,0,N
+1982-03-20,1982,Atlanta Hawks,104,New York Knicks,98,0,N
+1982-03-21,1982,Detroit Pistons,111,Atlanta Hawks,119,0,N
+1982-03-21,1982,Chicago Bulls,98,Cleveland Cavaliers,93,0,N
+1982-03-21,1982,Utah Jazz,102,Golden State Warriors,113,0,N
+1982-03-21,1982,San Diego Clippers,97,Kansas City Kings,118,0,N
+1982-03-21,1982,Houston Rockets,102,Los Angeles Lakers,107,0,N
+1982-03-21,1982,New Jersey Nets,86,Milwaukee Bucks,102,0,N
+1982-03-21,1982,Boston Celtics,123,Philadelphia 76ers,111,0,N
+1982-03-21,1982,Seattle SuperSonics,115,Phoenix Suns,105,0,N
+1982-03-21,1982,Dallas Mavericks,101,Portland Trail Blazers,109,0,N
+1982-03-21,1982,New York Knicks,109,Washington Bullets,110,0,N
+1982-03-23,1982,Washington Bullets,87,Atlanta Hawks,107,0,N
+1982-03-23,1982,Boston Celtics,110,Chicago Bulls,103,0,N
+1982-03-23,1982,Phoenix Suns,91,Golden State Warriors,95,0,N
+1982-03-23,1982,Dallas Mavericks,118,Los Angeles Lakers,116,0,N
+1982-03-23,1982,Cleveland Cavaliers,97,New York Knicks,120,0,N
+1982-03-23,1982,Milwaukee Bucks,109,Portland Trail Blazers,104,0,N
+1982-03-23,1982,San Diego Clippers,98,San Antonio Spurs,106,0,N
+1982-03-23,1982,Houston Rockets,117,Utah Jazz,115,0,N
+1982-03-24,1982,Cleveland Cavaliers,115,Boston Celtics,136,0,N
+1982-03-24,1982,San Antonio Spurs,115,Denver Nuggets,129,0,N
+1982-03-24,1982,Washington Bullets,114,Indiana Pacers,106,0,N
+1982-03-24,1982,Atlanta Hawks,106,Kansas City Kings,110,0,N
+1982-03-24,1982,New Jersey Nets,111,Philadelphia 76ers,106,0,N
+1982-03-24,1982,Dallas Mavericks,96,Phoenix Suns,104,0,N
+1982-03-24,1982,Milwaukee Bucks,97,Seattle SuperSonics,99,0,N
+1982-03-25,1982,Philadelphia 76ers,98,Detroit Pistons,100,0,N
+1982-03-25,1982,Houston Rockets,108,Portland Trail Blazers,95,0,N
+1982-03-25,1982,Denver Nuggets,129,San Diego Clippers,117,0,N
+1982-03-25,1982,Golden State Warriors,107,Utah Jazz,105,0,N
+1982-03-26,1982,Detroit Pistons,104,Boston Celtics,125,0,N
+1982-03-26,1982,New York Knicks,107,Chicago Bulls,131,0,N
+1982-03-26,1982,Philadelphia 76ers,115,Cleveland Cavaliers,111,0,N
+1982-03-26,1982,Kansas City Kings,87,Dallas Mavericks,96,0,N
+1982-03-26,1982,Portland Trail Blazers,89,Golden State Warriors,102,0,N
+1982-03-26,1982,Atlanta Hawks,100,Indiana Pacers,87,0,N
+1982-03-26,1982,Milwaukee Bucks,112,Phoenix Suns,113,0,N
+1982-03-26,1982,Los Angeles Lakers,105,San Antonio Spurs,110,0,N
+1982-03-26,1982,Houston Rockets,99,Seattle SuperSonics,97,0,N
+1982-03-26,1982,New Jersey Nets,88,Washington Bullets,104,0,N
+1982-03-27,1982,Atlanta Hawks,96,Dallas Mavericks,85,0,N
+1982-03-27,1982,Phoenix Suns,134,Denver Nuggets,140,2,N
+1982-03-27,1982,Detroit Pistons,123,New Jersey Nets,121,0,N
+1982-03-27,1982,Milwaukee Bucks,128,San Diego Clippers,99,0,N
+1982-03-27,1982,San Antonio Spurs,114,Utah Jazz,110,0,N
+1982-03-28,1982,Philadelphia 76ers,116,Boston Celtics,98,0,N
+1982-03-28,1982,Washington Bullets,104,Cleveland Cavaliers,101,0,N
+1982-03-28,1982,Houston Rockets,94,Golden State Warriors,92,0,N
+1982-03-28,1982,Chicago Bulls,101,Indiana Pacers,102,0,N
+1982-03-28,1982,Los Angeles Lakers,116,Kansas City Kings,111,0,N
+1982-03-28,1982,New York Knicks,106,New Jersey Nets,113,0,N
+1982-03-28,1982,Portland Trail Blazers,101,Seattle SuperSonics,109,0,N
+1982-03-29,1982,Phoenix Suns,113,Utah Jazz,102,0,N
+1982-03-30,1982,Atlanta Hawks,107,Chicago Bulls,92,0,N
+1982-03-30,1982,Seattle SuperSonics,142,Denver Nuggets,145,1,N
+1982-03-30,1982,Dallas Mavericks,95,Houston Rockets,99,0,N
+1982-03-30,1982,San Diego Clippers,120,Los Angeles Lakers,143,0,N
+1982-03-30,1982,Philadelphia 76ers,114,Milwaukee Bucks,116,1,N
+1982-03-30,1982,Indiana Pacers,104,New York Knicks,108,0,N
+1982-03-30,1982,Kansas City Kings,99,Portland Trail Blazers,109,0,N
+1982-03-30,1982,Golden State Warriors,113,San Antonio Spurs,107,0,N
+1982-03-30,1982,Detroit Pistons,98,Washington Bullets,127,0,N
+1982-03-31,1982,Washington Bullets,109,Boston Celtics,119,0,N
+1982-03-31,1982,Denver Nuggets,120,Dallas Mavericks,119,0,N
+1982-03-31,1982,Detroit Pistons,106,Indiana Pacers,108,0,N
+1982-03-31,1982,Cleveland Cavaliers,87,New Jersey Nets,103,0,N
+1982-03-31,1982,Chicago Bulls,98,Philadelphia 76ers,99,0,N
+1982-03-31,1982,San Diego Clippers,106,Phoenix Suns,127,0,N
+1982-03-31,1982,Kansas City Kings,116,Seattle SuperSonics,109,0,N
+1982-04-01,1982,Dallas Mavericks,121,Detroit Pistons,120,0,N
+1982-04-01,1982,Golden State Warriors,101,Houston Rockets,104,0,N
+1982-04-01,1982,Atlanta Hawks,113,Milwaukee Bucks,117,0,N
+1982-04-01,1982,Cleveland Cavaliers,110,New York Knicks,111,0,N
+1982-04-01,1982,San Antonio Spurs,105,Portland Trail Blazers,109,0,N
+1982-04-01,1982,Los Angeles Lakers,117,San Diego Clippers,100,0,N
+1982-04-02,1982,Boston Celtics,110,Atlanta Hawks,107,0,N
+1982-04-02,1982,Milwaukee Bucks,114,Chicago Bulls,105,0,N
+1982-04-02,1982,Portland Trail Blazers,121,Denver Nuggets,127,0,N
+1982-04-02,1982,Phoenix Suns,109,Los Angeles Lakers,99,0,N
+1982-04-02,1982,Washington Bullets,96,New Jersey Nets,98,0,N
+1982-04-02,1982,Cleveland Cavaliers,115,Philadelphia 76ers,135,0,N
+1982-04-02,1982,San Antonio Spurs,86,Seattle SuperSonics,111,0,N
+1982-04-02,1982,Kansas City Kings,118,Utah Jazz,127,0,N
+1982-04-03,1982,Washington Bullets,101,Atlanta Hawks,106,0,N
+1982-04-03,1982,Golden State Warriors,107,Dallas Mavericks,102,0,N
+1982-04-03,1982,Indiana Pacers,102,Detroit Pistons,105,0,N
+1982-04-03,1982,Utah Jazz,133,San Diego Clippers,124,0,N
+1982-04-04,1982,Chicago Bulls,112,Boston Celtics,114,0,N
+1982-04-04,1982,New Jersey Nets,119,Cleveland Cavaliers,109,0,N
+1982-04-04,1982,Portland Trail Blazers,111,Los Angeles Lakers,129,0,N
+1982-04-04,1982,Indiana Pacers,115,Milwaukee Bucks,129,0,N
+1982-04-04,1982,New York Knicks,106,Philadelphia 76ers,127,0,N
+1982-04-04,1982,Kansas City Kings,95,Phoenix Suns,104,0,N
+1982-04-04,1982,Houston Rockets,95,San Antonio Spurs,93,0,N
+1982-04-04,1982,Denver Nuggets,116,Seattle SuperSonics,140,0,N
+1982-04-06,1982,New York Knicks,104,Atlanta Hawks,106,0,N
+1982-04-06,1982,Philadelphia 76ers,117,Chicago Bulls,104,0,N
+1982-04-06,1982,Los Angeles Lakers,108,Houston Rockets,97,0,N
+1982-04-06,1982,Boston Celtics,116,Milwaukee Bucks,122,0,N
+1982-04-06,1982,Denver Nuggets,122,Portland Trail Blazers,136,0,N
+1982-04-06,1982,Golden State Warriors,110,San Diego Clippers,96,0,N
+1982-04-06,1982,Phoenix Suns,91,Seattle SuperSonics,102,0,N
+1982-04-06,1982,Dallas Mavericks,114,Utah Jazz,129,0,N
+1982-04-06,1982,Cleveland Cavaliers,85,Washington Bullets,94,0,N
+1982-04-07,1982,Chicago Bulls,122,Cleveland Cavaliers,105,0,N
+1982-04-07,1982,Utah Jazz,109,Dallas Mavericks,123,0,N
+1982-04-07,1982,Atlanta Hawks,115,Detroit Pistons,120,0,N
+1982-04-07,1982,Denver Nuggets,129,Golden State Warriors,121,0,N
+1982-04-07,1982,Washington Bullets,97,Indiana Pacers,85,0,N
+1982-04-07,1982,Philadelphia 76ers,116,New Jersey Nets,113,0,N
+1982-04-07,1982,Kansas City Kings,113,San Antonio Spurs,118,0,N
+1982-04-08,1982,Boston Celtics,110,New York Knicks,106,0,N
+1982-04-08,1982,Portland Trail Blazers,106,Phoenix Suns,104,0,N
+1982-04-08,1982,Seattle SuperSonics,117,San Diego Clippers,115,1,N
+1982-04-09,1982,Philadelphia 76ers,88,Atlanta Hawks,103,0,N
+1982-04-09,1982,New Jersey Nets,103,Boston Celtics,106,0,N
+1982-04-09,1982,Washington Bullets,114,Chicago Bulls,98,0,N
+1982-04-09,1982,Phoenix Suns,100,Dallas Mavericks,105,0,N
+1982-04-09,1982,Milwaukee Bucks,118,Detroit Pistons,100,0,N
+1982-04-09,1982,Cleveland Cavaliers,97,Indiana Pacers,100,0,N
+1982-04-09,1982,Utah Jazz,99,Kansas City Kings,115,0,N
+1982-04-09,1982,Denver Nuggets,128,Los Angeles Lakers,153,0,N
+1982-04-09,1982,San Diego Clippers,104,Portland Trail Blazers,124,0,N
+1982-04-10,1982,New York Knicks,117,Cleveland Cavaliers,114,0,N
+1982-04-10,1982,San Diego Clippers,119,Golden State Warriors,132,0,N
+1982-04-10,1982,San Antonio Spurs,100,Houston Rockets,105,0,N
+1982-04-10,1982,Indiana Pacers,86,New Jersey Nets,115,0,N
+1982-04-10,1982,Seattle SuperSonics,99,Phoenix Suns,116,0,N
+1982-04-10,1982,Denver Nuggets,136,Utah Jazz,151,0,N
+1982-04-10,1982,Milwaukee Bucks,114,Washington Bullets,115,0,N
+1982-04-11,1982,Chicago Bulls,89,Atlanta Hawks,108,0,N
+1982-04-11,1982,Houston Rockets,97,Dallas Mavericks,109,0,N
+1982-04-11,1982,New York Knicks,89,Detroit Pistons,97,0,N
+1982-04-11,1982,San Antonio Spurs,126,Kansas City Kings,121,0,N
+1982-04-11,1982,Seattle SuperSonics,104,Los Angeles Lakers,107,0,N
+1982-04-11,1982,Boston Celtics,110,Philadelphia 76ers,109,1,N
+1982-04-11,1982,Golden State Warriors,106,Portland Trail Blazers,116,1,N
+1982-04-12,1982,San Diego Clippers,107,Utah Jazz,112,0,N
+1982-04-13,1982,Boston Celtics,115,Chicago Bulls,120,0,N
+1982-04-13,1982,Atlanta Hawks,119,Cleveland Cavaliers,111,0,N
+1982-04-13,1982,Los Angeles Lakers,101,Golden State Warriors,106,0,N
+1982-04-13,1982,Kansas City Kings,95,Houston Rockets,99,0,N
+1982-04-13,1982,Philadelphia 76ers,93,Indiana Pacers,89,0,N
+1982-04-13,1982,Washington Bullets,109,Milwaukee Bucks,99,0,N
+1982-04-13,1982,New Jersey Nets,104,New York Knicks,102,0,N
+1982-04-13,1982,Denver Nuggets,137,San Antonio Spurs,144,0,N
+1982-04-13,1982,Phoenix Suns,105,San Diego Clippers,94,0,N
+1982-04-13,1982,Portland Trail Blazers,86,Seattle SuperSonics,88,0,N
+1982-04-14,1982,Milwaukee Bucks,91,Boston Celtics,100,0,N
+1982-04-14,1982,Houston Rockets,122,Denver Nuggets,141,0,N
+1982-04-14,1982,Dallas Mavericks,95,Kansas City Kings,114,0,N
+1982-04-14,1982,Utah Jazz,115,Los Angeles Lakers,128,0,N
+1982-04-14,1982,Washington Bullets,94,New Jersey Nets,98,0,N
+1982-04-14,1982,Chicago Bulls,120,New York Knicks,116,0,N
+1982-04-14,1982,Detroit Pistons,111,Philadelphia 76ers,119,0,N
+1982-04-14,1982,San Antonio Spurs,92,Phoenix Suns,104,0,N
+1982-04-14,1982,Golden State Warriors,104,Seattle SuperSonics,93,0,N
+1982-04-15,1982,Cleveland Cavaliers,110,Detroit Pistons,120,0,N
+1982-04-15,1982,Atlanta Hawks,102,Indiana Pacers,108,0,N
+1982-04-15,1982,Portland Trail Blazers,123,San Diego Clippers,129,0,N
+1982-04-16,1982,Indiana Pacers,91,Atlanta Hawks,109,0,N
+1982-04-16,1982,Cleveland Cavaliers,102,Chicago Bulls,112,0,N
+1982-04-16,1982,San Antonio Spurs,118,Dallas Mavericks,106,0,N
+1982-04-16,1982,Utah Jazz,100,Houston Rockets,107,0,N
+1982-04-16,1982,Denver Nuggets,121,Kansas City Kings,123,0,N
+1982-04-16,1982,Golden State Warriors,109,Los Angeles Lakers,125,0,N
+1982-04-16,1982,New York Knicks,99,Milwaukee Bucks,112,0,N
+1982-04-16,1982,Boston Celtics,96,New Jersey Nets,113,0,N
+1982-04-16,1982,Phoenix Suns,113,Portland Trail Blazers,99,0,N
+1982-04-16,1982,Philadelphia 76ers,100,Washington Bullets,96,0,N
+1982-04-17,1982,Dallas Mavericks,124,Denver Nuggets,130,0,N
+1982-04-17,1982,New Jersey Nets,147,Detroit Pistons,132,0,N
+1982-04-17,1982,Seattle SuperSonics,95,Golden State Warriors,94,0,N
+1982-04-18,1982,New York Knicks,99,Boston Celtics,119,0,N
+1982-04-18,1982,Indiana Pacers,104,Chicago Bulls,112,0,N
+1982-04-18,1982,Detroit Pistons,116,Cleveland Cavaliers,113,1,N
+1982-04-18,1982,Houston Rockets,104,Kansas City Kings,106,0,N
+1982-04-18,1982,Milwaukee Bucks,86,Philadelphia 76ers,110,0,N
+1982-04-18,1982,Los Angeles Lakers,120,Phoenix Suns,115,0,N
+1982-04-18,1982,Seattle SuperSonics,114,Portland Trail Blazers,119,0,N
+1982-04-18,1982,Utah Jazz,128,San Antonio Spurs,120,0,N
+1982-04-18,1982,Atlanta Hawks,96,Washington Bullets,99,0,N
+1982-04-20,1982,Phoenix Suns,113,Denver Nuggets,129,0,Y
+1982-04-20,1982,Washington Bullets,96,New Jersey Nets,83,0,Y
+1982-04-21,1982,Atlanta Hawks,76,Philadelphia 76ers,111,0,Y
+1982-04-21,1982,Houston Rockets,87,Seattle SuperSonics,102,0,Y
+1982-04-23,1982,Philadelphia 76ers,98,Atlanta Hawks,95,1,Y
+1982-04-23,1982,Seattle SuperSonics,70,Houston Rockets,91,0,Y
+1982-04-23,1982,Denver Nuggets,110,Phoenix Suns,126,0,Y
+1982-04-23,1982,New Jersey Nets,92,Washington Bullets,103,0,Y
+1982-04-24,1982,Phoenix Suns,124,Denver Nuggets,119,0,Y
+1982-04-25,1982,Washington Bullets,91,Boston Celtics,109,0,Y
+1982-04-25,1982,Milwaukee Bucks,122,Philadelphia 76ers,125,0,Y
+1982-04-25,1982,Houston Rockets,83,Seattle SuperSonics,104,0,Y
+1982-04-27,1982,Phoenix Suns,96,Los Angeles Lakers,115,0,Y
+1982-04-27,1982,San Antonio Spurs,95,Seattle SuperSonics,93,0,Y
+1982-04-28,1982,Washington Bullets,103,Boston Celtics,102,0,Y
+1982-04-28,1982,Phoenix Suns,98,Los Angeles Lakers,117,0,Y
+1982-04-28,1982,Milwaukee Bucks,108,Philadelphia 76ers,120,0,Y
+1982-04-28,1982,San Antonio Spurs,99,Seattle SuperSonics,114,0,Y
+1982-04-30,1982,Los Angeles Lakers,114,Phoenix Suns,106,0,Y
+1982-04-30,1982,Seattle SuperSonics,97,San Antonio Spurs,99,0,Y
+1982-05-01,1982,Boston Celtics,92,Washington Bullets,83,0,Y
+1982-05-01,1982,Philadelphia 76ers,91,Milwaukee Bucks,92,0,Y
+1982-05-02,1982,Philadelphia 76ers,100,Milwaukee Bucks,93,0,Y
+1982-05-02,1982,Los Angeles Lakers,112,Phoenix Suns,107,0,Y
+1982-05-02,1982,Seattle SuperSonics,113,San Antonio Spurs,115,0,Y
+1982-05-02,1982,Boston Celtics,103,Washington Bullets,99,1,Y
+1982-05-05,1982,Washington Bullets,126,Boston Celtics,131,2,Y
+1982-05-05,1982,Milwaukee Bucks,110,Philadelphia 76ers,98,0,Y
+1982-05-05,1982,San Antonio Spurs,109,Seattle SuperSonics,103,0,Y
+1982-05-07,1982,Philadelphia 76ers,102,Milwaukee Bucks,90,0,Y
+1982-05-09,1982,San Antonio Spurs,117,Los Angeles Lakers,128,0,Y
+1982-05-09,1982,Philadelphia 76ers,81,Boston Celtics,121,0,Y
+1982-05-11,1982,San Antonio Spurs,101,Los Angeles Lakers,110,0,Y
+1982-05-12,1982,Philadelphia 76ers,121,Boston Celtics,113,0,Y
+1982-05-14,1982,Los Angeles Lakers,118,San Antonio Spurs,108,0,Y
+1982-05-15,1982,Boston Celtics,97,Philadelphia 76ers,99,0,Y
+1982-05-15,1982,Los Angeles Lakers,128,San Antonio Spurs,123,0,Y
+1982-05-16,1982,Boston Celtics,94,Philadelphia 76ers,119,0,Y
+1982-05-19,1982,Philadelphia 76ers,85,Boston Celtics,114,0,Y
+1982-05-21,1982,Boston Celtics,88,Philadelphia 76ers,75,0,Y
+1982-05-23,1982,Philadelphia 76ers,120,Boston Celtics,106,0,Y
+1982-05-27,1982,Los Angeles Lakers,124,Philadelphia 76ers,117,0,Y
+1982-05-30,1982,Los Angeles Lakers,94,Philadelphia 76ers,110,0,Y
+1982-06-01,1982,Philadelphia 76ers,108,Los Angeles Lakers,129,0,Y
+1982-06-03,1982,Philadelphia 76ers,101,Los Angeles Lakers,111,0,Y
+1982-06-06,1982,Los Angeles Lakers,102,Philadelphia 76ers,135,0,Y
+1982-06-08,1982,Philadelphia 76ers,104,Los Angeles Lakers,114,0,Y

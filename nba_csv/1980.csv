@@ -1,0 +1,951 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1979-10-12,1980,New York Knicks,104,Atlanta Hawks,121,0,N
+1979-10-12,1980,Houston Rockets,106,Boston Celtics,114,0,N
+1979-10-12,1980,Indiana Pacers,105,Detroit Pistons,114,0,N
+1979-10-12,1980,Milwaukee Bucks,103,Kansas City Kings,105,0,N
+1979-10-12,1980,Cleveland Cavaliers,95,New Jersey Nets,102,0,N
+1979-10-12,1980,Golden State Warriors,89,Phoenix Suns,97,0,N
+1979-10-12,1980,Utah Jazz,85,Portland Trail Blazers,101,0,N
+1979-10-12,1980,Los Angeles Lakers,103,San Diego Clippers,102,0,N
+1979-10-12,1980,Philadelphia 76ers,93,Washington Bullets,92,0,N
+1979-10-13,1980,Boston Celtics,139,Cleveland Cavaliers,117,0,N
+1979-10-13,1980,Milwaukee Bucks,125,Denver Nuggets,96,0,N
+1979-10-13,1980,Chicago Bulls,102,Golden State Warriors,96,1,N
+1979-10-13,1980,Atlanta Hawks,101,Indiana Pacers,115,0,N
+1979-10-13,1980,Washington Bullets,118,New York Knicks,125,1,N
+1979-10-13,1980,Houston Rockets,105,Philadelphia 76ers,113,0,N
+1979-10-13,1980,Detroit Pistons,112,San Antonio Spurs,110,0,N
+1979-10-14,1980,Chicago Bulls,102,Phoenix Suns,112,0,N
+1979-10-14,1980,Denver Nuggets,93,Portland Trail Blazers,109,0,N
+1979-10-14,1980,Seattle SuperSonics,93,San Diego Clippers,98,0,N
+1979-10-15,1980,Milwaukee Bucks,131,Utah Jazz,107,0,N
+1979-10-16,1980,San Antonio Spurs,118,Atlanta Hawks,116,0,N
+1979-10-16,1980,Detroit Pistons,117,Cleveland Cavaliers,137,0,N
+1979-10-16,1980,Golden State Warriors,108,Denver Nuggets,106,0,N
+1979-10-16,1980,New Jersey Nets,100,Indiana Pacers,113,0,N
+1979-10-16,1980,Chicago Bulls,96,Los Angeles Lakers,105,0,N
+1979-10-16,1980,Houston Rockets,121,New York Knicks,126,0,N
+1979-10-16,1980,Seattle SuperSonics,86,Phoenix Suns,102,0,N
+1979-10-16,1980,San Diego Clippers,81,Portland Trail Blazers,88,0,N
+1979-10-17,1980,Cleveland Cavaliers,108,Boston Celtics,127,0,N
+1979-10-17,1980,Indiana Pacers,112,Houston Rockets,116,0,N
+1979-10-17,1980,Golden State Warriors,107,Kansas City Kings,94,0,N
+1979-10-17,1980,Denver Nuggets,97,Milwaukee Bucks,125,0,N
+1979-10-17,1980,Philadelphia 76ers,113,New Jersey Nets,88,0,N
+1979-10-17,1980,Los Angeles Lakers,110,Seattle SuperSonics,112,0,N
+1979-10-17,1980,Atlanta Hawks,97,Washington Bullets,100,0,N
+1979-10-18,1980,Indiana Pacers,85,Atlanta Hawks,115,0,N
+1979-10-18,1980,San Antonio Spurs,134,Cleveland Cavaliers,141,0,N
+1979-10-18,1980,New York Knicks,115,Detroit Pistons,129,0,N
+1979-10-18,1980,Chicago Bulls,107,San Diego Clippers,111,0,N
+1979-10-18,1980,Portland Trail Blazers,107,Utah Jazz,92,0,N
+1979-10-19,1980,Washington Bullets,93,Boston Celtics,130,0,N
+1979-10-19,1980,Kansas City Kings,107,Denver Nuggets,84,0,N
+1979-10-19,1980,Portland Trail Blazers,99,Los Angeles Lakers,82,0,N
+1979-10-19,1980,Phoenix Suns,94,Milwaukee Bucks,95,0,N
+1979-10-19,1980,New York Knicks,111,New Jersey Nets,106,0,N
+1979-10-19,1980,Detroit Pistons,104,Philadelphia 76ers,112,0,N
+1979-10-19,1980,San Diego Clippers,98,Seattle SuperSonics,106,0,N
+1979-10-20,1980,Phoenix Suns,104,Chicago Bulls,116,0,N
+1979-10-20,1980,Utah Jazz,96,Golden State Warriors,101,0,N
+1979-10-20,1980,Atlanta Hawks,102,Houston Rockets,107,0,N
+1979-10-20,1980,Boston Celtics,128,Indiana Pacers,131,1,N
+1979-10-20,1980,Philadelphia 76ers,136,New York Knicks,111,0,N
+1979-10-20,1980,Cleveland Cavaliers,127,San Antonio Spurs,129,0,N
+1979-10-20,1980,Detroit Pistons,106,Washington Bullets,117,0,N
+1979-10-21,1980,Phoenix Suns,85,Kansas City Kings,122,0,N
+1979-10-21,1980,Seattle SuperSonics,97,Los Angeles Lakers,106,0,N
+1979-10-21,1980,Chicago Bulls,111,Milwaukee Bucks,113,0,N
+1979-10-21,1980,Golden State Warriors,74,Portland Trail Blazers,91,0,N
+1979-10-22,1980,San Diego Clippers,109,Utah Jazz,110,0,N
+1979-10-23,1980,New Jersey Nets,103,Chicago Bulls,108,0,N
+1979-10-23,1980,Atlanta Hawks,121,Cleveland Cavaliers,111,0,N
+1979-10-23,1980,Utah Jazz,87,Los Angeles Lakers,102,0,N
+1979-10-23,1980,Indiana Pacers,112,New York Knicks,136,0,N
+1979-10-23,1980,Milwaukee Bucks,114,Phoenix Suns,108,0,N
+1979-10-23,1980,Kansas City Kings,88,Portland Trail Blazers,90,0,N
+1979-10-23,1980,Boston Celtics,120,San Antonio Spurs,129,0,N
+1979-10-23,1980,Denver Nuggets,127,San Diego Clippers,132,0,N
+1979-10-24,1980,Cleveland Cavaliers,118,Atlanta Hawks,128,0,N
+1979-10-24,1980,Portland Trail Blazers,88,Denver Nuggets,87,0,N
+1979-10-24,1980,Washington Bullets,103,Detroit Pistons,104,0,N
+1979-10-24,1980,Phoenix Suns,110,Golden State Warriors,108,1,N
+1979-10-24,1980,Boston Celtics,100,Houston Rockets,99,0,N
+1979-10-24,1980,Indiana Pacers,110,Philadelphia 76ers,132,0,N
+1979-10-24,1980,Kansas City Kings,92,Seattle SuperSonics,105,0,N
+1979-10-25,1980,Milwaukee Bucks,118,San Diego Clippers,115,0,N
+1979-10-25,1980,Chicago Bulls,105,Utah Jazz,113,0,N
+1979-10-26,1980,San Antonio Spurs,129,Detroit Pistons,113,0,N
+1979-10-26,1980,Washington Bullets,108,Indiana Pacers,118,0,N
+1979-10-26,1980,Kansas City Kings,104,Los Angeles Lakers,116,0,N
+1979-10-26,1980,Atlanta Hawks,94,New Jersey Nets,90,0,N
+1979-10-26,1980,New York Knicks,116,Philadelphia 76ers,127,0,N
+1979-10-26,1980,Chicago Bulls,93,Portland Trail Blazers,95,0,N
+1979-10-26,1980,Phoenix Suns,92,Seattle SuperSonics,86,0,N
+1979-10-27,1980,Boston Celtics,100,Atlanta Hawks,95,0,N
+1979-10-27,1980,Philadelphia 76ers,112,Cleveland Cavaliers,106,0,N
+1979-10-27,1980,Utah Jazz,96,Denver Nuggets,116,0,N
+1979-10-27,1980,Kansas City Kings,95,Golden State Warriors,101,0,N
+1979-10-27,1980,Detroit Pistons,118,Milwaukee Bucks,132,0,N
+1979-10-27,1980,New Jersey Nets,92,New York Knicks,94,0,N
+1979-10-27,1980,Indiana Pacers,121,San Antonio Spurs,128,0,N
+1979-10-27,1980,Seattle SuperSonics,105,San Diego Clippers,110,0,N
+1979-10-28,1980,Golden State Warriors,90,Los Angeles Lakers,97,0,N
+1979-10-28,1980,Houston Rockets,115,New Jersey Nets,120,0,N
+1979-10-28,1980,Phoenix Suns,89,Portland Trail Blazers,88,0,N
+1979-10-28,1980,Kansas City Kings,106,San Diego Clippers,101,0,N
+1979-10-28,1980,Chicago Bulls,97,Seattle SuperSonics,108,0,N
+1979-10-30,1980,Los Angeles Lakers,111,Chicago Bulls,105,0,N
+1979-10-30,1980,Houston Rockets,112,Cleveland Cavaliers,124,0,N
+1979-10-30,1980,New York Knicks,112,Denver Nuggets,121,0,N
+1979-10-30,1980,San Antonio Spurs,109,Phoenix Suns,142,0,N
+1979-10-31,1980,Philadelphia 76ers,97,Atlanta Hawks,102,0,N
+1979-10-31,1980,Portland Trail Blazers,106,Golden State Warriors,111,0,N
+1979-10-31,1980,Houston Rockets,129,Indiana Pacers,133,1,N
+1979-10-31,1980,Utah Jazz,108,Kansas City Kings,125,0,N
+1979-10-31,1980,Los Angeles Lakers,106,Milwaukee Bucks,110,0,N
+1979-10-31,1980,Boston Celtics,116,New Jersey Nets,79,0,N
+1979-10-31,1980,San Antonio Spurs,130,San Diego Clippers,123,0,N
+1979-10-31,1980,Denver Nuggets,89,Seattle SuperSonics,97,0,N
+1979-10-31,1980,Cleveland Cavaliers,105,Washington Bullets,114,0,N
+1979-11-01,1980,Cleveland Cavaliers,127,Detroit Pistons,125,0,N
+1979-11-01,1980,New York Knicks,134,Utah Jazz,118,0,N
+1979-11-02,1980,Chicago Bulls,99,Denver Nuggets,113,0,N
+1979-11-02,1980,New York Knicks,112,Kansas City Kings,111,0,N
+1979-11-02,1980,Phoenix Suns,110,Los Angeles Lakers,112,0,N
+1979-11-02,1980,Indiana Pacers,93,New Jersey Nets,115,0,N
+1979-11-02,1980,Atlanta Hawks,85,Philadelphia 76ers,81,0,N
+1979-11-02,1980,Portland Trail Blazers,123,San Diego Clippers,102,0,N
+1979-11-02,1980,San Antonio Spurs,107,Seattle SuperSonics,117,0,N
+1979-11-03,1980,New Jersey Nets,107,Atlanta Hawks,110,0,N
+1979-11-03,1980,Milwaukee Bucks,136,Chicago Bulls,134,1,N
+1979-11-03,1980,Kansas City Kings,110,Cleveland Cavaliers,123,0,N
+1979-11-03,1980,Houston Rockets,114,Detroit Pistons,111,0,N
+1979-11-03,1980,Denver Nuggets,103,Golden State Warriors,130,0,N
+1979-11-03,1980,Philadelphia 76ers,120,Indiana Pacers,114,2,N
+1979-11-03,1980,Utah Jazz,109,San Diego Clippers,126,0,N
+1979-11-03,1980,Boston Celtics,118,Washington Bullets,97,0,N
+1979-11-04,1980,Seattle SuperSonics,114,Milwaukee Bucks,101,0,N
+1979-11-04,1980,Kansas City Kings,98,New Jersey Nets,101,0,N
+1979-11-04,1980,San Antonio Spurs,124,Portland Trail Blazers,127,1,N
+1979-11-06,1980,Seattle SuperSonics,114,Chicago Bulls,97,0,N
+1979-11-06,1980,Indiana Pacers,117,Cleveland Cavaliers,134,0,N
+1979-11-06,1980,San Diego Clippers,112,Los Angeles Lakers,127,0,N
+1979-11-06,1980,Philadelphia 76ers,118,Milwaukee Bucks,117,1,N
+1979-11-06,1980,Atlanta Hawks,98,New York Knicks,96,0,N
+1979-11-06,1980,New Jersey Nets,95,San Antonio Spurs,108,0,N
+1979-11-06,1980,Phoenix Suns,120,Utah Jazz,107,0,N
+1979-11-07,1980,San Antonio Spurs,105,Boston Celtics,117,0,N
+1979-11-07,1980,Seattle SuperSonics,92,Denver Nuggets,113,0,N
+1979-11-07,1980,Atlanta Hawks,115,Detroit Pistons,107,0,N
+1979-11-07,1980,Los Angeles Lakers,109,Golden State Warriors,126,0,N
+1979-11-07,1980,New Jersey Nets,101,Houston Rockets,106,0,N
+1979-11-07,1980,Portland Trail Blazers,90,Indiana Pacers,97,0,N
+1979-11-07,1980,Kansas City Kings,102,Philadelphia 76ers,110,0,N
+1979-11-07,1980,San Diego Clippers,114,Phoenix Suns,102,0,N
+1979-11-08,1980,Portland Trail Blazers,89,Milwaukee Bucks,98,0,N
+1979-11-08,1980,Denver Nuggets,96,Utah Jazz,92,0,N
+1979-11-09,1980,Kansas City Kings,119,Boston Celtics,127,0,N
+1979-11-09,1980,San Diego Clippers,92,Chicago Bulls,107,0,N
+1979-11-09,1980,Philadelphia 76ers,98,Detroit Pistons,106,0,N
+1979-11-09,1980,Denver Nuggets,122,Los Angeles Lakers,126,1,N
+1979-11-09,1980,Cleveland Cavaliers,106,Phoenix Suns,110,0,N
+1979-11-09,1980,San Antonio Spurs,116,Washington Bullets,125,0,N
+1979-11-10,1980,Washington Bullets,105,Atlanta Hawks,109,0,N
+1979-11-10,1980,Portland Trail Blazers,94,Chicago Bulls,90,0,N
+1979-11-10,1980,Indiana Pacers,104,Golden State Warriors,101,0,N
+1979-11-10,1980,Detroit Pistons,104,Houston Rockets,112,0,N
+1979-11-10,1980,San Diego Clippers,104,Milwaukee Bucks,133,0,N
+1979-11-10,1980,San Antonio Spurs,123,New York Knicks,119,0,N
+1979-11-10,1980,Boston Celtics,94,Philadelphia 76ers,95,0,N
+1979-11-10,1980,Seattle SuperSonics,88,Utah Jazz,87,0,N
+1979-11-11,1980,Portland Trail Blazers,112,Kansas City Kings,109,0,N
+1979-11-11,1980,Cleveland Cavaliers,126,Los Angeles Lakers,140,0,N
+1979-11-11,1980,Denver Nuggets,91,Phoenix Suns,116,0,N
+1979-11-12,1980,Indiana Pacers,113,Utah Jazz,105,1,N
+1979-11-13,1980,Houston Rockets,128,Chicago Bulls,127,0,N
+1979-11-13,1980,Cleveland Cavaliers,110,Denver Nuggets,116,0,N
+1979-11-13,1980,Philadelphia 76ers,103,Kansas City Kings,110,0,N
+1979-11-13,1980,Atlanta Hawks,82,New Jersey Nets,101,0,N
+1979-11-13,1980,Washington Bullets,111,New York Knicks,107,0,N
+1979-11-13,1980,Milwaukee Bucks,101,Portland Trail Blazers,92,0,N
+1979-11-13,1980,Golden State Warriors,127,San Antonio Spurs,131,1,N
+1979-11-13,1980,Los Angeles Lakers,137,San Diego Clippers,91,0,N
+1979-11-14,1980,Utah Jazz,97,Atlanta Hawks,108,0,N
+1979-11-14,1980,Detroit Pistons,111,Boston Celtics,115,0,N
+1979-11-14,1980,Golden State Warriors,92,Houston Rockets,133,0,N
+1979-11-14,1980,Indiana Pacers,100,Phoenix Suns,104,0,N
+1979-11-14,1980,Milwaukee Bucks,117,Seattle SuperSonics,136,0,N
+1979-11-14,1980,Chicago Bulls,105,Washington Bullets,118,0,N
+1979-11-15,1980,Denver Nuggets,102,Golden State Warriors,120,0,N
+1979-11-15,1980,Los Angeles Lakers,108,Kansas City Kings,114,0,N
+1979-11-15,1980,New York Knicks,132,San Antonio Spurs,136,0,N
+1979-11-16,1980,Utah Jazz,97,Boston Celtics,113,0,N
+1979-11-16,1980,Los Angeles Lakers,135,Denver Nuggets,128,1,N
+1979-11-16,1980,New York Knicks,130,Houston Rockets,133,0,N
+1979-11-16,1980,Chicago Bulls,97,Kansas City Kings,103,0,N
+1979-11-16,1980,Washington Bullets,92,New Jersey Nets,91,0,N
+1979-11-16,1980,San Antonio Spurs,106,Philadelphia 76ers,105,0,N
+1979-11-16,1980,Portland Trail Blazers,97,Phoenix Suns,98,0,N
+1979-11-16,1980,Indiana Pacers,97,San Diego Clippers,105,0,N
+1979-11-16,1980,Cleveland Cavaliers,100,Seattle SuperSonics,108,0,N
+1979-11-17,1980,Houston Rockets,102,Atlanta Hawks,100,0,N
+1979-11-17,1980,Philadelphia 76ers,103,Chicago Bulls,106,1,N
+1979-11-17,1980,New Jersey Nets,98,Detroit Pistons,93,0,N
+1979-11-17,1980,Seattle SuperSonics,108,Golden State Warriors,103,0,N
+1979-11-17,1980,Boston Celtics,109,New York Knicks,113,0,N
+1979-11-17,1980,Cleveland Cavaliers,96,Portland Trail Blazers,103,0,N
+1979-11-17,1980,Utah Jazz,103,Washington Bullets,111,0,N
+1979-11-18,1980,Kansas City Kings,109,Denver Nuggets,92,0,N
+1979-11-18,1980,Indiana Pacers,104,Los Angeles Lakers,127,0,N
+1979-11-18,1980,San Antonio Spurs,105,New Jersey Nets,107,0,N
+1979-11-18,1980,Golden State Warriors,99,Phoenix Suns,95,0,N
+1979-11-18,1980,Seattle SuperSonics,95,Portland Trail Blazers,100,0,N
+1979-11-18,1980,Milwaukee Bucks,96,San Diego Clippers,112,0,N
+1979-11-20,1980,Detroit Pistons,105,Atlanta Hawks,109,0,N
+1979-11-20,1980,Denver Nuggets,124,Chicago Bulls,91,0,N
+1979-11-20,1980,Utah Jazz,107,Cleveland Cavaliers,119,0,N
+1979-11-20,1980,Golden State Warriors,109,Kansas City Kings,112,0,N
+1979-11-20,1980,Houston Rockets,125,New York Knicks,130,1,N
+1979-11-20,1980,Los Angeles Lakers,99,Portland Trail Blazers,114,0,N
+1979-11-20,1980,Philadelphia 76ers,118,San Antonio Spurs,114,0,N
+1979-11-20,1980,Phoenix Suns,110,San Diego Clippers,117,0,N
+1979-11-21,1980,New Jersey Nets,103,Boston Celtics,111,0,N
+1979-11-21,1980,San Diego Clippers,84,Denver Nuggets,105,0,N
+1979-11-21,1980,Utah Jazz,93,Detroit Pistons,98,0,N
+1979-11-21,1980,Philadelphia 76ers,94,Houston Rockets,97,0,N
+1979-11-21,1980,New York Knicks,108,Indiana Pacers,119,0,N
+1979-11-21,1980,Atlanta Hawks,93,Milwaukee Bucks,96,0,N
+1979-11-21,1980,Kansas City Kings,120,Phoenix Suns,128,0,N
+1979-11-21,1980,Los Angeles Lakers,110,Seattle SuperSonics,119,0,N
+1979-11-21,1980,Cleveland Cavaliers,122,Washington Bullets,103,0,N
+1979-11-22,1980,Golden State Warriors,93,Cleveland Cavaliers,120,0,N
+1979-11-22,1980,Milwaukee Bucks,117,New Jersey Nets,109,0,N
+1979-11-23,1980,Indiana Pacers,103,Boston Celtics,118,0,N
+1979-11-23,1980,Atlanta Hawks,98,Chicago Bulls,103,0,N
+1979-11-23,1980,Milwaukee Bucks,100,Detroit Pistons,119,0,N
+1979-11-23,1980,Houston Rockets,102,Philadelphia 76ers,113,0,N
+1979-11-23,1980,Los Angeles Lakers,112,Phoenix Suns,126,0,N
+1979-11-23,1980,Washington Bullets,108,San Antonio Spurs,128,0,N
+1979-11-23,1980,Kansas City Kings,107,San Diego Clippers,91,0,N
+1979-11-23,1980,Portland Trail Blazers,90,Seattle SuperSonics,94,0,N
+1979-11-24,1980,Boston Celtics,106,Atlanta Hawks,101,0,N
+1979-11-24,1980,Golden State Warriors,106,Chicago Bulls,101,0,N
+1979-11-24,1980,Phoenix Suns,115,Denver Nuggets,101,0,N
+1979-11-24,1980,Washington Bullets,105,Houston Rockets,103,0,N
+1979-11-24,1980,Detroit Pistons,97,Indiana Pacers,115,0,N
+1979-11-24,1980,Cleveland Cavaliers,113,New York Knicks,133,0,N
+1979-11-24,1980,New Jersey Nets,82,Philadelphia 76ers,91,0,N
+1979-11-25,1980,New Jersey Nets,103,Cleveland Cavaliers,112,0,N
+1979-11-25,1980,Kansas City Kings,110,Los Angeles Lakers,111,0,N
+1979-11-25,1980,Golden State Warriors,90,Milwaukee Bucks,114,0,N
+1979-11-25,1980,Phoenix Suns,87,Portland Trail Blazers,86,0,N
+1979-11-26,1980,Indiana Pacers,112,Philadelphia 76ers,113,0,N
+1979-11-27,1980,Houston Rockets,115,Kansas City Kings,117,0,N
+1979-11-27,1980,New Jersey Nets,118,Milwaukee Bucks,93,0,N
+1979-11-27,1980,Detroit Pistons,114,New York Knicks,116,1,N
+1979-11-27,1980,Atlanta Hawks,143,San Antonio Spurs,120,0,N
+1979-11-27,1980,Chicago Bulls,103,San Diego Clippers,128,0,N
+1979-11-27,1980,Los Angeles Lakers,122,Utah Jazz,118,0,N
+1979-11-27,1980,Denver Nuggets,96,Washington Bullets,91,0,N
+1979-11-28,1980,Portland Trail Blazers,99,Atlanta Hawks,106,0,N
+1979-11-28,1980,Denver Nuggets,97,Boston Celtics,119,0,N
+1979-11-28,1980,San Diego Clippers,114,Golden State Warriors,108,0,N
+1979-11-28,1980,Cleveland Cavaliers,111,Houston Rockets,113,1,N
+1979-11-28,1980,Milwaukee Bucks,87,Indiana Pacers,79,0,N
+1979-11-28,1980,Detroit Pistons,89,New Jersey Nets,98,0,N
+1979-11-28,1980,Washington Bullets,102,Philadelphia 76ers,120,0,N
+1979-11-28,1980,Phoenix Suns,116,Seattle SuperSonics,127,0,N
+1979-11-29,1980,New York Knicks,115,Cleveland Cavaliers,117,0,N
+1979-11-29,1980,Kansas City Kings,105,Detroit Pistons,95,0,N
+1979-11-30,1980,New York Knicks,97,Boston Celtics,100,0,N
+1979-11-30,1980,Utah Jazz,112,Golden State Warriors,104,0,N
+1979-11-30,1980,Atlanta Hawks,95,Houston Rockets,106,0,N
+1979-11-30,1980,Seattle SuperSonics,107,Kansas City Kings,102,1,N
+1979-11-30,1980,Chicago Bulls,107,Los Angeles Lakers,100,0,N
+1979-11-30,1980,Denver Nuggets,118,New Jersey Nets,127,0,N
+1979-11-30,1980,San Diego Clippers,101,Philadelphia 76ers,104,0,N
+1979-11-30,1980,Portland Trail Blazers,100,San Antonio Spurs,107,0,N
+1979-11-30,1980,Indiana Pacers,99,Washington Bullets,91,0,N
+1979-12-01,1980,San Diego Clippers,96,Atlanta Hawks,106,0,N
+1979-12-01,1980,San Antonio Spurs,124,Detroit Pistons,134,0,N
+1979-12-01,1980,Milwaukee Bucks,109,Golden State Warriors,99,0,N
+1979-12-01,1980,Portland Trail Blazers,112,Houston Rockets,120,1,N
+1979-12-01,1980,Boston Celtics,106,Indiana Pacers,102,1,N
+1979-12-01,1980,Denver Nuggets,112,New York Knicks,121,0,N
+1979-12-01,1980,Cleveland Cavaliers,105,Philadelphia 76ers,117,0,N
+1979-12-01,1980,Chicago Bulls,86,Phoenix Suns,99,0,N
+1979-12-01,1980,Seattle SuperSonics,95,Utah Jazz,97,0,N
+1979-12-01,1980,New Jersey Nets,100,Washington Bullets,104,0,N
+1979-12-02,1980,Atlanta Hawks,108,Cleveland Cavaliers,126,0,N
+1979-12-02,1980,Boston Celtics,88,Kansas City Kings,94,0,N
+1979-12-02,1980,Milwaukee Bucks,103,Los Angeles Lakers,116,0,N
+1979-12-02,1980,Golden State Warriors,98,Seattle SuperSonics,111,0,N
+1979-12-03,1980,Milwaukee Bucks,96,Utah Jazz,89,0,N
+1979-12-04,1980,San Diego Clippers,112,Cleveland Cavaliers,115,0,N
+1979-12-04,1980,Boston Celtics,118,Detroit Pistons,114,1,N
+1979-12-04,1980,Phoenix Suns,114,New York Knicks,118,0,N
+1979-12-04,1980,Los Angeles Lakers,127,San Antonio Spurs,121,0,N
+1979-12-05,1980,Atlanta Hawks,120,Boston Celtics,92,0,N
+1979-12-05,1980,Milwaukee Bucks,107,Denver Nuggets,123,0,N
+1979-12-05,1980,Chicago Bulls,90,Golden State Warriors,97,0,N
+1979-12-05,1980,Los Angeles Lakers,116,Houston Rockets,114,0,N
+1979-12-05,1980,Cleveland Cavaliers,99,Indiana Pacers,118,0,N
+1979-12-05,1980,Detroit Pistons,93,Kansas City Kings,109,0,N
+1979-12-05,1980,Phoenix Suns,100,New Jersey Nets,115,0,N
+1979-12-05,1980,San Antonio Spurs,120,Philadelphia 76ers,132,0,N
+1979-12-05,1980,Utah Jazz,96,Seattle SuperSonics,115,0,N
+1979-12-05,1980,New York Knicks,107,Washington Bullets,104,0,N
+1979-12-06,1980,Golden State Warriors,103,San Diego Clippers,105,0,N
+1979-12-06,1980,Portland Trail Blazers,82,Utah Jazz,87,1,N
+1979-12-07,1980,Phoenix Suns,92,Boston Celtics,100,0,N
+1979-12-07,1980,Detroit Pistons,109,Houston Rockets,124,0,N
+1979-12-07,1980,San Diego Clippers,116,Los Angeles Lakers,108,0,N
+1979-12-07,1980,San Antonio Spurs,117,Milwaukee Bucks,105,0,N
+1979-12-07,1980,Chicago Bulls,95,Portland Trail Blazers,93,0,N
+1979-12-08,1980,Boston Celtics,100,Cleveland Cavaliers,116,0,N
+1979-12-08,1980,Utah Jazz,119,Denver Nuggets,103,0,N
+1979-12-08,1980,Seattle SuperSonics,125,Golden State Warriors,100,0,N
+1979-12-08,1980,Detroit Pistons,102,Indiana Pacers,103,0,N
+1979-12-08,1980,Kansas City Kings,145,New York Knicks,129,0,N
+1979-12-08,1980,Phoenix Suns,96,Philadelphia 76ers,117,0,N
+1979-12-08,1980,Houston Rockets,129,San Antonio Spurs,138,0,N
+1979-12-08,1980,Atlanta Hawks,95,Washington Bullets,96,0,N
+1979-12-09,1980,Denver Nuggets,118,Los Angeles Lakers,131,0,N
+1979-12-09,1980,Boston Celtics,113,Milwaukee Bucks,108,0,N
+1979-12-09,1980,Atlanta Hawks,122,New Jersey Nets,85,0,N
+1979-12-09,1980,San Diego Clippers,98,Portland Trail Blazers,96,0,N
+1979-12-09,1980,Chicago Bulls,121,Seattle SuperSonics,112,0,N
+1979-12-10,1980,Golden State Warriors,93,Utah Jazz,100,0,N
+1979-12-11,1980,Portland Trail Blazers,93,Chicago Bulls,104,0,N
+1979-12-11,1980,San Antonio Spurs,121,Denver Nuggets,127,0,N
+1979-12-11,1980,Seattle SuperSonics,103,Milwaukee Bucks,99,0,N
+1979-12-11,1980,Indiana Pacers,124,New York Knicks,122,1,N
+1979-12-11,1980,Phoenix Suns,123,Washington Bullets,99,0,N
+1979-12-12,1980,New York Knicks,102,Atlanta Hawks,114,0,N
+1979-12-12,1980,New Jersey Nets,102,Boston Celtics,116,0,N
+1979-12-12,1980,Detroit Pistons,114,Golden State Warriors,96,0,N
+1979-12-12,1980,Seattle SuperSonics,112,Indiana Pacers,107,0,N
+1979-12-12,1980,Portland Trail Blazers,85,Kansas City Kings,124,0,N
+1979-12-12,1980,Milwaukee Bucks,91,Philadelphia 76ers,112,0,N
+1979-12-12,1980,Houston Rockets,118,San Diego Clippers,107,0,N
+1979-12-13,1980,Washington Bullets,115,Cleveland Cavaliers,113,1,N
+1979-12-13,1980,Houston Rockets,113,Phoenix Suns,121,0,N
+1979-12-13,1980,San Antonio Spurs,114,Utah Jazz,144,0,N
+1979-12-14,1980,Milwaukee Bucks,94,Boston Celtics,97,0,N
+1979-12-14,1980,Washington Bullets,109,Indiana Pacers,111,0,N
+1979-12-14,1980,Utah Jazz,87,Kansas City Kings,103,0,N
+1979-12-14,1980,Detroit Pistons,122,Los Angeles Lakers,138,0,N
+1979-12-14,1980,New York Knicks,105,New Jersey Nets,118,0,N
+1979-12-14,1980,Atlanta Hawks,103,Philadelphia 76ers,98,0,N
+1979-12-14,1980,Denver Nuggets,108,San Diego Clippers,112,0,N
+1979-12-14,1980,Houston Rockets,101,Seattle SuperSonics,109,0,N
+1979-12-15,1980,Philadelphia 76ers,96,Atlanta Hawks,112,0,N
+1979-12-15,1980,Washington Bullets,115,Chicago Bulls,113,1,N
+1979-12-15,1980,New Jersey Nets,111,Cleveland Cavaliers,117,0,N
+1979-12-15,1980,San Antonio Spurs,102,Golden State Warriors,101,0,N
+1979-12-15,1980,Boston Celtics,99,New York Knicks,96,0,N
+1979-12-15,1980,Detroit Pistons,105,Phoenix Suns,126,0,N
+1979-12-15,1980,Denver Nuggets,98,Portland Trail Blazers,106,0,N
+1979-12-16,1980,Indiana Pacers,105,Kansas City Kings,107,0,N
+1979-12-16,1980,San Antonio Spurs,119,Los Angeles Lakers,121,0,N
+1979-12-16,1980,Utah Jazz,79,Milwaukee Bucks,104,0,N
+1979-12-16,1980,Boston Celtics,115,New Jersey Nets,112,1,N
+1979-12-16,1980,Houston Rockets,101,Portland Trail Blazers,123,0,N
+1979-12-16,1980,Detroit Pistons,126,San Diego Clippers,133,0,N
+1979-12-16,1980,Denver Nuggets,121,Seattle SuperSonics,123,0,N
+1979-12-18,1980,Los Angeles Lakers,129,Chicago Bulls,118,0,N
+1979-12-18,1980,Philadelphia 76ers,114,Detroit Pistons,102,0,N
+1979-12-18,1980,San Diego Clippers,96,Kansas City Kings,110,0,N
+1979-12-18,1980,Atlanta Hawks,99,New York Knicks,101,0,N
+1979-12-18,1980,Cleveland Cavaliers,103,Utah Jazz,105,0,N
+1979-12-19,1980,Los Angeles Lakers,112,Atlanta Hawks,119,0,N
+1979-12-19,1980,Philadelphia 76ers,89,Boston Celtics,112,0,N
+1979-12-19,1980,Portland Trail Blazers,106,Denver Nuggets,114,0,N
+1979-12-19,1980,Cleveland Cavaliers,128,Golden State Warriors,125,1,N
+1979-12-19,1980,Chicago Bulls,108,Houston Rockets,102,0,N
+1979-12-19,1980,Utah Jazz,99,Phoenix Suns,117,0,N
+1979-12-19,1980,Indiana Pacers,123,San Antonio Spurs,127,0,N
+1979-12-19,1980,New Jersey Nets,122,Seattle SuperSonics,114,0,N
+1979-12-19,1980,Kansas City Kings,107,Washington Bullets,97,0,N
+1979-12-20,1980,Atlanta Hawks,122,Detroit Pistons,103,0,N
+1979-12-20,1980,Kansas City Kings,109,Milwaukee Bucks,120,0,N
+1979-12-20,1980,New York Knicks,118,San Diego Clippers,128,0,N
+1979-12-21,1980,San Antonio Spurs,114,Boston Celtics,133,0,N
+1979-12-21,1980,Phoenix Suns,127,Chicago Bulls,117,0,N
+1979-12-21,1980,Golden State Warriors,108,Los Angeles Lakers,114,0,N
+1979-12-21,1980,Houston Rockets,106,Philadelphia 76ers,117,0,N
+1979-12-21,1980,New Jersey Nets,97,Portland Trail Blazers,100,0,N
+1979-12-21,1980,New York Knicks,102,Seattle SuperSonics,121,0,N
+1979-12-21,1980,San Diego Clippers,110,Utah Jazz,98,0,N
+1979-12-22,1980,Cleveland Cavaliers,117,Chicago Bulls,126,0,N
+1979-12-22,1980,Los Angeles Lakers,128,Denver Nuggets,130,0,N
+1979-12-22,1980,New Jersey Nets,101,Golden State Warriors,107,0,N
+1979-12-22,1980,Atlanta Hawks,110,Indiana Pacers,130,0,N
+1979-12-22,1980,Phoenix Suns,115,Kansas City Kings,111,0,N
+1979-12-22,1980,Boston Celtics,113,Philadelphia 76ers,126,0,N
+1979-12-22,1980,Detroit Pistons,112,San Antonio Spurs,141,0,N
+1979-12-22,1980,Houston Rockets,114,Washington Bullets,122,0,N
+1979-12-23,1980,Seattle SuperSonics,97,Los Angeles Lakers,102,0,N
+1979-12-23,1980,Milwaukee Bucks,103,Phoenix Suns,106,0,N
+1979-12-23,1980,New York Knicks,111,Portland Trail Blazers,103,0,N
+1979-12-23,1980,Utah Jazz,118,San Diego Clippers,124,1,N
+1979-12-25,1980,Detroit Pistons,101,Cleveland Cavaliers,111,0,N
+1979-12-25,1980,New Jersey Nets,102,New York Knicks,131,0,N
+1979-12-25,1980,Golden State Warriors,91,Portland Trail Blazers,113,0,N
+1979-12-25,1980,Denver Nuggets,111,Utah Jazz,122,0,N
+1979-12-25,1980,Philadelphia 76ers,95,Washington Bullets,92,0,N
+1979-12-26,1980,Golden State Warriors,94,Denver Nuggets,99,0,N
+1979-12-26,1980,Indiana Pacers,98,Detroit Pistons,97,0,N
+1979-12-26,1980,San Antonio Spurs,110,Houston Rockets,143,0,N
+1979-12-26,1980,Los Angeles Lakers,111,Kansas City Kings,118,0,N
+1979-12-26,1980,Chicago Bulls,101,Milwaukee Bucks,110,0,N
+1979-12-26,1980,Washington Bullets,104,New Jersey Nets,116,0,N
+1979-12-26,1980,Portland Trail Blazers,99,Phoenix Suns,119,0,N
+1979-12-26,1980,San Diego Clippers,104,Seattle SuperSonics,124,0,N
+1979-12-27,1980,Houston Rockets,110,Atlanta Hawks,112,0,N
+1979-12-27,1980,New York Knicks,110,Cleveland Cavaliers,125,0,N
+1979-12-27,1980,Philadelphia 76ers,118,San Antonio Spurs,114,0,N
+1979-12-27,1980,Boston Celtics,118,San Diego Clippers,97,0,N
+1979-12-27,1980,Los Angeles Lakers,124,Utah Jazz,116,0,N
+1979-12-27,1980,Milwaukee Bucks,108,Washington Bullets,117,0,N
+1979-12-28,1980,New York Knicks,120,Chicago Bulls,102,0,N
+1979-12-28,1980,Denver Nuggets,98,Detroit Pistons,114,0,N
+1979-12-28,1980,Boston Celtics,105,Los Angeles Lakers,123,0,N
+1979-12-28,1980,Indiana Pacers,101,New Jersey Nets,116,0,N
+1979-12-28,1980,Kansas City Kings,112,Phoenix Suns,118,0,N
+1979-12-28,1980,Portland Trail Blazers,97,Seattle SuperSonics,126,0,N
+1979-12-29,1980,Detroit Pistons,104,Atlanta Hawks,115,0,N
+1979-12-29,1980,Denver Nuggets,106,Cleveland Cavaliers,124,0,N
+1979-12-29,1980,Boston Celtics,104,Golden State Warriors,88,0,N
+1979-12-29,1980,Philadelphia 76ers,100,Houston Rockets,104,0,N
+1979-12-29,1980,Utah Jazz,116,Indiana Pacers,114,0,N
+1979-12-29,1980,Milwaukee Bucks,105,New York Knicks,117,0,N
+1979-12-29,1980,Kansas City Kings,125,San Antonio Spurs,127,1,N
+1979-12-29,1980,San Diego Clippers,93,Washington Bullets,90,0,N
+1979-12-30,1980,Phoenix Suns,105,Los Angeles Lakers,113,0,N
+1979-12-30,1980,Utah Jazz,95,Milwaukee Bucks,88,0,N
+1979-12-30,1980,Seattle SuperSonics,107,Portland Trail Blazers,100,0,N
+1980-01-01,1980,San Antonio Spurs,120,New York Knicks,128,0,N
+1980-01-01,1980,Washington Bullets,99,Portland Trail Blazers,109,0,N
+1980-01-02,1980,Detroit Pistons,116,Denver Nuggets,135,0,N
+1980-01-02,1980,Portland Trail Blazers,92,Golden State Warriors,111,0,N
+1980-01-02,1980,Boston Celtics,111,Houston Rockets,103,0,N
+1980-01-02,1980,Los Angeles Lakers,127,Indiana Pacers,120,0,N
+1980-01-02,1980,San Diego Clippers,103,New Jersey Nets,97,0,N
+1980-01-02,1980,Phoenix Suns,109,San Antonio Spurs,118,0,N
+1980-01-02,1980,Washington Bullets,139,Seattle SuperSonics,134,2,N
+1980-01-02,1980,Kansas City Kings,128,Utah Jazz,121,1,N
+1980-01-03,1980,New Jersey Nets,126,Atlanta Hawks,119,0,N
+1980-01-03,1980,Philadelphia 76ers,109,Cleveland Cavaliers,108,0,N
+1980-01-03,1980,Indiana Pacers,96,Milwaukee Bucks,106,0,N
+1980-01-03,1980,San Diego Clippers,101,New York Knicks,138,0,N
+1980-01-04,1980,San Diego Clippers,118,Chicago Bulls,121,0,N
+1980-01-04,1980,Washington Bullets,117,Golden State Warriors,105,0,N
+1980-01-04,1980,San Antonio Spurs,106,Kansas City Kings,115,0,N
+1980-01-04,1980,Houston Rockets,101,New Jersey Nets,104,0,N
+1980-01-04,1980,Utah Jazz,97,Portland Trail Blazers,115,0,N
+1980-01-04,1980,Detroit Pistons,105,Seattle SuperSonics,123,0,N
+1980-01-05,1980,Kansas City Kings,112,Atlanta Hawks,107,0,N
+1980-01-05,1980,Milwaukee Bucks,99,Cleveland Cavaliers,98,0,N
+1980-01-05,1980,Indiana Pacers,105,Denver Nuggets,111,0,N
+1980-01-05,1980,Seattle SuperSonics,121,Golden State Warriors,112,0,N
+1980-01-05,1980,Phoenix Suns,110,Houston Rockets,111,0,N
+1980-01-05,1980,Chicago Bulls,117,New York Knicks,124,0,N
+1980-01-05,1980,Boston Celtics,111,San Antonio Spurs,119,0,N
+1980-01-05,1980,Washington Bullets,108,Utah Jazz,107,0,N
+1980-01-06,1980,Denver Nuggets,101,Kansas City Kings,120,0,N
+1980-01-06,1980,Los Angeles Lakers,103,Milwaukee Bucks,113,0,N
+1980-01-06,1980,Cleveland Cavaliers,100,New Jersey Nets,108,0,N
+1980-01-06,1980,Detroit Pistons,102,Portland Trail Blazers,119,0,N
+1980-01-06,1980,Seattle SuperSonics,103,San Diego Clippers,105,0,N
+1980-01-08,1980,Milwaukee Bucks,102,Chicago Bulls,110,0,N
+1980-01-08,1980,Houston Rockets,118,Cleveland Cavaliers,115,1,N
+1980-01-08,1980,San Diego Clippers,124,Kansas City Kings,116,0,N
+1980-01-08,1980,Philadelphia 76ers,111,New York Knicks,108,0,N
+1980-01-08,1980,Indiana Pacers,122,Portland Trail Blazers,118,0,N
+1980-01-08,1980,Denver Nuggets,134,San Antonio Spurs,137,0,N
+1980-01-08,1980,Detroit Pistons,110,Utah Jazz,124,0,N
+1980-01-09,1980,Cleveland Cavaliers,107,Atlanta Hawks,111,0,N
+1980-01-09,1980,New York Knicks,95,Boston Celtics,112,0,N
+1980-01-09,1980,Denver Nuggets,112,Houston Rockets,114,0,N
+1980-01-09,1980,San Diego Clippers,111,Milwaukee Bucks,107,0,N
+1980-01-09,1980,New Jersey Nets,105,Philadelphia 76ers,108,0,N
+1980-01-09,1980,Golden State Warriors,100,Phoenix Suns,113,0,N
+1980-01-09,1980,Indiana Pacers,111,Seattle SuperSonics,120,0,N
+1980-01-09,1980,Los Angeles Lakers,101,Washington Bullets,103,0,N
+1980-01-10,1980,Chicago Bulls,83,Kansas City Kings,104,0,N
+1980-01-11,1980,Atlanta Hawks,93,Boston Celtics,108,0,N
+1980-01-11,1980,Indiana Pacers,110,Chicago Bulls,105,0,N
+1980-01-11,1980,Los Angeles Lakers,123,Detroit Pistons,100,0,N
+1980-01-11,1980,Denver Nuggets,99,Kansas City Kings,112,0,N
+1980-01-11,1980,New York Knicks,107,Milwaukee Bucks,109,0,N
+1980-01-11,1980,Portland Trail Blazers,128,New Jersey Nets,107,0,N
+1980-01-11,1980,Washington Bullets,106,Philadelphia 76ers,119,0,N
+1980-01-11,1980,Cleveland Cavaliers,109,San Antonio Spurs,116,0,N
+1980-01-11,1980,Golden State Warriors,112,San Diego Clippers,116,0,N
+1980-01-11,1980,Utah Jazz,90,Seattle SuperSonics,100,0,N
+1980-01-12,1980,San Antonio Spurs,101,Atlanta Hawks,120,0,N
+1980-01-12,1980,Seattle SuperSonics,105,Denver Nuggets,102,0,N
+1980-01-12,1980,Phoenix Suns,96,Golden State Warriors,107,0,N
+1980-01-12,1980,Cleveland Cavaliers,96,Houston Rockets,112,0,N
+1980-01-12,1980,Detroit Pistons,109,Indiana Pacers,122,0,N
+1980-01-12,1980,Utah Jazz,102,San Diego Clippers,119,0,N
+1980-01-13,1980,Los Angeles Lakers,100,Boston Celtics,98,0,N
+1980-01-13,1980,Chicago Bulls,102,Detroit Pistons,107,0,N
+1980-01-13,1980,New Jersey Nets,101,Kansas City Kings,120,0,N
+1980-01-13,1980,Houston Rockets,121,Milwaukee Bucks,117,0,N
+1980-01-13,1980,New York Knicks,112,Philadelphia 76ers,126,0,N
+1980-01-13,1980,Utah Jazz,103,Phoenix Suns,106,0,N
+1980-01-13,1980,Atlanta Hawks,107,San Antonio Spurs,104,0,N
+1980-01-13,1980,Golden State Warriors,101,Seattle SuperSonics,109,0,N
+1980-01-13,1980,Portland Trail Blazers,95,Washington Bullets,127,0,N
+1980-01-15,1980,Kansas City Kings,109,Chicago Bulls,111,0,N
+1980-01-15,1980,Phoenix Suns,107,Denver Nuggets,99,0,N
+1980-01-15,1980,Utah Jazz,99,Los Angeles Lakers,112,0,N
+1980-01-15,1980,Cleveland Cavaliers,129,New York Knicks,110,0,N
+1980-01-15,1980,New Jersey Nets,119,San Antonio Spurs,123,0,N
+1980-01-15,1980,Seattle SuperSonics,120,Washington Bullets,100,0,N
+1980-01-16,1980,Chicago Bulls,104,Boston Celtics,114,0,N
+1980-01-16,1980,Los Angeles Lakers,97,Golden State Warriors,96,0,N
+1980-01-16,1980,New Jersey Nets,122,Houston Rockets,112,0,N
+1980-01-16,1980,Denver Nuggets,99,Indiana Pacers,117,0,N
+1980-01-16,1980,Kansas City Kings,112,Milwaukee Bucks,108,0,N
+1980-01-16,1980,Portland Trail Blazers,110,Philadelphia 76ers,121,0,N
+1980-01-16,1980,Atlanta Hawks,108,San Diego Clippers,111,0,N
+1980-01-16,1980,Phoenix Suns,115,Utah Jazz,108,0,N
+1980-01-17,1980,San Antonio Spurs,112,Cleveland Cavaliers,116,0,N
+1980-01-17,1980,Washington Bullets,107,Detroit Pistons,110,0,N
+1980-01-17,1980,Atlanta Hawks,99,Phoenix Suns,101,0,N
+1980-01-18,1980,Portland Trail Blazers,93,Boston Celtics,111,0,N
+1980-01-18,1980,Utah Jazz,107,Chicago Bulls,102,0,N
+1980-01-18,1980,San Diego Clippers,91,Golden State Warriors,92,0,N
+1980-01-18,1980,Washington Bullets,111,Houston Rockets,134,0,N
+1980-01-18,1980,Atlanta Hawks,102,Los Angeles Lakers,108,0,N
+1980-01-18,1980,Denver Nuggets,120,Milwaukee Bucks,111,0,N
+1980-01-18,1980,Philadelphia 76ers,112,New Jersey Nets,105,0,N
+1980-01-18,1980,Seattle SuperSonics,124,New York Knicks,117,0,N
+1980-01-19,1980,Denver Nuggets,108,Chicago Bulls,117,0,N
+1980-01-19,1980,Houston Rockets,110,Detroit Pistons,122,0,N
+1980-01-19,1980,Kansas City Kings,103,Indiana Pacers,108,0,N
+1980-01-19,1980,Cleveland Cavaliers,107,Philadelphia 76ers,111,0,N
+1980-01-19,1980,San Diego Clippers,123,Phoenix Suns,137,0,N
+1980-01-19,1980,Washington Bullets,117,San Antonio Spurs,130,0,N
+1980-01-19,1980,Golden State Warriors,99,Utah Jazz,116,0,N
+1980-01-20,1980,Seattle SuperSonics,108,Boston Celtics,106,2,N
+1980-01-20,1980,Portland Trail Blazers,88,Milwaukee Bucks,89,0,N
+1980-01-21,1980,New York Knicks,114,Los Angeles Lakers,132,0,N
+1980-01-22,1980,Houston Rockets,106,Boston Celtics,112,0,N
+1980-01-22,1980,Detroit Pistons,131,Chicago Bulls,145,0,N
+1980-01-22,1980,Washington Bullets,91,Cleveland Cavaliers,114,0,N
+1980-01-22,1980,Atlanta Hawks,89,Kansas City Kings,101,0,N
+1980-01-22,1980,San Diego Clippers,109,San Antonio Spurs,129,0,N
+1980-01-22,1980,Milwaukee Bucks,122,Utah Jazz,127,1,N
+1980-01-23,1980,Seattle SuperSonics,98,Atlanta Hawks,96,0,N
+1980-01-23,1980,Philadelphia 76ers,118,Denver Nuggets,93,0,N
+1980-01-23,1980,Boston Celtics,131,Detroit Pistons,104,0,N
+1980-01-23,1980,Milwaukee Bucks,104,Golden State Warriors,102,0,N
+1980-01-23,1980,San Diego Clippers,110,Houston Rockets,111,2,N
+1980-01-23,1980,San Antonio Spurs,144,Indiana Pacers,130,0,N
+1980-01-23,1980,Cleveland Cavaliers,103,New Jersey Nets,117,0,N
+1980-01-23,1980,New York Knicks,119,Phoenix Suns,109,0,N
+1980-01-24,1980,Los Angeles Lakers,103,Portland Trail Blazers,111,0,N
+1980-01-24,1980,Kansas City Kings,110,Utah Jazz,88,0,N
+1980-01-24,1980,New Jersey Nets,98,Washington Bullets,87,0,N
+1980-01-25,1980,Washington Bullets,118,Boston Celtics,107,0,N
+1980-01-25,1980,Kansas City Kings,107,Chicago Bulls,113,1,N
+1980-01-25,1980,New York Knicks,110,Golden State Warriors,105,0,N
+1980-01-25,1980,San Diego Clippers,117,Indiana Pacers,139,0,N
+1980-01-25,1980,Philadelphia 76ers,103,Los Angeles Lakers,124,0,N
+1980-01-25,1980,Detroit Pistons,119,New Jersey Nets,116,0,N
+1980-01-25,1980,Milwaukee Bucks,96,Phoenix Suns,110,0,N
+1980-01-25,1980,Seattle SuperSonics,116,San Antonio Spurs,125,0,N
+1980-01-26,1980,Chicago Bulls,104,Atlanta Hawks,109,0,N
+1980-01-26,1980,Indiana Pacers,115,Cleveland Cavaliers,114,0,N
+1980-01-26,1980,Portland Trail Blazers,96,Denver Nuggets,100,0,N
+1980-01-26,1980,Seattle SuperSonics,111,Houston Rockets,123,0,N
+1980-01-26,1980,Utah Jazz,107,Kansas City Kings,112,0,N
+1980-01-27,1980,San Diego Clippers,108,Boston Celtics,131,0,N
+1980-01-27,1980,New York Knicks,98,Detroit Pistons,93,0,N
+1980-01-27,1980,Cleveland Cavaliers,121,Indiana Pacers,123,0,N
+1980-01-27,1980,Milwaukee Bucks,102,Los Angeles Lakers,112,0,N
+1980-01-27,1980,Chicago Bulls,127,New Jersey Nets,128,0,N
+1980-01-27,1980,Philadelphia 76ers,118,Phoenix Suns,125,0,N
+1980-01-27,1980,Atlanta Hawks,118,San Antonio Spurs,111,0,N
+1980-01-27,1980,Golden State Warriors,107,Washington Bullets,116,0,N
+1980-01-28,1980,Golden State Warriors,103,New York Knicks,107,0,N
+1980-01-28,1980,Philadelphia 76ers,101,Utah Jazz,107,0,N
+1980-01-29,1980,Washington Bullets,82,Atlanta Hawks,98,0,N
+1980-01-29,1980,Boston Celtics,103,Chicago Bulls,99,0,N
+1980-01-29,1980,Los Angeles Lakers,153,Cleveland Cavaliers,154,4,N
+1980-01-29,1980,Kansas City Kings,121,Denver Nuggets,111,0,N
+1980-01-29,1980,Golden State Warriors,111,Detroit Pistons,100,0,N
+1980-01-29,1980,Houston Rockets,112,Indiana Pacers,133,0,N
+1980-01-29,1980,Milwaukee Bucks,103,Portland Trail Blazers,96,0,N
+1980-01-29,1980,Phoenix Suns,121,San Diego Clippers,133,0,N
+1980-01-30,1980,Cleveland Cavaliers,103,Boston Celtics,110,0,N
+1980-01-30,1980,San Antonio Spurs,118,Houston Rockets,111,0,N
+1980-01-30,1980,Detroit Pistons,108,Philadelphia 76ers,121,0,N
+1980-01-30,1980,Denver Nuggets,114,Phoenix Suns,122,0,N
+1980-01-30,1980,Kansas City Kings,99,Seattle SuperSonics,97,0,N
+1980-01-30,1980,New Jersey Nets,100,Utah Jazz,102,0,N
+1980-01-30,1980,Indiana Pacers,119,Washington Bullets,120,0,N
+1980-01-31,1980,Golden State Warriors,107,Atlanta Hawks,111,1,N
+1980-01-31,1980,Los Angeles Lakers,107,Chicago Bulls,97,0,N
+1980-01-31,1980,New Jersey Nets,126,Denver Nuggets,127,0,N
+1980-01-31,1980,Philadelphia 76ers,110,Houston Rockets,105,0,N
+1980-01-31,1980,New York Knicks,112,Indiana Pacers,102,0,N
+1980-01-31,1980,Kansas City Kings,93,Portland Trail Blazers,94,0,N
+1980-01-31,1980,Milwaukee Bucks,101,Seattle SuperSonics,105,0,N
+1980-01-31,1980,Boston Celtics,119,Washington Bullets,103,0,N
+1980-02-05,1980,Seattle SuperSonics,123,Cleveland Cavaliers,121,0,N
+1980-02-05,1980,Philadelphia 76ers,109,Indiana Pacers,108,0,N
+1980-02-05,1980,Portland Trail Blazers,105,Kansas City Kings,99,0,N
+1980-02-05,1980,Los Angeles Lakers,116,New York Knicks,105,0,N
+1980-02-05,1980,New Jersey Nets,123,San Antonio Spurs,115,0,N
+1980-02-05,1980,Chicago Bulls,106,Utah Jazz,116,0,N
+1980-02-06,1980,Philadelphia 76ers,110,Boston Celtics,129,0,N
+1980-02-06,1980,Chicago Bulls,111,Denver Nuggets,122,0,N
+1980-02-06,1980,San Diego Clippers,92,Golden State Warriors,117,0,N
+1980-02-06,1980,New Jersey Nets,114,Houston Rockets,115,0,N
+1980-02-06,1980,Cleveland Cavaliers,109,Milwaukee Bucks,111,0,N
+1980-02-06,1980,Kansas City Kings,95,Phoenix Suns,97,0,N
+1980-02-07,1980,Seattle SuperSonics,119,Detroit Pistons,102,0,N
+1980-02-07,1980,Washington Bullets,104,Indiana Pacers,134,0,N
+1980-02-07,1980,Atlanta Hawks,92,Utah Jazz,90,0,N
+1980-02-08,1980,Indiana Pacers,108,Boston Celtics,130,0,N
+1980-02-08,1980,Phoenix Suns,113,Chicago Bulls,109,0,N
+1980-02-08,1980,Kansas City Kings,107,Golden State Warriors,100,0,N
+1980-02-08,1980,Cleveland Cavaliers,104,Houston Rockets,105,0,N
+1980-02-08,1980,Washington Bullets,90,Milwaukee Bucks,115,0,N
+1980-02-08,1980,Los Angeles Lakers,125,New Jersey Nets,120,1,N
+1980-02-08,1980,Seattle SuperSonics,109,Philadelphia 76ers,94,0,N
+1980-02-08,1980,Portland Trail Blazers,104,San Diego Clippers,118,0,N
+1980-02-09,1980,San Diego Clippers,104,Denver Nuggets,123,0,N
+1980-02-09,1980,Utah Jazz,95,Houston Rockets,117,0,N
+1980-02-09,1980,San Antonio Spurs,127,Indiana Pacers,131,0,N
+1980-02-09,1980,Detroit Pistons,107,New York Knicks,114,0,N
+1980-02-10,1980,Detroit Pistons,111,Boston Celtics,128,0,N
+1980-02-10,1980,Chicago Bulls,123,Cleveland Cavaliers,117,0,N
+1980-02-10,1980,Atlanta Hawks,98,Golden State Warriors,96,1,N
+1980-02-10,1980,Washington Bullets,106,Kansas City Kings,108,1,N
+1980-02-10,1980,Phoenix Suns,107,Milwaukee Bucks,109,0,N
+1980-02-10,1980,Seattle SuperSonics,122,New Jersey Nets,107,0,N
+1980-02-10,1980,Los Angeles Lakers,104,Philadelphia 76ers,105,0,N
+1980-02-10,1980,Utah Jazz,128,San Antonio Spurs,148,0,N
+1980-02-12,1980,Golden State Warriors,94,Chicago Bulls,100,0,N
+1980-02-12,1980,Washington Bullets,128,Denver Nuggets,111,0,N
+1980-02-12,1980,Atlanta Hawks,95,Portland Trail Blazers,89,0,N
+1980-02-12,1980,Houston Rockets,120,San Antonio Spurs,118,0,N
+1980-02-13,1980,Cleveland Cavaliers,107,Detroit Pistons,102,0,N
+1980-02-13,1980,New York Knicks,117,Houston Rockets,122,0,N
+1980-02-13,1980,New Jersey Nets,98,Indiana Pacers,96,0,N
+1980-02-13,1980,Portland Trail Blazers,103,Los Angeles Lakers,129,0,N
+1980-02-13,1980,Chicago Bulls,101,Milwaukee Bucks,111,0,N
+1980-02-13,1980,Utah Jazz,85,Philadelphia 76ers,107,0,N
+1980-02-13,1980,Boston Celtics,134,Phoenix Suns,135,0,N
+1980-02-13,1980,Washington Bullets,108,San Diego Clippers,103,0,N
+1980-02-13,1980,Atlanta Hawks,86,Seattle SuperSonics,93,0,N
+1980-02-14,1980,Indiana Pacers,118,Cleveland Cavaliers,114,0,N
+1980-02-14,1980,Golden State Warriors,103,Milwaukee Bucks,120,0,N
+1980-02-14,1980,Utah Jazz,96,New Jersey Nets,137,0,N
+1980-02-14,1980,New York Knicks,128,San Antonio Spurs,124,0,N
+1980-02-14,1980,Denver Nuggets,84,Seattle SuperSonics,93,0,N
+1980-02-15,1980,San Antonio Spurs,131,Chicago Bulls,124,0,N
+1980-02-15,1980,Atlanta Hawks,98,Denver Nuggets,111,0,N
+1980-02-15,1980,Philadelphia 76ers,114,Detroit Pistons,104,0,N
+1980-02-15,1980,Milwaukee Bucks,114,Houston Rockets,103,0,N
+1980-02-15,1980,Golden State Warriors,118,Indiana Pacers,107,0,N
+1980-02-15,1980,Kansas City Kings,100,Los Angeles Lakers,114,0,N
+1980-02-15,1980,Washington Bullets,104,Phoenix Suns,116,0,N
+1980-02-15,1980,Boston Celtics,106,Portland Trail Blazers,91,0,N
+1980-02-16,1980,Detroit Pistons,104,Cleveland Cavaliers,123,0,N
+1980-02-16,1980,Utah Jazz,121,New York Knicks,102,0,N
+1980-02-16,1980,Chicago Bulls,92,Philadelphia 76ers,100,0,N
+1980-02-17,1980,Houston Rockets,99,Denver Nuggets,112,0,N
+1980-02-17,1980,Atlanta Hawks,108,Detroit Pistons,99,0,N
+1980-02-17,1980,Chicago Bulls,100,Indiana Pacers,108,0,N
+1980-02-17,1980,Washington Bullets,107,Los Angeles Lakers,111,0,N
+1980-02-17,1980,Cleveland Cavaliers,100,Philadelphia 76ers,115,0,N
+1980-02-17,1980,New Jersey Nets,98,Phoenix Suns,128,0,N
+1980-02-17,1980,Golden State Warriors,98,Portland Trail Blazers,103,0,N
+1980-02-17,1980,Milwaukee Bucks,134,San Antonio Spurs,135,0,N
+1980-02-17,1980,Kansas City Kings,108,San Diego Clippers,107,0,N
+1980-02-17,1980,Boston Celtics,108,Seattle SuperSonics,109,0,N
+1980-02-19,1980,Seattle SuperSonics,106,Chicago Bulls,115,0,N
+1980-02-19,1980,Phoenix Suns,109,Cleveland Cavaliers,128,0,N
+1980-02-19,1980,Portland Trail Blazers,103,New York Knicks,113,0,N
+1980-02-19,1980,New Jersey Nets,123,San Diego Clippers,113,0,N
+1980-02-20,1980,Milwaukee Bucks,103,Atlanta Hawks,106,0,N
+1980-02-20,1980,Los Angeles Lakers,116,Denver Nuggets,103,0,N
+1980-02-20,1980,Houston Rockets,102,Golden State Warriors,115,0,N
+1980-02-20,1980,New York Knicks,86,Indiana Pacers,131,0,N
+1980-02-20,1980,Seattle SuperSonics,105,Kansas City Kings,107,0,N
+1980-02-20,1980,Chicago Bulls,117,San Antonio Spurs,125,0,N
+1980-02-20,1980,Boston Celtics,105,Utah Jazz,98,0,N
+1980-02-21,1980,Phoenix Suns,125,Detroit Pistons,116,0,N
+1980-02-21,1980,Philadelphia 76ers,99,San Diego Clippers,104,0,N
+1980-02-21,1980,Cleveland Cavaliers,115,Washington Bullets,118,0,N
+1980-02-22,1980,Phoenix Suns,104,Atlanta Hawks,111,0,N
+1980-02-22,1980,Denver Nuggets,122,Golden State Warriors,121,1,N
+1980-02-22,1980,New Jersey Nets,110,Los Angeles Lakers,132,0,N
+1980-02-22,1980,Houston Rockets,94,Utah Jazz,82,0,N
+1980-02-22,1980,San Antonio Spurs,117,Washington Bullets,123,0,N
+1980-02-23,1980,Boston Celtics,124,Denver Nuggets,105,0,N
+1980-02-23,1980,Portland Trail Blazers,130,Detroit Pistons,107,0,N
+1980-02-23,1980,Cleveland Cavaliers,112,New York Knicks,127,0,N
+1980-02-23,1980,Seattle SuperSonics,105,Utah Jazz,95,0,N
+1980-02-24,1980,San Diego Clippers,102,Chicago Bulls,110,0,N
+1980-02-24,1980,Portland Trail Blazers,115,Cleveland Cavaliers,100,0,N
+1980-02-24,1980,Philadelphia 76ers,103,Golden State Warriors,100,0,N
+1980-02-24,1980,Phoenix Suns,113,Indiana Pacers,105,0,N
+1980-02-24,1980,Milwaukee Bucks,94,Kansas City Kings,72,0,N
+1980-02-24,1980,Houston Rockets,100,Los Angeles Lakers,112,0,N
+1980-02-24,1980,San Antonio Spurs,123,New Jersey Nets,129,0,N
+1980-02-24,1980,New York Knicks,97,Washington Bullets,112,0,N
+1980-02-26,1980,Atlanta Hawks,97,Boston Celtics,108,0,N
+1980-02-26,1980,Utah Jazz,85,Chicago Bulls,105,0,N
+1980-02-26,1980,Phoenix Suns,112,Denver Nuggets,121,0,N
+1980-02-26,1980,Indiana Pacers,88,Houston Rockets,93,0,N
+1980-02-26,1980,Golden State Warriors,99,Kansas City Kings,117,0,N
+1980-02-26,1980,Seattle SuperSonics,108,Los Angeles Lakers,131,0,N
+1980-02-26,1980,San Diego Clippers,88,Milwaukee Bucks,122,0,N
+1980-02-26,1980,Philadelphia 76ers,98,Portland Trail Blazers,96,0,N
+1980-02-27,1980,Indiana Pacers,111,Atlanta Hawks,116,0,N
+1980-02-27,1980,San Antonio Spurs,125,Boston Celtics,130,0,N
+1980-02-27,1980,San Diego Clippers,129,Detroit Pistons,113,0,N
+1980-02-27,1980,Washington Bullets,97,Houston Rockets,110,0,N
+1980-02-27,1980,Golden State Warriors,133,New Jersey Nets,120,0,N
+1980-02-27,1980,Milwaukee Bucks,119,Phoenix Suns,110,1,N
+1980-02-27,1980,Philadelphia 76ers,101,Seattle SuperSonics,98,1,N
+1980-02-28,1980,San Antonio Spurs,124,New York Knicks,133,0,N
+1980-02-28,1980,Phoenix Suns,111,Utah Jazz,101,0,N
+1980-02-28,1980,Houston Rockets,99,Washington Bullets,105,0,N
+1980-02-29,1980,Cleveland Cavaliers,103,Atlanta Hawks,111,1,N
+1980-02-29,1980,Golden State Warriors,99,Boston Celtics,110,0,N
+1980-02-29,1980,New Jersey Nets,128,Detroit Pistons,137,1,N
+1980-02-29,1980,San Diego Clippers,93,Kansas City Kings,98,0,N
+1980-02-29,1980,Milwaukee Bucks,126,Los Angeles Lakers,117,1,N
+1980-02-29,1980,Denver Nuggets,103,Philadelphia 76ers,104,0,N
+1980-02-29,1980,Utah Jazz,91,Portland Trail Blazers,87,0,N
+1980-02-29,1980,Chicago Bulls,101,Seattle SuperSonics,108,0,N
+1980-03-01,1980,New Jersey Nets,108,New York Knicks,115,0,N
+1980-03-02,1980,Denver Nuggets,93,Atlanta Hawks,100,0,N
+1980-03-02,1980,Detroit Pistons,115,Boston Celtics,118,0,N
+1980-03-02,1980,Kansas City Kings,94,Houston Rockets,91,0,N
+1980-03-02,1980,New York Knicks,96,New Jersey Nets,113,0,N
+1980-03-02,1980,Golden State Warriors,99,Philadelphia 76ers,144,0,N
+1980-03-02,1980,Los Angeles Lakers,115,Phoenix Suns,123,0,N
+1980-03-02,1980,Chicago Bulls,107,Portland Trail Blazers,110,0,N
+1980-03-02,1980,Cleveland Cavaliers,123,San Antonio Spurs,119,0,N
+1980-03-02,1980,Milwaukee Bucks,101,San Diego Clippers,98,0,N
+1980-03-02,1980,Utah Jazz,91,Seattle SuperSonics,103,0,N
+1980-03-02,1980,Indiana Pacers,104,Washington Bullets,118,0,N
+1980-03-04,1980,Houston Rockets,93,Atlanta Hawks,83,0,N
+1980-03-04,1980,Los Angeles Lakers,127,Milwaukee Bucks,124,0,N
+1980-03-04,1980,Indiana Pacers,109,New Jersey Nets,114,0,N
+1980-03-04,1980,Seattle SuperSonics,98,Portland Trail Blazers,97,0,N
+1980-03-04,1980,Boston Celtics,137,San Antonio Spurs,108,0,N
+1980-03-04,1980,Cleveland Cavaliers,105,San Diego Clippers,116,0,N
+1980-03-04,1980,Golden State Warriors,111,Utah Jazz,105,0,N
+1980-03-04,1980,Detroit Pistons,107,Washington Bullets,135,0,N
+1980-03-05,1980,Milwaukee Bucks,109,Denver Nuggets,112,0,N
+1980-03-05,1980,New York Knicks,113,Detroit Pistons,120,0,N
+1980-03-05,1980,Chicago Bulls,106,Golden State Warriors,105,0,N
+1980-03-05,1980,Boston Celtics,103,Houston Rockets,99,1,N
+1980-03-05,1980,Los Angeles Lakers,117,Kansas City Kings,101,0,N
+1980-03-05,1980,Indiana Pacers,113,Philadelphia 76ers,120,0,N
+1980-03-05,1980,Seattle SuperSonics,111,Phoenix Suns,127,0,N
+1980-03-06,1980,Portland Trail Blazers,110,Utah Jazz,117,0,N
+1980-03-06,1980,New Jersey Nets,122,Washington Bullets,96,0,N
+1980-03-07,1980,Philadelphia 76ers,92,Boston Celtics,111,0,N
+1980-03-07,1980,Washington Bullets,106,Detroit Pistons,105,0,N
+1980-03-07,1980,Atlanta Hawks,99,Indiana Pacers,94,0,N
+1980-03-07,1980,Cleveland Cavaliers,111,Kansas City Kings,104,0,N
+1980-03-07,1980,Chicago Bulls,99,Los Angeles Lakers,101,0,N
+1980-03-07,1980,Houston Rockets,111,New Jersey Nets,110,2,N
+1980-03-07,1980,Utah Jazz,94,Phoenix Suns,110,0,N
+1980-03-07,1980,Denver Nuggets,104,Portland Trail Blazers,113,0,N
+1980-03-07,1980,New York Knicks,118,San Antonio Spurs,112,0,N
+1980-03-08,1980,Seattle SuperSonics,104,Denver Nuggets,97,0,N
+1980-03-08,1980,Milwaukee Bucks,105,Golden State Warriors,80,0,N
+1980-03-08,1980,Atlanta Hawks,97,Houston Rockets,79,0,N
+1980-03-08,1980,Detroit Pistons,104,New York Knicks,110,0,N
+1980-03-08,1980,San Diego Clippers,113,Utah Jazz,98,0,N
+1980-03-09,1980,New York Knicks,92,Atlanta Hawks,98,0,N
+1980-03-09,1980,Washington Bullets,133,Boston Celtics,128,1,N
+1980-03-09,1980,Cleveland Cavaliers,113,Indiana Pacers,107,0,N
+1980-03-09,1980,Seattle SuperSonics,93,Kansas City Kings,113,0,N
+1980-03-09,1980,Detroit Pistons,100,New Jersey Nets,140,0,N
+1980-03-09,1980,Chicago Bulls,103,Phoenix Suns,113,1,N
+1980-03-09,1980,Los Angeles Lakers,121,Portland Trail Blazers,142,0,N
+1980-03-09,1980,Philadelphia 76ers,134,San Antonio Spurs,118,0,N
+1980-03-09,1980,Golden State Warriors,125,San Diego Clippers,107,0,N
+1980-03-11,1980,Philadelphia 76ers,102,Atlanta Hawks,97,1,N
+1980-03-11,1980,Kansas City Kings,98,Chicago Bulls,100,0,N
+1980-03-11,1980,New Jersey Nets,119,Cleveland Cavaliers,122,0,N
+1980-03-11,1980,Golden State Warriors,87,Denver Nuggets,96,0,N
+1980-03-11,1980,Boston Celtics,108,Indiana Pacers,114,0,N
+1980-03-11,1980,Houston Rockets,109,New York Knicks,129,0,N
+1980-03-11,1980,Los Angeles Lakers,123,San Diego Clippers,106,0,N
+1980-03-11,1980,San Antonio Spurs,111,Washington Bullets,104,0,N
+1980-03-12,1980,Houston Rockets,105,Boston Celtics,121,0,N
+1980-03-12,1980,New Jersey Nets,137,Detroit Pistons,119,0,N
+1980-03-12,1980,Phoenix Suns,122,Golden State Warriors,113,0,N
+1980-03-12,1980,Portland Trail Blazers,94,Los Angeles Lakers,102,0,N
+1980-03-12,1980,Seattle SuperSonics,103,Milwaukee Bucks,112,0,N
+1980-03-12,1980,Washington Bullets,98,Philadelphia 76ers,105,0,N
+1980-03-13,1980,Indiana Pacers,107,New York Knicks,100,0,N
+1980-03-13,1980,Denver Nuggets,102,San Diego Clippers,116,0,N
+1980-03-14,1980,Boston Celtics,87,Atlanta Hawks,88,0,N
+1980-03-14,1980,Seattle SuperSonics,122,Chicago Bulls,101,0,N
+1980-03-14,1980,San Antonio Spurs,113,Detroit Pistons,102,0,N
+1980-03-14,1980,Philadelphia 76ers,94,Indiana Pacers,104,0,N
+1980-03-14,1980,Denver Nuggets,126,Los Angeles Lakers,132,0,N
+1980-03-14,1980,Portland Trail Blazers,110,Milwaukee Bucks,120,0,N
+1980-03-14,1980,Houston Rockets,85,Washington Bullets,92,0,N
+1980-03-15,1980,Portland Trail Blazers,108,Chicago Bulls,110,0,N
+1980-03-15,1980,San Antonio Spurs,98,Cleveland Cavaliers,100,0,N
+1980-03-15,1980,Boston Celtics,123,New York Knicks,120,0,N
+1980-03-15,1980,Phoenix Suns,109,San Diego Clippers,120,0,N
+1980-03-16,1980,Indiana Pacers,90,Atlanta Hawks,95,0,N
+1980-03-16,1980,Philadelphia 76ers,109,Cleveland Cavaliers,123,0,N
+1980-03-16,1980,San Diego Clippers,107,Denver Nuggets,127,0,N
+1980-03-16,1980,Houston Rockets,102,Detroit Pistons,99,0,N
+1980-03-16,1980,Utah Jazz,103,Golden State Warriors,115,0,N
+1980-03-16,1980,Phoenix Suns,106,Los Angeles Lakers,128,0,N
+1980-03-16,1980,Kansas City Kings,121,Milwaukee Bucks,128,0,N
+1980-03-16,1980,San Antonio Spurs,120,New Jersey Nets,107,0,N
+1980-03-16,1980,New York Knicks,133,Washington Bullets,124,0,N
+1980-03-17,1980,Boston Celtics,117,New Jersey Nets,92,0,N
+1980-03-17,1980,Detroit Pistons,109,Philadelphia 76ers,123,0,N
+1980-03-18,1980,Indiana Pacers,102,Boston Celtics,114,0,N
+1980-03-18,1980,Utah Jazz,94,Denver Nuggets,96,0,N
+1980-03-18,1980,Cleveland Cavaliers,108,Detroit Pistons,107,1,N
+1980-03-18,1980,Phoenix Suns,112,Kansas City Kings,109,0,N
+1980-03-18,1980,Golden State Warriors,100,Los Angeles Lakers,113,0,N
+1980-03-18,1980,Atlanta Hawks,110,New York Knicks,111,0,N
+1980-03-18,1980,Milwaukee Bucks,122,Portland Trail Blazers,123,0,N
+1980-03-18,1980,Washington Bullets,94,San Antonio Spurs,100,0,N
+1980-03-18,1980,Chicago Bulls,115,San Diego Clippers,101,0,N
+1980-03-19,1980,Washington Bullets,93,Atlanta Hawks,109,0,N
+1980-03-19,1980,Portland Trail Blazers,115,Golden State Warriors,113,1,N
+1980-03-19,1980,New York Knicks,113,Houston Rockets,139,0,N
+1980-03-19,1980,New Jersey Nets,112,Indiana Pacers,125,0,N
+1980-03-19,1980,San Antonio Spurs,105,Philadelphia 76ers,99,0,N
+1980-03-19,1980,Los Angeles Lakers,108,Phoenix Suns,112,0,N
+1980-03-19,1980,Milwaukee Bucks,108,Seattle SuperSonics,106,0,N
+1980-03-19,1980,Chicago Bulls,100,Utah Jazz,103,0,N
+1980-03-20,1980,Houston Rockets,96,Cleveland Cavaliers,109,0,N
+1980-03-20,1980,Boston Celtics,124,Detroit Pistons,106,0,N
+1980-03-20,1980,Denver Nuggets,105,Kansas City Kings,121,0,N
+1980-03-20,1980,Philadelphia 76ers,113,Washington Bullets,119,1,N
+1980-03-21,1980,Detroit Pistons,95,Atlanta Hawks,108,0,N
+1980-03-21,1980,Denver Nuggets,134,Chicago Bulls,128,3,N
+1980-03-21,1980,Golden State Warriors,93,Milwaukee Bucks,121,0,N
+1980-03-21,1980,New Jersey Nets,99,Philadelphia 76ers,108,0,N
+1980-03-21,1980,Phoenix Suns,111,Portland Trail Blazers,100,0,N
+1980-03-21,1980,Indiana Pacers,109,San Antonio Spurs,116,0,N
+1980-03-21,1980,San Diego Clippers,104,Seattle SuperSonics,107,0,N
+1980-03-21,1980,Kansas City Kings,102,Utah Jazz,98,0,N
+1980-03-22,1980,Boston Celtics,105,Cleveland Cavaliers,109,0,N
+1980-03-22,1980,Indiana Pacers,110,Houston Rockets,125,0,N
+1980-03-22,1980,Washington Bullets,122,New York Knicks,113,0,N
+1980-03-22,1980,Los Angeles Lakers,97,Seattle SuperSonics,92,0,N
+1980-03-23,1980,San Antonio Spurs,95,Atlanta Hawks,103,0,N
+1980-03-23,1980,New Jersey Nets,101,Boston Celtics,96,0,N
+1980-03-23,1980,Golden State Warriors,115,Chicago Bulls,129,0,N
+1980-03-23,1980,Utah Jazz,96,Los Angeles Lakers,101,0,N
+1980-03-23,1980,New York Knicks,108,Philadelphia 76ers,112,0,N
+1980-03-23,1980,Denver Nuggets,102,Phoenix Suns,118,0,N
+1980-03-23,1980,San Diego Clippers,91,Portland Trail Blazers,98,0,N
+1980-03-23,1980,Kansas City Kings,90,Seattle SuperSonics,112,0,N
+1980-03-23,1980,Detroit Pistons,114,Washington Bullets,119,0,N
+1980-03-25,1980,Milwaukee Bucks,122,Chicago Bulls,111,0,N
+1980-03-25,1980,New York Knicks,128,Cleveland Cavaliers,115,0,N
+1980-03-25,1980,Kansas City Kings,102,Portland Trail Blazers,106,0,N
+1980-03-25,1980,Houston Rockets,107,San Antonio Spurs,126,0,N
+1980-03-25,1980,Phoenix Suns,95,Seattle SuperSonics,104,0,N
+1980-03-25,1980,Denver Nuggets,91,Utah Jazz,109,0,N
+1980-03-25,1980,Boston Celtics,96,Washington Bullets,95,0,N
+1980-03-26,1980,New York Knicks,121,Boston Celtics,129,0,N
+1980-03-26,1980,Chicago Bulls,122,Denver Nuggets,115,0,N
+1980-03-26,1980,Indiana Pacers,124,Detroit Pistons,114,0,N
+1980-03-26,1980,Kansas City Kings,100,Golden State Warriors,106,0,N
+1980-03-26,1980,San Antonio Spurs,101,Houston Rockets,113,0,N
+1980-03-26,1980,Atlanta Hawks,81,Philadelphia 76ers,84,0,N
+1980-03-26,1980,Seattle SuperSonics,99,Phoenix Suns,109,0,N
+1980-03-27,1980,New Jersey Nets,100,Atlanta Hawks,117,0,N
+1980-03-27,1980,Washington Bullets,111,Cleveland Cavaliers,118,0,N
+1980-03-27,1980,Denver Nuggets,95,Milwaukee Bucks,143,0,N
+1980-03-27,1980,Philadelphia 76ers,103,New York Knicks,101,0,N
+1980-03-27,1980,Portland Trail Blazers,96,San Diego Clippers,93,0,N
+1980-03-27,1980,Los Angeles Lakers,97,Utah Jazz,95,0,N
+1980-03-28,1980,Cleveland Cavaliers,122,Boston Celtics,130,0,N
+1980-03-28,1980,Detroit Pistons,112,Houston Rockets,128,0,N
+1980-03-28,1980,San Antonio Spurs,122,Indiana Pacers,127,0,N
+1980-03-28,1980,Milwaukee Bucks,114,Kansas City Kings,116,0,N
+1980-03-28,1980,San Diego Clippers,88,Los Angeles Lakers,126,0,N
+1980-03-28,1980,Philadelphia 76ers,92,New Jersey Nets,99,0,N
+1980-03-28,1980,Portland Trail Blazers,100,Phoenix Suns,114,0,N
+1980-03-28,1980,Golden State Warriors,82,Seattle SuperSonics,108,0,N
+1980-03-28,1980,Atlanta Hawks,80,Washington Bullets,100,0,N
+1980-03-29,1980,Utah Jazz,106,Chicago Bulls,111,0,N
+1980-03-30,1980,Atlanta Hawks,102,Cleveland Cavaliers,111,0,N
+1980-03-30,1980,Los Angeles Lakers,95,Golden State Warriors,93,0,N
+1980-03-30,1980,Houston Rockets,121,Indiana Pacers,106,0,N
+1980-03-30,1980,Chicago Bulls,110,Kansas City Kings,114,0,N
+1980-03-30,1980,Utah Jazz,91,Milwaukee Bucks,107,0,N
+1980-03-30,1980,Washington Bullets,93,New Jersey Nets,87,0,N
+1980-03-30,1980,Boston Celtics,110,Philadelphia 76ers,116,0,N
+1980-03-30,1980,San Diego Clippers,104,Phoenix Suns,122,0,N
+1980-03-30,1980,Detroit Pistons,124,San Antonio Spurs,144,0,N
+1980-03-30,1980,Portland Trail Blazers,104,Seattle SuperSonics,135,0,N
+1980-04-02,1980,Washington Bullets,96,Philadelphia 76ers,111,0,Y
+1980-04-02,1980,San Antonio Spurs,85,Houston Rockets,95,0,Y
+1980-04-02,1980,Portland Trail Blazers,110,Seattle SuperSonics,120,0,Y
+1980-04-02,1980,Kansas City Kings,93,Phoenix Suns,96,0,Y
+1980-04-04,1980,Phoenix Suns,96,Kansas City Kings,106,0,Y
+1980-04-04,1980,Seattle SuperSonics,95,Portland Trail Blazers,105,1,Y
+1980-04-04,1980,Houston Rockets,101,San Antonio Spurs,106,0,Y
+1980-04-04,1980,Philadelphia 76ers,112,Washington Bullets,104,0,Y
+1980-04-06,1980,Portland Trail Blazers,86,Seattle SuperSonics,103,0,Y
+1980-04-06,1980,Kansas City Kings,99,Phoenix Suns,114,0,Y
+1980-04-06,1980,Atlanta Hawks,104,Philadelphia 76ers,107,0,Y
+1980-04-06,1980,San Antonio Spurs,120,Houston Rockets,141,0,Y
+1980-04-08,1980,Phoenix Suns,110,Los Angeles Lakers,119,0,Y
+1980-04-08,1980,Milwaukee Bucks,113,Seattle SuperSonics,114,1,Y
+1980-04-09,1980,Houston Rockets,101,Boston Celtics,119,0,Y
+1980-04-09,1980,Phoenix Suns,128,Los Angeles Lakers,131,1,Y
+1980-04-09,1980,Atlanta Hawks,92,Philadelphia 76ers,99,0,Y
+1980-04-09,1980,Milwaukee Bucks,114,Seattle SuperSonics,112,1,Y
+1980-04-10,1980,Philadelphia 76ers,93,Atlanta Hawks,105,0,Y
+1980-04-11,1980,Los Angeles Lakers,108,Phoenix Suns,105,0,Y
+1980-04-11,1980,Houston Rockets,75,Boston Celtics,95,0,Y
+1980-04-11,1980,Seattle SuperSonics,91,Milwaukee Bucks,95,0,Y
+1980-04-13,1980,Philadelphia 76ers,107,Atlanta Hawks,83,0,Y
+1980-04-13,1980,Boston Celtics,100,Houston Rockets,81,0,Y
+1980-04-13,1980,Seattle SuperSonics,112,Milwaukee Bucks,107,0,Y
+1980-04-13,1980,Los Angeles Lakers,101,Phoenix Suns,127,0,Y
+1980-04-14,1980,Boston Celtics,138,Houston Rockets,121,0,Y
+1980-04-15,1980,Phoenix Suns,101,Los Angeles Lakers,126,0,Y
+1980-04-15,1980,Atlanta Hawks,100,Philadelphia 76ers,105,0,Y
+1980-04-15,1980,Milwaukee Bucks,108,Seattle SuperSonics,97,0,Y
+1980-04-18,1980,Seattle SuperSonics,86,Milwaukee Bucks,85,0,Y
+1980-04-18,1980,Philadelphia 76ers,96,Boston Celtics,93,0,Y
+1980-04-20,1980,Philadelphia 76ers,90,Boston Celtics,96,0,Y
+1980-04-20,1980,Milwaukee Bucks,94,Seattle SuperSonics,98,0,Y
+1980-04-22,1980,Seattle SuperSonics,108,Los Angeles Lakers,107,0,Y
+1980-04-23,1980,Seattle SuperSonics,99,Los Angeles Lakers,108,0,Y
+1980-04-23,1980,Boston Celtics,97,Philadelphia 76ers,99,0,Y
+1980-04-25,1980,Boston Celtics,90,Philadelphia 76ers,102,0,Y
+1980-04-25,1980,Los Angeles Lakers,104,Seattle SuperSonics,100,0,Y
+1980-04-27,1980,Philadelphia 76ers,105,Boston Celtics,94,0,Y
+1980-04-27,1980,Los Angeles Lakers,98,Seattle SuperSonics,93,0,Y
+1980-04-30,1980,Seattle SuperSonics,105,Los Angeles Lakers,111,0,Y
+1980-05-04,1980,Philadelphia 76ers,102,Los Angeles Lakers,109,0,Y
+1980-05-07,1980,Philadelphia 76ers,107,Los Angeles Lakers,104,0,Y
+1980-05-10,1980,Los Angeles Lakers,111,Philadelphia 76ers,101,0,Y
+1980-05-11,1980,Los Angeles Lakers,102,Philadelphia 76ers,105,0,Y
+1980-05-14,1980,Philadelphia 76ers,103,Los Angeles Lakers,108,0,Y
+1980-05-16,1980,Los Angeles Lakers,123,Philadelphia 76ers,107,0,Y

@@ -1,0 +1,390 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1961-10-19,1962,Chicago Packers,103,New York Knicks,120,0,N
+1961-10-19,1962,Philadelphia Warriors,113,Los Angeles Lakers,118,0,N
+1961-10-20,1962,Los Angeles Lakers,115,Philadelphia Warriors,122,0,N
+1961-10-21,1962,Detroit Pistons,102,Boston Celtics,137,0,N
+1961-10-21,1962,New York Knicks,95,Philadelphia Warriors,132,0,N
+1961-10-21,1962,Cincinnati Royals,138,St. Louis Hawks,129,0,N
+1961-10-21,1962,Chicago Packers,103,Syracuse Nationals,123,0,N
+1961-10-24,1962,Los Angeles Lakers,124,Cincinnati Royals,122,0,N
+1961-10-24,1962,St. Louis Hawks,110,New York Knicks,112,0,N
+1961-10-25,1962,Los Angeles Lakers,120,Detroit Pistons,116,0,N
+1961-10-26,1962,Syracuse Nationals,107,St. Louis Hawks,110,0,N
+1961-10-26,1962,Cincinnati Royals,117,New York Knicks,120,0,N
+1961-10-27,1962,St. Louis Hawks,106,Chicago Packers,117,0,N
+1961-10-27,1962,Detroit Pistons,118,Los Angeles Lakers,128,0,N
+1961-10-27,1962,Syracuse Nationals,126,Philadelphia Warriors,122,0,N
+1961-10-28,1962,New York Knicks,102,Boston Celtics,132,0,N
+1961-10-28,1962,Detroit Pistons,126,Los Angeles Lakers,135,0,N
+1961-10-28,1962,Chicago Packers,95,St. Louis Hawks,122,0,N
+1961-10-28,1962,Philadelphia Warriors,119,Syracuse Nationals,115,0,N
+1961-10-29,1962,Syracuse Nationals,132,Cincinnati Royals,139,0,N
+1961-10-31,1962,New York Knicks,131,Cincinnati Royals,127,0,N
+1961-10-31,1962,Syracuse Nationals,107,St. Louis Hawks,90,0,N
+1961-11-01,1962,Cincinnati Royals,115,Los Angeles Lakers,120,0,N
+1961-11-01,1962,New York Knicks,95,Detroit Pistons,111,0,N
+1961-11-03,1962,New York Knicks,118,Chicago Packers,129,0,N
+1961-11-03,1962,Cincinnati Royals,132,Los Angeles Lakers,114,0,N
+1961-11-03,1962,Boston Celtics,112,Philadelphia Warriors,98,0,N
+1961-11-03,1962,St. Louis Hawks,106,Syracuse Nationals,94,0,N
+1961-11-04,1962,Syracuse Nationals,107,Boston Celtics,127,0,N
+1961-11-04,1962,Los Angeles Lakers,125,Chicago Packers,112,0,N
+1961-11-04,1962,Detroit Pistons,132,Philadelphia Warriors,135,0,N
+1961-11-04,1962,New York Knicks,111,St. Louis Hawks,112,0,N
+1961-11-07,1962,New York Knicks,98,Cincinnati Royals,123,0,N
+1961-11-07,1962,Los Angeles Lakers,127,St. Louis Hawks,110,0,N
+1961-11-08,1962,New York Knicks,130,Chicago Packers,108,0,N
+1961-11-08,1962,Philadelphia Warriors,132,Detroit Pistons,128,0,N
+1961-11-08,1962,St. Louis Hawks,118,Los Angeles Lakers,124,0,N
+1961-11-09,1962,Detroit Pistons,116,Boston Celtics,110,0,N
+1961-11-09,1962,Syracuse Nationals,108,Philadelphia Warriors,151,0,N
+1961-11-10,1962,Chicago Packers,117,Cincinnati Royals,122,0,N
+1961-11-10,1962,Detroit Pistons,124,New York Knicks,118,0,N
+1961-11-11,1962,Philadelphia Warriors,125,Boston Celtics,128,0,N
+1961-11-11,1962,Cincinnati Royals,117,Chicago Packers,107,0,N
+1961-11-11,1962,Detroit Pistons,119,St. Louis Hawks,132,0,N
+1961-11-11,1962,New York Knicks,109,Syracuse Nationals,135,0,N
+1961-11-12,1962,Boston Celtics,112,Chicago Packers,96,0,N
+1961-11-12,1962,St. Louis Hawks,126,Cincinnati Royals,136,0,N
+1961-11-13,1962,Chicago Packers,113,Los Angeles Lakers,127,0,N
+1961-11-14,1962,Syracuse Nationals,115,Cincinnati Royals,119,0,N
+1961-11-14,1962,Philadelphia Warriors,122,New York Knicks,124,0,N
+1961-11-14,1962,Boston Celtics,119,St. Louis Hawks,117,0,N
+1961-11-15,1962,Cincinnati Royals,133,Philadelphia Warriors,145,0,N
+1961-11-15,1962,Syracuse Nationals,114,New York Knicks,102,0,N
+1961-11-15,1962,St. Louis Hawks,122,Detroit Pistons,127,0,N
+1961-11-15,1962,Chicago Packers,118,Los Angeles Lakers,133,0,N
+1961-11-16,1962,Boston Celtics,127,Cincinnati Royals,121,0,N
+1961-11-17,1962,Boston Celtics,104,New York Knicks,100,0,N
+1961-11-17,1962,Los Angeles Lakers,125,Philadelphia Warriors,121,0,N
+1961-11-18,1962,Los Angeles Lakers,103,Boston Celtics,101,0,N
+1961-11-18,1962,Chicago Packers,112,Detroit Pistons,119,0,N
+1961-11-18,1962,Cincinnati Royals,133,St. Louis Hawks,136,0,N
+1961-11-18,1962,Philadelphia Warriors,130,Syracuse Nationals,148,0,N
+1961-11-19,1962,Philadelphia Warriors,122,Chicago Packers,114,0,N
+1961-11-19,1962,Detroit Pistons,112,Cincinnati Royals,128,0,N
+1961-11-21,1962,Philadelphia Warriors,125,Cincinnati Royals,118,0,N
+1961-11-21,1962,Los Angeles Lakers,102,Detroit Pistons,108,0,N
+1961-11-21,1962,Chicago Packers,109,New York Knicks,107,0,N
+1961-11-22,1962,St. Louis Hawks,121,Boston Celtics,141,0,N
+1961-11-22,1962,Syracuse Nationals,109,New York Knicks,110,0,N
+1961-11-23,1962,Los Angeles Lakers,122,St. Louis Hawks,114,0,N
+1961-11-23,1962,Boston Celtics,119,Philadelphia Warriors,106,0,N
+1961-11-23,1962,Syracuse Nationals,117,Cincinnati Royals,99,0,N
+1961-11-24,1962,St. Louis Hawks,135,Detroit Pistons,142,0,N
+1961-11-24,1962,Los Angeles Lakers,100,New York Knicks,89,0,N
+1961-11-24,1962,Cincinnati Royals,127,Syracuse Nationals,125,0,N
+1961-11-25,1962,New York Knicks,96,Boston Celtics,116,0,N
+1961-11-25,1962,Los Angeles Lakers,103,Detroit Pistons,104,0,N
+1961-11-25,1962,Chicago Packers,102,Philadelphia Warriors,134,0,N
+1961-11-25,1962,Syracuse Nationals,108,St. Louis Hawks,141,0,N
+1961-11-26,1962,Los Angeles Lakers,102,Cincinnati Royals,117,0,N
+1961-11-26,1962,Boston Celtics,107,Detroit Pistons,101,0,N
+1961-11-28,1962,Detroit Pistons,108,Boston Celtics,116,0,N
+1961-11-28,1962,Syracuse Nationals,121,Los Angeles Lakers,111,0,N
+1961-11-28,1962,Cincinnati Royals,131,New York Knicks,117,0,N
+1961-11-28,1962,Philadelphia Warriors,121,St. Louis Hawks,111,0,N
+1961-11-29,1962,Syracuse Nationals,136,Cincinnati Royals,122,0,N
+1961-11-30,1962,Cincinnati Royals,133,Boston Celtics,130,0,N
+1961-12-01,1962,Philadelphia Warriors,138,Los Angeles Lakers,117,0,N
+1961-12-01,1962,Chicago Packers,121,Boston Celtics,140,0,N
+1961-12-01,1962,Detroit Pistons,116,St. Louis Hawks,119,0,N
+1961-12-01,1962,Syracuse Nationals,100,New York Knicks,118,0,N
+1961-12-02,1962,St. Louis Hawks,109,Detroit Pistons,118,0,N
+1961-12-02,1962,Philadelphia Warriors,119,Los Angeles Lakers,129,0,N
+1961-12-02,1962,Chicago Packers,118,Syracuse Nationals,132,0,N
+1961-12-03,1962,Boston Celtics,119,Cincinnati Royals,96,0,N
+1961-12-04,1962,Syracuse Nationals,120,Los Angeles Lakers,131,0,N
+1961-12-05,1962,St. Louis Hawks,99,Chicago Packers,101,0,N
+1961-12-05,1962,Syracuse Nationals,120,Los Angeles Lakers,125,0,N
+1961-12-05,1962,Philadelphia Warriors,122,New York Knicks,105,0,N
+1961-12-06,1962,Cincinnati Royals,102,Boston Celtics,103,0,N
+1961-12-06,1962,St. Louis Hawks,137,Philadelphia Warriors,132,0,N
+1961-12-06,1962,Syracuse Nationals,121,Los Angeles Lakers,123,1,N
+1961-12-06,1962,New York Knicks,97,Detroit Pistons,133,0,N
+1961-12-08,1962,Syracuse Nationals,111,Boston Celtics,123,0,N
+1961-12-08,1962,Detroit Pistons,133,Chicago Packers,107,0,N
+1961-12-08,1962,St. Louis Hawks,123,Cincinnati Royals,128,0,N
+1961-12-08,1962,Los Angeles Lakers,151,Philadelphia Warriors,147,3,N
+1961-12-09,1962,Los Angeles Lakers,114,Detroit Pistons,107,0,N
+1961-12-09,1962,Boston Celtics,106,Syracuse Nationals,102,0,N
+1961-12-09,1962,New York Knicks,91,St. Louis Hawks,102,0,N
+1961-12-09,1962,Chicago Packers,113,Philadelphia Warriors,135,0,N
+1961-12-10,1962,Philadelphia Warriors,118,Chicago Packers,109,0,N
+1961-12-10,1962,New York Knicks,94,Cincinnati Royals,134,0,N
+1961-12-11,1962,Cincinnati Royals,133,Chicago Packers,117,0,N
+1961-12-11,1962,St. Louis Hawks,119,Los Angeles Lakers,132,0,N
+1961-12-12,1962,Philadelphia Warriors,132,Detroit Pistons,109,0,N
+1961-12-12,1962,Syracuse Nationals,126,New York Knicks,124,0,N
+1961-12-13,1962,Philadelphia Warriors,113,Boston Celtics,123,0,N
+1961-12-13,1962,New York Knicks,112,Chicago Packers,113,0,N
+1961-12-13,1962,St. Louis Hawks,136,Los Angeles Lakers,137,1,N
+1961-12-13,1962,Cincinnati Royals,136,Syracuse Nationals,126,0,N
+1961-12-14,1962,Chicago Packers,108,Boston Celtics,123,0,N
+1961-12-14,1962,Detroit Pistons,107,Cincinnati Royals,103,0,N
+1961-12-14,1962,Syracuse Nationals,125,Philadelphia Warriors,136,0,N
+1961-12-15,1962,St. Louis Hawks,120,New York Knicks,108,0,N
+1961-12-15,1962,Los Angeles Lakers,94,Chicago Packers,97,0,N
+1961-12-16,1962,St. Louis Hawks,113,Boston Celtics,130,0,N
+1961-12-16,1962,Syracuse Nationals,128,Los Angeles Lakers,123,0,N
+1961-12-16,1962,Cincinnati Royals,121,Detroit Pistons,110,0,N
+1961-12-16,1962,Philadelphia Warriors,112,Chicago Packers,110,0,N
+1961-12-17,1962,Los Angeles Lakers,122,Detroit Pistons,116,0,N
+1961-12-17,1962,Boston Celtics,117,New York Knicks,109,0,N
+1961-12-19,1962,Philadelphia Warriors,117,Cincinnati Royals,110,0,N
+1961-12-19,1962,Syracuse Nationals,124,Detroit Pistons,111,0,N
+1961-12-19,1962,Boston Celtics,101,Los Angeles Lakers,104,0,N
+1961-12-19,1962,St. Louis Hawks,111,New York Knicks,128,0,N
+1961-12-20,1962,Los Angeles Lakers,102,Chicago Packers,98,0,N
+1961-12-20,1962,Philadelphia Warriors,117,Detroit Pistons,102,0,N
+1961-12-21,1962,New York Knicks,103,Boston Celtics,122,0,N
+1961-12-23,1962,New York Knicks,111,Boston Celtics,122,0,N
+1961-12-23,1962,Detroit Pistons,134,Cincinnati Royals,125,0,N
+1961-12-23,1962,Los Angeles Lakers,129,St. Louis Hawks,126,0,N
+1961-12-25,1962,Boston Celtics,127,Syracuse Nationals,122,0,N
+1961-12-25,1962,Philadelphia Warriors,135,New York Knicks,136,2,N
+1961-12-25,1962,Detroit Pistons,97,Chicago Packers,118,0,N
+1961-12-25,1962,Los Angeles Lakers,141,Cincinnati Royals,127,0,N
+1961-12-26,1962,Los Angeles Lakers,117,Boston Celtics,129,0,N
+1961-12-26,1962,Detroit Pistons,101,Chicago Packers,108,0,N
+1961-12-26,1962,Syracuse Nationals,111,Philadelphia Warriors,118,0,N
+1961-12-26,1962,Cincinnati Royals,129,St. Louis Hawks,118,0,N
+1961-12-27,1962,St. Louis Hawks,117,Cincinnati Royals,142,0,N
+1961-12-27,1962,Chicago Packers,93,Detroit Pistons,121,0,N
+1961-12-27,1962,Syracuse Nationals,111,Los Angeles Lakers,119,0,N
+1961-12-27,1962,New York Knicks,119,Philadelphia Warriors,131,0,N
+1961-12-28,1962,Boston Celtics,117,St. Louis Hawks,109,0,N
+1961-12-28,1962,Los Angeles Lakers,121,Syracuse Nationals,114,0,N
+1961-12-29,1962,St. Louis Hawks,120,Chicago Packers,103,0,N
+1961-12-29,1962,Detroit Pistons,131,Cincinnati Royals,116,0,N
+1961-12-29,1962,Philadelphia Warriors,123,Los Angeles Lakers,118,0,N
+1961-12-29,1962,Boston Celtics,100,New York Knicks,110,0,N
+1961-12-30,1962,New York Knicks,123,Cincinnati Royals,119,0,N
+1961-12-30,1962,Boston Celtics,116,Philadelphia Warriors,111,1,N
+1961-12-30,1962,Chicago Packers,92,St. Louis Hawks,101,0,N
+1961-12-30,1962,Detroit Pistons,108,Syracuse Nationals,109,0,N
+1962-01-01,1962,St. Louis Hawks,145,Detroit Pistons,139,0,N
+1962-01-01,1962,Syracuse Nationals,110,Cincinnati Royals,106,0,N
+1962-01-01,1962,Philadelphia Warriors,111,Los Angeles Lakers,114,0,N
+1962-01-02,1962,St. Louis Hawks,99,Boston Celtics,136,0,N
+1962-01-02,1962,Syracuse Nationals,127,Chicago Packers,102,0,N
+1962-01-02,1962,Detroit Pistons,104,New York Knicks,110,0,N
+1962-01-03,1962,New York Knicks,111,Cincinnati Royals,122,0,N
+1962-01-03,1962,Boston Celtics,103,Detroit Pistons,112,0,N
+1962-01-03,1962,Philadelphia Warriors,123,Los Angeles Lakers,124,0,N
+1962-01-05,1962,Boston Celtics,124,Cincinnati Royals,103,0,N
+1962-01-05,1962,Syracuse Nationals,135,Detroit Pistons,138,1,N
+1962-01-05,1962,St. Louis Hawks,116,Philadelphia Warriors,134,0,N
+1962-01-06,1962,New York Knicks,115,Detroit Pistons,111,0,N
+1962-01-06,1962,Chicago Packers,102,Syracuse Nationals,120,0,N
+1962-01-07,1962,Cincinnati Royals,123,Chicago Packers,113,0,N
+1962-01-07,1962,Boston Celtics,118,Los Angeles Lakers,95,0,N
+1962-01-07,1962,Syracuse Nationals,123,New York Knicks,116,0,N
+1962-01-07,1962,Philadelphia Warriors,112,St. Louis Hawks,137,0,N
+1962-01-09,1962,Cincinnati Royals,113,Chicago Packers,106,0,N
+1962-01-09,1962,St. Louis Hawks,113,Detroit Pistons,122,0,N
+1962-01-09,1962,Syracuse Nationals,129,Philadelphia Warriors,120,0,N
+1962-01-10,1962,Boston Celtics,90,Chicago Packers,103,0,N
+1962-01-10,1962,St. Louis Hawks,122,Syracuse Nationals,134,0,N
+1962-01-10,1962,Philadelphia Warriors,113,Detroit Pistons,110,0,N
+1962-01-11,1962,Philadelphia Warriors,128,Cincinnati Royals,145,0,N
+1962-01-12,1962,Cincinnati Royals,125,Boston Celtics,141,0,N
+1962-01-12,1962,Detroit Pistons,102,Chicago Packers,99,0,N
+1962-01-12,1962,St. Louis Hawks,126,New York Knicks,128,0,N
+1962-01-13,1962,Los Angeles Lakers,108,St. Louis Hawks,107,0,N
+1962-01-13,1962,Chicago Packers,117,Philadelphia Warriors,135,0,N
+1962-01-13,1962,Cincinnati Royals,119,Detroit Pistons,112,0,N
+1962-01-13,1962,Syracuse Nationals,127,Boston Celtics,117,0,N
+1962-01-14,1962,Philadelphia Warriors,136,Boston Celtics,145,0,N
+1962-01-14,1962,St. Louis Hawks,114,Cincinnati Royals,119,0,N
+1962-01-14,1962,Los Angeles Lakers,108,Detroit Pistons,118,0,N
+1962-01-14,1962,New York Knicks,118,Syracuse Nationals,141,0,N
+1962-01-17,1962,Boston Celtics,126,Detroit Pistons,116,0,N
+1962-01-17,1962,New York Knicks,121,Los Angeles Lakers,129,0,N
+1962-01-17,1962,St. Louis Hawks,130,Philadelphia Warriors,136,1,N
+1962-01-18,1962,Cincinnati Royals,151,Philadelphia Warriors,133,0,N
+1962-01-18,1962,Syracuse Nationals,118,Chicago Packers,111,0,N
+1962-01-19,1962,Syracuse Nationals,103,Boston Celtics,128,0,N
+1962-01-19,1962,New York Knicks,107,Los Angeles Lakers,108,0,N
+1962-01-19,1962,St. Louis Hawks,114,Chicago Packers,113,0,N
+1962-01-19,1962,Philadelphia Warriors,136,Detroit Pistons,125,0,N
+1962-01-20,1962,Los Angeles Lakers,124,Cincinnati Royals,125,0,N
+1962-01-20,1962,Detroit Pistons,107,Philadelphia Warriors,123,0,N
+1962-01-20,1962,Chicago Packers,112,St. Louis Hawks,116,0,N
+1962-01-20,1962,Boston Celtics,107,Syracuse Nationals,101,0,N
+1962-01-21,1962,Syracuse Nationals,132,Philadelphia Warriors,139,1,N
+1962-01-21,1962,New York Knicks,113,St. Louis Hawks,124,0,N
+1962-01-21,1962,Los Angeles Lakers,112,Chicago Packers,111,1,N
+1962-01-21,1962,Detroit Pistons,124,Boston Celtics,120,0,N
+1962-01-22,1962,New York Knicks,131,Chicago Packers,94,0,N
+1962-01-22,1962,Detroit Pistons,106,Cincinnati Royals,115,0,N
+1962-01-23,1962,Los Angeles Lakers,103,Boston Celtics,118,0,N
+1962-01-23,1962,Chicago Packers,109,New York Knicks,103,0,N
+1962-01-23,1962,Syracuse Nationals,107,St. Louis Hawks,115,0,N
+1962-01-24,1962,Cincinnati Royals,123,Los Angeles Lakers,136,0,N
+1962-01-24,1962,Syracuse Nationals,102,Detroit Pistons,111,0,N
+1962-01-24,1962,St. Louis Hawks,135,Boston Celtics,123,0,N
+1962-01-24,1962,Philadelphia Warriors,122,Chicago Packers,108,0,N
+1962-01-25,1962,New York Knicks,117,Chicago Packers,102,0,N
+1962-01-25,1962,Syracuse Nationals,100,Detroit Pistons,101,0,N
+1962-01-25,1962,Cincinnati Royals,112,Los Angeles Lakers,116,0,N
+1962-01-26,1962,Boston Celtics,121,New York Knicks,129,0,N
+1962-01-26,1962,St. Louis Hawks,110,Philadelphia Warriors,136,0,N
+1962-01-27,1962,Syracuse Nationals,107,Chicago Packers,102,0,N
+1962-01-27,1962,New York Knicks,107,Detroit Pistons,115,0,N
+1962-01-27,1962,Boston Celtics,106,Philadelphia Warriors,131,0,N
+1962-01-28,1962,Philadelphia Warriors,133,Boston Celtics,129,1,N
+1962-01-28,1962,Detroit Pistons,97,St. Louis Hawks,110,0,N
+1962-01-28,1962,Chicago Packers,109,Los Angeles Lakers,124,0,N
+1962-01-28,1962,Syracuse Nationals,131,Cincinnati Royals,139,0,N
+1962-01-30,1962,Chicago Packers,92,Los Angeles Lakers,107,0,N
+1962-01-30,1962,Philadelphia Warriors,110,New York Knicks,116,0,N
+1962-01-30,1962,Cincinnati Royals,131,St. Louis Hawks,121,0,N
+1962-01-31,1962,Boston Celtics,122,Chicago Packers,115,0,N
+1962-01-31,1962,Los Angeles Lakers,123,Detroit Pistons,122,1,N
+1962-01-31,1962,New York Knicks,109,Syracuse Nationals,138,0,N
+1962-02-01,1962,Cincinnati Royals,109,Philadelphia Warriors,130,0,N
+1962-02-01,1962,Los Angeles Lakers,115,Boston Celtics,130,0,N
+1962-02-02,1962,Cincinnati Royals,124,Boston Celtics,143,0,N
+1962-02-02,1962,Detroit Pistons,96,Chicago Packers,112,0,N
+1962-02-02,1962,Philadelphia Warriors,129,New York Knicks,116,0,N
+1962-02-02,1962,Syracuse Nationals,135,St. Louis Hawks,101,0,N
+1962-02-03,1962,Detroit Pistons,116,Chicago Packers,109,0,N
+1962-02-03,1962,Cincinnati Royals,110,New York Knicks,121,0,N
+1962-02-03,1962,Los Angeles Lakers,127,St. Louis Hawks,124,0,N
+1962-02-03,1962,Philadelphia Warriors,112,Syracuse Nationals,134,0,N
+1962-02-04,1962,Los Angeles Lakers,105,Chicago Packers,113,0,N
+1962-02-04,1962,Syracuse Nationals,117,Philadelphia Warriors,128,0,N
+1962-02-04,1962,St. Louis Hawks,113,Detroit Pistons,121,0,N
+1962-02-04,1962,New York Knicks,114,Boston Celtics,130,0,N
+1962-02-05,1962,Boston Celtics,127,Chicago Packers,111,0,N
+1962-02-05,1962,Los Angeles Lakers,134,Cincinnati Royals,128,1,N
+1962-02-06,1962,Syracuse Nationals,127,Chicago Packers,123,0,N
+1962-02-06,1962,Detroit Pistons,119,Cincinnati Royals,118,0,N
+1962-02-06,1962,Los Angeles Lakers,112,New York Knicks,116,0,N
+1962-02-06,1962,Boston Celtics,129,St. Louis Hawks,114,0,N
+1962-02-07,1962,Cincinnati Royals,107,Detroit Pistons,113,0,N
+1962-02-08,1962,Los Angeles Lakers,109,Cincinnati Royals,113,0,N
+1962-02-08,1962,Boston Celtics,110,Syracuse Nationals,122,0,N
+1962-02-08,1962,Philadelphia Warriors,136,New York Knicks,120,0,N
+1962-02-09,1962,Philadelphia Warriors,126,Boston Celtics,124,0,N
+1962-02-09,1962,Syracuse Nationals,111,New York Knicks,120,0,N
+1962-02-10,1962,New York Knicks,111,Chicago Packers,126,0,N
+1962-02-10,1962,St. Louis Hawks,118,Cincinnati Royals,134,0,N
+1962-02-10,1962,Boston Celtics,106,Philadelphia Warriors,107,0,N
+1962-02-11,1962,Chicago Packers,115,Boston Celtics,148,0,N
+1962-02-11,1962,Philadelphia Warriors,121,New York Knicks,111,0,N
+1962-02-11,1962,Cincinnati Royals,109,St. Louis Hawks,129,0,N
+1962-02-11,1962,Detroit Pistons,116,Syracuse Nationals,132,0,N
+1962-02-12,1962,St. Louis Hawks,117,Los Angeles Lakers,113,0,N
+1962-02-13,1962,Chicago Packers,117,Boston Celtics,138,0,N
+1962-02-13,1962,Philadelphia Warriors,132,Cincinnati Royals,152,0,N
+1962-02-14,1962,Cincinnati Royals,121,Chicago Packers,125,0,N
+1962-02-14,1962,Philadelphia Warriors,110,Detroit Pistons,119,0,N
+1962-02-14,1962,St. Louis Hawks,107,Los Angeles Lakers,130,0,N
+1962-02-14,1962,Boston Celtics,112,New York Knicks,125,0,N
+1962-02-15,1962,Syracuse Nationals,121,Chicago Packers,126,0,N
+1962-02-16,1962,New York Knicks,104,Boston Celtics,127,0,N
+1962-02-16,1962,Cincinnati Royals,132,Philadelphia Warriors,136,0,N
+1962-02-16,1962,Syracuse Nationals,132,Chicago Packers,106,0,N
+1962-02-16,1962,Los Angeles Lakers,121,Detroit Pistons,127,0,N
+1962-02-17,1962,Syracuse Nationals,136,Chicago Packers,127,0,N
+1962-02-17,1962,Detroit Pistons,123,Cincinnati Royals,113,0,N
+1962-02-17,1962,Los Angeles Lakers,128,New York Knicks,121,0,N
+1962-02-17,1962,Philadelphia Warriors,121,St. Louis Hawks,128,0,N
+1962-02-18,1962,Cincinnati Royals,138,Chicago Packers,121,0,N
+1962-02-18,1962,St. Louis Hawks,112,Detroit Pistons,119,0,N
+1962-02-18,1962,Boston Celtics,99,Los Angeles Lakers,125,0,N
+1962-02-18,1962,New York Knicks,126,Syracuse Nationals,141,0,N
+1962-02-20,1962,Philadelphia Warriors,112,Chicago Packers,107,0,N
+1962-02-20,1962,St. Louis Hawks,109,Cincinnati Royals,129,0,N
+1962-02-20,1962,Boston Celtics,115,Los Angeles Lakers,96,0,N
+1962-02-20,1962,Detroit Pistons,103,New York Knicks,110,0,N
+1962-02-21,1962,Cincinnati Royals,153,Chicago Packers,125,0,N
+1962-02-21,1962,Detroit Pistons,126,St. Louis Hawks,123,0,N
+1962-02-21,1962,Philadelphia Warriors,109,Syracuse Nationals,150,0,N
+1962-02-22,1962,St. Louis Hawks,121,Philadelphia Warriors,139,0,N
+1962-02-22,1962,Syracuse Nationals,106,Boston Celtics,134,0,N
+1962-02-22,1962,New York Knicks,116,Los Angeles Lakers,118,0,N
+1962-02-23,1962,Syracuse Nationals,107,Boston Celtics,121,0,N
+1962-02-23,1962,Los Angeles Lakers,124,Chicago Packers,117,1,N
+1962-02-23,1962,Cincinnati Royals,134,Detroit Pistons,120,0,N
+1962-02-23,1962,St. Louis Hawks,118,New York Knicks,130,0,N
+1962-02-24,1962,St. Louis Hawks,119,Chicago Packers,129,0,N
+1962-02-24,1962,Los Angeles Lakers,114,Cincinnati Royals,118,0,N
+1962-02-24,1962,Syracuse Nationals,120,New York Knicks,117,0,N
+1962-02-24,1962,Boston Celtics,109,Philadelphia Warriors,86,0,N
+1962-02-25,1962,Chicago Packers,105,Cincinnati Royals,108,0,N
+1962-02-25,1962,Boston Celtics,110,Syracuse Nationals,106,0,N
+1962-02-25,1962,New York Knicks,149,Philadelphia Warriors,135,0,N
+1962-02-25,1962,Detroit Pistons,99,Los Angeles Lakers,128,0,N
+1962-02-27,1962,Chicago Packers,100,Boston Celtics,115,0,N
+1962-02-27,1962,Detroit Pistons,100,Los Angeles Lakers,107,0,N
+1962-02-27,1962,Syracuse Nationals,130,New York Knicks,120,0,N
+1962-02-27,1962,Philadelphia Warriors,147,St. Louis Hawks,137,0,N
+1962-02-28,1962,Philadelphia Warriors,128,Chicago Packers,119,0,N
+1962-02-28,1962,Boston Celtics,129,Cincinnati Royals,123,1,N
+1962-02-28,1962,New York Knicks,119,Detroit Pistons,109,0,N
+1962-03-01,1962,Cincinnati Royals,108,Syracuse Nationals,137,0,N
+1962-03-02,1962,Detroit Pistons,112,Cincinnati Royals,120,0,N
+1962-03-02,1962,Boston Celtics,120,St. Louis Hawks,138,0,N
+1962-03-02,1962,Philadelphia Warriors,169,New York Knicks,147,0,N
+1962-03-03,1962,Cincinnati Royals,126,Chicago Packers,119,0,N
+1962-03-03,1962,Syracuse Nationals,128,Detroit Pistons,114,0,N
+1962-03-03,1962,Los Angeles Lakers,125,St. Louis Hawks,134,0,N
+1962-03-04,1962,St. Louis Hawks,120,Boston Celtics,123,0,N
+1962-03-04,1962,Detroit Pistons,133,Chicago Packers,116,0,N
+1962-03-04,1962,Philadelphia Warriors,129,New York Knicks,128,0,N
+1962-03-04,1962,Los Angeles Lakers,124,Syracuse Nationals,115,0,N
+1962-03-06,1962,Boston Celtics,106,New York Knicks,113,0,N
+1962-03-07,1962,St. Louis Hawks,126,Syracuse Nationals,129,0,N
+1962-03-07,1962,New York Knicks,112,Detroit Pistons,119,0,N
+1962-03-07,1962,Philadelphia Warriors,102,Boston Celtics,153,0,N
+1962-03-08,1962,Boston Celtics,108,Chicago Packers,102,0,N
+1962-03-09,1962,St. Louis Hawks,124,Chicago Packers,120,0,N
+1962-03-09,1962,Boston Celtics,130,Detroit Pistons,111,0,N
+1962-03-09,1962,Los Angeles Lakers,100,New York Knicks,122,0,N
+1962-03-10,1962,New York Knicks,116,Chicago Packers,128,0,N
+1962-03-10,1962,Cincinnati Royals,110,St. Louis Hawks,116,0,N
+1962-03-10,1962,Detroit Pistons,111,Syracuse Nationals,128,0,N
+1962-03-11,1962,Los Angeles Lakers,105,Boston Celtics,119,0,N
+1962-03-11,1962,Detroit Pistons,123,St. Louis Hawks,126,0,N
+1962-03-11,1962,Philadelphia Warriors,130,Syracuse Nationals,148,0,N
+1962-03-12,1962,New York Knicks,106,Los Angeles Lakers,119,0,N
+1962-03-12,1962,Detroit Pistons,121,Chicago Packers,116,0,N
+1962-03-13,1962,Syracuse Nationals,110,Boston Celtics,142,0,N
+1962-03-13,1962,Cincinnati Royals,111,Los Angeles Lakers,120,0,N
+1962-03-13,1962,Chicago Packers,124,St. Louis Hawks,118,0,N
+1962-03-14,1962,Philadelphia Warriors,119,Chicago Packers,115,1,N
+1962-03-14,1962,New York Knicks,134,Cincinnati Royals,136,0,N
+1962-03-14,1962,Syracuse Nationals,102,Detroit Pistons,105,0,N
+1962-03-14,1962,St. Louis Hawks,115,Los Angeles Lakers,125,0,N
+1962-03-16,1962,Cincinnati Royals,122,Detroit Pistons,123,0,Y
+1962-03-16,1962,Syracuse Nationals,103,Philadelphia Warriors,110,0,Y
+1962-03-17,1962,Detroit Pistons,107,Cincinnati Royals,129,0,Y
+1962-03-18,1962,Cincinnati Royals,107,Detroit Pistons,118,0,Y
+1962-03-18,1962,Philadelphia Warriors,97,Syracuse Nationals,82,0,Y
+1962-03-19,1962,Syracuse Nationals,101,Philadelphia Warriors,100,0,Y
+1962-03-20,1962,Detroit Pistons,112,Cincinnati Royals,111,0,Y
+1962-03-20,1962,Philadelphia Warriors,99,Syracuse Nationals,106,0,Y
+1962-03-22,1962,Syracuse Nationals,104,Philadelphia Warriors,121,0,Y
+1962-03-24,1962,Philadelphia Warriors,89,Boston Celtics,117,0,Y
+1962-03-24,1962,Detroit Pistons,108,Los Angeles Lakers,132,0,Y
+1962-03-25,1962,Detroit Pistons,112,Los Angeles Lakers,127,0,Y
+1962-03-27,1962,Los Angeles Lakers,111,Detroit Pistons,106,0,Y
+1962-03-27,1962,Boston Celtics,106,Philadelphia Warriors,113,0,Y
+1962-03-28,1962,Philadelphia Warriors,114,Boston Celtics,129,0,Y
+1962-03-29,1962,Los Angeles Lakers,117,Detroit Pistons,118,0,Y
+1962-03-31,1962,Detroit Pistons,132,Los Angeles Lakers,125,0,Y
+1962-03-31,1962,Boston Celtics,106,Philadelphia Warriors,110,0,Y
+1962-04-01,1962,Philadelphia Warriors,104,Boston Celtics,119,0,Y
+1962-04-03,1962,Los Angeles Lakers,123,Detroit Pistons,117,0,Y
+1962-04-03,1962,Boston Celtics,99,Philadelphia Warriors,109,0,Y
+1962-04-05,1962,Philadelphia Warriors,107,Boston Celtics,109,0,Y
+1962-04-07,1962,Los Angeles Lakers,108,Boston Celtics,122,0,Y
+1962-04-08,1962,Los Angeles Lakers,129,Boston Celtics,122,0,Y
+1962-04-10,1962,Boston Celtics,115,Los Angeles Lakers,117,0,Y
+1962-04-11,1962,Boston Celtics,115,Los Angeles Lakers,103,0,Y
+1962-04-14,1962,Los Angeles Lakers,126,Boston Celtics,121,0,Y
+1962-04-16,1962,Boston Celtics,119,Los Angeles Lakers,105,0,Y
+1962-04-18,1962,Los Angeles Lakers,107,Boston Celtics,110,1,Y

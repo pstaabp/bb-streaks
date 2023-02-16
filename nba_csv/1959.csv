@@ -1,0 +1,311 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1958-10-19,1959,Detroit Pistons,94,Syracuse Nationals,103,0,N
+1958-10-22,1959,Cincinnati Royals,79,Minneapolis Lakers,99,0,N
+1958-10-23,1959,Detroit Pistons,103,St. Louis Hawks,104,0,N
+1958-10-25,1959,Minneapolis Lakers,94,Cincinnati Royals,110,0,N
+1958-10-25,1959,St. Louis Hawks,112,Detroit Pistons,117,0,N
+1958-10-25,1959,Boston Celtics,125,New York Knicks,127,1,N
+1958-10-25,1959,Philadelphia Warriors,110,Syracuse Nationals,109,0,N
+1958-10-26,1959,Detroit Pistons,100,Minneapolis Lakers,108,0,N
+1958-10-26,1959,New York Knicks,100,Philadelphia Warriors,94,1,N
+1958-10-29,1959,St. Louis Hawks,112,Minneapolis Lakers,100,0,N
+1958-10-31,1959,Cincinnati Royals,113,Detroit Pistons,120,0,N
+1958-11-01,1959,Philadelphia Warriors,111,New York Knicks,92,0,N
+1958-11-01,1959,Detroit Pistons,98,Boston Celtics,112,0,N
+1958-11-01,1959,Cincinnati Royals,108,Syracuse Nationals,130,0,N
+1958-11-01,1959,Minneapolis Lakers,108,St. Louis Hawks,101,0,N
+1958-11-02,1959,St. Louis Hawks,97,Cincinnati Royals,90,0,N
+1958-11-02,1959,Detroit Pistons,107,Philadelphia Warriors,91,0,N
+1958-11-05,1959,New York Knicks,108,Cincinnati Royals,97,0,N
+1958-11-05,1959,Boston Celtics,117,Syracuse Nationals,115,0,N
+1958-11-06,1959,Philadelphia Warriors,101,Minneapolis Lakers,103,0,N
+1958-11-07,1959,New York Knicks,115,Detroit Pistons,101,0,N
+1958-11-08,1959,New York Knicks,108,Minneapolis Lakers,100,0,N
+1958-11-08,1959,Syracuse Nationals,103,Philadelphia Warriors,98,0,N
+1958-11-08,1959,Boston Celtics,84,St. Louis Hawks,87,0,N
+1958-11-09,1959,Minneapolis Lakers,97,Syracuse Nationals,101,0,N
+1958-11-09,1959,Boston Celtics,133,Detroit Pistons,136,0,N
+1958-11-09,1959,Philadelphia Warriors,106,Cincinnati Royals,92,0,N
+1958-11-11,1959,Minneapolis Lakers,113,Boston Celtics,116,1,N
+1958-11-12,1959,Syracuse Nationals,116,Cincinnati Royals,115,0,N
+1958-11-13,1959,Minneapolis Lakers,110,Detroit Pistons,119,0,N
+1958-11-13,1959,St. Louis Hawks,102,New York Knicks,119,0,N
+1958-11-14,1959,Syracuse Nationals,111,Detroit Pistons,109,0,N
+1958-11-14,1959,Philadelphia Warriors,100,St. Louis Hawks,110,0,N
+1958-11-15,1959,Cincinnati Royals,105,Boston Celtics,130,0,N
+1958-11-15,1959,Minneapolis Lakers,101,Philadelphia Warriors,106,0,N
+1958-11-15,1959,Detroit Pistons,91,St. Louis Hawks,102,0,N
+1958-11-15,1959,New York Knicks,96,Syracuse Nationals,92,0,N
+1958-11-16,1959,Minneapolis Lakers,90,New York Knicks,98,0,N
+1958-11-18,1959,Syracuse Nationals,120,St. Louis Hawks,94,0,N
+1958-11-18,1959,Detroit Pistons,102,Boston Celtics,115,0,N
+1958-11-19,1959,Boston Celtics,103,Cincinnati Royals,119,0,N
+1958-11-20,1959,Syracuse Nationals,102,Minneapolis Lakers,121,0,N
+1958-11-21,1959,New York Knicks,112,Boston Celtics,106,0,N
+1958-11-21,1959,Cincinnati Royals,90,Philadelphia Warriors,108,0,N
+1958-11-22,1959,Philadelphia Warriors,100,Boston Celtics,105,0,N
+1958-11-22,1959,Cincinnati Royals,86,Detroit Pistons,103,0,N
+1958-11-22,1959,Syracuse Nationals,99,New York Knicks,114,0,N
+1958-11-22,1959,Minneapolis Lakers,109,St. Louis Hawks,114,0,N
+1958-11-23,1959,St. Louis Hawks,100,Cincinnati Royals,89,0,N
+1958-11-23,1959,Detroit Pistons,124,Minneapolis Lakers,109,0,N
+1958-11-23,1959,Syracuse Nationals,107,Philadelphia Warriors,110,0,N
+1958-11-24,1959,Minneapolis Lakers,104,Boston Celtics,123,0,N
+1958-11-25,1959,Cincinnati Royals,115,New York Knicks,113,0,N
+1958-11-25,1959,St. Louis Hawks,105,Philadelphia Warriors,106,0,N
+1958-11-25,1959,Minneapolis Lakers,98,Detroit Pistons,90,0,N
+1958-11-26,1959,New York Knicks,109,Boston Celtics,121,0,N
+1958-11-26,1959,Detroit Pistons,112,Cincinnati Royals,95,0,N
+1958-11-26,1959,St. Louis Hawks,112,Syracuse Nationals,107,0,N
+1958-11-27,1959,Boston Celtics,107,Philadelphia Warriors,94,0,N
+1958-11-27,1959,Syracuse Nationals,98,St. Louis Hawks,107,0,N
+1958-11-28,1959,Syracuse Nationals,93,Detroit Pistons,101,0,N
+1958-11-28,1959,Cincinnati Royals,93,Minneapolis Lakers,114,0,N
+1958-11-29,1959,Detroit Pistons,96,Boston Celtics,110,0,N
+1958-11-29,1959,Philadelphia Warriors,103,New York Knicks,115,0,N
+1958-11-29,1959,Cincinnati Royals,86,St. Louis Hawks,98,0,N
+1958-11-29,1959,Minneapolis Lakers,108,Syracuse Nationals,105,0,N
+1958-11-30,1959,Minneapolis Lakers,84,Cincinnati Royals,77,0,N
+1958-11-30,1959,New York Knicks,100,Philadelphia Warriors,103,0,N
+1958-12-02,1959,Philadelphia Warriors,91,Detroit Pistons,95,0,N
+1958-12-02,1959,St. Louis Hawks,105,Cincinnati Royals,81,0,N
+1958-12-02,1959,Boston Celtics,109,New York Knicks,90,0,N
+1958-12-03,1959,St. Louis Hawks,119,Boston Celtics,110,0,N
+1958-12-03,1959,New York Knicks,108,Cincinnati Royals,110,0,N
+1958-12-04,1959,Syracuse Nationals,114,Boston Celtics,116,0,N
+1958-12-04,1959,St. Louis Hawks,107,Philadelphia Warriors,92,0,N
+1958-12-05,1959,New York Knicks,110,Detroit Pistons,108,0,N
+1958-12-06,1959,Syracuse Nationals,101,Boston Celtics,92,0,N
+1958-12-06,1959,Minneapolis Lakers,128,Cincinnati Royals,132,3,N
+1958-12-06,1959,Detroit Pistons,99,New York Knicks,92,0,N
+1958-12-06,1959,Philadelphia Warriors,97,St. Louis Hawks,107,0,N
+1958-12-07,1959,Philadelphia Warriors,103,Cincinnati Royals,90,0,N
+1958-12-07,1959,Boston Celtics,104,Syracuse Nationals,108,0,N
+1958-12-09,1959,Minneapolis Lakers,97,New York Knicks,110,0,N
+1958-12-09,1959,Syracuse Nationals,106,Philadelphia Warriors,90,0,N
+1958-12-10,1959,Philadelphia Warriors,97,Boston Celtics,100,0,N
+1958-12-10,1959,St. Louis Hawks,82,Detroit Pistons,89,0,N
+1958-12-10,1959,Syracuse Nationals,97,Cincinnati Royals,94,0,N
+1958-12-11,1959,St. Louis Hawks,101,Detroit Pistons,107,0,N
+1958-12-11,1959,Syracuse Nationals,101,Minneapolis Lakers,99,1,N
+1958-12-11,1959,Boston Celtics,123,Philadelphia Warriors,114,0,N
+1958-12-12,1959,Cincinnati Royals,115,Boston Celtics,125,1,N
+1958-12-12,1959,Philadelphia Warriors,95,Detroit Pistons,97,0,N
+1958-12-12,1959,St. Louis Hawks,104,New York Knicks,106,0,N
+1958-12-13,1959,New York Knicks,94,St. Louis Hawks,108,0,N
+1958-12-13,1959,Philadelphia Warriors,100,Syracuse Nationals,115,0,N
+1958-12-14,1959,Syracuse Nationals,101,Detroit Pistons,95,0,N
+1958-12-14,1959,New York Knicks,100,Minneapolis Lakers,99,0,N
+1958-12-16,1959,Syracuse Nationals,104,Boston Celtics,108,0,N
+1958-12-16,1959,Cincinnati Royals,106,New York Knicks,118,0,N
+1958-12-17,1959,Boston Celtics,102,Detroit Pistons,95,0,N
+1958-12-17,1959,St. Louis Hawks,136,New York Knicks,122,0,N
+1958-12-18,1959,Boston Celtics,104,Cincinnati Royals,90,0,N
+1958-12-18,1959,Detroit Pistons,104,Minneapolis Lakers,113,0,N
+1958-12-20,1959,New York Knicks,106,Boston Celtics,135,0,N
+1958-12-20,1959,St. Louis Hawks,111,Detroit Pistons,104,0,N
+1958-12-20,1959,Philadelphia Warriors,88,Minneapolis Lakers,99,0,N
+1958-12-20,1959,Cincinnati Royals,121,Syracuse Nationals,120,1,N
+1958-12-21,1959,Syracuse Nationals,94,New York Knicks,108,0,N
+1958-12-21,1959,Philadelphia Warriors,86,St. Louis Hawks,98,0,N
+1958-12-25,1959,St. Louis Hawks,100,Cincinnati Royals,92,0,N
+1958-12-25,1959,Minneapolis Lakers,97,Detroit Pistons,98,1,N
+1958-12-25,1959,Boston Celtics,129,New York Knicks,120,0,N
+1958-12-26,1959,Minneapolis Lakers,99,Boston Celtics,107,0,N
+1958-12-26,1959,Philadelphia Warriors,106,New York Knicks,93,0,N
+1958-12-26,1959,Cincinnati Royals,91,Detroit Pistons,131,0,N
+1958-12-27,1959,Boston Celtics,112,Minneapolis Lakers,94,0,N
+1958-12-27,1959,St. Louis Hawks,108,Philadelphia Warriors,114,1,N
+1958-12-27,1959,New York Knicks,106,Syracuse Nationals,102,0,N
+1958-12-28,1959,Minneapolis Lakers,116,Cincinnati Royals,120,0,N
+1958-12-29,1959,Syracuse Nationals,105,Boston Celtics,107,0,N
+1958-12-29,1959,Philadelphia Warriors,95,Minneapolis Lakers,93,0,N
+1958-12-29,1959,Cincinnati Royals,112,St. Louis Hawks,124,0,N
+1958-12-30,1959,St. Louis Hawks,119,Cincinnati Royals,104,0,N
+1958-12-30,1959,Syracuse Nationals,113,Minneapolis Lakers,118,0,N
+1958-12-30,1959,Detroit Pistons,90,New York Knicks,93,0,N
+1958-12-30,1959,Boston Celtics,105,Philadelphia Warriors,112,0,N
+1959-01-01,1959,Minneapolis Lakers,106,Syracuse Nationals,105,0,N
+1959-01-02,1959,Detroit Pistons,104,Cincinnati Royals,111,0,N
+1959-01-02,1959,Syracuse Nationals,117,Philadelphia Warriors,107,0,N
+1959-01-02,1959,New York Knicks,97,Minneapolis Lakers,107,0,N
+1959-01-03,1959,New York Knicks,106,Detroit Pistons,102,0,N
+1959-01-03,1959,Boston Celtics,110,St. Louis Hawks,116,0,N
+1959-01-04,1959,Boston Celtics,111,Cincinnati Royals,108,0,N
+1959-01-04,1959,Minneapolis Lakers,111,Philadelphia Warriors,95,0,N
+1959-01-04,1959,New York Knicks,122,St. Louis Hawks,114,0,N
+1959-01-04,1959,Detroit Pistons,94,Syracuse Nationals,118,0,N
+1959-01-05,1959,Minneapolis Lakers,106,Boston Celtics,118,0,N
+1959-01-06,1959,Cincinnati Royals,95,Boston Celtics,109,0,N
+1959-01-06,1959,St. Louis Hawks,112,Minneapolis Lakers,95,0,N
+1959-01-06,1959,Syracuse Nationals,108,New York Knicks,118,0,N
+1959-01-06,1959,Detroit Pistons,107,Philadelphia Warriors,105,0,N
+1959-01-07,1959,New York Knicks,78,Boston Celtics,109,0,N
+1959-01-07,1959,St. Louis Hawks,89,Minneapolis Lakers,78,0,N
+1959-01-07,1959,Philadelphia Warriors,99,Syracuse Nationals,111,0,N
+1959-01-08,1959,St. Louis Hawks,93,Minneapolis Lakers,95,0,N
+1959-01-08,1959,Syracuse Nationals,145,Cincinnati Royals,138,3,N
+1959-01-09,1959,St. Louis Hawks,112,Cincinnati Royals,101,0,N
+1959-01-09,1959,Boston Celtics,103,Detroit Pistons,90,0,N
+1959-01-10,1959,Detroit Pistons,101,Cincinnati Royals,69,0,N
+1959-01-10,1959,New York Knicks,97,Philadelphia Warriors,103,0,N
+1959-01-11,1959,Minneapolis Lakers,106,Boston Celtics,109,1,N
+1959-01-11,1959,Philadelphia Warriors,105,New York Knicks,111,0,N
+1959-01-11,1959,Detroit Pistons,100,St. Louis Hawks,111,0,N
+1959-01-11,1959,Cincinnati Royals,110,Syracuse Nationals,127,0,N
+1959-01-12,1959,Minneapolis Lakers,108,Boston Celtics,117,0,N
+1959-01-13,1959,Detroit Pistons,112,Cincinnati Royals,92,0,N
+1959-01-13,1959,Minneapolis Lakers,95,St. Louis Hawks,110,0,N
+1959-01-14,1959,New York Knicks,112,Boston Celtics,123,0,N
+1959-01-14,1959,St. Louis Hawks,114,Detroit Pistons,108,0,N
+1959-01-14,1959,Syracuse Nationals,119,Philadelphia Warriors,104,0,N
+1959-01-15,1959,Minneapolis Lakers,105,Syracuse Nationals,111,0,N
+1959-01-15,1959,Philadelphia Warriors,95,New York Knicks,91,0,N
+1959-01-16,1959,Minneapolis Lakers,91,Cincinnati Royals,95,0,N
+1959-01-16,1959,Boston Celtics,98,Philadelphia Warriors,105,0,N
+1959-01-16,1959,Syracuse Nationals,89,St. Louis Hawks,102,0,N
+1959-01-17,1959,Philadelphia Warriors,106,Detroit Pistons,104,0,N
+1959-01-17,1959,Cincinnati Royals,105,New York Knicks,117,0,N
+1959-01-18,1959,St. Louis Hawks,117,Boston Celtics,139,0,N
+1959-01-18,1959,Detroit Pistons,88,Cincinnati Royals,107,0,N
+1959-01-18,1959,Philadelphia Warriors,98,Minneapolis Lakers,119,0,N
+1959-01-18,1959,New York Knicks,120,Syracuse Nationals,118,0,N
+1959-01-20,1959,New York Knicks,108,Cincinnati Royals,114,0,N
+1959-01-20,1959,Boston Celtics,114,St. Louis Hawks,119,0,N
+1959-01-21,1959,New York Knicks,130,Cincinnati Royals,109,0,N
+1959-01-21,1959,Detroit Pistons,105,Philadelphia Warriors,112,0,N
+1959-01-21,1959,Boston Celtics,112,Syracuse Nationals,134,0,N
+1959-01-24,1959,Philadelphia Warriors,104,Boston Celtics,132,0,N
+1959-01-24,1959,Detroit Pistons,118,New York Knicks,122,1,N
+1959-01-24,1959,Cincinnati Royals,102,Syracuse Nationals,123,0,N
+1959-01-25,1959,Detroit Pistons,118,Boston Celtics,119,1,N
+1959-01-25,1959,New York Knicks,111,St. Louis Hawks,115,0,N
+1959-01-25,1959,Minneapolis Lakers,111,Philadelphia Warriors,125,0,N
+1959-01-25,1959,Syracuse Nationals,104,Cincinnati Royals,109,0,N
+1959-01-26,1959,Philadelphia Warriors,102,Detroit Pistons,98,0,N
+1959-01-27,1959,Philadelphia Warriors,92,Cincinnati Royals,100,0,N
+1959-01-27,1959,Syracuse Nationals,121,Detroit Pistons,107,0,N
+1959-01-27,1959,St. Louis Hawks,112,New York Knicks,111,1,N
+1959-01-28,1959,St. Louis Hawks,111,Boston Celtics,120,1,N
+1959-01-28,1959,Syracuse Nationals,109,Minneapolis Lakers,112,0,N
+1959-01-28,1959,Cincinnati Royals,84,Philadelphia Warriors,99,0,N
+1959-01-29,1959,Syracuse Nationals,117,Minneapolis Lakers,91,0,N
+1959-01-30,1959,Minneapolis Lakers,88,Detroit Pistons,86,0,N
+1959-01-30,1959,Cincinnati Royals,87,St. Louis Hawks,118,0,N
+1959-01-31,1959,Philadelphia Warriors,102,Boston Celtics,137,0,N
+1959-01-31,1959,Cincinnati Royals,88,Detroit Pistons,103,0,N
+1959-01-31,1959,St. Louis Hawks,120,Minneapolis Lakers,96,0,N
+1959-01-31,1959,Syracuse Nationals,117,New York Knicks,119,0,N
+1959-02-01,1959,Philadelphia Warriors,113,New York Knicks,105,0,N
+1959-02-01,1959,Syracuse Nationals,137,Boston Celtics,139,1,N
+1959-02-01,1959,Detroit Pistons,96,St. Louis Hawks,130,0,N
+1959-02-03,1959,St. Louis Hawks,97,Boston Celtics,104,0,N
+1959-02-03,1959,Philadelphia Warriors,103,Cincinnati Royals,120,0,N
+1959-02-03,1959,Syracuse Nationals,114,New York Knicks,115,0,N
+1959-02-04,1959,New York Knicks,129,Boston Celtics,126,0,N
+1959-02-04,1959,Philadelphia Warriors,117,Detroit Pistons,119,2,N
+1959-02-04,1959,St. Louis Hawks,113,Syracuse Nationals,111,0,N
+1959-02-05,1959,Syracuse Nationals,98,New York Knicks,111,0,N
+1959-02-05,1959,St. Louis Hawks,95,Philadelphia Warriors,106,0,N
+1959-02-06,1959,St. Louis Hawks,95,Boston Celtics,122,0,N
+1959-02-06,1959,Syracuse Nationals,122,Detroit Pistons,103,0,N
+1959-02-07,1959,Philadelphia Warriors,97,Minneapolis Lakers,109,0,N
+1959-02-07,1959,Boston Celtics,124,New York Knicks,116,0,N
+1959-02-08,1959,Minneapolis Lakers,115,Detroit Pistons,103,0,N
+1959-02-08,1959,New York Knicks,104,Syracuse Nationals,113,0,N
+1959-02-08,1959,Philadelphia Warriors,93,St. Louis Hawks,100,0,N
+1959-02-08,1959,Cincinnati Royals,117,Boston Celtics,136,0,N
+1959-02-09,1959,Detroit Pistons,122,Cincinnati Royals,97,0,N
+1959-02-09,1959,New York Knicks,122,Minneapolis Lakers,128,0,N
+1959-02-09,1959,Boston Celtics,113,Philadelphia Warriors,121,0,N
+1959-02-09,1959,Syracuse Nationals,94,St. Louis Hawks,99,0,N
+1959-02-10,1959,Minneapolis Lakers,118,Cincinnati Royals,100,0,N
+1959-02-11,1959,Philadelphia Warriors,118,Boston Celtics,120,0,N
+1959-02-11,1959,Minneapolis Lakers,106,Cincinnati Royals,105,0,N
+1959-02-11,1959,Detroit Pistons,118,Syracuse Nationals,114,1,N
+1959-02-12,1959,Minneapolis Lakers,114,Cincinnati Royals,119,0,N
+1959-02-12,1959,New York Knicks,105,St. Louis Hawks,106,0,N
+1959-02-13,1959,New York Knicks,90,Detroit Pistons,96,0,N
+1959-02-14,1959,Minneapolis Lakers,96,St. Louis Hawks,139,0,N
+1959-02-14,1959,Syracuse Nationals,121,Boston Celtics,124,0,N
+1959-02-14,1959,Philadelphia Warriors,106,Cincinnati Royals,94,0,N
+1959-02-15,1959,Detroit Pistons,94,Boston Celtics,120,0,N
+1959-02-15,1959,St. Louis Hawks,98,Minneapolis Lakers,109,0,N
+1959-02-15,1959,Cincinnati Royals,97,New York Knicks,124,0,N
+1959-02-15,1959,Philadelphia Warriors,101,Syracuse Nationals,121,0,N
+1959-02-17,1959,Philadelphia Warriors,84,Boston Celtics,95,0,N
+1959-02-17,1959,Minneapolis Lakers,97,Detroit Pistons,90,0,N
+1959-02-17,1959,St. Louis Hawks,93,New York Knicks,112,0,N
+1959-02-18,1959,New York Knicks,118,Cincinnati Royals,116,0,N
+1959-02-18,1959,Detroit Pistons,95,Minneapolis Lakers,105,0,N
+1959-02-19,1959,Boston Celtics,105,Syracuse Nationals,113,0,N
+1959-02-20,1959,Boston Celtics,111,Detroit Pistons,106,1,N
+1959-02-20,1959,New York Knicks,106,Minneapolis Lakers,116,0,N
+1959-02-21,1959,Cincinnati Royals,120,St. Louis Hawks,121,0,N
+1959-02-21,1959,New York Knicks,101,Detroit Pistons,114,0,N
+1959-02-21,1959,Syracuse Nationals,112,Philadelphia Warriors,113,0,N
+1959-02-22,1959,Boston Celtics,129,Cincinnati Royals,112,0,N
+1959-02-22,1959,Philadelphia Warriors,90,New York Knicks,111,0,N
+1959-02-22,1959,Minneapolis Lakers,106,St. Louis Hawks,120,0,N
+1959-02-22,1959,Detroit Pistons,108,Syracuse Nationals,139,0,N
+1959-02-24,1959,Syracuse Nationals,109,Cincinnati Royals,113,0,N
+1959-02-24,1959,Boston Celtics,122,New York Knicks,134,0,N
+1959-02-25,1959,St. Louis Hawks,104,Detroit Pistons,100,0,N
+1959-02-25,1959,New York Knicks,123,Philadelphia Warriors,134,0,N
+1959-02-25,1959,Minneapolis Lakers,116,Cincinnati Royals,96,0,N
+1959-02-26,1959,Philadelphia Warriors,109,Boston Celtics,125,0,N
+1959-02-26,1959,Detroit Pistons,101,Cincinnati Royals,106,0,N
+1959-02-26,1959,St. Louis Hawks,111,Syracuse Nationals,130,0,N
+1959-02-27,1959,Minneapolis Lakers,139,Boston Celtics,173,0,N
+1959-02-27,1959,Syracuse Nationals,113,St. Louis Hawks,128,0,N
+1959-02-28,1959,St. Louis Hawks,122,Cincinnati Royals,124,1,N
+1959-02-28,1959,Minneapolis Lakers,107,New York Knicks,112,0,N
+1959-03-01,1959,Philadelphia Warriors,98,Minneapolis Lakers,100,0,N
+1959-03-01,1959,Boston Celtics,102,St. Louis Hawks,104,0,N
+1959-03-01,1959,New York Knicks,115,Syracuse Nationals,140,0,N
+1959-03-01,1959,Cincinnati Royals,101,Detroit Pistons,117,0,N
+1959-03-03,1959,Minneapolis Lakers,112,Boston Celtics,119,0,N
+1959-03-03,1959,Philadelphia Warriors,116,Detroit Pistons,107,0,N
+1959-03-03,1959,Syracuse Nationals,127,New York Knicks,120,0,N
+1959-03-03,1959,Cincinnati Royals,102,St. Louis Hawks,113,0,N
+1959-03-04,1959,St. Louis Hawks,97,Detroit Pistons,127,0,N
+1959-03-04,1959,Philadelphia Warriors,115,New York Knicks,118,0,N
+1959-03-04,1959,Minneapolis Lakers,122,Cincinnati Royals,128,0,N
+1959-03-04,1959,Syracuse Nationals,114,Boston Celtics,120,0,N
+1959-03-05,1959,New York Knicks,115,Minneapolis Lakers,135,0,N
+1959-03-05,1959,St. Louis Hawks,101,Philadelphia Warriors,106,0,N
+1959-03-05,1959,Boston Celtics,118,Syracuse Nationals,142,0,N
+1959-03-06,1959,Minneapolis Lakers,99,Detroit Pistons,98,0,N
+1959-03-06,1959,Syracuse Nationals,114,Philadelphia Warriors,118,0,N
+1959-03-07,1959,Cincinnati Royals,86,Philadelphia Warriors,93,0,N
+1959-03-07,1959,Detroit Pistons,128,St. Louis Hawks,137,0,N
+1959-03-08,1959,Philadelphia Warriors,103,Syracuse Nationals,133,0,N
+1959-03-08,1959,Detroit Pistons,120,New York Knicks,127,0,N
+1959-03-08,1959,Cincinnati Royals,131,Boston Celtics,141,0,N
+1959-03-08,1959,St. Louis Hawks,104,Minneapolis Lakers,120,0,N
+1959-03-10,1959,New York Knicks,138,Boston Celtics,116,0,N
+1959-03-10,1959,Philadelphia Warriors,102,Cincinnati Royals,96,0,N
+1959-03-11,1959,Detroit Pistons,123,Minneapolis Lakers,118,0,N
+1959-03-11,1959,St. Louis Hawks,132,Syracuse Nationals,130,1,N
+1959-03-13,1959,Syracuse Nationals,129,New York Knicks,123,0,Y
+1959-03-14,1959,Detroit Pistons,89,Minneapolis Lakers,92,0,Y
+1959-03-15,1959,Minneapolis Lakers,103,Detroit Pistons,117,0,Y
+1959-03-15,1959,New York Knicks,115,Syracuse Nationals,131,0,Y
+1959-03-18,1959,Detroit Pistons,102,Minneapolis Lakers,129,0,Y
+1959-03-18,1959,Syracuse Nationals,109,Boston Celtics,131,0,Y
+1959-03-21,1959,Minneapolis Lakers,90,St. Louis Hawks,124,0,Y
+1959-03-21,1959,Boston Celtics,118,Syracuse Nationals,120,0,Y
+1959-03-22,1959,Syracuse Nationals,111,Boston Celtics,133,0,Y
+1959-03-22,1959,St. Louis Hawks,98,Minneapolis Lakers,106,0,Y
+1959-03-24,1959,Minneapolis Lakers,97,St. Louis Hawks,127,0,Y
+1959-03-25,1959,Boston Celtics,107,Syracuse Nationals,119,0,Y
+1959-03-26,1959,St. Louis Hawks,98,Minneapolis Lakers,108,0,Y
+1959-03-28,1959,Syracuse Nationals,108,Boston Celtics,129,0,Y
+1959-03-28,1959,Minneapolis Lakers,98,St. Louis Hawks,97,1,Y
+1959-03-29,1959,St. Louis Hawks,104,Minneapolis Lakers,106,0,Y
+1959-03-29,1959,Boston Celtics,121,Syracuse Nationals,133,0,Y
+1959-04-01,1959,Syracuse Nationals,125,Boston Celtics,130,0,Y
+1959-04-04,1959,Minneapolis Lakers,115,Boston Celtics,118,0,Y
+1959-04-05,1959,Minneapolis Lakers,108,Boston Celtics,128,0,Y
+1959-04-07,1959,Boston Celtics,123,Minneapolis Lakers,110,0,Y
+1959-04-09,1959,Boston Celtics,118,Minneapolis Lakers,113,0,Y

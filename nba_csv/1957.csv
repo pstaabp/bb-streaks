@@ -1,0 +1,308 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1956-10-27,1957,Boston Celtics,115,New York Knicks,112,0,N
+1956-10-27,1957,Syracuse Nationals,109,Philadelphia Warriors,103,2,N
+1956-10-27,1957,Fort Wayne Pistons,85,Rochester Royals,88,0,N
+1956-10-27,1957,Minneapolis Lakers,75,St. Louis Hawks,97,0,N
+1956-10-28,1957,Minneapolis Lakers,88,Fort Wayne Pistons,94,0,N
+1956-10-28,1957,Rochester Royals,75,Syracuse Nationals,91,0,N
+1956-11-01,1957,Rochester Royals,88,Minneapolis Lakers,97,0,N
+1956-11-03,1957,New York Knicks,113,Boston Celtics,107,0,N
+1956-11-03,1957,Syracuse Nationals,75,St. Louis Hawks,73,0,N
+1956-11-03,1957,Fort Wayne Pistons,81,Philadelphia Warriors,116,0,N
+1956-11-03,1957,Minneapolis Lakers,95,Rochester Royals,85,0,N
+1956-11-04,1957,New York Knicks,96,Fort Wayne Pistons,83,0,N
+1956-11-04,1957,Rochester Royals,87,Minneapolis Lakers,88,0,N
+1956-11-04,1957,St. Louis Hawks,78,Syracuse Nationals,76,0,N
+1956-11-07,1957,Philadelphia Warriors,80,Rochester Royals,81,0,N
+1956-11-07,1957,New York Knicks,101,St. Louis Hawks,107,0,N
+1956-11-09,1957,Rochester Royals,95,Philadelphia Warriors,93,0,N
+1956-11-10,1957,Minneapolis Lakers,110,Boston Celtics,117,0,N
+1956-11-10,1957,New York Knicks,81,Philadelphia Warriors,83,0,N
+1956-11-10,1957,Syracuse Nationals,76,Rochester Royals,90,0,N
+1956-11-10,1957,Fort Wayne Pistons,79,St. Louis Hawks,86,0,N
+1956-11-11,1957,St. Louis Hawks,81,Fort Wayne Pistons,96,0,N
+1956-11-11,1957,Boston Celtics,94,Syracuse Nationals,83,0,N
+1956-11-11,1957,Philadelphia Warriors,95,New York Knicks,106,0,N
+1956-11-11,1957,Rochester Royals,94,Minneapolis Lakers,82,0,N
+1956-11-13,1957,Rochester Royals,105,St. Louis Hawks,118,0,N
+1956-11-14,1957,Minneapolis Lakers,113,Boston Celtics,97,0,N
+1956-11-14,1957,New York Knicks,87,Rochester Royals,90,0,N
+1956-11-15,1957,Boston Celtics,95,Fort Wayne Pistons,98,0,N
+1956-11-15,1957,Rochester Royals,83,Philadelphia Warriors,92,0,N
+1956-11-15,1957,Minneapolis Lakers,103,Syracuse Nationals,96,0,N
+1956-11-16,1957,Minneapolis Lakers,97,Philadelphia Warriors,123,0,N
+1956-11-17,1957,Fort Wayne Pistons,87,St. Louis Hawks,92,0,N
+1956-11-17,1957,Syracuse Nationals,96,Philadelphia Warriors,109,0,N
+1956-11-17,1957,Rochester Royals,86,Boston Celtics,108,0,N
+1956-11-18,1957,Fort Wayne Pistons,111,Minneapolis Lakers,107,0,N
+1956-11-18,1957,St. Louis Hawks,69,New York Knicks,102,0,N
+1956-11-18,1957,Boston Celtics,101,Rochester Royals,87,0,N
+1956-11-18,1957,Philadelphia Warriors,97,Syracuse Nationals,99,0,N
+1956-11-20,1957,Syracuse Nationals,81,St. Louis Hawks,104,0,N
+1956-11-21,1957,Philadelphia Warriors,83,Boston Celtics,95,0,N
+1956-11-21,1957,New York Knicks,103,Fort Wayne Pistons,104,1,N
+1956-11-21,1957,St. Louis Hawks,76,Rochester Royals,85,0,N
+1956-11-22,1957,Rochester Royals,102,Fort Wayne Pistons,104,1,N
+1956-11-22,1957,Syracuse Nationals,78,Minneapolis Lakers,111,0,N
+1956-11-22,1957,Boston Celtics,101,Philadelphia Warriors,78,0,N
+1956-11-24,1957,Rochester Royals,96,New York Knicks,87,0,N
+1956-11-24,1957,Minneapolis Lakers,104,St. Louis Hawks,102,1,N
+1956-11-24,1957,Fort Wayne Pistons,88,Philadelphia Warriors,98,0,N
+1956-11-24,1957,Syracuse Nationals,99,Boston Celtics,114,0,N
+1956-11-25,1957,Philadelphia Warriors,88,Fort Wayne Pistons,112,0,N
+1956-11-25,1957,St. Louis Hawks,95,Minneapolis Lakers,94,0,N
+1956-11-25,1957,New York Knicks,93,Rochester Royals,95,0,N
+1956-11-27,1957,Philadelphia Warriors,98,Minneapolis Lakers,113,0,N
+1956-11-27,1957,Fort Wayne Pistons,98,New York Knicks,105,0,N
+1956-11-27,1957,Syracuse Nationals,82,Rochester Royals,90,0,N
+1956-11-27,1957,Boston Celtics,102,St. Louis Hawks,90,0,N
+1956-11-28,1957,Minneapolis Lakers,93,Boston Celtics,105,0,N
+1956-11-29,1957,Fort Wayne Pistons,92,Syracuse Nationals,87,0,N
+1956-11-30,1957,Fort Wayne Pistons,102,Boston Celtics,104,0,N
+1956-11-30,1957,New York Knicks,99,Philadelphia Warriors,110,0,N
+1956-12-01,1957,Syracuse Nationals,100,New York Knicks,117,0,N
+1956-12-01,1957,Fort Wayne Pistons,93,Boston Celtics,108,0,N
+1956-12-01,1957,Philadelphia Warriors,107,St. Louis Hawks,95,0,N
+1956-12-01,1957,Minneapolis Lakers,83,Rochester Royals,95,0,N
+1956-12-02,1957,Philadelphia Warriors,96,Minneapolis Lakers,106,0,N
+1956-12-02,1957,New York Knicks,100,Syracuse Nationals,110,0,N
+1956-12-04,1957,St. Louis Hawks,107,Boston Celtics,108,0,N
+1956-12-04,1957,Syracuse Nationals,97,Fort Wayne Pistons,96,1,N
+1956-12-04,1957,Minneapolis Lakers,88,New York Knicks,101,0,N
+1956-12-06,1957,Syracuse Nationals,92,Fort Wayne Pistons,104,0,N
+1956-12-06,1957,St. Louis Hawks,96,Minneapolis Lakers,103,0,N
+1956-12-06,1957,Rochester Royals,92,New York Knicks,95,0,N
+1956-12-06,1957,Boston Celtics,111,Philadelphia Warriors,113,0,N
+1956-12-07,1957,New York Knicks,107,St. Louis Hawks,101,0,N
+1956-12-07,1957,Syracuse Nationals,97,Fort Wayne Pistons,105,0,N
+1956-12-07,1957,Minneapolis Lakers,114,Boston Celtics,121,0,N
+1956-12-08,1957,St. Louis Hawks,104,New York Knicks,109,0,N
+1956-12-08,1957,Philadelphia Warriors,91,Rochester Royals,92,0,N
+1956-12-09,1957,Rochester Royals,101,Fort Wayne Pistons,100,1,N
+1956-12-09,1957,New York Knicks,100,Minneapolis Lakers,91,0,N
+1956-12-09,1957,Boston Celtics,110,Syracuse Nationals,116,0,N
+1956-12-11,1957,Fort Wayne Pistons,97,Boston Celtics,113,0,N
+1956-12-11,1957,St. Louis Hawks,137,New York Knicks,128,0,N
+1956-12-11,1957,Minneapolis Lakers,111,Philadelphia Warriors,114,0,N
+1956-12-12,1957,Rochester Royals,103,Boston Celtics,93,0,N
+1956-12-12,1957,New York Knicks,103,Minneapolis Lakers,121,0,N
+1956-12-12,1957,St. Louis Hawks,99,Philadelphia Warriors,115,0,N
+1956-12-15,1957,Philadelphia Warriors,117,Syracuse Nationals,108,0,N
+1956-12-15,1957,St. Louis Hawks,99,Boston Celtics,102,0,N
+1956-12-15,1957,New York Knicks,91,Rochester Royals,76,0,N
+1956-12-16,1957,Philadelphia Warriors,116,Boston Celtics,104,0,N
+1956-12-16,1957,New York Knicks,80,Fort Wayne Pistons,84,0,N
+1956-12-16,1957,Rochester Royals,97,Minneapolis Lakers,101,0,N
+1956-12-16,1957,St. Louis Hawks,91,Syracuse Nationals,101,0,N
+1956-12-18,1957,St. Louis Hawks,95,Fort Wayne Pistons,84,0,N
+1956-12-18,1957,Boston Celtics,99,New York Knicks,110,0,N
+1956-12-20,1957,Rochester Royals,103,Minneapolis Lakers,105,0,N
+1956-12-22,1957,St. Louis Hawks,93,Boston Celtics,95,0,N
+1956-12-22,1957,Minneapolis Lakers,101,Rochester Royals,115,0,N
+1956-12-23,1957,Boston Celtics,87,Fort Wayne Pistons,95,0,N
+1956-12-23,1957,Philadelphia Warriors,95,New York Knicks,90,0,N
+1956-12-23,1957,Minneapolis Lakers,97,Syracuse Nationals,107,0,N
+1956-12-25,1957,Minneapolis Lakers,100,Fort Wayne Pistons,89,0,N
+1956-12-25,1957,Syracuse Nationals,93,Rochester Royals,98,0,N
+1956-12-25,1957,St. Louis Hawks,107,New York Knicks,105,1,N
+1956-12-25,1957,Philadelphia Warriors,89,Boston Celtics,82,0,N
+1956-12-26,1957,Philadelphia Warriors,97,Boston Celtics,120,0,N
+1956-12-26,1957,Rochester Royals,93,Fort Wayne Pistons,99,0,N
+1956-12-27,1957,Rochester Royals,92,Boston Celtics,97,0,N
+1956-12-27,1957,Minneapolis Lakers,93,Fort Wayne Pistons,120,0,N
+1956-12-27,1957,New York Knicks,87,Philadelphia Warriors,112,0,N
+1956-12-27,1957,Syracuse Nationals,95,St. Louis Hawks,102,0,N
+1956-12-29,1957,St. Louis Hawks,95,Minneapolis Lakers,92,0,N
+1956-12-29,1957,Syracuse Nationals,104,Philadelphia Warriors,103,1,N
+1956-12-29,1957,Fort Wayne Pistons,88,Rochester Royals,95,0,N
+1956-12-30,1957,Syracuse Nationals,92,Boston Celtics,105,0,N
+1956-12-30,1957,Philadelphia Warriors,99,Fort Wayne Pistons,104,0,N
+1956-12-30,1957,Rochester Royals,88,New York Knicks,96,0,N
+1956-12-30,1957,Minneapolis Lakers,93,St. Louis Hawks,100,0,N
+1957-01-01,1957,St. Louis Hawks,101,Rochester Royals,102,1,N
+1957-01-01,1957,Philadelphia Warriors,87,Boston Celtics,100,0,N
+1957-01-01,1957,New York Knicks,102,Syracuse Nationals,106,0,N
+1957-01-03,1957,Minneapolis Lakers,102,Fort Wayne Pistons,104,0,N
+1957-01-03,1957,Syracuse Nationals,111,New York Knicks,126,0,N
+1957-01-03,1957,St. Louis Hawks,81,Philadelphia Warriors,82,0,N
+1957-01-04,1957,Syracuse Nationals,116,Boston Celtics,106,0,N
+1957-01-04,1957,St. Louis Hawks,92,Philadelphia Warriors,96,0,N
+1957-01-05,1957,New York Knicks,96,Fort Wayne Pistons,109,0,N
+1957-01-05,1957,Philadelphia Warriors,81,Rochester Royals,78,0,N
+1957-01-06,1957,New York Knicks,111,Minneapolis Lakers,101,0,N
+1957-01-06,1957,Philadelphia Warriors,123,Syracuse Nationals,128,0,N
+1957-01-06,1957,Rochester Royals,93,St. Louis Hawks,86,0,N
+1957-01-06,1957,Fort Wayne Pistons,92,Boston Celtics,118,0,N
+1957-01-08,1957,Minneapolis Lakers,86,Fort Wayne Pistons,87,0,N
+1957-01-08,1957,Boston Celtics,102,New York Knicks,113,0,N
+1957-01-08,1957,Rochester Royals,95,Philadelphia Warriors,94,0,N
+1957-01-09,1957,Syracuse Nationals,86,Minneapolis Lakers,93,0,N
+1957-01-10,1957,Boston Celtics,98,Fort Wayne Pistons,81,0,N
+1957-01-10,1957,Minneapolis Lakers,118,Syracuse Nationals,110,0,N
+1957-01-10,1957,Rochester Royals,93,Philadelphia Warriors,112,0,N
+1957-01-10,1957,St. Louis Hawks,84,New York Knicks,89,1,N
+1957-01-12,1957,Minneapolis Lakers,105,Fort Wayne Pistons,87,0,N
+1957-01-12,1957,New York Knicks,82,Philadelphia Warriors,116,0,N
+1957-01-12,1957,Syracuse Nationals,97,Rochester Royals,88,0,N
+1957-01-12,1957,Boston Celtics,98,St. Louis Hawks,100,0,N
+1957-01-13,1957,St. Louis Hawks,89,Fort Wayne Pistons,91,0,N
+1957-01-13,1957,Boston Celtics,87,Minneapolis Lakers,104,0,N
+1957-01-13,1957,Philadelphia Warriors,90,New York Knicks,101,0,N
+1957-01-13,1957,Rochester Royals,85,Syracuse Nationals,91,0,N
+1957-01-16,1957,St. Louis Hawks,108,Rochester Royals,106,1,N
+1957-01-17,1957,St. Louis Hawks,106,Fort Wayne Pistons,82,0,N
+1957-01-17,1957,New York Knicks,94,Minneapolis Lakers,93,0,N
+1957-01-17,1957,Syracuse Nationals,108,Philadelphia Warriors,103,0,N
+1957-01-18,1957,Syracuse Nationals,94,Philadelphia Warriors,96,0,N
+1957-01-18,1957,St. Louis Hawks,117,Boston Celtics,126,0,N
+1957-01-19,1957,Fort Wayne Pistons,100,New York Knicks,102,0,N
+1957-01-19,1957,St. Louis Hawks,104,Syracuse Nationals,96,0,N
+1957-01-19,1957,Boston Celtics,97,Rochester Royals,83,0,N
+1957-01-20,1957,New York Knicks,78,Boston Celtics,114,0,N
+1957-01-20,1957,Rochester Royals,107,Minneapolis Lakers,114,0,N
+1957-01-20,1957,Philadelphia Warriors,102,St. Louis Hawks,104,1,N
+1957-01-20,1957,Fort Wayne Pistons,98,Syracuse Nationals,101,0,N
+1957-01-22,1957,St. Louis Hawks,87,Fort Wayne Pistons,97,0,N
+1957-01-22,1957,Syracuse Nationals,88,New York Knicks,90,0,N
+1957-01-23,1957,Syracuse Nationals,108,Boston Celtics,140,0,N
+1957-01-23,1957,St. Louis Hawks,101,Fort Wayne Pistons,78,0,N
+1957-01-23,1957,Rochester Royals,99,Minneapolis Lakers,107,0,N
+1957-01-23,1957,Philadelphia Warriors,99,New York Knicks,93,0,N
+1957-01-24,1957,St. Louis Hawks,96,Philadelphia Warriors,107,0,N
+1957-01-24,1957,New York Knicks,97,Syracuse Nationals,115,0,N
+1957-01-25,1957,St. Louis Hawks,100,Rochester Royals,99,0,N
+1957-01-25,1957,Minneapolis Lakers,106,Boston Celtics,115,0,N
+1957-01-26,1957,Philadelphia Warriors,98,Fort Wayne Pistons,101,0,N
+1957-01-26,1957,Minneapolis Lakers,107,New York Knicks,122,0,N
+1957-01-26,1957,Syracuse Nationals,99,Rochester Royals,95,0,N
+1957-01-27,1957,New York Knicks,102,Fort Wayne Pistons,103,1,N
+1957-01-27,1957,Boston Celtics,107,Philadelphia Warriors,87,0,N
+1957-01-27,1957,Rochester Royals,83,St. Louis Hawks,107,0,N
+1957-01-27,1957,Minneapolis Lakers,93,Syracuse Nationals,94,0,N
+1957-01-28,1957,Syracuse Nationals,112,Minneapolis Lakers,96,0,N
+1957-01-28,1957,Philadelphia Warriors,95,Boston Celtics,105,0,N
+1957-01-29,1957,Minneapolis Lakers,91,Boston Celtics,103,0,N
+1957-01-29,1957,Philadelphia Warriors,110,New York Knicks,114,0,N
+1957-01-29,1957,Fort Wayne Pistons,91,St. Louis Hawks,85,0,N
+1957-01-30,1957,Syracuse Nationals,119,Boston Celtics,116,0,N
+1957-01-30,1957,Rochester Royals,80,New York Knicks,92,0,N
+1957-01-31,1957,Fort Wayne Pistons,111,Minneapolis Lakers,107,0,N
+1957-01-31,1957,Philadelphia Warriors,106,New York Knicks,102,0,N
+1957-01-31,1957,Boston Celtics,104,Syracuse Nationals,105,0,N
+1957-02-01,1957,Rochester Royals,96,Fort Wayne Pistons,80,0,N
+1957-02-02,1957,St. Louis Hawks,106,Minneapolis Lakers,97,0,N
+1957-02-02,1957,Fort Wayne Pistons,79,Rochester Royals,93,0,N
+1957-02-02,1957,Boston Celtics,114,New York Knicks,111,0,N
+1957-02-02,1957,Syracuse Nationals,100,Philadelphia Warriors,107,0,N
+1957-02-03,1957,New York Knicks,98,Boston Celtics,116,0,N
+1957-02-03,1957,Rochester Royals,108,Philadelphia Warriors,110,0,N
+1957-02-03,1957,Minneapolis Lakers,85,St. Louis Hawks,102,0,N
+1957-02-03,1957,Fort Wayne Pistons,95,Syracuse Nationals,104,0,N
+1957-02-04,1957,Philadelphia Warriors,91,Fort Wayne Pistons,103,0,N
+1957-02-05,1957,Syracuse Nationals,101,Boston Celtics,105,0,N
+1957-02-05,1957,Rochester Royals,91,New York Knicks,88,0,N
+1957-02-05,1957,Philadelphia Warriors,101,St. Louis Hawks,87,0,N
+1957-02-06,1957,Fort Wayne Pistons,93,Boston Celtics,108,0,N
+1957-02-06,1957,Philadelphia Warriors,100,Minneapolis Lakers,101,0,N
+1957-02-06,1957,Syracuse Nationals,100,New York Knicks,119,0,N
+1957-02-06,1957,St. Louis Hawks,100,Rochester Royals,103,0,N
+1957-02-07,1957,St. Louis Hawks,110,Syracuse Nationals,112,0,N
+1957-02-08,1957,New York Knicks,92,Boston Celtics,90,0,N
+1957-02-08,1957,St. Louis Hawks,90,Philadelphia Warriors,93,0,N
+1957-02-09,1957,Fort Wayne Pistons,92,Minneapolis Lakers,99,0,N
+1957-02-09,1957,Syracuse Nationals,101,New York Knicks,89,0,N
+1957-02-09,1957,Boston Celtics,102,Rochester Royals,103,0,N
+1957-02-10,1957,Philadelphia Warriors,98,Boston Celtics,103,1,N
+1957-02-10,1957,Minneapolis Lakers,100,Fort Wayne Pistons,113,0,N
+1957-02-10,1957,Rochester Royals,93,St. Louis Hawks,117,0,N
+1957-02-10,1957,New York Knicks,100,Syracuse Nationals,102,0,N
+1957-02-11,1957,Syracuse Nationals,101,St. Louis Hawks,107,0,N
+1957-02-12,1957,St. Louis Hawks,105,Minneapolis Lakers,110,0,N
+1957-02-13,1957,Boston Celtics,114,Minneapolis Lakers,115,0,N
+1957-02-13,1957,Fort Wayne Pistons,89,Philadelphia Warriors,99,0,N
+1957-02-13,1957,New York Knicks,85,Rochester Royals,82,0,N
+1957-02-14,1957,Rochester Royals,104,Syracuse Nationals,95,0,N
+1957-02-14,1957,Boston Celtics,106,Fort Wayne Pistons,112,0,N
+1957-02-14,1957,New York Knicks,97,Minneapolis Lakers,99,0,N
+1957-02-15,1957,Minneapolis Lakers,104,Philadelphia Warriors,105,0,N
+1957-02-15,1957,Boston Celtics,123,St. Louis Hawks,116,2,N
+1957-02-16,1957,Minneapolis Lakers,112,New York Knicks,120,0,N
+1957-02-16,1957,Fort Wayne Pistons,87,Rochester Royals,84,0,N
+1957-02-17,1957,Rochester Royals,85,Fort Wayne Pistons,104,0,N
+1957-02-17,1957,St. Louis Hawks,118,Minneapolis Lakers,115,1,N
+1957-02-17,1957,New York Knicks,115,Philadelphia Warriors,123,0,N
+1957-02-17,1957,Boston Celtics,106,Syracuse Nationals,116,0,N
+1957-02-19,1957,Boston Celtics,112,New York Knicks,110,0,N
+1957-02-19,1957,Fort Wayne Pistons,83,St. Louis Hawks,96,0,N
+1957-02-20,1957,Rochester Royals,103,Minneapolis Lakers,111,0,N
+1957-02-21,1957,St. Louis Hawks,112,Boston Celtics,125,0,N
+1957-02-21,1957,New York Knicks,114,Fort Wayne Pistons,120,0,N
+1957-02-21,1957,Philadelphia Warriors,86,Syracuse Nationals,92,0,N
+1957-02-22,1957,Boston Celtics,109,Philadelphia Warriors,117,0,N
+1957-02-22,1957,Rochester Royals,105,Fort Wayne Pistons,110,0,N
+1957-02-23,1957,Syracuse Nationals,103,Minneapolis Lakers,101,0,N
+1957-02-23,1957,Fort Wayne Pistons,94,New York Knicks,102,0,N
+1957-02-23,1957,St. Louis Hawks,86,Rochester Royals,101,0,N
+1957-02-24,1957,New York Knicks,85,Boston Celtics,97,0,N
+1957-02-24,1957,Fort Wayne Pistons,115,Minneapolis Lakers,123,0,N
+1957-02-24,1957,Philadelphia Warriors,112,St. Louis Hawks,113,0,N
+1957-02-24,1957,Rochester Royals,93,Syracuse Nationals,109,0,N
+1957-02-25,1957,St. Louis Hawks,110,Minneapolis Lakers,94,0,N
+1957-02-25,1957,Syracuse Nationals,102,Fort Wayne Pistons,108,0,N
+1957-02-26,1957,Rochester Royals,77,Boston Celtics,92,0,N
+1957-02-26,1957,St. Louis Hawks,76,New York Knicks,107,0,N
+1957-02-26,1957,Minneapolis Lakers,108,Syracuse Nationals,120,0,N
+1957-02-27,1957,Fort Wayne Pistons,76,Rochester Royals,90,0,N
+1957-02-27,1957,Syracuse Nationals,108,St. Louis Hawks,93,0,N
+1957-02-28,1957,New York Knicks,122,Boston Celtics,121,1,N
+1957-02-28,1957,Minneapolis Lakers,112,Philadelphia Warriors,129,0,N
+1957-02-28,1957,Fort Wayne Pistons,112,Syracuse Nationals,123,0,N
+1957-03-01,1957,Rochester Royals,117,Minneapolis Lakers,125,0,N
+1957-03-01,1957,Philadelphia Warriors,80,Boston Celtics,90,0,N
+1957-03-02,1957,Boston Celtics,87,Rochester Royals,96,0,N
+1957-03-02,1957,New York Knicks,97,St. Louis Hawks,94,0,N
+1957-03-02,1957,Syracuse Nationals,85,Philadelphia Warriors,98,0,N
+1957-03-03,1957,Rochester Royals,102,Boston Celtics,111,0,N
+1957-03-03,1957,St. Louis Hawks,112,Fort Wayne Pistons,102,0,N
+1957-03-03,1957,New York Knicks,108,Minneapolis Lakers,119,0,N
+1957-03-03,1957,Philadelphia Warriors,86,Syracuse Nationals,112,0,N
+1957-03-05,1957,Philadelphia Warriors,114,Fort Wayne Pistons,80,0,N
+1957-03-05,1957,Syracuse Nationals,99,New York Knicks,92,0,N
+1957-03-05,1957,Boston Celtics,102,St. Louis Hawks,104,0,N
+1957-03-06,1957,Philadelphia Warriors,79,Rochester Royals,82,0,N
+1957-03-06,1957,New York Knicks,100,Syracuse Nationals,93,0,N
+1957-03-07,1957,Boston Celtics,104,Minneapolis Lakers,109,0,N
+1957-03-07,1957,Syracuse Nationals,94,New York Knicks,99,0,N
+1957-03-07,1957,Fort Wayne Pistons,100,Philadelphia Warriors,114,0,N
+1957-03-08,1957,Minneapolis Lakers,101,Fort Wayne Pistons,97,0,N
+1957-03-08,1957,St. Louis Hawks,100,Rochester Royals,92,0,N
+1957-03-09,1957,Fort Wayne Pistons,96,St. Louis Hawks,97,0,N
+1957-03-09,1957,Boston Celtics,102,Syracuse Nationals,104,0,N
+1957-03-10,1957,Philadelphia Warriors,103,New York Knicks,104,0,N
+1957-03-10,1957,Rochester Royals,96,Fort Wayne Pistons,100,0,N
+1957-03-10,1957,Syracuse Nationals,94,Boston Celtics,92,0,N
+1957-03-10,1957,St. Louis Hawks,104,Minneapolis Lakers,117,0,N
+1957-03-12,1957,Philadelphia Warriors,94,Minneapolis Lakers,100,0,N
+1957-03-13,1957,New York Knicks,91,Boston Celtics,122,0,N
+1957-03-13,1957,Syracuse Nationals,81,Fort Wayne Pistons,114,0,N
+1957-03-13,1957,Philadelphia Warriors,97,Minneapolis Lakers,114,0,N
+1957-03-13,1957,St. Louis Hawks,99,Rochester Royals,104,0,N
+1957-03-14,1957,Fort Wayne Pistons,103,St. Louis Hawks,115,0,Y
+1957-03-16,1957,Syracuse Nationals,103,Philadelphia Warriors,96,0,Y
+1957-03-16,1957,Minneapolis Lakers,111,St. Louis Hawks,114,1,Y
+1957-03-17,1957,Fort Wayne Pistons,127,Minneapolis Lakers,131,0,Y
+1957-03-18,1957,Philadelphia Warriors,80,Syracuse Nationals,91,0,Y
+1957-03-19,1957,Minneapolis Lakers,110,Fort Wayne Pistons,108,0,Y
+1957-03-21,1957,Syracuse Nationals,90,Boston Celtics,108,0,Y
+1957-03-21,1957,Minneapolis Lakers,109,St. Louis Hawks,118,0,Y
+1957-03-23,1957,Boston Celtics,120,Syracuse Nationals,105,0,Y
+1957-03-24,1957,Syracuse Nationals,80,Boston Celtics,83,0,Y
+1957-03-24,1957,Minneapolis Lakers,104,St. Louis Hawks,106,0,Y
+1957-03-25,1957,St. Louis Hawks,143,Minneapolis Lakers,135,2,Y
+1957-03-30,1957,St. Louis Hawks,125,Boston Celtics,123,2,Y
+1957-03-31,1957,St. Louis Hawks,99,Boston Celtics,119,0,Y
+1957-04-06,1957,Boston Celtics,98,St. Louis Hawks,100,0,Y
+1957-04-07,1957,Boston Celtics,123,St. Louis Hawks,118,0,Y
+1957-04-09,1957,St. Louis Hawks,109,Boston Celtics,124,0,Y
+1957-04-11,1957,Boston Celtics,94,St. Louis Hawks,96,0,Y
+1957-04-13,1957,St. Louis Hawks,123,Boston Celtics,125,2,Y

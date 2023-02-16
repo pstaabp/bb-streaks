@@ -1,0 +1,1261 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1997-10-31,1998,Chicago Bulls,85,Boston Celtics,92,0,N
+1997-10-31,1998,New York Knicks,97,Charlotte Hornets,85,0,N
+1997-10-31,1998,San Antonio Spurs,107,Denver Nuggets,96,0,N
+1997-10-31,1998,Washington Wizards,79,Detroit Pistons,92,0,N
+1997-10-31,1998,Cleveland Cavaliers,86,Houston Rockets,94,0,N
+1997-10-31,1998,Utah Jazz,87,Los Angeles Lakers,104,0,N
+1997-10-31,1998,Toronto Raptors,101,Miami Heat,114,0,N
+1997-10-31,1998,Golden State Warriors,113,Minnesota Timberwolves,129,0,N
+1997-10-31,1998,Indiana Pacers,95,New Jersey Nets,97,0,N
+1997-10-31,1998,Atlanta Hawks,105,Orlando Magic,99,0,N
+1997-10-31,1998,Milwaukee Bucks,103,Philadelphia 76ers,88,0,N
+1997-10-31,1998,Los Angeles Clippers,100,Phoenix Suns,110,0,N
+1997-10-31,1998,Seattle SuperSonics,91,Portland Trail Blazers,83,0,N
+1997-10-31,1998,Dallas Mavericks,90,Vancouver Grizzlies,88,0,N
+1997-11-01,1998,Toronto Raptors,85,Atlanta Hawks,90,0,N
+1997-11-01,1998,Philadelphia 76ers,74,Chicago Bulls,94,0,N
+1997-11-01,1998,Golden State Warriors,83,Indiana Pacers,96,0,N
+1997-11-01,1998,Portland Trail Blazers,82,Los Angeles Clippers,74,0,N
+1997-11-01,1998,New Jersey Nets,113,Milwaukee Bucks,109,1,N
+1997-11-01,1998,Charlotte Hornets,90,Minnesota Timberwolves,106,0,N
+1997-11-01,1998,Cleveland Cavaliers,80,San Antonio Spurs,83,0,N
+1997-11-01,1998,Dallas Mavericks,89,Seattle SuperSonics,81,0,N
+1997-11-01,1998,Denver Nuggets,84,Utah Jazz,102,0,N
+1997-11-01,1998,Sacramento Kings,96,Vancouver Grizzlies,97,0,N
+1997-11-01,1998,Miami Heat,109,Washington Wizards,108,0,N
+1997-11-02,1998,Orlando Magic,107,Boston Celtics,96,0,N
+1997-11-02,1998,Detroit Pistons,94,New York Knicks,86,0,N
+1997-11-02,1998,Houston Rockets,93,Sacramento Kings,77,0,N
+1997-11-03,1998,San Antonio Spurs,83,Chicago Bulls,87,2,N
+1997-11-03,1998,Charlotte Hornets,112,Miami Heat,99,0,N
+1997-11-03,1998,Washington Wizards,90,Utah Jazz,86,0,N
+1997-11-04,1998,Detroit Pistons,71,Atlanta Hawks,82,0,N
+1997-11-04,1998,Indiana Pacers,77,Cleveland Cavaliers,80,0,N
+1997-11-04,1998,Vancouver Grizzlies,87,Dallas Mavericks,92,0,N
+1997-11-04,1998,Washington Wizards,120,Denver Nuggets,96,0,N
+1997-11-04,1998,Orlando Magic,76,Milwaukee Bucks,110,0,N
+1997-11-04,1998,Boston Celtics,70,New York Knicks,102,0,N
+1997-11-04,1998,Utah Jazz,84,Phoenix Suns,106,0,N
+1997-11-04,1998,Minnesota Timberwolves,105,Portland Trail Blazers,122,0,N
+1997-11-04,1998,Los Angeles Lakers,101,Sacramento Kings,98,0,N
+1997-11-04,1998,Houston Rockets,94,Seattle SuperSonics,118,0,N
+1997-11-04,1998,Golden State Warriors,86,Toronto Raptors,104,0,N
+1997-11-05,1998,Miami Heat,90,Boston Celtics,74,0,N
+1997-11-05,1998,Dallas Mavericks,103,Charlotte Hornets,110,0,N
+1997-11-05,1998,Orlando Magic,81,Chicago Bulls,94,0,N
+1997-11-05,1998,Indiana Pacers,99,Detroit Pistons,87,0,N
+1997-11-05,1998,Houston Rockets,124,Los Angeles Clippers,110,0,N
+1997-11-05,1998,Golden State Warriors,96,New Jersey Nets,112,0,N
+1997-11-05,1998,Atlanta Hawks,93,Philadelphia 76ers,88,0,N
+1997-11-05,1998,Vancouver Grizzlies,79,San Antonio Spurs,87,0,N
+1997-11-06,1998,Philadelphia 76ers,93,Milwaukee Bucks,100,0,N
+1997-11-06,1998,New York Knicks,105,Phoenix Suns,75,0,N
+1997-11-06,1998,Seattle SuperSonics,109,Toronto Raptors,92,0,N
+1997-11-07,1998,Chicago Bulls,78,Atlanta Hawks,80,0,N
+1997-11-07,1998,Cleveland Cavaliers,96,Boston Celtics,92,0,N
+1997-11-07,1998,Utah Jazz,91,Denver Nuggets,89,0,N
+1997-11-07,1998,Orlando Magic,89,Detroit Pistons,84,0,N
+1997-11-07,1998,Portland Trail Blazers,86,Houston Rockets,85,0,N
+1997-11-07,1998,Seattle SuperSonics,99,Indiana Pacers,93,0,N
+1997-11-07,1998,New York Knicks,94,Los Angeles Lakers,99,0,N
+1997-11-07,1998,Miami Heat,87,New Jersey Nets,99,0,N
+1997-11-07,1998,Los Angeles Clippers,98,Sacramento Kings,85,0,N
+1997-11-07,1998,Minnesota Timberwolves,108,Vancouver Grizzlies,97,0,N
+1997-11-07,1998,Charlotte Hornets,107,Washington Wizards,92,0,N
+1997-11-08,1998,Indiana Pacers,82,Charlotte Hornets,89,0,N
+1997-11-08,1998,New Jersey Nets,86,Chicago Bulls,99,0,N
+1997-11-08,1998,Atlanta Hawks,99,Cleveland Cavaliers,97,1,N
+1997-11-08,1998,Portland Trail Blazers,101,Dallas Mavericks,94,0,N
+1997-11-08,1998,Minnesota Timberwolves,97,Golden State Warriors,90,0,N
+1997-11-08,1998,Phoenix Suns,123,Los Angeles Clippers,105,0,N
+1997-11-08,1998,Washington Wizards,106,Miami Heat,114,0,N
+1997-11-08,1998,Boston Celtics,96,Milwaukee Bucks,105,0,N
+1997-11-08,1998,Toronto Raptors,87,Orlando Magic,96,0,N
+1997-11-08,1998,Utah Jazz,80,San Antonio Spurs,87,0,N
+1997-11-09,1998,Golden State Warriors,97,Los Angeles Lakers,132,0,N
+1997-11-09,1998,Seattle SuperSonics,112,Philadelphia 76ers,105,0,N
+1997-11-09,1998,New York Knicks,78,Sacramento Kings,86,0,N
+1997-11-09,1998,Detroit Pistons,96,Vancouver Grizzlies,104,1,N
+1997-11-10,1998,Detroit Pistons,82,Portland Trail Blazers,86,0,N
+1997-11-10,1998,San Antonio Spurs,100,Toronto Raptors,98,0,N
+1997-11-11,1998,Seattle SuperSonics,87,Atlanta Hawks,89,0,N
+1997-11-11,1998,Chicago Bulls,80,Cleveland Cavaliers,101,0,N
+1997-11-11,1998,Los Angeles Lakers,118,Dallas Mavericks,96,0,N
+1997-11-11,1998,Sacramento Kings,82,Miami Heat,101,0,N
+1997-11-11,1998,San Antonio Spurs,93,Minnesota Timberwolves,92,0,N
+1997-11-11,1998,Denver Nuggets,90,New York Knicks,93,0,N
+1997-11-11,1998,Los Angeles Clippers,113,Vancouver Grizzlies,119,0,N
+1997-11-12,1998,Denver Nuggets,86,Boston Celtics,96,0,N
+1997-11-12,1998,Washington Wizards,90,Chicago Bulls,83,0,N
+1997-11-12,1998,Detroit Pistons,102,Golden State Warriors,71,0,N
+1997-11-12,1998,Philadelphia 76ers,114,Houston Rockets,100,0,N
+1997-11-12,1998,Atlanta Hawks,89,Indiana Pacers,86,0,N
+1997-11-12,1998,Sacramento Kings,115,Orlando Magic,89,0,N
+1997-11-12,1998,Milwaukee Bucks,95,Phoenix Suns,103,0,N
+1997-11-12,1998,New York Knicks,93,Toronto Raptors,70,0,N
+1997-11-12,1998,Vancouver Grizzlies,80,Utah Jazz,98,0,N
+1997-11-13,1998,Philadelphia 76ers,99,Dallas Mavericks,98,0,N
+1997-11-13,1998,Milwaukee Bucks,102,Los Angeles Clippers,94,0,N
+1997-11-13,1998,Washington Wizards,91,Minnesota Timberwolves,88,1,N
+1997-11-13,1998,Cleveland Cavaliers,85,New Jersey Nets,74,0,N
+1997-11-13,1998,Los Angeles Lakers,109,San Antonio Spurs,100,1,N
+1997-11-13,1998,Detroit Pistons,89,Seattle SuperSonics,95,0,N
+1997-11-14,1998,Sacramento Kings,103,Atlanta Hawks,104,0,N
+1997-11-14,1998,Toronto Raptors,99,Boston Celtics,103,0,N
+1997-11-14,1998,Charlotte Hornets,92,Chicago Bulls,105,0,N
+1997-11-14,1998,Los Angeles Lakers,113,Houston Rockets,103,2,N
+1997-11-14,1998,Miami Heat,78,Indiana Pacers,82,0,N
+1997-11-14,1998,Denver Nuggets,85,Orlando Magic,103,0,N
+1997-11-14,1998,Phoenix Suns,140,Portland Trail Blazers,139,4,N
+1997-11-14,1998,Seattle SuperSonics,104,Utah Jazz,110,0,N
+1997-11-15,1998,Los Angeles Clippers,96,Charlotte Hornets,130,0,N
+1997-11-15,1998,Cleveland Cavaliers,70,Chicago Bulls,79,0,N
+1997-11-15,1998,Utah Jazz,85,Dallas Mavericks,77,0,N
+1997-11-15,1998,New Jersey Nets,88,Detroit Pistons,96,1,N
+1997-11-15,1998,Portland Trail Blazers,99,Golden State Warriors,87,0,N
+1997-11-15,1998,Denver Nuggets,93,Miami Heat,96,0,N
+1997-11-15,1998,Sacramento Kings,87,New York Knicks,114,0,N
+1997-11-15,1998,Boston Celtics,107,Philadelphia 76ers,101,0,N
+1997-11-15,1998,Minnesota Timberwolves,105,San Antonio Spurs,94,0,N
+1997-11-15,1998,Indiana Pacers,105,Toronto Raptors,77,0,N
+1997-11-15,1998,Milwaukee Bucks,94,Vancouver Grizzlies,109,0,N
+1997-11-15,1998,Orlando Magic,102,Washington Wizards,91,0,N
+1997-11-16,1998,Los Angeles Clippers,83,Atlanta Hawks,89,0,N
+1997-11-16,1998,New Jersey Nets,77,Cleveland Cavaliers,72,0,N
+1997-11-16,1998,Vancouver Grizzlies,95,Los Angeles Lakers,121,0,N
+1997-11-16,1998,Houston Rockets,94,Phoenix Suns,96,0,N
+1997-11-16,1998,Milwaukee Bucks,99,Seattle SuperSonics,119,0,N
+1997-11-17,1998,Dallas Mavericks,75,Portland Trail Blazers,120,0,N
+1997-11-18,1998,Washington Wizards,89,Atlanta Hawks,98,1,N
+1997-11-18,1998,Vancouver Grizzlies,100,Denver Nuggets,87,0,N
+1997-11-18,1998,New York Knicks,84,Houston Rockets,95,0,N
+1997-11-18,1998,Detroit Pistons,79,Milwaukee Bucks,87,0,N
+1997-11-18,1998,Los Angeles Clippers,94,Orlando Magic,112,0,N
+1997-11-18,1998,Minnesota Timberwolves,108,Phoenix Suns,90,0,N
+1997-11-18,1998,Dallas Mavericks,95,Sacramento Kings,102,0,N
+1997-11-18,1998,Boston Celtics,122,Toronto Raptors,109,0,N
+1997-11-18,1998,Los Angeles Lakers,97,Utah Jazz,92,0,N
+1997-11-19,1998,Portland Trail Blazers,92,Charlotte Hornets,106,0,N
+1997-11-19,1998,Orlando Magic,96,Cleveland Cavaliers,93,1,N
+1997-11-19,1998,Minnesota Timberwolves,93,Los Angeles Lakers,118,0,N
+1997-11-19,1998,Los Angeles Clippers,113,Miami Heat,122,0,N
+1997-11-19,1998,Boston Celtics,100,New Jersey Nets,108,0,N
+1997-11-19,1998,Washington Wizards,86,Philadelphia 76ers,97,0,N
+1997-11-19,1998,Golden State Warriors,87,San Antonio Spurs,108,0,N
+1997-11-19,1998,Vancouver Grizzlies,87,Seattle SuperSonics,107,0,N
+1997-11-20,1998,New York Knicks,100,Atlanta Hawks,79,0,N
+1997-11-20,1998,Golden State Warriors,101,Dallas Mavericks,97,1,N
+1997-11-20,1998,Portland Trail Blazers,93,Detroit Pistons,87,0,N
+1997-11-20,1998,Toronto Raptors,97,Houston Rockets,127,0,N
+1997-11-20,1998,Indiana Pacers,109,Milwaukee Bucks,83,0,N
+1997-11-20,1998,Chicago Bulls,85,Phoenix Suns,89,0,N
+1997-11-20,1998,Utah Jazz,95,Sacramento Kings,97,0,N
+1997-11-21,1998,New Jersey Nets,93,Boston Celtics,101,0,N
+1997-11-21,1998,Miami Heat,102,Charlotte Hornets,119,0,N
+1997-11-21,1998,Chicago Bulls,111,Los Angeles Clippers,102,2,N
+1997-11-21,1998,Cleveland Cavaliers,103,Minnesota Timberwolves,80,0,N
+1997-11-21,1998,San Antonio Spurs,74,Seattle SuperSonics,94,0,N
+1997-11-21,1998,Denver Nuggets,96,Vancouver Grizzlies,99,0,N
+1997-11-21,1998,New York Knicks,104,Washington Wizards,82,0,N
+1997-11-22,1998,Washington Wizards,101,Cleveland Cavaliers,110,0,N
+1997-11-22,1998,Milwaukee Bucks,83,Dallas Mavericks,62,0,N
+1997-11-22,1998,Seattle SuperSonics,84,Denver Nuggets,80,0,N
+1997-11-22,1998,Atlanta Hawks,85,Detroit Pistons,87,0,N
+1997-11-22,1998,Golden State Warriors,84,Houston Rockets,90,0,N
+1997-11-22,1998,Charlotte Hornets,95,Indiana Pacers,94,0,N
+1997-11-22,1998,Toronto Raptors,104,Miami Heat,108,0,N
+1997-11-22,1998,Portland Trail Blazers,87,New Jersey Nets,93,0,N
+1997-11-22,1998,Orlando Magic,108,Philadelphia 76ers,94,0,N
+1997-11-22,1998,San Antonio Spurs,74,Utah Jazz,103,0,N
+1997-11-23,1998,Detroit Pistons,86,Boston Celtics,90,0,N
+1997-11-23,1998,Los Angeles Clippers,102,Los Angeles Lakers,119,0,N
+1997-11-23,1998,Vancouver Grizzlies,84,New York Knicks,104,0,N
+1997-11-23,1998,Chicago Bulls,103,Sacramento Kings,88,0,N
+1997-11-24,1998,Washington Wizards,87,Orlando Magic,95,0,N
+1997-11-24,1998,Portland Trail Blazers,91,Toronto Raptors,90,0,N
+1997-11-24,1998,Minnesota Timberwolves,124,Utah Jazz,133,1,N
+1997-11-25,1998,Detroit Pistons,85,Charlotte Hornets,90,0,N
+1997-11-25,1998,San Antonio Spurs,102,Dallas Mavericks,91,0,N
+1997-11-25,1998,New Jersey Nets,101,Golden State Warriors,87,0,N
+1997-11-25,1998,Los Angeles Lakers,86,Miami Heat,103,0,N
+1997-11-25,1998,Denver Nuggets,93,Sacramento Kings,97,0,N
+1997-11-25,1998,Chicago Bulls,90,Seattle SuperSonics,91,0,N
+1997-11-26,1998,Los Angeles Lakers,118,Boston Celtics,103,0,N
+1997-11-26,1998,Sacramento Kings,97,Los Angeles Clippers,99,0,N
+1997-11-26,1998,Vancouver Grizzlies,82,Milwaukee Bucks,101,0,N
+1997-11-26,1998,Portland Trail Blazers,96,Minnesota Timberwolves,90,0,N
+1997-11-26,1998,Miami Heat,84,Orlando Magic,60,0,N
+1997-11-26,1998,Cleveland Cavaliers,95,Philadelphia 76ers,89,0,N
+1997-11-26,1998,New Jersey Nets,99,Phoenix Suns,111,0,N
+1997-11-26,1998,Washington Wizards,98,San Antonio Spurs,94,0,N
+1997-11-26,1998,Atlanta Hawks,109,Toronto Raptors,104,2,N
+1997-11-27,1998,Vancouver Grizzlies,85,Indiana Pacers,106,0,N
+1997-11-28,1998,Phoenix Suns,112,Boston Celtics,108,1,N
+1997-11-28,1998,Cleveland Cavaliers,97,Charlotte Hornets,91,0,N
+1997-11-28,1998,Toronto Raptors,91,Dallas Mavericks,93,0,N
+1997-11-28,1998,Minnesota Timberwolves,84,Denver Nuggets,95,0,N
+1997-11-28,1998,New York Knicks,78,Detroit Pistons,86,0,N
+1997-11-28,1998,Chicago Bulls,83,Indiana Pacers,94,0,N
+1997-11-28,1998,New Jersey Nets,104,Los Angeles Clippers,92,0,N
+1997-11-28,1998,Milwaukee Bucks,90,Orlando Magic,94,0,N
+1997-11-28,1998,Los Angeles Lakers,95,Philadelphia 76ers,105,0,N
+1997-11-28,1998,Houston Rockets,98,Portland Trail Blazers,89,0,N
+1997-11-28,1998,Sacramento Kings,96,Seattle SuperSonics,113,0,N
+1997-11-28,1998,Golden State Warriors,82,Utah Jazz,111,0,N
+1997-11-29,1998,Charlotte Hornets,80,Atlanta Hawks,98,0,N
+1997-11-29,1998,Boston Celtics,97,Cleveland Cavaliers,103,0,N
+1997-11-29,1998,Houston Rockets,107,Golden State Warriors,100,0,N
+1997-11-29,1998,Utah Jazz,94,Los Angeles Clippers,91,0,N
+1997-11-29,1998,Milwaukee Bucks,93,Miami Heat,87,0,N
+1997-11-29,1998,Vancouver Grizzlies,87,Minnesota Timberwolves,106,0,N
+1997-11-29,1998,Phoenix Suns,80,New York Knicks,102,0,N
+1997-11-29,1998,Dallas Mavericks,87,San Antonio Spurs,96,0,N
+1997-11-29,1998,Chicago Bulls,88,Washington Wizards,83,0,N
+1997-11-30,1998,San Antonio Spurs,96,Atlanta Hawks,108,0,N
+1997-11-30,1998,Vancouver Grizzlies,97,Detroit Pistons,95,0,N
+1997-11-30,1998,Philadelphia 76ers,89,Indiana Pacers,101,0,N
+1997-11-30,1998,Toronto Raptors,99,Los Angeles Lakers,105,0,N
+1997-11-30,1998,New Jersey Nets,87,Sacramento Kings,73,0,N
+1997-11-30,1998,Orlando Magic,81,Seattle SuperSonics,103,0,N
+1997-12-01,1998,New Jersey Nets,95,Utah Jazz,100,0,N
+1997-12-02,1998,Sacramento Kings,102,Charlotte Hornets,121,0,N
+1997-12-02,1998,Atlanta Hawks,112,Dallas Mavericks,79,0,N
+1997-12-02,1998,Denver Nuggets,101,Houston Rockets,112,0,N
+1997-12-02,1998,Phoenix Suns,90,Milwaukee Bucks,86,0,N
+1997-12-02,1998,Orlando Magic,89,Portland Trail Blazers,88,0,N
+1997-12-02,1998,New York Knicks,84,San Antonio Spurs,90,0,N
+1997-12-02,1998,Seattle SuperSonics,78,Washington Wizards,95,0,N
+1997-12-03,1998,Chicago Bulls,97,Boston Celtics,87,0,N
+1997-12-03,1998,Los Angeles Lakers,107,Denver Nuggets,89,0,N
+1997-12-03,1998,Phoenix Suns,103,Detroit Pistons,108,3,N
+1997-12-03,1998,Cleveland Cavaliers,95,Golden State Warriors,67,0,N
+1997-12-03,1998,Philadelphia 76ers,90,Miami Heat,94,0,N
+1997-12-03,1998,Indiana Pacers,94,Minnesota Timberwolves,90,0,N
+1997-12-03,1998,Seattle SuperSonics,93,New Jersey Nets,89,0,N
+1997-12-03,1998,Toronto Raptors,98,Utah Jazz,115,0,N
+1997-12-03,1998,Orlando Magic,101,Vancouver Grizzlies,97,0,N
+1997-12-04,1998,New York Knicks,91,Dallas Mavericks,105,0,N
+1997-12-04,1998,Atlanta Hawks,87,Houston Rockets,94,0,N
+1997-12-04,1998,San Antonio Spurs,96,Los Angeles Clippers,100,1,N
+1997-12-04,1998,Charlotte Hornets,92,Milwaukee Bucks,102,0,N
+1997-12-04,1998,Sacramento Kings,96,Washington Wizards,118,0,N
+1997-12-05,1998,Milwaukee Bucks,62,Chicago Bulls,84,0,N
+1997-12-05,1998,Indiana Pacers,96,Denver Nuggets,85,0,N
+1997-12-05,1998,Seattle SuperSonics,94,Detroit Pistons,89,0,N
+1997-12-05,1998,Orlando Magic,89,Golden State Warriors,104,0,N
+1997-12-05,1998,San Antonio Spurs,88,Los Angeles Lakers,98,0,N
+1997-12-05,1998,Boston Celtics,97,Miami Heat,117,0,N
+1997-12-05,1998,Sacramento Kings,90,Minnesota Timberwolves,101,0,N
+1997-12-05,1998,Philadelphia 76ers,88,New Jersey Nets,107,0,N
+1997-12-05,1998,Toronto Raptors,91,Phoenix Suns,110,0,N
+1997-12-05,1998,Utah Jazz,77,Portland Trail Blazers,94,0,N
+1997-12-05,1998,Cleveland Cavaliers,107,Vancouver Grizzlies,98,0,N
+1997-12-06,1998,Houston Rockets,108,Dallas Mavericks,106,0,N
+1997-12-06,1998,Orlando Magic,83,Los Angeles Clippers,79,0,N
+1997-12-06,1998,Charlotte Hornets,79,New York Knicks,90,0,N
+1997-12-06,1998,Minnesota Timberwolves,103,Washington Wizards,114,0,N
+1997-12-07,1998,Los Angeles Clippers,92,Denver Nuggets,100,0,N
+1997-12-07,1998,Cleveland Cavaliers,94,Los Angeles Lakers,84,0,N
+1997-12-07,1998,Seattle SuperSonics,91,Milwaukee Bucks,97,0,N
+1997-12-07,1998,New York Knicks,78,Philadelphia 76ers,93,0,N
+1997-12-07,1998,Indiana Pacers,99,Phoenix Suns,97,1,N
+1997-12-07,1998,Golden State Warriors,84,Sacramento Kings,99,0,N
+1997-12-07,1998,Detroit Pistons,93,Toronto Raptors,83,0,N
+1997-12-08,1998,New Jersey Nets,97,Miami Heat,105,0,N
+1997-12-08,1998,Philadelphia 76ers,86,Orlando Magic,95,0,N
+1997-12-08,1998,Los Angeles Lakers,99,Portland Trail Blazers,105,0,N
+1997-12-08,1998,Indiana Pacers,97,Utah Jazz,106,0,N
+1997-12-09,1998,Miami Heat,97,Atlanta Hawks,81,0,N
+1997-12-09,1998,New York Knicks,82,Chicago Bulls,100,0,N
+1997-12-09,1998,Los Angeles Clippers,99,Dallas Mavericks,92,0,N
+1997-12-09,1998,Denver Nuggets,83,Detroit Pistons,92,0,N
+1997-12-09,1998,San Antonio Spurs,78,Houston Rockets,108,0,N
+1997-12-09,1998,Seattle SuperSonics,108,Minnesota Timberwolves,99,0,N
+1997-12-09,1998,Vancouver Grizzlies,85,Phoenix Suns,107,0,N
+1997-12-09,1998,Utah Jazz,101,Sacramento Kings,113,0,N
+1997-12-09,1998,Charlotte Hornets,95,Toronto Raptors,82,0,N
+1997-12-09,1998,New Jersey Nets,99,Washington Wizards,120,0,N
+1997-12-10,1998,Milwaukee Bucks,91,Boston Celtics,96,0,N
+1997-12-10,1998,Washington Wizards,101,Charlotte Hornets,104,0,N
+1997-12-10,1998,Denver Nuggets,83,Cleveland Cavaliers,102,0,N
+1997-12-10,1998,Los Angeles Lakers,92,Golden State Warriors,93,0,N
+1997-12-10,1998,Chicago Bulls,98,Orlando Magic,106,0,N
+1997-12-10,1998,Toronto Raptors,104,Philadelphia 76ers,97,0,N
+1997-12-10,1998,Indiana Pacers,85,Portland Trail Blazers,93,0,N
+1997-12-10,1998,Los Angeles Clippers,87,San Antonio Spurs,102,0,N
+1997-12-11,1998,Orlando Magic,100,Dallas Mavericks,90,0,N
+1997-12-11,1998,New Jersey Nets,99,Detroit Pistons,103,0,N
+1997-12-11,1998,Cleveland Cavaliers,79,Milwaukee Bucks,77,0,N
+1997-12-11,1998,Minnesota Timberwolves,103,New York Knicks,107,0,N
+1997-12-11,1998,Atlanta Hawks,78,Phoenix Suns,94,0,N
+1997-12-12,1998,Washington Wizards,88,Boston Celtics,97,0,N
+1997-12-12,1998,Chicago Bulls,77,Charlotte Hornets,79,0,N
+1997-12-12,1998,Miami Heat,89,Indiana Pacers,104,0,N
+1997-12-12,1998,Atlanta Hawks,83,Los Angeles Clippers,74,0,N
+1997-12-12,1998,Houston Rockets,102,Los Angeles Lakers,119,0,N
+1997-12-12,1998,Denver Nuggets,91,Philadelphia 76ers,106,0,N
+1997-12-12,1998,Portland Trail Blazers,98,Seattle SuperSonics,111,0,N
+1997-12-12,1998,Dallas Mavericks,66,Utah Jazz,68,0,N
+1997-12-12,1998,Golden State Warriors,88,Vancouver Grizzlies,95,0,N
+1997-12-13,1998,Toronto Raptors,70,Chicago Bulls,97,0,N
+1997-12-13,1998,Charlotte Hornets,85,Cleveland Cavaliers,84,0,N
+1997-12-13,1998,Boston Celtics,77,Detroit Pistons,93,0,N
+1997-12-13,1998,Sacramento Kings,91,Golden State Warriors,95,1,N
+1997-12-13,1998,Washington Wizards,92,Indiana Pacers,109,0,N
+1997-12-13,1998,Miami Heat,87,Milwaukee Bucks,84,0,N
+1997-12-13,1998,Phoenix Suns,101,Minnesota Timberwolves,112,0,N
+1997-12-13,1998,Denver Nuggets,95,New Jersey Nets,133,0,N
+1997-12-13,1998,Philadelphia 76ers,83,New York Knicks,95,0,N
+1997-12-13,1998,Orlando Magic,78,San Antonio Spurs,107,0,N
+1997-12-14,1998,Dallas Mavericks,89,Los Angeles Lakers,119,0,N
+1997-12-14,1998,Atlanta Hawks,93,Sacramento Kings,89,0,N
+1997-12-14,1998,Los Angeles Clippers,101,Seattle SuperSonics,107,0,N
+1997-12-14,1998,Houston Rockets,105,Vancouver Grizzlies,110,0,N
+1997-12-15,1998,Philadelphia 76ers,83,Boston Celtics,100,0,N
+1997-12-15,1998,Phoenix Suns,104,Chicago Bulls,111,0,N
+1997-12-15,1998,Atlanta Hawks,99,Portland Trail Blazers,90,0,N
+1997-12-15,1998,Indiana Pacers,108,Toronto Raptors,101,0,N
+1997-12-15,1998,Utah Jazz,86,Washington Wizards,88,0,N
+1997-12-16,1998,Phoenix Suns,90,Cleveland Cavaliers,103,0,N
+1997-12-16,1998,San Antonio Spurs,99,Denver Nuggets,85,0,N
+1997-12-16,1998,Dallas Mavericks,92,Golden State Warriors,103,0,N
+1997-12-16,1998,Vancouver Grizzlies,91,Houston Rockets,118,0,N
+1997-12-16,1998,Seattle SuperSonics,109,Los Angeles Clippers,94,0,N
+1997-12-16,1998,Utah Jazz,103,Miami Heat,95,0,N
+1997-12-16,1998,Los Angeles Lakers,109,Minnesota Timberwolves,96,0,N
+1997-12-16,1998,Detroit Pistons,78,New York Knicks,83,0,N
+1997-12-16,1998,Portland Trail Blazers,87,Sacramento Kings,94,0,N
+1997-12-17,1998,Cleveland Cavaliers,83,Atlanta Hawks,94,0,N
+1997-12-17,1998,Milwaukee Bucks,90,Charlotte Hornets,99,0,N
+1997-12-17,1998,Los Angeles Lakers,83,Chicago Bulls,104,0,N
+1997-12-17,1998,New York Knicks,80,Indiana Pacers,87,0,N
+1997-12-17,1998,Detroit Pistons,101,New Jersey Nets,105,0,N
+1997-12-17,1998,Minnesota Timberwolves,94,Philadelphia 76ers,90,0,N
+1997-12-17,1998,Vancouver Grizzlies,87,San Antonio Spurs,98,0,N
+1997-12-17,1998,Boston Celtics,88,Toronto Raptors,83,0,N
+1997-12-17,1998,Miami Heat,74,Washington Wizards,88,0,N
+1997-12-18,1998,Phoenix Suns,89,Dallas Mavericks,75,0,N
+1997-12-18,1998,Golden State Warriors,78,Los Angeles Clippers,82,0,N
+1997-12-18,1998,Utah Jazz,85,Orlando Magic,73,0,N
+1997-12-18,1998,Denver Nuggets,106,Seattle SuperSonics,119,0,N
+1997-12-19,1998,Los Angeles Lakers,98,Atlanta Hawks,96,0,N
+1997-12-19,1998,New York Knicks,104,Cleveland Cavaliers,77,0,N
+1997-12-19,1998,Sacramento Kings,98,Houston Rockets,116,0,N
+1997-12-19,1998,Detroit Pistons,90,Indiana Pacers,98,0,N
+1997-12-19,1998,Miami Heat,91,Philadelphia 76ers,84,0,N
+1997-12-19,1998,Vancouver Grizzlies,91,Portland Trail Blazers,96,0,N
+1997-12-19,1998,Milwaukee Bucks,91,Toronto Raptors,92,0,N
+1997-12-19,1998,Charlotte Hornets,86,Washington Wizards,106,0,N
+1997-12-20,1998,Los Angeles Lakers,109,Charlotte Hornets,100,0,N
+1997-12-20,1998,Sacramento Kings,89,Dallas Mavericks,88,0,N
+1997-12-20,1998,Phoenix Suns,102,Denver Nuggets,81,0,N
+1997-12-20,1998,Philadelphia 76ers,78,Detroit Pistons,115,0,N
+1997-12-20,1998,Atlanta Hawks,92,Miami Heat,99,0,N
+1997-12-20,1998,New York Knicks,78,Milwaukee Bucks,98,0,N
+1997-12-20,1998,Los Angeles Clippers,91,Minnesota Timberwolves,92,0,N
+1997-12-20,1998,Chicago Bulls,100,New Jersey Nets,92,0,N
+1997-12-20,1998,Indiana Pacers,95,Orlando Magic,92,0,N
+1997-12-20,1998,Houston Rockets,87,San Antonio Spurs,100,0,N
+1997-12-20,1998,Golden State Warriors,89,Seattle SuperSonics,108,0,N
+1997-12-20,1998,Washington Wizards,94,Toronto Raptors,92,0,N
+1997-12-21,1998,Los Angeles Clippers,77,Boston Celtics,99,0,N
+1997-12-21,1998,Utah Jazz,101,Cleveland Cavaliers,106,0,N
+1997-12-21,1998,Portland Trail Blazers,86,Vancouver Grizzlies,88,0,N
+1997-12-22,1998,Utah Jazz,101,Atlanta Hawks,99,0,N
+1997-12-22,1998,Toronto Raptors,79,Charlotte Hornets,81,0,N
+1997-12-22,1998,Los Angeles Lakers,94,Houston Rockets,83,0,N
+1997-12-22,1998,Washington Wizards,110,Milwaukee Bucks,79,0,N
+1997-12-22,1998,Dallas Mavericks,67,New York Knicks,79,0,N
+1997-12-22,1998,New Jersey Nets,99,Orlando Magic,88,0,N
+1997-12-22,1998,Detroit Pistons,96,Philadelphia 76ers,92,0,N
+1997-12-22,1998,Golden State Warriors,76,Phoenix Suns,91,0,N
+1997-12-22,1998,Minnesota Timberwolves,79,Sacramento Kings,89,0,N
+1997-12-23,1998,Charlotte Hornets,96,Boston Celtics,102,0,N
+1997-12-23,1998,Los Angeles Clippers,89,Chicago Bulls,94,0,N
+1997-12-23,1998,Dallas Mavericks,85,Cleveland Cavaliers,99,0,N
+1997-12-23,1998,Denver Nuggets,75,Golden State Warriors,87,0,N
+1997-12-23,1998,Sacramento Kings,82,Portland Trail Blazers,93,0,N
+1997-12-23,1998,Indiana Pacers,79,San Antonio Spurs,91,0,N
+1997-12-23,1998,Minnesota Timberwolves,112,Seattle SuperSonics,103,0,N
+1997-12-25,1998,Miami Heat,80,Chicago Bulls,90,0,N
+1997-12-25,1998,Houston Rockets,103,Utah Jazz,107,0,N
+1997-12-26,1998,Cleveland Cavaliers,88,Charlotte Hornets,96,0,N
+1997-12-26,1998,Washington Wizards,97,Dallas Mavericks,95,0,N
+1997-12-26,1998,Golden State Warriors,81,Denver Nuggets,69,0,N
+1997-12-26,1998,Miami Heat,88,Detroit Pistons,74,0,N
+1997-12-26,1998,Orlando Magic,81,Indiana Pacers,107,0,N
+1997-12-26,1998,Los Angeles Clippers,114,Los Angeles Lakers,118,1,N
+1997-12-26,1998,Atlanta Hawks,94,Milwaukee Bucks,99,1,N
+1997-12-26,1998,New Jersey Nets,96,Minnesota Timberwolves,116,0,N
+1997-12-26,1998,Seattle SuperSonics,111,Sacramento Kings,95,0,N
+1997-12-26,1998,Boston Celtics,86,San Antonio Spurs,101,0,N
+1997-12-26,1998,Phoenix Suns,118,Vancouver Grizzlies,100,0,N
+1997-12-27,1998,Atlanta Hawks,90,Chicago Bulls,97,0,N
+1997-12-27,1998,Philadelphia 76ers,85,Golden State Warriors,78,0,N
+1997-12-27,1998,Washington Wizards,101,Houston Rockets,111,0,N
+1997-12-27,1998,Denver Nuggets,103,Los Angeles Clippers,105,0,N
+1997-12-27,1998,Milwaukee Bucks,104,New Jersey Nets,112,2,N
+1997-12-27,1998,Toronto Raptors,97,New York Knicks,94,0,N
+1997-12-27,1998,Charlotte Hornets,87,Orlando Magic,96,0,N
+1997-12-27,1998,Portland Trail Blazers,102,Utah Jazz,91,0,N
+1997-12-28,1998,Minnesota Timberwolves,93,Detroit Pistons,89,0,N
+1997-12-28,1998,Boston Celtics,108,Los Angeles Lakers,102,0,N
+1997-12-28,1998,Indiana Pacers,90,Miami Heat,101,0,N
+1997-12-28,1998,Seattle SuperSonics,106,Phoenix Suns,97,0,N
+1997-12-28,1998,San Antonio Spurs,79,Portland Trail Blazers,82,0,N
+1997-12-28,1998,Philadelphia 76ers,90,Sacramento Kings,92,0,N
+1997-12-28,1998,Utah Jazz,89,Vancouver Grizzlies,88,0,N
+1997-12-29,1998,Dallas Mavericks,105,Chicago Bulls,111,0,N
+1997-12-29,1998,Charlotte Hornets,120,Houston Rockets,101,0,N
+1997-12-29,1998,Washington Wizards,91,New Jersey Nets,99,0,N
+1997-12-30,1998,Miami Heat,90,Cleveland Cavaliers,78,0,N
+1997-12-30,1998,Utah Jazz,132,Denver Nuggets,99,0,N
+1997-12-30,1998,Toronto Raptors,95,Detroit Pistons,100,0,N
+1997-12-30,1998,Seattle SuperSonics,101,Golden State Warriors,87,0,N
+1997-12-30,1998,New Jersey Nets,91,Indiana Pacers,109,0,N
+1997-12-30,1998,Sacramento Kings,80,Los Angeles Lakers,93,0,N
+1997-12-30,1998,Dallas Mavericks,98,Milwaukee Bucks,105,1,N
+1997-12-30,1998,Chicago Bulls,95,Minnesota Timberwolves,99,0,N
+1997-12-30,1998,New York Knicks,84,Orlando Magic,79,0,N
+1997-12-30,1998,Boston Celtics,90,Phoenix Suns,100,0,N
+1997-12-30,1998,Philadelphia 76ers,86,Portland Trail Blazers,96,0,N
+1997-12-30,1998,San Antonio Spurs,124,Vancouver Grizzlies,115,0,N
+1997-12-31,1998,Toronto Raptors,91,Washington Wizards,118,0,N
+1998-01-01,1998,Philadelphia 76ers,115,Vancouver Grizzlies,104,0,N
+1998-01-02,1998,Minnesota Timberwolves,89,Boston Celtics,93,0,N
+1998-01-02,1998,Miami Heat,88,Charlotte Hornets,99,1,N
+1998-01-02,1998,Milwaukee Bucks,100,Chicago Bulls,114,0,N
+1998-01-02,1998,Houston Rockets,116,Denver Nuggets,115,1,N
+1998-01-02,1998,Los Angeles Clippers,94,Golden State Warriors,79,0,N
+1998-01-02,1998,Atlanta Hawks,106,Los Angeles Lakers,116,0,N
+1998-01-02,1998,New York Knicks,98,New Jersey Nets,103,0,N
+1998-01-02,1998,Cleveland Cavaliers,81,Orlando Magic,71,0,N
+1998-01-02,1998,Dallas Mavericks,85,Phoenix Suns,92,0,N
+1998-01-02,1998,Vancouver Grizzlies,80,Sacramento Kings,94,0,N
+1998-01-02,1998,Portland Trail Blazers,69,San Antonio Spurs,85,0,N
+1998-01-02,1998,Philadelphia 76ers,73,Seattle SuperSonics,90,0,N
+1998-01-02,1998,Detroit Pistons,91,Toronto Raptors,88,0,N
+1998-01-02,1998,Indiana Pacers,99,Washington Wizards,81,0,N
+1998-01-03,1998,New Jersey Nets,81,Cleveland Cavaliers,95,0,N
+1998-01-03,1998,Chicago Bulls,105,Detroit Pistons,96,0,N
+1998-01-03,1998,Portland Trail Blazers,97,Houston Rockets,95,0,N
+1998-01-03,1998,Toronto Raptors,77,Indiana Pacers,89,0,N
+1998-01-03,1998,Dallas Mavericks,88,Los Angeles Clippers,97,0,N
+1998-01-03,1998,San Antonio Spurs,84,Miami Heat,77,0,N
+1998-01-03,1998,Boston Celtics,106,Milwaukee Bucks,99,0,N
+1998-01-03,1998,Denver Nuggets,87,Minnesota Timberwolves,109,0,N
+1998-01-03,1998,Orlando Magic,84,New York Knicks,88,0,N
+1998-01-03,1998,Atlanta Hawks,82,Utah Jazz,97,0,N
+1998-01-04,1998,Philadelphia 76ers,113,Los Angeles Lakers,107,0,N
+1998-01-04,1998,Charlotte Hornets,90,Sacramento Kings,106,0,N
+1998-01-04,1998,Seattle SuperSonics,120,Vancouver Grizzlies,108,0,N
+1998-01-04,1998,Phoenix Suns,99,Washington Wizards,109,0,N
+1998-01-05,1998,Washington Wizards,113,New York Knicks,106,0,N
+1998-01-05,1998,San Antonio Spurs,74,Orlando Magic,69,0,N
+1998-01-05,1998,Milwaukee Bucks,98,Portland Trail Blazers,92,0,N
+1998-01-05,1998,Houston Rockets,120,Toronto Raptors,96,0,N
+1998-01-06,1998,Boston Celtics,79,Chicago Bulls,90,0,N
+1998-01-06,1998,Houston Rockets,70,Cleveland Cavaliers,100,0,N
+1998-01-06,1998,Denver Nuggets,90,Dallas Mavericks,108,0,N
+1998-01-06,1998,Phoenix Suns,81,Indiana Pacers,80,0,N
+1998-01-06,1998,Los Angeles Clippers,89,Sacramento Kings,105,0,N
+1998-01-06,1998,Charlotte Hornets,81,Seattle SuperSonics,102,0,N
+1998-01-06,1998,Philadelphia 76ers,95,Utah Jazz,98,1,N
+1998-01-06,1998,Los Angeles Lakers,100,Vancouver Grizzlies,87,0,N
+1998-01-07,1998,Atlanta Hawks,106,Golden State Warriors,86,0,N
+1998-01-07,1998,Vancouver Grizzlies,102,Los Angeles Clippers,110,0,N
+1998-01-07,1998,Milwaukee Bucks,102,Los Angeles Lakers,114,0,N
+1998-01-07,1998,Chicago Bulls,72,Miami Heat,99,0,N
+1998-01-07,1998,Phoenix Suns,92,Minnesota Timberwolves,77,0,N
+1998-01-07,1998,New Jersey Nets,88,New York Knicks,89,1,N
+1998-01-07,1998,Charlotte Hornets,91,Portland Trail Blazers,89,0,N
+1998-01-07,1998,Denver Nuggets,89,San Antonio Spurs,96,0,N
+1998-01-07,1998,Orlando Magic,83,Toronto Raptors,81,0,N
+1998-01-07,1998,Boston Celtics,108,Washington Wizards,110,0,N
+1998-01-08,1998,Seattle SuperSonics,109,Cleveland Cavaliers,84,0,N
+1998-01-08,1998,Sacramento Kings,103,Dallas Mavericks,92,0,N
+1998-01-08,1998,Indiana Pacers,87,Houston Rockets,80,0,N
+1998-01-08,1998,Orlando Magic,87,New Jersey Nets,89,0,N
+1998-01-08,1998,Milwaukee Bucks,109,Utah Jazz,116,0,N
+1998-01-09,1998,Washington Wizards,77,Atlanta Hawks,82,0,N
+1998-01-09,1998,Seattle SuperSonics,111,Boston Celtics,92,0,N
+1998-01-09,1998,Miami Heat,98,Denver Nuggets,79,0,N
+1998-01-09,1998,Golden State Warriors,72,Detroit Pistons,101,0,N
+1998-01-09,1998,Los Angeles Lakers,125,Los Angeles Clippers,115,0,N
+1998-01-09,1998,Portland Trail Blazers,91,Minnesota Timberwolves,96,0,N
+1998-01-09,1998,Chicago Bulls,90,New York Knicks,89,0,N
+1998-01-09,1998,San Antonio Spurs,79,Phoenix Suns,100,0,N
+1998-01-09,1998,Charlotte Hornets,98,Vancouver Grizzlies,90,0,N
+1998-01-10,1998,Golden State Warriors,82,Chicago Bulls,87,0,N
+1998-01-10,1998,Toronto Raptors,102,Cleveland Cavaliers,93,0,N
+1998-01-10,1998,Indiana Pacers,84,Dallas Mavericks,79,0,N
+1998-01-10,1998,Utah Jazz,111,Houston Rockets,84,0,N
+1998-01-10,1998,Portland Trail Blazers,90,Milwaukee Bucks,95,1,N
+1998-01-10,1998,Minnesota Timberwolves,108,New Jersey Nets,101,0,N
+1998-01-10,1998,Boston Celtics,82,Orlando Magic,90,0,N
+1998-01-10,1998,Sacramento Kings,67,San Antonio Spurs,109,0,N
+1998-01-11,1998,Los Angeles Clippers,85,Detroit Pistons,113,0,N
+1998-01-11,1998,Charlotte Hornets,98,Los Angeles Lakers,93,0,N
+1998-01-11,1998,Seattle SuperSonics,91,New York Knicks,92,0,N
+1998-01-11,1998,Miami Heat,96,Vancouver Grizzlies,90,0,N
+1998-01-11,1998,Atlanta Hawks,107,Washington Wizards,102,1,N
+1998-01-12,1998,Los Angeles Clippers,95,Milwaukee Bucks,110,0,N
+1998-01-12,1998,Golden State Warriors,87,Minnesota Timberwolves,103,0,N
+1998-01-12,1998,Phoenix Suns,90,Sacramento Kings,96,0,N
+1998-01-12,1998,New Jersey Nets,108,Toronto Raptors,100,0,N
+1998-01-12,1998,Cleveland Cavaliers,99,Utah Jazz,106,0,N
+1998-01-13,1998,San Antonio Spurs,97,Boston Celtics,88,0,N
+1998-01-13,1998,New Jersey Nets,81,Charlotte Hornets,68,0,N
+1998-01-13,1998,Seattle SuperSonics,91,Chicago Bulls,101,0,N
+1998-01-13,1998,Orlando Magic,98,Denver Nuggets,84,0,N
+1998-01-13,1998,Dallas Mavericks,87,Houston Rockets,100,0,N
+1998-01-13,1998,Atlanta Hawks,91,New York Knicks,89,0,N
+1998-01-13,1998,Vancouver Grizzlies,89,Philadelphia 76ers,107,0,N
+1998-01-13,1998,Cleveland Cavaliers,102,Phoenix Suns,84,0,N
+1998-01-13,1998,Miami Heat,76,Portland Trail Blazers,68,0,N
+1998-01-14,1998,Dallas Mavericks,82,Atlanta Hawks,108,0,N
+1998-01-14,1998,Detroit Pistons,93,Indiana Pacers,100,0,N
+1998-01-14,1998,Denver Nuggets,114,Los Angeles Lakers,132,0,N
+1998-01-14,1998,Golden State Warriors,95,Milwaukee Bucks,101,0,N
+1998-01-14,1998,Orlando Magic,96,Sacramento Kings,108,0,N
+1998-01-14,1998,Los Angeles Clippers,101,Toronto Raptors,109,0,N
+1998-01-14,1998,San Antonio Spurs,89,Washington Wizards,79,0,N
+1998-01-15,1998,Vancouver Grizzlies,93,Boston Celtics,97,0,N
+1998-01-15,1998,Charlotte Hornets,94,Detroit Pistons,95,1,N
+1998-01-15,1998,Los Angeles Clippers,119,New Jersey Nets,116,0,N
+1998-01-15,1998,Chicago Bulls,96,Philadelphia 76ers,106,0,N
+1998-01-15,1998,Miami Heat,85,Seattle SuperSonics,103,0,N
+1998-01-16,1998,Golden State Warriors,89,Atlanta Hawks,102,0,N
+1998-01-16,1998,San Antonio Spurs,76,Charlotte Hornets,71,0,N
+1998-01-16,1998,Cleveland Cavaliers,99,Denver Nuggets,74,0,N
+1998-01-16,1998,Minnesota Timberwolves,116,Houston Rockets,115,1,N
+1998-01-16,1998,Sacramento Kings,92,Indiana Pacers,117,0,N
+1998-01-16,1998,Chicago Bulls,96,Milwaukee Bucks,86,0,N
+1998-01-16,1998,Orlando Magic,86,Phoenix Suns,111,0,N
+1998-01-16,1998,Utah Jazz,86,Portland Trail Blazers,96,0,N
+1998-01-16,1998,Vancouver Grizzlies,110,Washington Wizards,112,0,N
+1998-01-17,1998,Minnesota Timberwolves,113,Dallas Mavericks,110,1,N
+1998-01-17,1998,Miami Heat,99,Los Angeles Lakers,108,0,N
+1998-01-17,1998,Atlanta Hawks,81,New Jersey Nets,97,0,N
+1998-01-17,1998,Golden State Warriors,84,Philadelphia 76ers,112,0,N
+1998-01-17,1998,Cleveland Cavaliers,91,Seattle SuperSonics,99,0,N
+1998-01-17,1998,New York Knicks,93,Toronto Raptors,82,0,N
+1998-01-17,1998,Orlando Magic,93,Utah Jazz,107,0,N
+1998-01-17,1998,Los Angeles Clippers,99,Washington Wizards,108,0,N
+1998-01-18,1998,Indiana Pacers,103,Boston Celtics,96,0,N
+1998-01-18,1998,Houston Rockets,100,Chicago Bulls,106,0,N
+1998-01-18,1998,San Antonio Spurs,98,Milwaukee Bucks,92,1,N
+1998-01-18,1998,Miami Heat,87,Phoenix Suns,96,0,N
+1998-01-18,1998,Denver Nuggets,82,Portland Trail Blazers,94,0,N
+1998-01-19,1998,Toronto Raptors,88,Charlotte Hornets,109,0,N
+1998-01-19,1998,Seattle SuperSonics,114,Houston Rockets,80,0,N
+1998-01-19,1998,Orlando Magic,89,Los Angeles Lakers,92,0,N
+1998-01-19,1998,Los Angeles Clippers,109,Minnesota Timberwolves,117,0,N
+1998-01-19,1998,San Antonio Spurs,84,New Jersey Nets,95,0,N
+1998-01-19,1998,Boston Celtics,82,New York Knicks,98,0,N
+1998-01-19,1998,Sacramento Kings,85,Philadelphia 76ers,98,0,N
+1998-01-19,1998,Detroit Pistons,89,Utah Jazz,98,0,N
+1998-01-20,1998,Milwaukee Bucks,93,Atlanta Hawks,103,0,N
+1998-01-20,1998,Portland Trail Blazers,86,Cleveland Cavaliers,84,0,N
+1998-01-20,1998,Seattle SuperSonics,98,Dallas Mavericks,107,0,N
+1998-01-20,1998,Phoenix Suns,87,Golden State Warriors,69,0,N
+1998-01-20,1998,Denver Nuggets,77,Vancouver Grizzlies,88,0,N
+1998-01-21,1998,Charlotte Hornets,79,Chicago Bulls,110,0,N
+1998-01-21,1998,Detroit Pistons,87,Denver Nuggets,67,0,N
+1998-01-21,1998,Philadelphia 76ers,87,Miami Heat,92,0,N
+1998-01-21,1998,Boston Celtics,95,Minnesota Timberwolves,104,0,N
+1998-01-21,1998,Houston Rockets,112,New Jersey Nets,117,1,N
+1998-01-21,1998,Indiana Pacers,89,New York Knicks,97,0,N
+1998-01-21,1998,Milwaukee Bucks,91,Orlando Magic,84,0,N
+1998-01-21,1998,Los Angeles Lakers,119,Phoenix Suns,109,0,N
+1998-01-21,1998,Atlanta Hawks,76,San Antonio Spurs,90,0,N
+1998-01-21,1998,Sacramento Kings,98,Toronto Raptors,99,0,N
+1998-01-21,1998,Golden State Warriors,85,Utah Jazz,98,0,N
+1998-01-21,1998,Portland Trail Blazers,100,Washington Wizards,87,0,N
+1998-01-22,1998,Houston Rockets,86,Charlotte Hornets,93,0,N
+1998-01-22,1998,Sacramento Kings,96,Cleveland Cavaliers,112,0,N
+1998-01-22,1998,Detroit Pistons,94,Los Angeles Clippers,76,0,N
+1998-01-23,1998,Boston Celtics,89,Atlanta Hawks,85,0,N
+1998-01-23,1998,Vancouver Grizzlies,88,Golden State Warriors,80,0,N
+1998-01-23,1998,Utah Jazz,102,Indiana Pacers,106,0,N
+1998-01-23,1998,Orlando Magic,90,Miami Heat,102,0,N
+1998-01-23,1998,Chicago Bulls,100,New Jersey Nets,98,1,N
+1998-01-23,1998,Portland Trail Blazers,87,Philadelphia 76ers,98,0,N
+1998-01-23,1998,Denver Nuggets,77,Phoenix Suns,93,0,N
+1998-01-23,1998,Dallas Mavericks,75,San Antonio Spurs,81,0,N
+1998-01-24,1998,Portland Trail Blazers,92,Atlanta Hawks,77,0,N
+1998-01-24,1998,Philadelphia 76ers,92,Cleveland Cavaliers,111,0,N
+1998-01-24,1998,Charlotte Hornets,94,Dallas Mavericks,92,0,N
+1998-01-24,1998,New York Knicks,99,Detroit Pistons,92,0,N
+1998-01-24,1998,San Antonio Spurs,87,Houston Rockets,112,0,N
+1998-01-24,1998,Boston Celtics,88,Indiana Pacers,95,0,N
+1998-01-24,1998,Denver Nuggets,99,Los Angeles Clippers,81,0,N
+1998-01-24,1998,Sacramento Kings,97,Milwaukee Bucks,101,0,N
+1998-01-24,1998,Los Angeles Lakers,95,Seattle SuperSonics,101,0,N
+1998-01-24,1998,Minnesota Timberwolves,107,Toronto Raptors,113,1,N
+1998-01-24,1998,Golden State Warriors,96,Vancouver Grizzlies,107,0,N
+1998-01-24,1998,New Jersey Nets,87,Washington Wizards,104,0,N
+1998-01-25,1998,Utah Jazz,101,Chicago Bulls,94,0,N
+1998-01-26,1998,Phoenix Suns,96,Atlanta Hawks,91,0,N
+1998-01-26,1998,New York Knicks,85,Boston Celtics,94,0,N
+1998-01-26,1998,Cleveland Cavaliers,94,Miami Heat,93,0,N
+1998-01-26,1998,Seattle SuperSonics,92,Sacramento Kings,111,0,N
+1998-01-26,1998,Houston Rockets,90,San Antonio Spurs,115,0,N
+1998-01-26,1998,Philadelphia 76ers,87,Toronto Raptors,91,0,N
+1998-01-27,1998,Phoenix Suns,113,Charlotte Hornets,120,2,N
+1998-01-27,1998,Cleveland Cavaliers,77,Dallas Mavericks,84,1,N
+1998-01-27,1998,New Jersey Nets,120,Denver Nuggets,87,0,N
+1998-01-27,1998,Los Angeles Clippers,109,Houston Rockets,115,0,N
+1998-01-27,1998,Washington Wizards,84,Indiana Pacers,85,0,N
+1998-01-27,1998,Detroit Pistons,81,Milwaukee Bucks,83,0,N
+1998-01-27,1998,Atlanta Hawks,96,Minnesota Timberwolves,113,0,N
+1998-01-27,1998,Golden State Warriors,82,Portland Trail Blazers,78,0,N
+1998-01-27,1998,Chicago Bulls,103,Vancouver Grizzlies,85,0,N
+1998-01-28,1998,Washington Wizards,102,Boston Celtics,104,0,N
+1998-01-28,1998,Orlando Magic,86,Detroit Pistons,91,0,N
+1998-01-28,1998,New Jersey Nets,106,Los Angeles Lakers,95,0,N
+1998-01-28,1998,New York Knicks,82,Miami Heat,86,0,N
+1998-01-28,1998,Indiana Pacers,93,Philadelphia 76ers,90,1,N
+1998-01-28,1998,Los Angeles Clippers,86,San Antonio Spurs,109,0,N
+1998-01-28,1998,Seattle SuperSonics,101,Utah Jazz,93,0,N
+1998-01-29,1998,Philadelphia 76ers,99,Atlanta Hawks,109,1,N
+1998-01-29,1998,Toronto Raptors,84,Denver Nuggets,80,0,N
+1998-01-29,1998,Orlando Magic,95,Houston Rockets,88,0,N
+1998-01-29,1998,Milwaukee Bucks,115,New York Knicks,112,1,N
+1998-01-29,1998,Chicago Bulls,100,Portland Trail Blazers,87,0,N
+1998-01-29,1998,Golden State Warriors,97,Seattle SuperSonics,109,0,N
+1998-01-29,1998,Minnesota Timberwolves,112,Vancouver Grizzlies,106,0,N
+1998-01-30,1998,Charlotte Hornets,97,Boston Celtics,95,0,N
+1998-01-30,1998,Washington Wizards,102,Detroit Pistons,95,0,N
+1998-01-30,1998,Chicago Bulls,87,Golden State Warriors,80,0,N
+1998-01-30,1998,Cleveland Cavaliers,83,Indiana Pacers,89,0,N
+1998-01-30,1998,San Antonio Spurs,97,Los Angeles Clippers,87,0,N
+1998-01-30,1998,Minnesota Timberwolves,114,Los Angeles Lakers,121,0,N
+1998-01-30,1998,Phoenix Suns,74,Miami Heat,71,0,N
+1998-01-30,1998,Toronto Raptors,97,Sacramento Kings,123,0,N
+1998-01-30,1998,Dallas Mavericks,94,Utah Jazz,104,0,N
+1998-01-31,1998,Atlanta Hawks,103,Charlotte Hornets,83,0,N
+1998-01-31,1998,Detroit Pistons,88,Cleveland Cavaliers,90,0,N
+1998-01-31,1998,Dallas Mavericks,98,Denver Nuggets,110,0,N
+1998-01-31,1998,Phoenix Suns,96,Orlando Magic,94,0,N
+1998-01-31,1998,Houston Rockets,102,Philadelphia 76ers,86,0,N
+1998-01-31,1998,New Jersey Nets,116,Vancouver Grizzlies,106,0,N
+1998-02-01,1998,Houston Rockets,96,Boston Celtics,107,0,N
+1998-02-01,1998,Utah Jazz,115,Golden State Warriors,88,0,N
+1998-02-01,1998,Indiana Pacers,99,Los Angeles Clippers,92,0,N
+1998-02-01,1998,Chicago Bulls,87,Los Angeles Lakers,112,0,N
+1998-02-01,1998,Milwaukee Bucks,118,Minnesota Timberwolves,110,0,N
+1998-02-01,1998,Miami Heat,83,New York Knicks,89,0,N
+1998-02-01,1998,Toronto Raptors,90,Portland Trail Blazers,97,0,N
+1998-02-01,1998,San Antonio Spurs,103,Sacramento Kings,97,0,N
+1998-02-01,1998,New Jersey Nets,87,Seattle SuperSonics,97,0,N
+1998-02-02,1998,Minnesota Timberwolves,99,Cleveland Cavaliers,109,0,N
+1998-02-02,1998,Vancouver Grizzlies,90,Dallas Mavericks,104,0,N
+1998-02-02,1998,Chicago Bulls,111,Denver Nuggets,72,0,N
+1998-02-02,1998,Atlanta Hawks,83,Miami Heat,90,0,N
+1998-02-02,1998,Phoenix Suns,106,Philadelphia 76ers,97,0,N
+1998-02-02,1998,Detroit Pistons,101,Washington Wizards,113,0,N
+1998-02-03,1998,Boston Celtics,89,Charlotte Hornets,93,0,N
+1998-02-03,1998,San Antonio Spurs,105,Golden State Warriors,96,0,N
+1998-02-03,1998,Vancouver Grizzlies,97,Houston Rockets,110,0,N
+1998-02-03,1998,Utah Jazz,102,Los Angeles Clippers,111,0,N
+1998-02-03,1998,New York Knicks,78,Milwaukee Bucks,82,0,N
+1998-02-03,1998,Atlanta Hawks,90,Orlando Magic,91,0,N
+1998-02-03,1998,New Jersey Nets,97,Portland Trail Blazers,98,0,N
+1998-02-03,1998,Indiana Pacers,115,Sacramento Kings,93,0,N
+1998-02-03,1998,Phoenix Suns,110,Toronto Raptors,105,0,N
+1998-02-04,1998,Dallas Mavericks,99,Boston Celtics,110,0,N
+1998-02-04,1998,Sacramento Kings,101,Denver Nuggets,99,0,N
+1998-02-04,1998,Portland Trail Blazers,115,Los Angeles Lakers,122,0,N
+1998-02-04,1998,New York Knicks,88,Minnesota Timberwolves,95,0,N
+1998-02-04,1998,Miami Heat,98,Philadelphia 76ers,84,0,N
+1998-02-04,1998,Indiana Pacers,97,Seattle SuperSonics,104,0,N
+1998-02-04,1998,Chicago Bulls,93,Utah Jazz,101,0,N
+1998-02-04,1998,Cleveland Cavaliers,88,Washington Wizards,104,0,N
+1998-02-05,1998,Vancouver Grizzlies,93,Charlotte Hornets,108,0,N
+1998-02-05,1998,Atlanta Hawks,108,Cleveland Cavaliers,94,0,N
+1998-02-05,1998,Houston Rockets,92,Detroit Pistons,104,0,N
+1998-02-05,1998,Miami Heat,91,Milwaukee Bucks,87,0,N
+1998-02-05,1998,Phoenix Suns,94,New Jersey Nets,106,0,N
+1998-02-05,1998,Washington Wizards,83,Orlando Magic,93,0,N
+1998-02-05,1998,Dallas Mavericks,93,Toronto Raptors,101,0,N
+1998-02-10,1998,Toronto Raptors,86,Chicago Bulls,93,0,N
+1998-02-10,1998,Miami Heat,91,Cleveland Cavaliers,81,0,N
+1998-02-10,1998,Boston Celtics,99,Denver Nuggets,112,0,N
+1998-02-10,1998,Washington Wizards,99,Golden State Warriors,87,0,N
+1998-02-10,1998,Seattle SuperSonics,83,Houston Rockets,97,0,N
+1998-02-10,1998,Orlando Magic,66,Indiana Pacers,85,0,N
+1998-02-10,1998,Atlanta Hawks,108,Milwaukee Bucks,100,0,N
+1998-02-10,1998,Dallas Mavericks,81,New Jersey Nets,90,0,N
+1998-02-10,1998,Charlotte Hornets,91,New York Knicks,99,0,N
+1998-02-10,1998,Sacramento Kings,86,Phoenix Suns,88,0,N
+1998-02-10,1998,Los Angeles Lakers,105,Portland Trail Blazers,117,0,N
+1998-02-10,1998,Los Angeles Clippers,98,Utah Jazz,106,0,N
+1998-02-11,1998,Chicago Bulls,92,Charlotte Hornets,90,0,N
+1998-02-11,1998,Milwaukee Bucks,83,Detroit Pistons,95,0,N
+1998-02-11,1998,Washington Wizards,110,Los Angeles Clippers,104,0,N
+1998-02-11,1998,Golden State Warriors,99,Los Angeles Lakers,105,0,N
+1998-02-11,1998,Indiana Pacers,110,Miami Heat,101,0,N
+1998-02-11,1998,Orlando Magic,96,Minnesota Timberwolves,89,0,N
+1998-02-11,1998,Dallas Mavericks,90,Philadelphia 76ers,91,0,N
+1998-02-11,1998,Seattle SuperSonics,106,San Antonio Spurs,105,0,N
+1998-02-12,1998,Portland Trail Blazers,115,Phoenix Suns,110,0,N
+1998-02-12,1998,Denver Nuggets,84,Sacramento Kings,87,0,N
+1998-02-12,1998,Cleveland Cavaliers,103,Toronto Raptors,94,0,N
+1998-02-12,1998,Boston Celtics,100,Utah Jazz,118,0,N
+1998-02-12,1998,Houston Rockets,112,Vancouver Grizzlies,103,0,N
+1998-02-13,1998,Philadelphia 76ers,96,Charlotte Hornets,103,0,N
+1998-02-13,1998,Atlanta Hawks,110,Chicago Bulls,112,0,N
+1998-02-13,1998,Minnesota Timberwolves,107,Denver Nuggets,80,0,N
+1998-02-13,1998,Sacramento Kings,109,Golden State Warriors,92,0,N
+1998-02-13,1998,Dallas Mavericks,85,Indiana Pacers,82,2,N
+1998-02-13,1998,Boston Celtics,97,Los Angeles Clippers,96,0,N
+1998-02-13,1998,Seattle SuperSonics,113,Los Angeles Lakers,108,1,N
+1998-02-13,1998,Detroit Pistons,86,Miami Heat,100,0,N
+1998-02-13,1998,Toronto Raptors,115,New Jersey Nets,130,0,N
+1998-02-13,1998,New York Knicks,99,Orlando Magic,83,0,N
+1998-02-13,1998,Houston Rockets,81,Portland Trail Blazers,105,0,N
+1998-02-14,1998,Indiana Pacers,96,Atlanta Hawks,92,0,N
+1998-02-14,1998,Milwaukee Bucks,99,Cleveland Cavaliers,93,0,N
+1998-02-14,1998,New Jersey Nets,105,Philadelphia 76ers,98,0,N
+1998-02-14,1998,Phoenix Suns,94,San Antonio Spurs,81,0,N
+1998-02-14,1998,Utah Jazz,111,Seattle SuperSonics,91,0,N
+1998-02-14,1998,Washington Wizards,108,Vancouver Grizzlies,110,1,N
+1998-02-15,1998,Detroit Pistons,90,Chicago Bulls,99,0,N
+1998-02-15,1998,Boston Celtics,87,Golden State Warriors,101,0,N
+1998-02-15,1998,Houston Rockets,90,Los Angeles Lakers,88,0,N
+1998-02-15,1998,Dallas Mavericks,99,Minnesota Timberwolves,105,1,N
+1998-02-15,1998,Cleveland Cavaliers,91,New York Knicks,102,0,N
+1998-02-15,1998,Denver Nuggets,82,Portland Trail Blazers,117,0,N
+1998-02-15,1998,Washington Wizards,86,Sacramento Kings,88,0,N
+1998-02-15,1998,Miami Heat,116,Toronto Raptors,95,0,N
+1998-02-16,1998,Orlando Magic,85,Atlanta Hawks,81,0,N
+1998-02-16,1998,Houston Rockets,121,Los Angeles Clippers,99,0,N
+1998-02-16,1998,Milwaukee Bucks,92,New Jersey Nets,103,0,N
+1998-02-16,1998,Charlotte Hornets,90,Utah Jazz,96,0,N
+1998-02-17,1998,Indiana Pacers,97,Chicago Bulls,105,0,N
+1998-02-17,1998,Phoenix Suns,95,Dallas Mavericks,77,0,N
+1998-02-17,1998,New York Knicks,91,Denver Nuggets,77,0,N
+1998-02-17,1998,Minnesota Timberwolves,84,Miami Heat,110,0,N
+1998-02-17,1998,Cleveland Cavaliers,97,Philadelphia 76ers,98,0,N
+1998-02-17,1998,Golden State Warriors,83,Portland Trail Blazers,101,0,N
+1998-02-17,1998,Boston Celtics,99,Sacramento Kings,102,0,N
+1998-02-17,1998,Detroit Pistons,94,San Antonio Spurs,95,0,N
+1998-02-18,1998,New Jersey Nets,104,Atlanta Hawks,114,0,N
+1998-02-18,1998,Charlotte Hornets,77,Golden State Warriors,88,0,N
+1998-02-18,1998,Minnesota Timberwolves,102,Orlando Magic,115,0,N
+1998-02-18,1998,Los Angeles Lakers,103,Phoenix Suns,110,0,N
+1998-02-18,1998,Portland Trail Blazers,95,Seattle SuperSonics,101,0,N
+1998-02-18,1998,New York Knicks,78,Utah Jazz,94,0,N
+1998-02-18,1998,Boston Celtics,114,Vancouver Grizzlies,105,0,N
+1998-02-18,1998,Milwaukee Bucks,108,Washington Wizards,98,0,N
+1998-02-19,1998,San Antonio Spurs,87,Dallas Mavericks,81,0,N
+1998-02-19,1998,Detroit Pistons,90,Houston Rockets,100,0,N
+1998-02-19,1998,Philadelphia 76ers,77,Indiana Pacers,82,0,N
+1998-02-19,1998,Miami Heat,89,Los Angeles Clippers,80,0,N
+1998-02-19,1998,Denver Nuggets,92,Los Angeles Lakers,131,0,N
+1998-02-19,1998,Chicago Bulls,123,Toronto Raptors,86,0,N
+1998-02-20,1998,Vancouver Grizzlies,92,Atlanta Hawks,115,0,N
+1998-02-20,1998,Denver Nuggets,88,Golden State Warriors,95,0,N
+1998-02-20,1998,Toronto Raptors,89,Milwaukee Bucks,94,0,N
+1998-02-20,1998,Houston Rockets,95,Minnesota Timberwolves,100,1,N
+1998-02-20,1998,Cleveland Cavaliers,109,New Jersey Nets,95,0,N
+1998-02-20,1998,Indiana Pacers,91,Orlando Magic,93,0,N
+1998-02-20,1998,Charlotte Hornets,99,Phoenix Suns,115,0,N
+1998-02-20,1998,New York Knicks,98,Portland Trail Blazers,89,0,N
+1998-02-20,1998,Miami Heat,91,Sacramento Kings,77,0,N
+1998-02-20,1998,Boston Celtics,106,Seattle SuperSonics,96,0,N
+1998-02-21,1998,Detroit Pistons,94,Dallas Mavericks,82,0,N
+1998-02-21,1998,Charlotte Hornets,111,Los Angeles Clippers,98,0,N
+1998-02-21,1998,Philadelphia 76ers,98,New Jersey Nets,89,0,N
+1998-02-21,1998,Utah Jazz,79,San Antonio Spurs,77,0,N
+1998-02-21,1998,Chicago Bulls,94,Washington Wizards,88,0,N
+1998-02-22,1998,Miami Heat,90,Golden State Warriors,82,0,N
+1998-02-22,1998,Cleveland Cavaliers,71,Milwaukee Bucks,79,0,N
+1998-02-22,1998,Sacramento Kings,95,Minnesota Timberwolves,113,0,N
+1998-02-22,1998,Houston Rockets,74,New York Knicks,92,0,N
+1998-02-22,1998,Los Angeles Lakers,94,Orlando Magic,96,0,N
+1998-02-22,1998,Indiana Pacers,97,Philadelphia 76ers,92,0,N
+1998-02-22,1998,San Antonio Spurs,79,Phoenix Suns,97,0,N
+1998-02-22,1998,Boston Celtics,96,Portland Trail Blazers,121,0,N
+1998-02-22,1998,Denver Nuggets,68,Seattle SuperSonics,88,0,N
+1998-02-22,1998,Vancouver Grizzlies,105,Toronto Raptors,113,1,N
+1998-02-23,1998,Cleveland Cavaliers,75,Chicago Bulls,97,0,N
+1998-02-23,1998,Charlotte Hornets,118,Denver Nuggets,98,0,N
+1998-02-23,1998,Sacramento Kings,85,Detroit Pistons,111,0,N
+1998-02-23,1998,Seattle SuperSonics,101,Los Angeles Clippers,100,0,N
+1998-02-24,1998,Los Angeles Lakers,98,Milwaukee Bucks,81,0,N
+1998-02-24,1998,Vancouver Grizzlies,101,New Jersey Nets,110,0,N
+1998-02-24,1998,Golden State Warriors,87,New York Knicks,82,0,N
+1998-02-24,1998,Philadelphia 76ers,85,Phoenix Suns,84,0,N
+1998-02-24,1998,Minnesota Timberwolves,99,San Antonio Spurs,105,0,N
+1998-02-24,1998,Miami Heat,104,Utah Jazz,102,0,N
+1998-02-24,1998,Houston Rockets,112,Washington Wizards,124,0,N
+1998-02-25,1998,Sacramento Kings,94,Boston Celtics,111,0,N
+1998-02-25,1998,Portland Trail Blazers,106,Chicago Bulls,101,0,N
+1998-02-25,1998,Vancouver Grizzlies,101,Cleveland Cavaliers,106,0,N
+1998-02-25,1998,Atlanta Hawks,112,Denver Nuggets,88,0,N
+1998-02-25,1998,Charlotte Hornets,98,Detroit Pistons,88,0,N
+1998-02-25,1998,Los Angeles Lakers,96,Indiana Pacers,89,0,N
+1998-02-25,1998,Philadelphia 76ers,108,Los Angeles Clippers,117,0,N
+1998-02-25,1998,Dallas Mavericks,79,Orlando Magic,100,0,N
+1998-02-26,1998,Minnesota Timberwolves,98,Houston Rockets,118,0,N
+1998-02-26,1998,Dallas Mavericks,72,Miami Heat,91,0,N
+1998-02-26,1998,Sacramento Kings,99,New Jersey Nets,102,0,N
+1998-02-26,1998,Milwaukee Bucks,90,New York Knicks,102,0,N
+1998-02-26,1998,Toronto Raptors,86,San Antonio Spurs,97,0,N
+1998-02-26,1998,Phoenix Suns,97,Utah Jazz,108,0,N
+1998-02-26,1998,Golden State Warriors,87,Washington Wizards,110,0,N
+1998-02-27,1998,Golden State Warriors,88,Boston Celtics,120,0,N
+1998-02-27,1998,Philadelphia 76ers,79,Denver Nuggets,78,0,N
+1998-02-27,1998,Cleveland Cavaliers,87,Detroit Pistons,90,0,N
+1998-02-27,1998,Portland Trail Blazers,59,Indiana Pacers,124,0,N
+1998-02-27,1998,Phoenix Suns,104,Los Angeles Clippers,99,0,N
+1998-02-27,1998,Los Angeles Lakers,104,Minnesota Timberwolves,91,0,N
+1998-02-27,1998,Toronto Raptors,115,Orlando Magic,107,3,N
+1998-02-27,1998,Atlanta Hawks,88,Seattle SuperSonics,90,0,N
+1998-02-28,1998,Orlando Magic,80,Charlotte Hornets,90,0,N
+1998-02-28,1998,Sacramento Kings,94,Chicago Bulls,109,0,N
+1998-02-28,1998,Miami Heat,95,New Jersey Nets,93,0,N
+1998-02-28,1998,Philadelphia 76ers,88,San Antonio Spurs,100,0,N
+1998-02-28,1998,Dallas Mavericks,103,Washington Wizards,77,0,N
+1998-03-01,1998,Portland Trail Blazers,101,Boston Celtics,102,0,N
+1998-03-01,1998,Golden State Warriors,82,Cleveland Cavaliers,102,0,N
+1998-03-01,1998,Utah Jazz,106,Houston Rockets,100,0,N
+1998-03-01,1998,Denver Nuggets,63,Indiana Pacers,90,0,N
+1998-03-01,1998,New Jersey Nets,84,Miami Heat,85,0,N
+1998-03-01,1998,Detroit Pistons,113,Minnesota Timberwolves,115,2,N
+1998-03-01,1998,Los Angeles Lakers,89,New York Knicks,101,0,N
+1998-03-01,1998,Phoenix Suns,87,Seattle SuperSonics,89,0,N
+1998-03-01,1998,Atlanta Hawks,101,Vancouver Grizzlies,76,0,N
+1998-03-02,1998,Golden State Warriors,83,Charlotte Hornets,112,0,N
+1998-03-02,1998,Dallas Mavericks,94,Detroit Pistons,100,0,N
+1998-03-02,1998,San Antonio Spurs,116,Sacramento Kings,95,0,N
+1998-03-02,1998,Los Angeles Lakers,86,Washington Wizards,96,0,N
+1998-03-03,1998,Denver Nuggets,90,Chicago Bulls,118,0,N
+1998-03-03,1998,Los Angeles Clippers,97,Houston Rockets,107,0,N
+1998-03-03,1998,Seattle SuperSonics,97,Miami Heat,91,1,N
+1998-03-03,1998,Dallas Mavericks,110,Minnesota Timberwolves,99,0,N
+1998-03-03,1998,New Jersey Nets,91,New York Knicks,94,0,N
+1998-03-03,1998,Phoenix Suns,93,Portland Trail Blazers,98,0,N
+1998-03-03,1998,Utah Jazz,108,Toronto Raptors,93,0,N
+1998-03-03,1998,Indiana Pacers,111,Vancouver Grizzlies,103,0,N
+1998-03-04,1998,Utah Jazz,110,Boston Celtics,94,0,N
+1998-03-04,1998,Minnesota Timberwolves,102,Charlotte Hornets,112,0,N
+1998-03-04,1998,Toronto Raptors,88,Cleveland Cavaliers,122,0,N
+1998-03-04,1998,San Antonio Spurs,83,Golden State Warriors,90,0,N
+1998-03-04,1998,Indiana Pacers,95,Los Angeles Lakers,104,0,N
+1998-03-04,1998,Seattle SuperSonics,83,Orlando Magic,96,0,N
+1998-03-04,1998,Milwaukee Bucks,80,Philadelphia 76ers,87,0,N
+1998-03-04,1998,Detroit Pistons,89,Sacramento Kings,109,0,N
+1998-03-05,1998,Los Angeles Clippers,109,Dallas Mavericks,119,0,N
+1998-03-05,1998,Miami Heat,117,Houston Rockets,93,0,N
+1998-03-05,1998,Denver Nuggets,87,Milwaukee Bucks,104,0,N
+1998-03-05,1998,Detroit Pistons,93,Phoenix Suns,102,0,N
+1998-03-05,1998,New York Knicks,90,Washington Wizards,103,0,N
+1998-03-06,1998,Denver Nuggets,94,Atlanta Hawks,115,0,N
+1998-03-06,1998,Washington Wizards,98,Boston Celtics,108,0,N
+1998-03-06,1998,Seattle SuperSonics,98,Charlotte Hornets,104,0,N
+1998-03-06,1998,Indiana Pacers,101,Golden State Warriors,87,0,N
+1998-03-06,1998,San Antonio Spurs,84,Los Angeles Lakers,91,0,N
+1998-03-06,1998,Toronto Raptors,91,Minnesota Timberwolves,113,0,N
+1998-03-06,1998,Utah Jazz,122,New Jersey Nets,115,0,N
+1998-03-06,1998,Cleveland Cavaliers,89,Orlando Magic,91,1,N
+1998-03-06,1998,New York Knicks,71,Philadelphia 76ers,80,0,N
+1998-03-06,1998,Sacramento Kings,98,Vancouver Grizzlies,96,0,N
+1998-03-07,1998,Miami Heat,94,Dallas Mavericks,88,0,N
+1998-03-07,1998,Utah Jazz,110,Milwaukee Bucks,92,0,N
+1998-03-07,1998,Houston Rockets,108,Phoenix Suns,89,0,N
+1998-03-08,1998,Cleveland Cavaliers,96,Atlanta Hawks,101,0,N
+1998-03-08,1998,Los Angeles Clippers,100,Denver Nuggets,89,0,N
+1998-03-08,1998,Boston Celtics,100,Indiana Pacers,104,0,N
+1998-03-08,1998,Detroit Pistons,89,Los Angeles Lakers,96,0,N
+1998-03-08,1998,Seattle SuperSonics,99,Minnesota Timberwolves,98,1,N
+1998-03-08,1998,Charlotte Hornets,109,New Jersey Nets,100,0,N
+1998-03-08,1998,Chicago Bulls,102,New York Knicks,89,0,N
+1998-03-08,1998,San Antonio Spurs,82,Portland Trail Blazers,78,0,N
+1998-03-08,1998,Toronto Raptors,106,Vancouver Grizzlies,113,0,N
+1998-03-08,1998,Philadelphia 76ers,91,Washington Wizards,100,0,N
+1998-03-09,1998,Orlando Magic,88,Philadelphia 76ers,78,0,N
+1998-03-09,1998,Los Angeles Clippers,105,Phoenix Suns,134,0,N
+1998-03-09,1998,Golden State Warriors,93,Sacramento Kings,88,0,N
+1998-03-09,1998,Houston Rockets,93,Utah Jazz,100,0,N
+1998-03-10,1998,Miami Heat,91,Chicago Bulls,106,0,N
+1998-03-10,1998,Phoenix Suns,100,Denver Nuggets,76,0,N
+1998-03-10,1998,Dallas Mavericks,91,Houston Rockets,97,0,N
+1998-03-10,1998,Washington Wizards,93,Milwaukee Bucks,77,0,N
+1998-03-10,1998,Orlando Magic,78,New York Knicks,85,0,N
+1998-03-10,1998,New Jersey Nets,78,San Antonio Spurs,79,0,N
+1998-03-10,1998,Toronto Raptors,93,Seattle SuperSonics,111,0,N
+1998-03-11,1998,Atlanta Hawks,110,Boston Celtics,105,0,N
+1998-03-11,1998,New York Knicks,78,Charlotte Hornets,85,0,N
+1998-03-11,1998,Milwaukee Bucks,83,Cleveland Cavaliers,95,0,N
+1998-03-11,1998,Indiana Pacers,91,Detroit Pistons,122,0,N
+1998-03-11,1998,Minnesota Timberwolves,113,Golden State Warriors,84,0,N
+1998-03-11,1998,Portland Trail Blazers,107,Los Angeles Lakers,121,0,N
+1998-03-11,1998,Washington Wizards,86,Philadelphia 76ers,88,0,N
+1998-03-11,1998,Sacramento Kings,95,Utah Jazz,110,0,N
+1998-03-12,1998,Chicago Bulls,97,Dallas Mavericks,104,1,N
+1998-03-12,1998,Vancouver Grizzlies,93,Denver Nuggets,98,0,N
+1998-03-12,1998,New Jersey Nets,104,Houston Rockets,115,0,N
+1998-03-12,1998,Los Angeles Lakers,108,Los Angeles Clippers,85,0,N
+1998-03-12,1998,Cleveland Cavaliers,74,Miami Heat,97,0,N
+1998-03-12,1998,Minnesota Timberwolves,92,Portland Trail Blazers,95,0,N
+1998-03-12,1998,Sacramento Kings,86,San Antonio Spurs,97,0,N
+1998-03-13,1998,Detroit Pistons,96,Boston Celtics,92,0,N
+1998-03-13,1998,Milwaukee Bucks,76,Indiana Pacers,96,0,N
+1998-03-13,1998,Toronto Raptors,120,Los Angeles Clippers,152,0,N
+1998-03-13,1998,Charlotte Hornets,100,Orlando Magic,82,0,N
+1998-03-13,1998,Atlanta Hawks,86,Philadelphia 76ers,107,0,N
+1998-03-13,1998,Golden State Warriors,77,Phoenix Suns,101,0,N
+1998-03-13,1998,Vancouver Grizzlies,101,Utah Jazz,110,0,N
+1998-03-14,1998,Washington Wizards,83,Charlotte Hornets,80,0,N
+1998-03-14,1998,New York Knicks,85,Cleveland Cavaliers,88,1,N
+1998-03-14,1998,New Jersey Nets,108,Dallas Mavericks,93,0,N
+1998-03-14,1998,Portland Trail Blazers,82,Denver Nuggets,92,0,N
+1998-03-14,1998,Sacramento Kings,86,Houston Rockets,89,0,N
+1998-03-14,1998,Philadelphia 76ers,93,Milwaukee Bucks,89,0,N
+1998-03-14,1998,Chicago Bulls,96,San Antonio Spurs,86,0,N
+1998-03-14,1998,Minnesota Timberwolves,80,Seattle SuperSonics,114,0,N
+1998-03-15,1998,Boston Celtics,77,Atlanta Hawks,93,0,N
+1998-03-15,1998,Utah Jazz,109,Detroit Pistons,98,0,N
+1998-03-15,1998,Toronto Raptors,100,Golden State Warriors,98,1,N
+1998-03-15,1998,Indiana Pacers,91,New York Knicks,86,0,N
+1998-03-15,1998,Miami Heat,79,Orlando Magic,76,0,N
+1998-03-15,1998,Dallas Mavericks,90,Phoenix Suns,100,0,N
+1998-03-15,1998,Los Angeles Clippers,92,Portland Trail Blazers,103,0,N
+1998-03-15,1998,Los Angeles Lakers,119,Vancouver Grizzlies,110,0,N
+1998-03-16,1998,Denver Nuggets,87,Charlotte Hornets,109,0,N
+1998-03-16,1998,New Jersey Nets,72,Chicago Bulls,88,0,N
+1998-03-16,1998,Detroit Pistons,103,Miami Heat,90,0,N
+1998-03-16,1998,Utah Jazz,102,Minnesota Timberwolves,96,0,N
+1998-03-16,1998,Milwaukee Bucks,85,San Antonio Spurs,96,0,N
+1998-03-16,1998,Los Angeles Lakers,89,Seattle SuperSonics,101,0,N
+1998-03-17,1998,Boston Celtics,93,Dallas Mavericks,99,0,N
+1998-03-17,1998,Los Angeles Clippers,107,Golden State Warriors,102,0,N
+1998-03-17,1998,Milwaukee Bucks,91,Houston Rockets,96,0,N
+1998-03-17,1998,Chicago Bulls,90,Indiana Pacers,84,0,N
+1998-03-17,1998,Philadelphia 76ers,96,New York Knicks,100,0,N
+1998-03-17,1998,Vancouver Grizzlies,92,Orlando Magic,99,0,N
+1998-03-17,1998,Sacramento Kings,80,Phoenix Suns,107,0,N
+1998-03-17,1998,Cleveland Cavaliers,96,Portland Trail Blazers,82,0,N
+1998-03-17,1998,Atlanta Hawks,117,Toronto Raptors,105,0,N
+1998-03-17,1998,Denver Nuggets,90,Washington Wizards,89,0,N
+1998-03-18,1998,Utah Jazz,85,Charlotte Hornets,111,0,N
+1998-03-18,1998,Philadelphia 76ers,104,Detroit Pistons,96,0,N
+1998-03-18,1998,Phoenix Suns,93,Los Angeles Lakers,99,0,N
+1998-03-18,1998,Vancouver Grizzlies,91,Miami Heat,94,0,N
+1998-03-18,1998,San Antonio Spurs,92,Minnesota Timberwolves,76,0,N
+1998-03-18,1998,Los Angeles Clippers,80,Seattle SuperSonics,99,0,N
+1998-03-19,1998,Milwaukee Bucks,81,Atlanta Hawks,84,0,N
+1998-03-19,1998,Golden State Warriors,82,Dallas Mavericks,88,1,N
+1998-03-19,1998,Boston Celtics,96,Houston Rockets,105,0,N
+1998-03-19,1998,Orlando Magic,87,New Jersey Nets,93,0,N
+1998-03-19,1998,Portland Trail Blazers,82,New York Knicks,77,0,N
+1998-03-19,1998,Cleveland Cavaliers,90,Sacramento Kings,85,0,N
+1998-03-19,1998,Denver Nuggets,103,Toronto Raptors,104,1,N
+1998-03-19,1998,Indiana Pacers,95,Washington Wizards,91,0,N
+1998-03-20,1998,Vancouver Grizzlies,92,Chicago Bulls,98,0,N
+1998-03-20,1998,Toronto Raptors,99,Detroit Pistons,105,0,N
+1998-03-20,1998,New Jersey Nets,92,Indiana Pacers,99,0,N
+1998-03-20,1998,Seattle SuperSonics,80,Los Angeles Lakers,93,0,N
+1998-03-20,1998,Golden State Warriors,87,Miami Heat,93,0,N
+1998-03-20,1998,Denver Nuggets,88,Minnesota Timberwolves,104,0,N
+1998-03-20,1998,Atlanta Hawks,108,New York Knicks,109,0,N
+1998-03-20,1998,Portland Trail Blazers,87,Orlando Magic,102,0,N
+1998-03-20,1998,Utah Jazz,91,Philadelphia 76ers,79,0,N
+1998-03-20,1998,Charlotte Hornets,92,San Antonio Spurs,82,0,N
+1998-03-21,1998,Houston Rockets,103,Dallas Mavericks,95,0,N
+1998-03-21,1998,Cleveland Cavaliers,100,Los Angeles Clippers,79,0,N
+1998-03-21,1998,Vancouver Grizzlies,88,Minnesota Timberwolves,102,0,N
+1998-03-21,1998,Seattle SuperSonics,102,Phoenix Suns,109,0,N
+1998-03-22,1998,Philadelphia 76ers,90,Boston Celtics,108,0,N
+1998-03-22,1998,Atlanta Hawks,98,Detroit Pistons,105,0,N
+1998-03-22,1998,Portland Trail Blazers,80,Miami Heat,112,0,N
+1998-03-22,1998,Indiana Pacers,96,Milwaukee Bucks,94,1,N
+1998-03-22,1998,Washington Wizards,102,New Jersey Nets,100,1,N
+1998-03-22,1998,Utah Jazz,124,New York Knicks,119,2,N
+1998-03-22,1998,Golden State Warriors,83,Orlando Magic,92,0,N
+1998-03-22,1998,Los Angeles Lakers,96,Sacramento Kings,93,0,N
+1998-03-22,1998,Phoenix Suns,83,San Antonio Spurs,93,0,N
+1998-03-22,1998,Chicago Bulls,102,Toronto Raptors,100,0,N
+1998-03-23,1998,Boston Celtics,88,Chicago Bulls,111,0,N
+1998-03-23,1998,Minnesota Timberwolves,87,Dallas Mavericks,91,0,N
+1998-03-23,1998,Los Angeles Lakers,107,Denver Nuggets,86,0,N
+1998-03-23,1998,Detroit Pistons,94,Philadelphia 76ers,79,0,N
+1998-03-23,1998,Sacramento Kings,83,Seattle SuperSonics,109,0,N
+1998-03-23,1998,Los Angeles Clippers,95,Vancouver Grizzlies,106,0,N
+1998-03-24,1998,Orlando Magic,73,Atlanta Hawks,85,0,N
+1998-03-24,1998,San Antonio Spurs,86,Cleveland Cavaliers,85,0,N
+1998-03-24,1998,New York Knicks,88,Golden State Warriors,75,0,N
+1998-03-24,1998,Houston Rockets,108,Milwaukee Bucks,118,0,N
+1998-03-24,1998,Washington Wizards,99,Portland Trail Blazers,87,0,N
+1998-03-24,1998,Charlotte Hornets,106,Toronto Raptors,89,0,N
+1998-03-24,1998,Phoenix Suns,73,Utah Jazz,92,0,N
+1998-03-25,1998,Miami Heat,105,Boston Celtics,91,0,N
+1998-03-25,1998,Dallas Mavericks,105,Denver Nuggets,94,0,N
+1998-03-25,1998,San Antonio Spurs,94,Detroit Pistons,103,0,N
+1998-03-25,1998,Houston Rockets,86,Indiana Pacers,81,0,N
+1998-03-25,1998,New York Knicks,77,Los Angeles Clippers,76,0,N
+1998-03-25,1998,Sacramento Kings,91,Los Angeles Lakers,114,0,N
+1998-03-25,1998,Chicago Bulls,85,Orlando Magic,70,0,N
+1998-03-25,1998,New Jersey Nets,91,Philadelphia 76ers,86,0,N
+1998-03-25,1998,Minnesota Timberwolves,99,Phoenix Suns,97,0,N
+1998-03-25,1998,Washington Wizards,109,Seattle SuperSonics,133,0,N
+1998-03-26,1998,Milwaukee Bucks,80,Charlotte Hornets,94,0,N
+1998-03-26,1998,Seattle SuperSonics,91,Golden State Warriors,98,0,N
+1998-03-26,1998,Vancouver Grizzlies,102,Portland Trail Blazers,108,0,N
+1998-03-26,1998,Cleveland Cavaliers,97,Toronto Raptors,96,0,N
+1998-03-27,1998,Chicago Bulls,89,Atlanta Hawks,74,0,N
+1998-03-27,1998,Detroit Pistons,87,Cleveland Cavaliers,88,1,N
+1998-03-27,1998,Utah Jazz,99,Dallas Mavericks,90,0,N
+1998-03-27,1998,Golden State Warriors,89,Denver Nuggets,97,0,N
+1998-03-27,1998,Charlotte Hornets,96,Indiana Pacers,133,0,N
+1998-03-27,1998,Minnesota Timberwolves,100,Los Angeles Clippers,98,0,N
+1998-03-27,1998,Milwaukee Bucks,77,Miami Heat,102,0,N
+1998-03-27,1998,Boston Celtics,82,New Jersey Nets,76,0,N
+1998-03-27,1998,Houston Rockets,75,Orlando Magic,100,0,N
+1998-03-27,1998,San Antonio Spurs,110,Philadelphia 76ers,85,0,N
+1998-03-27,1998,Washington Wizards,85,Phoenix Suns,89,0,N
+1998-03-27,1998,Portland Trail Blazers,90,Sacramento Kings,73,0,N
+1998-03-27,1998,New York Knicks,97,Vancouver Grizzlies,89,1,N
+1998-03-28,1998,New York Knicks,78,Seattle SuperSonics,104,0,N
+1998-03-28,1998,Los Angeles Lakers,91,Utah Jazz,106,0,N
+1998-03-29,1998,Detroit Pistons,95,Atlanta Hawks,118,0,N
+1998-03-29,1998,Charlotte Hornets,82,Cleveland Cavaliers,97,0,N
+1998-03-29,1998,Portland Trail Blazers,99,Golden State Warriors,83,0,N
+1998-03-29,1998,San Antonio Spurs,74,Indiana Pacers,55,0,N
+1998-03-29,1998,Dallas Mavericks,86,Los Angeles Clippers,108,0,N
+1998-03-29,1998,Washington Wizards,89,Los Angeles Lakers,116,0,N
+1998-03-29,1998,Houston Rockets,77,Miami Heat,109,0,N
+1998-03-29,1998,Chicago Bulls,104,Milwaukee Bucks,87,0,N
+1998-03-29,1998,Boston Celtics,94,Philadelphia 76ers,99,0,N
+1998-03-29,1998,Vancouver Grizzlies,98,Phoenix Suns,106,0,N
+1998-03-29,1998,Minnesota Timberwolves,104,Sacramento Kings,96,0,N
+1998-03-29,1998,Orlando Magic,95,Toronto Raptors,68,0,N
+1998-03-31,1998,Philadelphia 76ers,93,Charlotte Hornets,101,0,N
+1998-03-31,1998,Detroit Pistons,101,Chicago Bulls,106,1,N
+1998-03-31,1998,Orlando Magic,86,Cleveland Cavaliers,93,0,N
+1998-03-31,1998,Milwaukee Bucks,94,Golden State Warriors,89,1,N
+1998-03-31,1998,Phoenix Suns,97,Houston Rockets,86,0,N
+1998-03-31,1998,Los Angeles Clippers,106,Indiana Pacers,128,0,N
+1998-03-31,1998,Boston Celtics,95,Miami Heat,121,0,N
+1998-03-31,1998,Atlanta Hawks,90,New Jersey Nets,105,0,N
+1998-03-31,1998,San Antonio Spurs,95,New York Knicks,78,0,N
+1998-03-31,1998,Utah Jazz,86,Seattle SuperSonics,88,0,N
+1998-03-31,1998,Los Angeles Lakers,114,Toronto Raptors,105,0,N
+1998-03-31,1998,Dallas Mavericks,104,Vancouver Grizzlies,101,0,N
+1998-04-01,1998,Toronto Raptors,91,Atlanta Hawks,105,0,N
+1998-04-01,1998,Milwaukee Bucks,106,Denver Nuggets,100,0,N
+1998-04-01,1998,Cleveland Cavaliers,92,Detroit Pistons,90,0,N
+1998-04-01,1998,Boston Celtics,98,Orlando Magic,87,0,N
+1998-04-01,1998,Portland Trail Blazers,89,Utah Jazz,98,0,N
+1998-04-01,1998,Philadelphia 76ers,112,Washington Wizards,91,0,N
+1998-04-02,1998,Golden State Warriors,104,Houston Rockets,94,0,N
+1998-04-02,1998,Minnesota Timberwolves,108,Indiana Pacers,111,0,N
+1998-04-02,1998,Los Angeles Lakers,117,New Jersey Nets,106,0,N
+1998-04-02,1998,Los Angeles Clippers,70,New York Knicks,81,0,N
+1998-04-02,1998,Miami Heat,89,San Antonio Spurs,103,0,N
+1998-04-02,1998,Dallas Mavericks,86,Seattle SuperSonics,107,0,N
+1998-04-03,1998,Houston Rockets,87,Atlanta Hawks,107,0,N
+1998-04-03,1998,Indiana Pacers,89,Charlotte Hornets,96,0,N
+1998-04-03,1998,Minnesota Timberwolves,93,Chicago Bulls,107,0,N
+1998-04-03,1998,Los Angeles Lakers,105,Cleveland Cavaliers,93,0,N
+1998-04-03,1998,Boston Celtics,101,Detroit Pistons,100,0,N
+1998-04-03,1998,Los Angeles Clippers,78,Philadelphia 76ers,93,0,N
+1998-04-03,1998,Dallas Mavericks,102,Portland Trail Blazers,109,0,N
+1998-04-03,1998,Milwaukee Bucks,87,Sacramento Kings,86,0,N
+1998-04-03,1998,Denver Nuggets,75,Utah Jazz,97,0,N
+1998-04-03,1998,Seattle SuperSonics,138,Vancouver Grizzlies,98,0,N
+1998-04-03,1998,Toronto Raptors,112,Washington Wizards,120,0,N
+1998-04-04,1998,Charlotte Hornets,88,Miami Heat,101,0,N
+1998-04-04,1998,New York Knicks,94,New Jersey Nets,97,0,N
+1998-04-04,1998,Portland Trail Blazers,83,Phoenix Suns,90,0,N
+1998-04-04,1998,Golden State Warriors,80,San Antonio Spurs,88,1,N
+1998-04-05,1998,Minnesota Timberwolves,97,Atlanta Hawks,96,0,N
+1998-04-05,1998,New York Knicks,92,Boston Celtics,102,0,N
+1998-04-05,1998,Los Angeles Clippers,93,Cleveland Cavaliers,94,0,N
+1998-04-05,1998,Seattle SuperSonics,87,Denver Nuggets,83,0,N
+1998-04-05,1998,Los Angeles Lakers,105,Detroit Pistons,103,1,N
+1998-04-05,1998,Chicago Bulls,109,Houston Rockets,94,0,N
+1998-04-05,1998,Milwaukee Bucks,92,Indiana Pacers,93,0,N
+1998-04-05,1998,Toronto Raptors,104,Philadelphia 76ers,116,0,N
+1998-04-05,1998,Dallas Mavericks,99,Sacramento Kings,105,0,N
+1998-04-05,1998,Utah Jazz,99,Vancouver Grizzlies,93,0,N
+1998-04-05,1998,Orlando Magic,85,Washington Wizards,88,0,N
+1998-04-06,1998,Charlotte Hornets,115,New Jersey Nets,125,0,N
+1998-04-06,1998,Philadelphia 76ers,92,Orlando Magic,113,0,N
+1998-04-06,1998,Portland Trail Blazers,79,San Antonio Spurs,75,0,N
+1998-04-06,1998,Phoenix Suns,102,Seattle SuperSonics,92,0,N
+1998-04-07,1998,New York Knicks,79,Atlanta Hawks,92,0,N
+1998-04-07,1998,Washington Wizards,85,Chicago Bulls,103,0,N
+1998-04-07,1998,Portland Trail Blazers,99,Dallas Mavericks,91,0,N
+1998-04-07,1998,Houston Rockets,104,Denver Nuggets,87,0,N
+1998-04-07,1998,Utah Jazz,101,Golden State Warriors,99,0,N
+1998-04-07,1998,Cleveland Cavaliers,80,Indiana Pacers,82,0,N
+1998-04-07,1998,Vancouver Grizzlies,110,Los Angeles Clippers,94,0,N
+1998-04-07,1998,Toronto Raptors,105,Milwaukee Bucks,114,0,N
+1998-04-07,1998,Miami Heat,89,Minnesota Timberwolves,92,0,N
+1998-04-07,1998,Phoenix Suns,103,Sacramento Kings,97,0,N
+1998-04-08,1998,New Jersey Nets,117,Boston Celtics,104,0,N
+1998-04-08,1998,Vancouver Grizzlies,102,Los Angeles Lakers,113,0,N
+1998-04-08,1998,Miami Heat,80,New York Knicks,83,0,N
+1998-04-08,1998,Detroit Pistons,87,Orlando Magic,95,0,N
+1998-04-08,1998,Charlotte Hornets,101,Philadelphia 76ers,109,0,N
+1998-04-08,1998,Milwaukee Bucks,107,Toronto Raptors,100,0,N
+1998-04-08,1998,San Antonio Spurs,88,Utah Jazz,98,0,N
+1998-04-09,1998,Indiana Pacers,105,Atlanta Hawks,102,1,N
+1998-04-09,1998,Chicago Bulls,85,Cleveland Cavaliers,91,0,N
+1998-04-09,1998,Seattle SuperSonics,103,Dallas Mavericks,101,0,N
+1998-04-09,1998,Sacramento Kings,103,Denver Nuggets,128,0,N
+1998-04-09,1998,Houston Rockets,93,Golden State Warriors,89,0,N
+1998-04-09,1998,Portland Trail Blazers,99,Los Angeles Clippers,95,0,N
+1998-04-09,1998,Detroit Pistons,102,Washington Wizards,83,0,N
+1998-04-10,1998,Orlando Magic,80,Boston Celtics,82,1,N
+1998-04-10,1998,Atlanta Hawks,99,Charlotte Hornets,87,0,N
+1998-04-10,1998,Phoenix Suns,114,Los Angeles Lakers,105,0,N
+1998-04-10,1998,Philadelphia 76ers,102,Minnesota Timberwolves,107,0,N
+1998-04-10,1998,Houston Rockets,97,Sacramento Kings,85,0,N
+1998-04-10,1998,Seattle SuperSonics,84,San Antonio Spurs,99,0,N
+1998-04-10,1998,Miami Heat,111,Toronto Raptors,105,1,N
+1998-04-10,1998,Los Angeles Clippers,109,Utah Jazz,126,0,N
+1998-04-11,1998,Orlando Magic,78,Chicago Bulls,87,0,N
+1998-04-11,1998,Philadelphia 76ers,95,Cleveland Cavaliers,106,0,N
+1998-04-11,1998,Denver Nuggets,81,Dallas Mavericks,99,0,N
+1998-04-11,1998,Los Angeles Lakers,96,Golden State Warriors,84,0,N
+1998-04-11,1998,New Jersey Nets,124,Milwaukee Bucks,117,0,N
+1998-04-11,1998,Utah Jazz,103,Minnesota Timberwolves,110,0,N
+1998-04-11,1998,Portland Trail Blazers,96,Vancouver Grizzlies,105,1,N
+1998-04-12,1998,Indiana Pacers,93,Boston Celtics,87,0,N
+1998-04-12,1998,Detroit Pistons,86,Charlotte Hornets,88,0,N
+1998-04-12,1998,New York Knicks,81,Miami Heat,82,0,N
+1998-04-12,1998,Houston Rockets,95,Seattle SuperSonics,103,0,N
+1998-04-12,1998,New Jersey Nets,116,Toronto Raptors,109,0,N
+1998-04-12,1998,Phoenix Suns,129,Vancouver Grizzlies,106,0,N
+1998-04-12,1998,Atlanta Hawks,91,Washington Wizards,81,0,N
+1998-04-13,1998,Indiana Pacers,114,Chicago Bulls,105,0,N
+1998-04-13,1998,Phoenix Suns,105,Golden State Warriors,97,0,N
+1998-04-13,1998,Minnesota Timberwolves,107,Los Angeles Clippers,88,0,N
+1998-04-13,1998,Los Angeles Lakers,99,San Antonio Spurs,75,0,N
+1998-04-14,1998,Philadelphia 76ers,94,Atlanta Hawks,95,0,N
+1998-04-14,1998,Boston Celtics,86,Cleveland Cavaliers,95,0,N
+1998-04-14,1998,Los Angeles Lakers,111,Dallas Mavericks,95,0,N
+1998-04-14,1998,Denver Nuggets,88,Houston Rockets,94,0,N
+1998-04-14,1998,Charlotte Hornets,104,Milwaukee Bucks,82,0,N
+1998-04-14,1998,Toronto Raptors,96,New Jersey Nets,92,0,N
+1998-04-14,1998,Washington Wizards,104,New York Knicks,102,0,N
+1998-04-14,1998,Sacramento Kings,66,Portland Trail Blazers,92,0,N
+1998-04-14,1998,Vancouver Grizzlies,98,Seattle SuperSonics,110,0,N
+1998-04-14,1998,Minnesota Timberwolves,109,Utah Jazz,126,0,N
+1998-04-15,1998,Milwaukee Bucks,117,Boston Celtics,109,0,N
+1998-04-15,1998,New Jersey Nets,103,Charlotte Hornets,109,0,N
+1998-04-15,1998,Chicago Bulls,79,Detroit Pistons,87,0,N
+1998-04-15,1998,Atlanta Hawks,70,Indiana Pacers,82,0,N
+1998-04-15,1998,Golden State Warriors,92,Los Angeles Clippers,80,0,N
+1998-04-15,1998,Orlando Magic,99,Miami Heat,87,0,N
+1998-04-15,1998,Denver Nuggets,89,Phoenix Suns,96,0,N
+1998-04-15,1998,Cleveland Cavaliers,93,Washington Wizards,101,0,N
+1998-04-16,1998,Dallas Mavericks,82,Golden State Warriors,88,0,N
+1998-04-16,1998,Toronto Raptors,79,New York Knicks,108,0,N
+1998-04-16,1998,Los Angeles Clippers,90,Portland Trail Blazers,99,0,N
+1998-04-16,1998,Sacramento Kings,86,Utah Jazz,99,0,N
+1998-04-16,1998,San Antonio Spurs,110,Vancouver Grizzlies,97,0,N
+1998-04-17,1998,Charlotte Hornets,104,Atlanta Hawks,121,0,N
+1998-04-17,1998,Cleveland Cavaliers,71,Boston Celtics,78,0,N
+1998-04-17,1998,Portland Trail Blazers,101,Denver Nuggets,109,0,N
+1998-04-17,1998,Milwaukee Bucks,102,Detroit Pistons,108,0,N
+1998-04-17,1998,Toronto Raptors,98,Indiana Pacers,107,0,N
+1998-04-17,1998,Dallas Mavericks,95,Los Angeles Lakers,124,0,N
+1998-04-17,1998,Washington Wizards,97,Miami Heat,89,0,N
+1998-04-17,1998,Houston Rockets,95,Minnesota Timberwolves,102,0,N
+1998-04-17,1998,New Jersey Nets,109,Orlando Magic,121,0,N
+1998-04-17,1998,Chicago Bulls,87,Philadelphia 76ers,80,0,N
+1998-04-17,1998,Utah Jazz,102,Phoenix Suns,99,0,N
+1998-04-17,1998,San Antonio Spurs,89,Seattle SuperSonics,87,0,N
+1998-04-18,1998,New York Knicks,109,Chicago Bulls,111,0,N
+1998-04-18,1998,Indiana Pacers,92,Cleveland Cavaliers,96,0,N
+1998-04-18,1998,Vancouver Grizzlies,100,Golden State Warriors,112,0,N
+1998-04-18,1998,Sacramento Kings,77,Los Angeles Clippers,83,0,N
+1998-04-18,1998,Minnesota Timberwolves,111,Milwaukee Bucks,109,0,N
+1998-04-18,1998,Boston Celtics,95,Washington Wizards,112,0,N
+1998-04-19,1998,Miami Heat,89,Atlanta Hawks,101,0,N
+1998-04-19,1998,Orlando Magic,76,Charlotte Hornets,89,0,N
+1998-04-19,1998,Phoenix Suns,123,Houston Rockets,93,0,N
+1998-04-19,1998,Utah Jazz,98,Los Angeles Lakers,102,0,N
+1998-04-19,1998,Detroit Pistons,101,New Jersey Nets,114,0,N
+1998-04-19,1998,Seattle SuperSonics,90,Portland Trail Blazers,82,0,N
+1998-04-19,1998,Vancouver Grizzlies,112,Sacramento Kings,108,1,N
+1998-04-19,1998,Denver Nuggets,82,San Antonio Spurs,96,0,N
+1998-04-19,1998,Philadelphia 76ers,107,Toronto Raptors,78,0,N
+1998-04-23,1998,Atlanta Hawks,87,Charlotte Hornets,97,0,Y
+1998-04-23,1998,Cleveland Cavaliers,77,Indiana Pacers,106,0,Y
+1998-04-23,1998,San Antonio Spurs,102,Phoenix Suns,96,0,Y
+1998-04-23,1998,Houston Rockets,103,Utah Jazz,90,0,Y
+1998-04-24,1998,New Jersey Nets,93,Chicago Bulls,96,1,Y
+1998-04-24,1998,Portland Trail Blazers,102,Los Angeles Lakers,104,0,Y
+1998-04-24,1998,New York Knicks,79,Miami Heat,94,0,Y
+1998-04-24,1998,Minnesota Timberwolves,83,Seattle SuperSonics,108,0,Y
+1998-04-25,1998,Atlanta Hawks,85,Charlotte Hornets,92,0,Y
+1998-04-25,1998,Cleveland Cavaliers,86,Indiana Pacers,92,0,Y
+1998-04-25,1998,San Antonio Spurs,101,Phoenix Suns,108,0,Y
+1998-04-25,1998,Houston Rockets,90,Utah Jazz,105,0,Y
+1998-04-26,1998,New Jersey Nets,91,Chicago Bulls,96,0,Y
+1998-04-26,1998,Portland Trail Blazers,99,Los Angeles Lakers,108,0,Y
+1998-04-26,1998,New York Knicks,96,Miami Heat,86,0,Y
+1998-04-26,1998,Minnesota Timberwolves,98,Seattle SuperSonics,93,0,Y
+1998-04-27,1998,Indiana Pacers,77,Cleveland Cavaliers,86,0,Y
+1998-04-27,1998,Phoenix Suns,88,San Antonio Spurs,100,0,Y
+1998-04-28,1998,Charlotte Hornets,64,Atlanta Hawks,96,0,Y
+1998-04-28,1998,Seattle SuperSonics,90,Minnesota Timberwolves,98,0,Y
+1998-04-28,1998,Miami Heat,91,New York Knicks,85,0,Y
+1998-04-28,1998,Los Angeles Lakers,94,Portland Trail Blazers,99,0,Y
+1998-04-29,1998,Utah Jazz,85,Houston Rockets,89,0,Y
+1998-04-29,1998,Chicago Bulls,116,New Jersey Nets,101,0,Y
+1998-04-29,1998,Phoenix Suns,80,San Antonio Spurs,99,0,Y
+1998-04-30,1998,Indiana Pacers,80,Cleveland Cavaliers,74,0,Y
+1998-04-30,1998,Seattle SuperSonics,92,Minnesota Timberwolves,88,0,Y
+1998-04-30,1998,Miami Heat,85,New York Knicks,90,0,Y
+1998-04-30,1998,Los Angeles Lakers,110,Portland Trail Blazers,99,0,Y
+1998-05-01,1998,Utah Jazz,93,Houston Rockets,71,0,Y
+1998-05-01,1998,Charlotte Hornets,91,Atlanta Hawks,82,0,Y
+1998-05-02,1998,Minnesota Timberwolves,84,Seattle SuperSonics,97,0,Y
+1998-05-03,1998,Charlotte Hornets,70,Chicago Bulls,83,0,Y
+1998-05-03,1998,New York Knicks,98,Miami Heat,81,0,Y
+1998-05-03,1998,Houston Rockets,70,Utah Jazz,84,0,Y
+1998-05-04,1998,Los Angeles Lakers,92,Seattle SuperSonics,106,0,Y
+1998-05-05,1998,New York Knicks,83,Indiana Pacers,93,0,Y
+1998-05-05,1998,San Antonio Spurs,82,Utah Jazz,83,0,Y
+1998-05-06,1998,Los Angeles Lakers,92,Seattle SuperSonics,68,0,Y
+1998-05-06,1998,Charlotte Hornets,78,Chicago Bulls,76,0,Y
+1998-05-07,1998,New York Knicks,77,Indiana Pacers,85,0,Y
+1998-05-07,1998,San Antonio Spurs,106,Utah Jazz,109,1,Y
+1998-05-08,1998,Chicago Bulls,103,Charlotte Hornets,89,0,Y
+1998-05-08,1998,Seattle SuperSonics,103,Los Angeles Lakers,119,0,Y
+1998-05-09,1998,Indiana Pacers,76,New York Knicks,83,0,Y
+1998-05-09,1998,Utah Jazz,64,San Antonio Spurs,86,0,Y
+1998-05-10,1998,Utah Jazz,82,San Antonio Spurs,73,0,Y
+1998-05-10,1998,Seattle SuperSonics,100,Los Angeles Lakers,112,0,Y
+1998-05-10,1998,Chicago Bulls,94,Charlotte Hornets,80,0,Y
+1998-05-10,1998,Indiana Pacers,118,New York Knicks,107,1,Y
+1998-05-12,1998,Los Angeles Lakers,110,Seattle SuperSonics,95,0,Y
+1998-05-12,1998,San Antonio Spurs,77,Utah Jazz,87,0,Y
+1998-05-13,1998,Charlotte Hornets,84,Chicago Bulls,93,0,Y
+1998-05-13,1998,New York Knicks,88,Indiana Pacers,99,0,Y
+1998-05-16,1998,Los Angeles Lakers,77,Utah Jazz,112,0,Y
+1998-05-17,1998,Indiana Pacers,79,Chicago Bulls,85,0,Y
+1998-05-18,1998,Los Angeles Lakers,95,Utah Jazz,99,0,Y
+1998-05-19,1998,Indiana Pacers,98,Chicago Bulls,104,0,Y
+1998-05-22,1998,Utah Jazz,109,Los Angeles Lakers,98,0,Y
+1998-05-23,1998,Chicago Bulls,105,Indiana Pacers,107,0,Y
+1998-05-24,1998,Utah Jazz,96,Los Angeles Lakers,92,0,Y
+1998-05-25,1998,Chicago Bulls,94,Indiana Pacers,96,0,Y
+1998-05-27,1998,Indiana Pacers,87,Chicago Bulls,106,0,Y
+1998-05-29,1998,Chicago Bulls,89,Indiana Pacers,92,0,Y
+1998-05-31,1998,Indiana Pacers,83,Chicago Bulls,88,0,Y
+1998-06-03,1998,Chicago Bulls,85,Utah Jazz,88,1,Y
+1998-06-05,1998,Chicago Bulls,93,Utah Jazz,88,0,Y
+1998-06-07,1998,Utah Jazz,54,Chicago Bulls,96,0,Y
+1998-06-10,1998,Utah Jazz,82,Chicago Bulls,86,0,Y
+1998-06-12,1998,Utah Jazz,83,Chicago Bulls,81,0,Y
+1998-06-14,1998,Chicago Bulls,87,Utah Jazz,86,0,Y

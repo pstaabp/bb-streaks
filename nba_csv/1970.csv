@@ -1,0 +1,615 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1969-10-14,1970,Seattle SuperSonics,101,New York Knicks,126,0,N
+1969-10-15,1970,Seattle SuperSonics,119,Atlanta Hawks,124,0,N
+1969-10-15,1970,Chicago Bulls,93,Baltimore Bullets,98,0,N
+1969-10-15,1970,New York Knicks,94,Cincinnati Royals,89,0,N
+1969-10-16,1970,San Diego Rockets,114,Phoenix Suns,116,0,N
+1969-10-17,1970,Cincinnati Royals,110,Boston Celtics,108,0,N
+1969-10-17,1970,New York Knicks,116,Chicago Bulls,87,0,N
+1969-10-17,1970,Los Angeles Lakers,126,Philadelphia 76ers,131,0,N
+1969-10-18,1970,Los Angeles Lakers,96,New York Knicks,99,0,N
+1969-10-18,1970,San Diego Rockets,125,San Francisco Warriors,124,1,N
+1969-10-18,1970,Detroit Pistons,110,Milwaukee Bucks,119,0,N
+1969-10-18,1970,Philadelphia 76ers,134,Cincinnati Royals,123,0,N
+1969-10-18,1970,Seattle SuperSonics,126,Chicago Bulls,131,1,N
+1969-10-18,1970,Boston Celtics,117,Baltimore Bullets,124,0,N
+1969-10-18,1970,Phoenix Suns,116,Atlanta Hawks,121,0,N
+1969-10-19,1970,Seattle SuperSonics,106,Milwaukee Bucks,130,0,N
+1969-10-21,1970,Los Angeles Lakers,142,Baltimore Bullets,137,1,N
+1969-10-21,1970,Boston Celtics,97,Detroit Pistons,98,0,N
+1969-10-21,1970,Phoenix Suns,116,New York Knicks,140,0,N
+1969-10-22,1970,San Francisco Warriors,94,Atlanta Hawks,93,0,N
+1969-10-22,1970,Los Angeles Lakers,116,Cincinnati Royals,109,0,N
+1969-10-22,1970,Phoenix Suns,119,Philadelphia 76ers,122,0,N
+1969-10-22,1970,Milwaukee Bucks,115,San Diego Rockets,102,0,N
+1969-10-23,1970,San Francisco Warriors,112,New York Knicks,109,0,N
+1969-10-24,1970,Atlanta Hawks,122,Boston Celtics,110,0,N
+1969-10-24,1970,Chicago Bulls,116,Phoenix Suns,115,1,N
+1969-10-24,1970,Milwaukee Bucks,112,Los Angeles Lakers,123,0,N
+1969-10-24,1970,Cincinnati Royals,126,Baltimore Bullets,131,1,N
+1969-10-24,1970,New York Knicks,116,Detroit Pistons,92,0,N
+1969-10-25,1970,Detroit Pistons,125,Atlanta Hawks,104,0,N
+1969-10-25,1970,Baltimore Bullets,99,New York Knicks,128,0,N
+1969-10-25,1970,Cincinnati Royals,109,Philadelphia 76ers,98,0,N
+1969-10-25,1970,Phoenix Suns,115,San Diego Rockets,107,0,N
+1969-10-25,1970,Los Angeles Lakers,130,Seattle SuperSonics,106,0,N
+1969-10-25,1970,Milwaukee Bucks,104,San Francisco Warriors,118,0,N
+1969-10-26,1970,Chicago Bulls,125,Los Angeles Lakers,129,0,N
+1969-10-26,1970,Milwaukee Bucks,119,Phoenix Suns,99,0,N
+1969-10-28,1970,Atlanta Hawks,104,New York Knicks,128,0,N
+1969-10-28,1970,Chicago Bulls,116,Seattle SuperSonics,114,0,N
+1969-10-28,1970,Boston Celtics,120,Milwaukee Bucks,107,0,N
+1969-10-28,1970,Baltimore Bullets,125,Detroit Pistons,110,0,N
+1969-10-29,1970,San Diego Rockets,113,Atlanta Hawks,117,0,N
+1969-10-29,1970,Philadelphia 76ers,129,Baltimore Bullets,105,0,N
+1969-10-29,1970,Chicago Bulls,101,San Francisco Warriors,87,0,N
+1969-10-30,1970,Milwaukee Bucks,102,Detroit Pistons,81,0,N
+1969-10-30,1970,San Diego Rockets,110,New York Knicks,123,0,N
+1969-10-30,1970,Cincinnati Royals,104,Phoenix Suns,106,0,N
+1969-10-31,1970,Chicago Bulls,118,Baltimore Bullets,109,0,N
+1969-10-31,1970,San Diego Rockets,113,Boston Celtics,118,0,N
+1969-10-31,1970,Milwaukee Bucks,129,Philadelphia 76ers,125,1,N
+1969-10-31,1970,Cincinnati Royals,121,Seattle SuperSonics,129,0,N
+1969-11-01,1970,Atlanta Hawks,140,Baltimore Bullets,137,1,N
+1969-11-01,1970,San Diego Rockets,113,Detroit Pistons,130,0,N
+1969-11-01,1970,Milwaukee Bucks,108,New York Knicks,112,0,N
+1969-11-01,1970,Boston Celtics,131,Philadelphia 76ers,123,0,N
+1969-11-01,1970,Cincinnati Royals,97,San Francisco Warriors,120,0,N
+1969-11-02,1970,Seattle SuperSonics,113,Atlanta Hawks,125,0,N
+1969-11-02,1970,Cincinnati Royals,124,Los Angeles Lakers,116,0,N
+1969-11-03,1970,New York Knicks,109,Milwaukee Bucks,93,0,N
+1969-11-04,1970,San Francisco Warriors,105,Baltimore Bullets,124,0,N
+1969-11-04,1970,Philadelphia 76ers,113,Chicago Bulls,109,0,N
+1969-11-04,1970,Seattle SuperSonics,116,Detroit Pistons,102,0,N
+1969-11-04,1970,New York Knicks,116,Phoenix Suns,99,0,N
+1969-11-05,1970,Boston Celtics,121,Atlanta Hawks,128,0,N
+1969-11-05,1970,San Diego Rockets,120,Cincinnati Royals,133,0,N
+1969-11-05,1970,Baltimore Bullets,139,Philadelphia 76ers,130,0,N
+1969-11-06,1970,Atlanta Hawks,142,Chicago Bulls,137,1,N
+1969-11-06,1970,San Francisco Warriors,130,Cincinnati Royals,109,0,N
+1969-11-07,1970,Seattle SuperSonics,112,Baltimore Bullets,126,0,N
+1969-11-07,1970,San Francisco Warriors,111,Boston Celtics,110,0,N
+1969-11-07,1970,Philadelphia 76ers,128,Detroit Pistons,134,2,N
+1969-11-07,1970,Phoenix Suns,122,Los Angeles Lakers,120,0,N
+1969-11-07,1970,New York Knicks,129,San Diego Rockets,111,0,N
+1969-11-08,1970,San Francisco Warriors,93,Atlanta Hawks,106,0,N
+1969-11-08,1970,Boston Celtics,87,Chicago Bulls,103,0,N
+1969-11-08,1970,Baltimore Bullets,121,Cincinnati Royals,130,0,N
+1969-11-08,1970,Detroit Pistons,96,Milwaukee Bucks,100,0,N
+1969-11-08,1970,Seattle SuperSonics,125,Philadelphia 76ers,117,0,N
+1969-11-09,1970,New York Knicks,112,Los Angeles Lakers,102,0,N
+1969-11-09,1970,Baltimore Bullets,116,Milwaukee Bucks,105,0,N
+1969-11-09,1970,Detroit Pistons,129,Phoenix Suns,140,0,N
+1969-11-10,1970,Chicago Bulls,132,Atlanta Hawks,133,0,N
+1969-11-10,1970,San Francisco Warriors,99,San Diego Rockets,100,0,N
+1969-11-11,1970,Philadelphia 76ers,107,Atlanta Hawks,124,0,N
+1969-11-11,1970,Milwaukee Bucks,129,Boston Celtics,118,0,N
+1969-11-11,1970,Seattle SuperSonics,100,Chicago Bulls,106,0,N
+1969-11-11,1970,Detroit Pistons,110,Los Angeles Lakers,102,0,N
+1969-11-11,1970,New York Knicks,116,San Francisco Warriors,103,0,N
+1969-11-12,1970,Boston Celtics,107,Cincinnati Royals,116,0,N
+1969-11-12,1970,Detroit Pistons,119,San Diego Rockets,132,0,N
+1969-11-13,1970,Chicago Bulls,99,New York Knicks,114,0,N
+1969-11-13,1970,Philadelphia 76ers,124,Phoenix Suns,110,0,N
+1969-11-13,1970,Detroit Pistons,113,Seattle SuperSonics,117,0,N
+1969-11-14,1970,Baltimore Bullets,109,Boston Celtics,108,0,N
+1969-11-14,1970,Phoenix Suns,112,Los Angeles Lakers,127,0,N
+1969-11-14,1970,Chicago Bulls,100,Milwaukee Bucks,122,0,N
+1969-11-14,1970,Seattle SuperSonics,112,San Diego Rockets,148,0,N
+1969-11-14,1970,Atlanta Hawks,120,San Francisco Warriors,109,0,N
+1969-11-15,1970,Milwaukee Bucks,120,Baltimore Bullets,129,0,N
+1969-11-15,1970,San Francisco Warriors,105,Chicago Bulls,124,0,N
+1969-11-15,1970,Detroit Pistons,105,Cincinnati Royals,104,0,N
+1969-11-15,1970,Boston Celtics,98,New York Knicks,113,0,N
+1969-11-15,1970,Los Angeles Lakers,111,Phoenix Suns,114,0,N
+1969-11-15,1970,Atlanta Hawks,118,San Diego Rockets,133,0,N
+1969-11-15,1970,Philadelphia 76ers,136,Seattle SuperSonics,146,0,N
+1969-11-16,1970,Phoenix Suns,139,Atlanta Hawks,118,0,N
+1969-11-16,1970,Philadelphia 76ers,125,Los Angeles Lakers,138,0,N
+1969-11-16,1970,San Francisco Warriors,123,Milwaukee Bucks,129,1,N
+1969-11-18,1970,San Diego Rockets,138,Baltimore Bullets,142,1,N
+1969-11-18,1970,Phoenix Suns,119,Boston Celtics,120,1,N
+1969-11-18,1970,Philadelphia 76ers,119,Chicago Bulls,127,0,N
+1969-11-18,1970,Los Angeles Lakers,125,Detroit Pistons,114,1,N
+1969-11-18,1970,Cincinnati Royals,94,New York Knicks,112,0,N
+1969-11-18,1970,Milwaukee Bucks,110,San Francisco Warriors,127,0,N
+1969-11-19,1970,Phoenix Suns,118,Baltimore Bullets,133,0,N
+1969-11-19,1970,Chicago Bulls,106,Boston Celtics,122,0,N
+1969-11-19,1970,Los Angeles Lakers,116,Cincinnati Royals,103,0,N
+1969-11-19,1970,San Diego Rockets,125,Philadelphia 76ers,116,0,N
+1969-11-19,1970,Atlanta Hawks,137,Seattle SuperSonics,116,0,N
+1969-11-21,1970,Phoenix Suns,116,Baltimore Bullets,126,0,N
+1969-11-21,1970,Chicago Bulls,119,Cincinnati Royals,133,0,N
+1969-11-21,1970,Atlanta Hawks,118,Detroit Pistons,106,0,N
+1969-11-21,1970,San Diego Rockets,98,Los Angeles Lakers,100,0,N
+1969-11-21,1970,New York Knicks,98,Philadelphia 76ers,94,0,N
+1969-11-21,1970,Milwaukee Bucks,117,Seattle SuperSonics,115,0,N
+1969-11-21,1970,Boston Celtics,115,San Francisco Warriors,118,0,N
+1969-11-22,1970,Philadelphia 76ers,132,Atlanta Hawks,116,0,N
+1969-11-22,1970,Milwaukee Bucks,106,Chicago Bulls,125,0,N
+1969-11-22,1970,Phoenix Suns,114,New York Knicks,128,0,N
+1969-11-22,1970,Boston Celtics,116,San Diego Rockets,125,0,N
+1969-11-22,1970,Los Angeles Lakers,106,San Francisco Warriors,98,0,N
+1969-11-23,1970,Phoenix Suns,123,Cincinnati Royals,137,0,N
+1969-11-23,1970,Baltimore Bullets,129,Los Angeles Lakers,97,0,N
+1969-11-23,1970,Boston Celtics,125,Seattle SuperSonics,116,0,N
+1969-11-24,1970,Cincinnati Royals,129,Milwaukee Bucks,104,0,N
+1969-11-24,1970,Seattle SuperSonics,105,San Diego Rockets,112,0,N
+1969-11-25,1970,Milwaukee Bucks,130,Atlanta Hawks,115,0,N
+1969-11-25,1970,Detroit Pistons,104,Chicago Bulls,103,0,N
+1969-11-25,1970,Los Angeles Lakers,96,New York Knicks,103,0,N
+1969-11-25,1970,Baltimore Bullets,134,Phoenix Suns,124,0,N
+1969-11-25,1970,San Francisco Warriors,114,Seattle SuperSonics,106,0,N
+1969-11-26,1970,New York Knicks,138,Atlanta Hawks,108,0,N
+1969-11-26,1970,Philadelphia 76ers,135,Boston Celtics,114,0,N
+1969-11-26,1970,Chicago Bulls,129,Detroit Pistons,109,0,N
+1969-11-26,1970,Los Angeles Lakers,81,Milwaukee Bucks,100,0,N
+1969-11-26,1970,San Francisco Warriors,126,San Diego Rockets,125,1,N
+1969-11-27,1970,Baltimore Bullets,118,San Francisco Warriors,116,0,N
+1969-11-28,1970,Atlanta Hawks,130,Boston Celtics,105,0,N
+1969-11-28,1970,San Diego Rockets,119,Chicago Bulls,126,0,N
+1969-11-28,1970,New York Knicks,106,Cincinnati Royals,105,0,N
+1969-11-28,1970,San Francisco Warriors,114,Los Angeles Lakers,108,0,N
+1969-11-28,1970,Detroit Pistons,91,Philadelphia 76ers,110,0,N
+1969-11-29,1970,Cincinnati Royals,111,Atlanta Hawks,128,0,N
+1969-11-29,1970,Boston Celtics,121,Baltimore Bullets,106,0,N
+1969-11-29,1970,Philadelphia 76ers,129,Milwaukee Bucks,111,0,N
+1969-11-29,1970,Detroit Pistons,110,New York Knicks,98,0,N
+1969-11-29,1970,Phoenix Suns,129,Seattle SuperSonics,130,0,N
+1969-11-30,1970,Philadelphia 76ers,107,Cincinnati Royals,115,0,N
+1969-11-30,1970,Chicago Bulls,116,Los Angeles Lakers,114,1,N
+1969-11-30,1970,San Diego Rockets,99,Milwaukee Bucks,111,0,N
+1969-11-30,1970,Seattle SuperSonics,108,Phoenix Suns,116,0,N
+1969-12-02,1970,Cincinnati Royals,107,Baltimore Bullets,129,0,N
+1969-12-02,1970,Phoenix Suns,121,Chicago Bulls,110,0,N
+1969-12-02,1970,Seattle SuperSonics,109,New York Knicks,129,0,N
+1969-12-02,1970,Milwaukee Bucks,122,Philadelphia 76ers,114,0,N
+1969-12-02,1970,Detroit Pistons,109,San Francisco Warriors,116,0,N
+1969-12-03,1970,Baltimore Bullets,105,Boston Celtics,113,0,N
+1969-12-03,1970,Seattle SuperSonics,118,Cincinnati Royals,117,0,N
+1969-12-03,1970,Chicago Bulls,131,San Diego Rockets,146,0,N
+1969-12-03,1970,Detroit Pistons,106,San Francisco Warriors,102,0,N
+1969-12-04,1970,Seattle SuperSonics,111,Atlanta Hawks,119,0,N
+1969-12-04,1970,Los Angeles Lakers,109,Phoenix Suns,119,0,N
+1969-12-05,1970,New York Knicks,116,Baltimore Bullets,107,0,N
+1969-12-05,1970,Philadelphia 76ers,105,Boston Celtics,104,0,N
+1969-12-05,1970,Atlanta Hawks,127,Cincinnati Royals,156,0,N
+1969-12-05,1970,Detroit Pistons,109,Los Angeles Lakers,128,0,N
+1969-12-05,1970,Seattle SuperSonics,98,Milwaukee Bucks,131,0,N
+1969-12-05,1970,Chicago Bulls,113,Phoenix Suns,114,0,N
+1969-12-05,1970,San Diego Rockets,107,San Francisco Warriors,112,0,N
+1969-12-06,1970,Seattle SuperSonics,132,Baltimore Bullets,129,1,N
+1969-12-06,1970,Boston Celtics,114,Chicago Bulls,116,1,N
+1969-12-06,1970,Milwaukee Bucks,99,New York Knicks,124,0,N
+1969-12-06,1970,Cincinnati Royals,102,Philadelphia 76ers,120,0,N
+1969-12-06,1970,Los Angeles Lakers,128,San Diego Rockets,115,0,N
+1969-12-07,1970,Atlanta Hawks,104,Los Angeles Lakers,103,0,N
+1969-12-07,1970,Detroit Pistons,118,Phoenix Suns,113,0,N
+1969-12-08,1970,Chicago Bulls,122,Baltimore Bullets,125,0,N
+1969-12-08,1970,Detroit Pistons,111,San Diego Rockets,102,0,N
+1969-12-09,1970,San Francisco Warriors,115,Atlanta Hawks,117,0,N
+1969-12-09,1970,Phoenix Suns,102,Chicago Bulls,109,0,N
+1969-12-09,1970,Cincinnati Royals,103,New York Knicks,101,0,N
+1969-12-09,1970,Los Angeles Lakers,99,Philadelphia 76ers,123,0,N
+1969-12-09,1970,Detroit Pistons,104,Seattle SuperSonics,109,0,N
+1969-12-10,1970,Phoenix Suns,137,Baltimore Bullets,107,0,N
+1969-12-10,1970,Los Angeles Lakers,99,Boston Celtics,111,0,N
+1969-12-10,1970,Philadelphia 76ers,121,Cincinnati Royals,122,0,N
+1969-12-10,1970,New York Knicks,96,Milwaukee Bucks,95,0,N
+1969-12-10,1970,Atlanta Hawks,107,San Diego Rockets,126,0,N
+1969-12-11,1970,San Francisco Warriors,104,Chicago Bulls,110,0,N
+1969-12-11,1970,Cincinnati Royals,116,Detroit Pistons,119,1,N
+1969-12-11,1970,New York Knicks,105,Seattle SuperSonics,112,0,N
+1969-12-12,1970,Los Angeles Lakers,107,Atlanta Hawks,121,0,N
+1969-12-12,1970,San Diego Rockets,104,Boston Celtics,107,0,N
+1969-12-12,1970,Baltimore Bullets,123,Chicago Bulls,108,0,N
+1969-12-12,1970,San Francisco Warriors,109,Milwaukee Bucks,123,0,N
+1969-12-12,1970,Detroit Pistons,111,Philadelphia 76ers,125,0,N
+1969-12-12,1970,Phoenix Suns,130,Seattle SuperSonics,116,0,N
+1969-12-13,1970,Milwaukee Bucks,121,Atlanta Hawks,100,0,N
+1969-12-13,1970,San Diego Rockets,105,Baltimore Bullets,117,0,N
+1969-12-13,1970,San Francisco Warriors,104,Detroit Pistons,97,0,N
+1969-12-13,1970,Philadelphia 76ers,100,New York Knicks,93,0,N
+1969-12-13,1970,Cincinnati Royals,110,Phoenix Suns,126,0,N
+1969-12-14,1970,Seattle SuperSonics,127,Los Angeles Lakers,131,0,N
+1969-12-14,1970,San Diego Rockets,105,Milwaukee Bucks,118,0,N
+1969-12-14,1970,Chicago Bulls,121,Philadelphia 76ers,126,0,N
+1969-12-14,1970,Cincinnati Royals,137,Phoenix Suns,130,2,N
+1969-12-16,1970,Detroit Pistons,98,Boston Celtics,117,0,N
+1969-12-16,1970,San Diego Rockets,110,Chicago Bulls,101,0,N
+1969-12-16,1970,Atlanta Hawks,125,New York Knicks,124,1,N
+1969-12-16,1970,Philadelphia 76ers,141,Phoenix Suns,119,0,N
+1969-12-16,1970,Seattle SuperSonics,119,San Francisco Warriors,125,0,N
+1969-12-17,1970,Baltimore Bullets,138,Atlanta Hawks,133,0,N
+1969-12-17,1970,Milwaukee Bucks,124,Boston Celtics,106,0,N
+1969-12-17,1970,San Diego Rockets,114,Detroit Pistons,107,0,N
+1969-12-17,1970,Cincinnati Royals,104,Seattle SuperSonics,117,0,N
+1969-12-18,1970,Chicago Bulls,114,Atlanta Hawks,112,0,N
+1969-12-19,1970,Detroit Pistons,105,Baltimore Bullets,108,0,N
+1969-12-19,1970,New York Knicks,108,Chicago Bulls,99,0,N
+1969-12-19,1970,Cincinnati Royals,117,Los Angeles Lakers,109,0,N
+1969-12-19,1970,Boston Celtics,111,Milwaukee Bucks,115,0,N
+1969-12-19,1970,San Francisco Warriors,111,San Diego Rockets,119,0,N
+1969-12-19,1970,Philadelphia 76ers,116,Seattle SuperSonics,123,0,N
+1969-12-20,1970,Boston Celtics,106,Atlanta Hawks,122,0,N
+1969-12-20,1970,Phoenix Suns,113,Detroit Pistons,114,0,N
+1969-12-20,1970,Baltimore Bullets,91,New York Knicks,128,0,N
+1969-12-20,1970,Cincinnati Royals,111,San Diego Rockets,126,0,N
+1969-12-20,1970,Philadelphia 76ers,122,San Francisco Warriors,109,0,N
+1969-12-21,1970,Chicago Bulls,111,Atlanta Hawks,118,0,N
+1969-12-21,1970,Philadelphia 76ers,117,Los Angeles Lakers,133,0,N
+1969-12-21,1970,Phoenix Suns,111,Milwaukee Bucks,118,0,N
+1969-12-21,1970,San Diego Rockets,96,Seattle SuperSonics,112,0,N
+1969-12-23,1970,Chicago Bulls,112,Boston Celtics,117,0,N
+1969-12-23,1970,Los Angeles Lakers,109,San Diego Rockets,115,0,N
+1969-12-23,1970,Seattle SuperSonics,115,San Francisco Warriors,119,0,N
+1969-12-25,1970,Philadelphia 76ers,113,Baltimore Bullets,121,0,N
+1969-12-25,1970,San Francisco Warriors,124,Cincinnati Royals,120,1,N
+1969-12-25,1970,Detroit Pistons,111,New York Knicks,112,0,N
+1969-12-25,1970,Boston Celtics,116,Phoenix Suns,127,0,N
+1969-12-26,1970,Cincinnati Royals,130,Atlanta Hawks,110,0,N
+1969-12-26,1970,Milwaukee Bucks,114,Detroit Pistons,101,0,N
+1969-12-26,1970,New York Knicks,106,Los Angeles Lakers,114,0,N
+1969-12-26,1970,San Francisco Warriors,121,Philadelphia 76ers,141,0,N
+1969-12-26,1970,Boston Celtics,122,Seattle SuperSonics,112,0,N
+1969-12-27,1970,Philadelphia 76ers,107,Atlanta Hawks,112,0,N
+1969-12-27,1970,San Francisco Warriors,112,Baltimore Bullets,147,0,N
+1969-12-27,1970,Milwaukee Bucks,110,Cincinnati Royals,112,1,N
+1969-12-27,1970,Seattle SuperSonics,117,New York Knicks,119,0,N
+1969-12-27,1970,Boston Celtics,111,San Diego Rockets,110,0,N
+1969-12-28,1970,Boston Celtics,99,Los Angeles Lakers,109,0,N
+1969-12-28,1970,Baltimore Bullets,124,Milwaukee Bucks,133,0,N
+1969-12-28,1970,San Francisco Warriors,112,Philadelphia 76ers,138,0,N
+1969-12-28,1970,New York Knicks,135,Phoenix Suns,116,0,N
+1969-12-29,1970,San Diego Rockets,118,Atlanta Hawks,122,0,N
+1969-12-29,1970,Cincinnati Royals,110,Detroit Pistons,103,0,N
+1969-12-30,1970,Milwaukee Bucks,126,Baltimore Bullets,124,0,N
+1969-12-30,1970,San Diego Rockets,120,Cincinnati Royals,125,0,N
+1969-12-30,1970,Chicago Bulls,96,New York Knicks,116,0,N
+1969-12-30,1970,Phoenix Suns,121,Seattle SuperSonics,134,0,N
+1969-12-30,1970,Los Angeles Lakers,100,San Francisco Warriors,105,0,N
+1969-12-31,1970,Baltimore Bullets,111,Atlanta Hawks,122,0,N
+1969-12-31,1970,Detroit Pistons,121,Boston Celtics,124,0,N
+1969-12-31,1970,San Diego Rockets,126,Milwaukee Bucks,143,0,N
+1969-12-31,1970,Chicago Bulls,109,Philadelphia 76ers,129,0,N
+1970-01-01,1970,Chicago Bulls,114,Seattle SuperSonics,111,0,N
+1970-01-02,1970,Cincinnati Royals,116,Baltimore Bullets,118,0,N
+1970-01-02,1970,Boston Celtics,110,Detroit Pistons,92,0,N
+1970-01-02,1970,San Francisco Warriors,95,Los Angeles Lakers,125,0,N
+1970-01-02,1970,New York Knicks,105,Milwaukee Bucks,118,0,N
+1970-01-02,1970,Atlanta Hawks,117,Philadelphia 76ers,121,0,N
+1970-01-02,1970,San Diego Rockets,120,Phoenix Suns,121,0,N
+1970-01-03,1970,Cincinnati Royals,104,Atlanta Hawks,102,0,N
+1970-01-03,1970,Boston Celtics,111,New York Knicks,104,0,N
+1970-01-03,1970,Detroit Pistons,109,Phoenix Suns,114,0,N
+1970-01-03,1970,Los Angeles Lakers,126,Seattle SuperSonics,109,0,N
+1970-01-03,1970,Chicago Bulls,102,San Francisco Warriors,116,0,N
+1970-01-04,1970,Baltimore Bullets,128,Cincinnati Royals,129,0,N
+1970-01-04,1970,Seattle SuperSonics,110,Detroit Pistons,116,0,N
+1970-01-04,1970,Phoenix Suns,112,Los Angeles Lakers,120,0,N
+1970-01-04,1970,Atlanta Hawks,126,Milwaukee Bucks,125,0,N
+1970-01-04,1970,Boston Celtics,120,Philadelphia 76ers,130,0,N
+1970-01-04,1970,Chicago Bulls,121,San Diego Rockets,140,0,N
+1970-01-05,1970,Detroit Pistons,102,San Francisco Warriors,118,0,N
+1970-01-06,1970,Seattle SuperSonics,97,Atlanta Hawks,101,0,N
+1970-01-06,1970,New York Knicks,129,Baltimore Bullets,99,0,N
+1970-01-06,1970,Los Angeles Lakers,100,Chicago Bulls,105,0,N
+1970-01-06,1970,Phoenix Suns,124,Cincinnati Royals,128,0,N
+1970-01-07,1970,Detroit Pistons,116,Baltimore Bullets,121,0,N
+1970-01-07,1970,Atlanta Hawks,112,Boston Celtics,106,0,N
+1970-01-07,1970,Cincinnati Royals,119,Milwaukee Bucks,138,0,N
+1970-01-07,1970,New York Knicks,99,San Francisco Warriors,94,0,N
+1970-01-08,1970,Phoenix Suns,123,Chicago Bulls,152,0,N
+1970-01-08,1970,San Francisco Warriors,103,San Diego Rockets,120,0,N
+1970-01-09,1970,Los Angeles Lakers,127,Atlanta Hawks,112,0,N
+1970-01-09,1970,Baltimore Bullets,142,Boston Celtics,130,0,N
+1970-01-09,1970,Phoenix Suns,116,Milwaukee Bucks,120,0,N
+1970-01-09,1970,Seattle SuperSonics,135,Philadelphia 76ers,132,0,N
+1970-01-09,1970,New York Knicks,123,San Francisco Warriors,93,0,N
+1970-01-10,1970,Atlanta Hawks,109,Baltimore Bullets,130,0,N
+1970-01-10,1970,Los Angeles Lakers,112,Chicago Bulls,116,1,N
+1970-01-10,1970,Seattle SuperSonics,128,Detroit Pistons,129,0,N
+1970-01-10,1970,Boston Celtics,109,Milwaukee Bucks,124,0,N
+1970-01-10,1970,Phoenix Suns,119,Philadelphia 76ers,117,0,N
+1970-01-10,1970,New York Knicks,115,San Diego Rockets,123,0,N
+1970-01-11,1970,Phoenix Suns,125,Cincinnati Royals,118,0,N
+1970-01-12,1970,Detroit Pistons,113,Atlanta Hawks,100,0,N
+1970-01-12,1970,Philadelphia 76ers,113,Chicago Bulls,117,0,N
+1970-01-12,1970,Phoenix Suns,114,New York Knicks,130,0,N
+1970-01-13,1970,Seattle SuperSonics,102,Boston Celtics,111,0,N
+1970-01-13,1970,Milwaukee Bucks,112,Cincinnati Royals,92,0,N
+1970-01-13,1970,San Francisco Warriors,102,Detroit Pistons,115,0,N
+1970-01-13,1970,Atlanta Hawks,105,Philadelphia 76ers,136,0,N
+1970-01-13,1970,Baltimore Bullets,144,San Diego Rockets,126,0,N
+1970-01-14,1970,San Francisco Warriors,103,Atlanta Hawks,101,0,N
+1970-01-14,1970,Detroit Pistons,118,Boston Celtics,123,0,N
+1970-01-14,1970,Los Angeles Lakers,113,Milwaukee Bucks,115,0,N
+1970-01-14,1970,Seattle SuperSonics,122,Philadelphia 76ers,110,0,N
+1970-01-15,1970,Cincinnati Royals,120,Chicago Bulls,130,0,N
+1970-01-15,1970,Baltimore Bullets,115,Phoenix Suns,124,0,N
+1970-01-16,1970,Cincinnati Royals,100,Atlanta Hawks,117,0,N
+1970-01-16,1970,Los Angeles Lakers,108,Boston Celtics,103,0,N
+1970-01-16,1970,Seattle SuperSonics,119,Chicago Bulls,103,0,N
+1970-01-16,1970,New York Knicks,104,Detroit Pistons,102,0,N
+1970-01-16,1970,San Francisco Warriors,105,Philadelphia 76ers,127,0,N
+1970-01-17,1970,Chicago Bulls,132,Milwaukee Bucks,130,1,N
+1970-01-17,1970,Seattle SuperSonics,134,Phoenix Suns,131,0,N
+1970-01-17,1970,Baltimore Bullets,131,San Diego Rockets,115,0,N
+1970-01-18,1970,Chicago Bulls,107,Atlanta Hawks,125,0,N
+1970-01-18,1970,New York Knicks,102,Boston Celtics,109,0,N
+1970-01-18,1970,Los Angeles Lakers,100,Detroit Pistons,106,0,N
+1970-01-18,1970,San Francisco Warriors,107,Milwaukee Bucks,123,0,N
+1970-01-18,1970,Cincinnati Royals,116,Philadelphia 76ers,141,0,N
+1970-01-18,1970,Baltimore Bullets,133,Phoenix Suns,134,0,N
+1970-01-22,1970,Detroit Pistons,115,Baltimore Bullets,119,0,N
+1970-01-22,1970,Boston Celtics,104,Cincinnati Royals,111,0,N
+1970-01-22,1970,San Francisco Warriors,108,Los Angeles Lakers,122,0,N
+1970-01-22,1970,San Diego Rockets,106,Milwaukee Bucks,115,0,N
+1970-01-22,1970,Seattle SuperSonics,120,Phoenix Suns,129,0,N
+1970-01-23,1970,Detroit Pistons,109,Boston Celtics,105,1,N
+1970-01-23,1970,New York Knicks,120,Chicago Bulls,117,0,N
+1970-01-23,1970,Seattle SuperSonics,100,Los Angeles Lakers,128,0,N
+1970-01-23,1970,Baltimore Bullets,118,Philadelphia 76ers,133,0,N
+1970-01-23,1970,San Francisco Warriors,138,Phoenix Suns,132,0,N
+1970-01-24,1970,Philadelphia 76ers,111,Baltimore Bullets,112,0,N
+1970-01-24,1970,Chicago Bulls,122,Detroit Pistons,128,0,N
+1970-01-24,1970,Cincinnati Royals,109,Milwaukee Bucks,125,0,N
+1970-01-24,1970,San Diego Rockets,114,New York Knicks,127,0,N
+1970-01-24,1970,Los Angeles Lakers,122,Seattle SuperSonics,121,1,N
+1970-01-24,1970,Phoenix Suns,109,San Francisco Warriors,99,0,N
+1970-01-25,1970,Milwaukee Bucks,131,Atlanta Hawks,116,0,N
+1970-01-25,1970,New York Knicks,102,Boston Celtics,96,0,N
+1970-01-25,1970,Detroit Pistons,111,Chicago Bulls,120,0,N
+1970-01-25,1970,Baltimore Bullets,122,Cincinnati Royals,129,0,N
+1970-01-25,1970,Phoenix Suns,106,Los Angeles Lakers,118,0,N
+1970-01-25,1970,San Diego Rockets,131,Philadelphia 76ers,159,0,N
+1970-01-26,1970,Cincinnati Royals,116,Chicago Bulls,115,0,N
+1970-01-26,1970,Philadelphia 76ers,122,Milwaukee Bucks,103,0,N
+1970-01-26,1970,Atlanta Hawks,131,San Francisco Warriors,104,0,N
+1970-01-27,1970,San Diego Rockets,109,Los Angeles Lakers,124,0,N
+1970-01-27,1970,Boston Celtics,100,New York Knicks,133,0,N
+1970-01-28,1970,Chicago Bulls,115,Baltimore Bullets,123,0,N
+1970-01-28,1970,Philadelphia 76ers,100,Boston Celtics,112,0,N
+1970-01-28,1970,Milwaukee Bucks,126,Cincinnati Royals,114,0,N
+1970-01-28,1970,Los Angeles Lakers,113,San Diego Rockets,108,0,N
+1970-01-28,1970,Atlanta Hawks,119,Seattle SuperSonics,120,0,N
+1970-01-29,1970,Detroit Pistons,106,New York Knicks,127,0,N
+1970-01-29,1970,Atlanta Hawks,102,Phoenix Suns,111,0,N
+1970-01-29,1970,San Francisco Warriors,101,Seattle SuperSonics,105,0,N
+1970-01-30,1970,Cincinnati Royals,103,Boston Celtics,108,0,N
+1970-01-30,1970,Milwaukee Bucks,121,Chicago Bulls,105,0,N
+1970-01-30,1970,Baltimore Bullets,117,Detroit Pistons,129,0,N
+1970-01-30,1970,Atlanta Hawks,87,Los Angeles Lakers,102,0,N
+1970-01-30,1970,New York Knicks,104,Philadelphia 76ers,100,0,N
+1970-01-30,1970,Seattle SuperSonics,117,San Diego Rockets,119,1,N
+1970-01-30,1970,Phoenix Suns,116,San Francisco Warriors,125,0,N
+1970-01-31,1970,Boston Celtics,117,Baltimore Bullets,120,0,N
+1970-01-31,1970,Detroit Pistons,115,Cincinnati Royals,117,0,N
+1970-01-31,1970,Chicago Bulls,104,New York Knicks,123,0,N
+1970-01-31,1970,Milwaukee Bucks,107,Phoenix Suns,106,0,N
+1970-02-01,1970,Baltimore Bullets,133,Atlanta Hawks,124,0,N
+1970-02-01,1970,San Francisco Warriors,123,Boston Celtics,105,0,N
+1970-02-01,1970,Cincinnati Royals,108,Chicago Bulls,115,0,N
+1970-02-01,1970,New York Knicks,117,Detroit Pistons,111,0,N
+1970-02-01,1970,Los Angeles Lakers,113,Philadelphia 76ers,112,0,N
+1970-02-01,1970,Phoenix Suns,105,San Diego Rockets,103,0,N
+1970-02-01,1970,Milwaukee Bucks,116,Seattle SuperSonics,118,0,N
+1970-02-02,1970,Detroit Pistons,121,Atlanta Hawks,125,0,N
+1970-02-03,1970,Seattle SuperSonics,120,Baltimore Bullets,115,0,N
+1970-02-03,1970,Chicago Bulls,85,Boston Celtics,93,0,N
+1970-02-03,1970,Los Angeles Lakers,124,Cincinnati Royals,114,0,N
+1970-02-03,1970,San Francisco Warriors,98,New York Knicks,118,0,N
+1970-02-03,1970,Philadelphia 76ers,123,Phoenix Suns,131,0,N
+1970-02-04,1970,New York Knicks,96,Atlanta Hawks,111,0,N
+1970-02-04,1970,Seattle SuperSonics,121,Cincinnati Royals,115,0,N
+1970-02-04,1970,Los Angeles Lakers,109,Detroit Pistons,125,0,N
+1970-02-04,1970,Milwaukee Bucks,141,San Diego Rockets,123,0,N
+1970-02-05,1970,San Francisco Warriors,127,Chicago Bulls,105,0,N
+1970-02-06,1970,Chicago Bulls,93,Atlanta Hawks,104,0,N
+1970-02-06,1970,Detroit Pistons,148,Baltimore Bullets,153,2,N
+1970-02-06,1970,Seattle SuperSonics,117,Boston Celtics,127,0,N
+1970-02-06,1970,New York Knicks,135,Cincinnati Royals,92,0,N
+1970-02-06,1970,Milwaukee Bucks,118,Los Angeles Lakers,105,0,N
+1970-02-06,1970,San Francisco Warriors,117,Phoenix Suns,122,0,N
+1970-02-06,1970,Philadelphia 76ers,129,San Diego Rockets,124,0,N
+1970-02-07,1970,Seattle SuperSonics,109,Detroit Pistons,113,0,N
+1970-02-07,1970,Cincinnati Royals,114,New York Knicks,121,0,N
+1970-02-07,1970,Los Angeles Lakers,117,Phoenix Suns,121,1,N
+1970-02-07,1970,Philadelphia 76ers,115,San Francisco Warriors,111,0,N
+1970-02-08,1970,Milwaukee Bucks,106,Baltimore Bullets,120,0,N
+1970-02-08,1970,Cincinnati Royals,117,Boston Celtics,130,0,N
+1970-02-08,1970,Atlanta Hawks,107,Chicago Bulls,117,0,N
+1970-02-08,1970,San Diego Rockets,113,Los Angeles Lakers,125,0,N
+1970-02-08,1970,Philadelphia 76ers,117,Seattle SuperSonics,118,0,N
+1970-02-10,1970,Phoenix Suns,122,Boston Celtics,117,0,N
+1970-02-10,1970,Cincinnati Royals,117,Detroit Pistons,115,0,N
+1970-02-10,1970,Baltimore Bullets,111,Los Angeles Lakers,106,0,N
+1970-02-10,1970,Milwaukee Bucks,139,Philadelphia 76ers,131,0,N
+1970-02-10,1970,Atlanta Hawks,104,San Francisco Warriors,113,0,N
+1970-02-11,1970,Detroit Pistons,113,Cincinnati Royals,124,0,N
+1970-02-11,1970,Phoenix Suns,120,Milwaukee Bucks,127,0,N
+1970-02-11,1970,Boston Celtics,125,New York Knicks,118,1,N
+1970-02-11,1970,Atlanta Hawks,155,San Diego Rockets,131,0,N
+1970-02-11,1970,Baltimore Bullets,117,Seattle SuperSonics,119,0,N
+1970-02-11,1970,Los Angeles Lakers,125,San Francisco Warriors,115,0,N
+1970-02-12,1970,Phoenix Suns,121,Chicago Bulls,122,0,N
+1970-02-12,1970,Atlanta Hawks,114,Los Angeles Lakers,136,0,N
+1970-02-13,1970,Phoenix Suns,120,Detroit Pistons,132,0,N
+1970-02-13,1970,New York Knicks,151,Philadelphia 76ers,106,0,N
+1970-02-13,1970,Baltimore Bullets,138,Seattle SuperSonics,141,0,N
+1970-02-13,1970,Cincinnati Royals,128,San Francisco Warriors,110,0,N
+1970-02-14,1970,Los Angeles Lakers,113,Chicago Bulls,116,0,N
+1970-02-14,1970,Boston Celtics,117,Milwaukee Bucks,127,0,N
+1970-02-14,1970,Philadelphia 76ers,114,New York Knicks,116,0,N
+1970-02-14,1970,San Francisco Warriors,123,San Diego Rockets,141,0,N
+1970-02-15,1970,Boston Celtics,125,Atlanta Hawks,146,0,N
+1970-02-15,1970,Chicago Bulls,119,Detroit Pistons,126,0,N
+1970-02-15,1970,Los Angeles Lakers,98,Milwaukee Bucks,96,0,N
+1970-02-15,1970,Phoenix Suns,125,Philadelphia 76ers,159,0,N
+1970-02-15,1970,Cincinnati Royals,123,San Diego Rockets,150,0,N
+1970-02-16,1970,San Diego Rockets,109,Baltimore Bullets,140,0,N
+1970-02-16,1970,San Francisco Warriors,114,Boston Celtics,117,0,N
+1970-02-17,1970,Los Angeles Lakers,93,New York Knicks,114,0,N
+1970-02-17,1970,Phoenix Suns,129,Seattle SuperSonics,118,0,N
+1970-02-18,1970,Cincinnati Royals,125,Atlanta Hawks,139,1,N
+1970-02-18,1970,Los Angeles Lakers,103,Baltimore Bullets,117,0,N
+1970-02-18,1970,Boston Celtics,116,Phoenix Suns,113,0,N
+1970-02-18,1970,Seattle SuperSonics,119,San Diego Rockets,122,0,N
+1970-02-18,1970,Milwaukee Bucks,109,San Francisco Warriors,102,0,N
+1970-02-19,1970,Philadelphia 76ers,133,Detroit Pistons,114,0,N
+1970-02-20,1970,Detroit Pistons,122,Baltimore Bullets,119,0,N
+1970-02-20,1970,Philadelphia 76ers,119,Chicago Bulls,126,0,N
+1970-02-20,1970,Milwaukee Bucks,114,Los Angeles Lakers,119,0,N
+1970-02-20,1970,San Diego Rockets,117,Phoenix Suns,126,0,N
+1970-02-20,1970,Boston Celtics,127,Seattle SuperSonics,125,0,N
+1970-02-21,1970,Chicago Bulls,119,Cincinnati Royals,127,0,N
+1970-02-21,1970,Philadelphia 76ers,112,Detroit Pistons,110,0,N
+1970-02-21,1970,Seattle SuperSonics,127,Milwaukee Bucks,140,0,N
+1970-02-21,1970,Atlanta Hawks,122,New York Knicks,106,0,N
+1970-02-21,1970,Los Angeles Lakers,106,San Diego Rockets,121,0,N
+1970-02-21,1970,Boston Celtics,111,San Francisco Warriors,116,0,N
+1970-02-22,1970,Detroit Pistons,116,Atlanta Hawks,114,0,N
+1970-02-22,1970,New York Knicks,104,Baltimore Bullets,110,0,N
+1970-02-22,1970,Philadelphia 76ers,116,Cincinnati Royals,136,0,N
+1970-02-22,1970,Boston Celtics,96,Los Angeles Lakers,108,0,N
+1970-02-22,1970,Milwaukee Bucks,144,Phoenix Suns,124,0,N
+1970-02-22,1970,San Francisco Warriors,127,Seattle SuperSonics,131,0,N
+1970-02-23,1970,San Diego Rockets,125,Chicago Bulls,127,0,N
+1970-02-24,1970,San Diego Rockets,118,Baltimore Bullets,128,0,N
+1970-02-24,1970,Milwaukee Bucks,111,Detroit Pistons,136,0,N
+1970-02-24,1970,Atlanta Hawks,118,Los Angeles Lakers,106,0,N
+1970-02-24,1970,Phoenix Suns,105,New York Knicks,121,0,N
+1970-02-24,1970,San Francisco Warriors,122,Seattle SuperSonics,130,0,N
+1970-02-25,1970,San Diego Rockets,124,Boston Celtics,147,0,N
+1970-02-25,1970,Baltimore Bullets,113,Milwaukee Bucks,115,0,N
+1970-02-25,1970,Detroit Pistons,105,Philadelphia 76ers,122,0,N
+1970-02-25,1970,Atlanta Hawks,112,Seattle SuperSonics,120,0,N
+1970-02-25,1970,Chicago Bulls,112,San Francisco Warriors,104,0,N
+1970-02-26,1970,Phoenix Suns,131,Detroit Pistons,123,0,N
+1970-02-27,1970,Atlanta Hawks,107,Baltimore Bullets,114,0,N
+1970-02-27,1970,Phoenix Suns,134,Boston Celtics,125,0,N
+1970-02-27,1970,Chicago Bulls,101,Los Angeles Lakers,111,0,N
+1970-02-27,1970,Detroit Pistons,113,Milwaukee Bucks,131,0,N
+1970-02-27,1970,San Diego Rockets,111,Philadelphia 76ers,125,0,N
+1970-02-27,1970,Seattle SuperSonics,107,San Francisco Warriors,99,0,N
+1970-02-28,1970,Baltimore Bullets,101,New York Knicks,115,0,N
+1970-02-28,1970,Chicago Bulls,104,Seattle SuperSonics,140,0,N
+1970-03-01,1970,Los Angeles Lakers,120,Boston Celtics,114,0,N
+1970-03-01,1970,Phoenix Suns,109,Atlanta Hawks,98,0,N
+1970-03-01,1970,Chicago Bulls,122,San Diego Rockets,135,0,N
+1970-03-01,1970,Baltimore Bullets,99,Philadelphia 76ers,104,0,N
+1970-03-01,1970,San Francisco Warriors,99,Detroit Pistons,116,0,N
+1970-03-01,1970,Cincinnati Royals,114,Milwaukee Bucks,120,0,N
+1970-03-02,1970,Cincinnati Royals,110,Baltimore Bullets,118,0,N
+1970-03-03,1970,Los Angeles Lakers,93,Atlanta Hawks,101,0,N
+1970-03-03,1970,Philadelphia 76ers,116,Milwaukee Bucks,127,0,N
+1970-03-03,1970,San Francisco Warriors,100,New York Knicks,115,0,N
+1970-03-03,1970,Chicago Bulls,123,Phoenix Suns,111,0,N
+1970-03-03,1970,San Diego Rockets,114,Seattle SuperSonics,126,0,N
+1970-03-04,1970,Los Angeles Lakers,94,Baltimore Bullets,91,0,N
+1970-03-04,1970,San Francisco Warriors,110,Boston Celtics,115,0,N
+1970-03-04,1970,Cincinnati Royals,127,San Diego Rockets,125,0,N
+1970-03-05,1970,Atlanta Hawks,126,Milwaukee Bucks,117,0,N
+1970-03-06,1970,Milwaukee Bucks,121,Detroit Pistons,118,0,N
+1970-03-06,1970,Phoenix Suns,97,San Francisco Warriors,107,0,N
+1970-03-06,1970,Cincinnati Royals,122,Seattle SuperSonics,126,0,N
+1970-03-06,1970,Boston Celtics,134,Philadelphia 76ers,150,0,N
+1970-03-06,1970,San Diego Rockets,103,New York Knicks,107,0,N
+1970-03-06,1970,Baltimore Bullets,105,Los Angeles Lakers,100,0,N
+1970-03-07,1970,San Diego Rockets,126,Detroit Pistons,134,0,N
+1970-03-07,1970,New York Knicks,111,Philadelphia 76ers,104,0,N
+1970-03-07,1970,Cincinnati Royals,121,San Francisco Warriors,119,0,N
+1970-03-08,1970,Milwaukee Bucks,138,Boston Celtics,134,0,N
+1970-03-08,1970,Baltimore Bullets,109,Seattle SuperSonics,106,0,N
+1970-03-08,1970,Atlanta Hawks,119,Phoenix Suns,130,0,N
+1970-03-08,1970,Cincinnati Royals,116,Los Angeles Lakers,144,0,N
+1970-03-08,1970,Philadelphia 76ers,133,New York Knicks,116,0,N
+1970-03-09,1970,Seattle SuperSonics,105,Milwaukee Bucks,124,0,N
+1970-03-09,1970,San Diego Rockets,112,Philadelphia 76ers,131,0,N
+1970-03-10,1970,Milwaukee Bucks,127,Atlanta Hawks,140,0,N
+1970-03-10,1970,San Diego Rockets,106,Chicago Bulls,111,0,N
+1970-03-10,1970,Boston Celtics,112,Detroit Pistons,115,0,N
+1970-03-10,1970,San Francisco Warriors,104,Los Angeles Lakers,106,0,N
+1970-03-10,1970,Seattle SuperSonics,99,New York Knicks,117,0,N
+1970-03-11,1970,San Diego Rockets,121,Atlanta Hawks,122,0,N
+1970-03-11,1970,Baltimore Bullets,112,San Francisco Warriors,115,2,N
+1970-03-11,1970,Boston Celtics,144,Cincinnati Royals,127,0,N
+1970-03-12,1970,San Diego Rockets,151,Cincinnati Royals,165,0,N
+1970-03-13,1970,Boston Celtics,113,Chicago Bulls,134,0,N
+1970-03-13,1970,Philadelphia 76ers,117,Los Angeles Lakers,128,0,N
+1970-03-13,1970,Seattle SuperSonics,115,New York Knicks,103,0,N
+1970-03-13,1970,Baltimore Bullets,114,San Francisco Warriors,108,0,N
+1970-03-14,1970,Detroit Pistons,96,Chicago Bulls,111,0,N
+1970-03-14,1970,New York Knicks,119,San Diego Rockets,103,0,N
+1970-03-15,1970,Phoenix Suns,111,Atlanta Hawks,126,0,N
+1970-03-15,1970,Philadelphia 76ers,128,San Diego Rockets,137,0,N
+1970-03-15,1970,New York Knicks,101,Los Angeles Lakers,106,0,N
+1970-03-15,1970,Milwaukee Bucks,107,Chicago Bulls,130,0,N
+1970-03-15,1970,Baltimore Bullets,130,Boston Celtics,127,0,N
+1970-03-15,1970,Seattle SuperSonics,113,Cincinnati Royals,116,0,N
+1970-03-16,1970,Cincinnati Royals,140,Chicago Bulls,142,1,N
+1970-03-17,1970,Boston Celtics,117,San Diego Rockets,125,0,N
+1970-03-17,1970,San Francisco Warriors,121,Phoenix Suns,133,0,N
+1970-03-17,1970,Atlanta Hawks,128,Philadelphia 76ers,125,0,N
+1970-03-17,1970,New York Knicks,122,Detroit Pistons,106,0,N
+1970-03-17,1970,Seattle SuperSonics,109,Chicago Bulls,102,0,N
+1970-03-18,1970,Philadelphia 76ers,119,Baltimore Bullets,113,0,N
+1970-03-18,1970,Boston Celtics,137,Los Angeles Lakers,122,0,N
+1970-03-18,1970,Milwaukee Bucks,116,New York Knicks,108,0,N
+1970-03-19,1970,Boston Celtics,123,Phoenix Suns,127,0,N
+1970-03-19,1970,Detroit Pistons,118,San Diego Rockets,132,0,N
+1970-03-20,1970,San Diego Rockets,104,Phoenix Suns,127,0,N
+1970-03-20,1970,Milwaukee Bucks,138,Philadelphia 76ers,112,0,N
+1970-03-20,1970,Detroit Pistons,111,Los Angeles Lakers,117,0,N
+1970-03-20,1970,Baltimore Bullets,138,Chicago Bulls,131,0,N
+1970-03-20,1970,Seattle SuperSonics,123,Boston Celtics,119,0,N
+1970-03-20,1970,New York Knicks,102,Atlanta Hawks,110,0,N
+1970-03-20,1970,San Francisco Warriors,118,Cincinnati Royals,111,0,N
+1970-03-21,1970,San Francisco Warriors,123,Baltimore Bullets,127,0,N
+1970-03-21,1970,Cincinnati Royals,136,New York Knicks,120,0,N
+1970-03-22,1970,New York Knicks,112,Boston Celtics,115,0,N
+1970-03-22,1970,Milwaukee Bucks,115,Chicago Bulls,129,0,N
+1970-03-22,1970,Atlanta Hawks,130,Detroit Pistons,126,0,N
+1970-03-22,1970,Seattle SuperSonics,118,Los Angeles Lakers,121,0,N
+1970-03-22,1970,San Francisco Warriors,112,Philadelphia 76ers,132,0,N
+1970-03-22,1970,Phoenix Suns,130,San Diego Rockets,129,0,N
+1970-03-25,1970,Chicago Bulls,111,Atlanta Hawks,129,0,Y
+1970-03-25,1970,Philadelphia 76ers,118,Milwaukee Bucks,125,0,Y
+1970-03-25,1970,Phoenix Suns,112,Los Angeles Lakers,128,0,Y
+1970-03-26,1970,Baltimore Bullets,117,New York Knicks,120,2,Y
+1970-03-27,1970,New York Knicks,106,Baltimore Bullets,99,0,Y
+1970-03-27,1970,Philadelphia 76ers,112,Milwaukee Bucks,105,0,Y
+1970-03-28,1970,Chicago Bulls,104,Atlanta Hawks,124,0,Y
+1970-03-29,1970,Phoenix Suns,114,Los Angeles Lakers,101,0,Y
+1970-03-29,1970,Baltimore Bullets,127,New York Knicks,113,0,Y
+1970-03-30,1970,Milwaukee Bucks,156,Philadelphia 76ers,120,0,Y
+1970-03-31,1970,New York Knicks,92,Baltimore Bullets,102,0,Y
+1970-03-31,1970,Atlanta Hawks,106,Chicago Bulls,101,0,Y
+1970-04-01,1970,Milwaukee Bucks,118,Philadelphia 76ers,111,0,Y
+1970-04-02,1970,Baltimore Bullets,80,New York Knicks,101,0,Y
+1970-04-02,1970,Los Angeles Lakers,98,Phoenix Suns,112,0,Y
+1970-04-03,1970,Atlanta Hawks,120,Chicago Bulls,131,0,Y
+1970-04-03,1970,Philadelphia 76ers,106,Milwaukee Bucks,115,0,Y
+1970-04-04,1970,Los Angeles Lakers,102,Phoenix Suns,112,0,Y
+1970-04-05,1970,Chicago Bulls,107,Atlanta Hawks,113,0,Y
+1970-04-05,1970,New York Knicks,87,Baltimore Bullets,96,0,Y
+1970-04-05,1970,Phoenix Suns,121,Los Angeles Lakers,138,0,Y
+1970-04-06,1970,Baltimore Bullets,114,New York Knicks,127,0,Y
+1970-04-07,1970,Los Angeles Lakers,104,Phoenix Suns,93,0,Y
+1970-04-09,1970,Phoenix Suns,94,Los Angeles Lakers,129,0,Y
+1970-04-11,1970,Milwaukee Bucks,102,New York Knicks,110,0,Y
+1970-04-12,1970,Los Angeles Lakers,119,Atlanta Hawks,115,0,Y
+1970-04-13,1970,Milwaukee Bucks,111,New York Knicks,112,0,Y
+1970-04-14,1970,Los Angeles Lakers,105,Atlanta Hawks,94,0,Y
+1970-04-17,1970,Atlanta Hawks,114,Los Angeles Lakers,115,1,Y
+1970-04-17,1970,New York Knicks,96,Milwaukee Bucks,101,0,Y
+1970-04-19,1970,Atlanta Hawks,114,Los Angeles Lakers,133,0,Y
+1970-04-19,1970,New York Knicks,117,Milwaukee Bucks,105,0,Y
+1970-04-20,1970,Milwaukee Bucks,96,New York Knicks,132,0,Y
+1970-04-24,1970,Los Angeles Lakers,112,New York Knicks,124,0,Y
+1970-04-27,1970,Los Angeles Lakers,105,New York Knicks,103,0,Y
+1970-04-29,1970,New York Knicks,111,Los Angeles Lakers,108,1,Y
+1970-05-01,1970,New York Knicks,115,Los Angeles Lakers,121,1,Y
+1970-05-04,1970,Los Angeles Lakers,100,New York Knicks,107,0,Y
+1970-05-06,1970,New York Knicks,113,Los Angeles Lakers,135,0,Y
+1970-05-08,1970,Los Angeles Lakers,99,New York Knicks,113,0,Y

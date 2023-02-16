@@ -1,0 +1,1258 @@
+DATE,SEASON,VISITOR_TEAM,VISITOR_SCORE,HOME_TEAM,HOME_SCORE,OTS,PLAYOFF
+1995-11-03,1996,Indiana Pacers,111,Atlanta Hawks,106,0,N
+1995-11-03,1996,Milwaukee Bucks,101,Boston Celtics,100,0,N
+1995-11-03,1996,Charlotte Hornets,91,Chicago Bulls,105,0,N
+1995-11-03,1996,New York Knicks,106,Detroit Pistons,100,0,N
+1995-11-03,1996,Golden State Warriors,92,Houston Rockets,110,0,N
+1995-11-03,1996,Phoenix Suns,106,Los Angeles Clippers,112,0,N
+1995-11-03,1996,Denver Nuggets,96,Los Angeles Lakers,98,0,N
+1995-11-03,1996,Cleveland Cavaliers,88,Orlando Magic,99,0,N
+1995-11-03,1996,Washington Bullets,103,Philadelphia 76ers,105,0,N
+1995-11-03,1996,Vancouver Grizzlies,92,Portland Trail Blazers,80,0,N
+1995-11-03,1996,Minnesota Timberwolves,86,Sacramento Kings,95,0,N
+1995-11-03,1996,Dallas Mavericks,103,San Antonio Spurs,97,0,N
+1995-11-03,1996,New Jersey Nets,79,Toronto Raptors,94,0,N
+1995-11-03,1996,Seattle SuperSonics,94,Utah Jazz,112,0,N
+1995-11-04,1996,Orlando Magic,91,Atlanta Hawks,124,0,N
+1995-11-04,1996,Philadelphia 76ers,108,Charlotte Hornets,119,0,N
+1995-11-04,1996,Boston Celtics,85,Chicago Bulls,107,0,N
+1995-11-04,1996,Golden State Warriors,84,Dallas Mavericks,99,0,N
+1995-11-04,1996,San Antonio Spurs,116,Denver Nuggets,108,0,N
+1995-11-04,1996,Toronto Raptors,89,Indiana Pacers,97,0,N
+1995-11-04,1996,Cleveland Cavaliers,71,Miami Heat,85,0,N
+1995-11-04,1996,New York Knicks,84,Milwaukee Bucks,71,0,N
+1995-11-04,1996,Los Angeles Lakers,89,Seattle SuperSonics,103,0,N
+1995-11-04,1996,Detroit Pistons,89,Washington Bullets,100,0,N
+1995-11-05,1996,Houston Rockets,106,Phoenix Suns,104,0,N
+1995-11-05,1996,Utah Jazz,105,Portland Trail Blazers,109,0,N
+1995-11-05,1996,Los Angeles Clippers,82,Sacramento Kings,99,0,N
+1995-11-05,1996,Minnesota Timberwolves,98,Vancouver Grizzlies,100,1,N
+1995-11-06,1996,Washington Bullets,95,Orlando Magic,105,0,N
+1995-11-06,1996,Atlanta Hawks,96,Utah Jazz,105,0,N
+1995-11-07,1996,Detroit Pistons,96,Charlotte Hornets,108,0,N
+1995-11-07,1996,Toronto Raptors,108,Chicago Bulls,117,0,N
+1995-11-07,1996,Indiana Pacers,104,Cleveland Cavaliers,101,0,N
+1995-11-07,1996,Vancouver Grizzlies,88,Dallas Mavericks,99,0,N
+1995-11-07,1996,Denver Nuggets,93,Golden State Warriors,98,0,N
+1995-11-07,1996,Milwaukee Bucks,89,Houston Rockets,106,0,N
+1995-11-07,1996,Los Angeles Lakers,92,Minnesota Timberwolves,93,0,N
+1995-11-07,1996,Portland Trail Blazers,84,New Jersey Nets,104,0,N
+1995-11-07,1996,Phoenix Suns,102,New York Knicks,94,0,N
+1995-11-07,1996,Sacramento Kings,109,Philadelphia 76ers,106,0,N
+1995-11-07,1996,Los Angeles Clippers,108,Seattle SuperSonics,127,0,N
+1995-11-08,1996,Phoenix Suns,109,Boston Celtics,113,0,N
+1995-11-08,1996,Seattle SuperSonics,122,Denver Nuggets,117,0,N
+1995-11-08,1996,Portland Trail Blazers,100,Detroit Pistons,107,1,N
+1995-11-08,1996,Atlanta Hawks,100,Los Angeles Clippers,92,0,N
+1995-11-08,1996,Houston Rockets,82,Miami Heat,89,0,N
+1995-11-08,1996,New Jersey Nets,122,Orlando Magic,130,3,N
+1995-11-08,1996,Vancouver Grizzlies,62,San Antonio Spurs,111,0,N
+1995-11-08,1996,Sacramento Kings,109,Toronto Raptors,90,0,N
+1995-11-08,1996,Los Angeles Lakers,98,Utah Jazz,108,0,N
+1995-11-08,1996,Charlotte Hornets,96,Washington Bullets,110,0,N
+1995-11-09,1996,Chicago Bulls,106,Cleveland Cavaliers,88,0,N
+1995-11-09,1996,Milwaukee Bucks,94,Dallas Mavericks,104,0,N
+1995-11-09,1996,Atlanta Hawks,125,Golden State Warriors,121,0,N
+1995-11-09,1996,Indiana Pacers,95,New York Knicks,103,0,N
+1995-11-10,1996,Orlando Magic,110,Boston Celtics,94,0,N
+1995-11-10,1996,Cleveland Cavaliers,80,Detroit Pistons,100,0,N
+1995-11-10,1996,Sacramento Kings,119,Indiana Pacers,95,0,N
+1995-11-10,1996,Seattle SuperSonics,97,Los Angeles Lakers,100,0,N
+1995-11-10,1996,New Jersey Nets,80,Miami Heat,106,0,N
+1995-11-10,1996,Portland Trail Blazers,108,Minnesota Timberwolves,102,0,N
+1995-11-10,1996,Charlotte Hornets,90,Philadelphia 76ers,104,0,N
+1995-11-10,1996,Milwaukee Bucks,90,San Antonio Spurs,104,0,N
+1995-11-10,1996,Phoenix Suns,112,Toronto Raptors,108,0,N
+1995-11-10,1996,Denver Nuggets,86,Utah Jazz,109,0,N
+1995-11-10,1996,Los Angeles Clippers,98,Vancouver Grizzlies,91,0,N
+1995-11-10,1996,New York Knicks,110,Washington Bullets,109,0,N
+1995-11-11,1996,Toronto Raptors,117,Charlotte Hornets,123,1,N
+1995-11-11,1996,Portland Trail Blazers,106,Chicago Bulls,110,0,N
+1995-11-11,1996,Atlanta Hawks,113,Dallas Mavericks,100,0,N
+1995-11-11,1996,Los Angeles Lakers,105,Golden State Warriors,123,0,N
+1995-11-11,1996,Minnesota Timberwolves,97,Houston Rockets,119,0,N
+1995-11-11,1996,Sacramento Kings,84,New Jersey Nets,86,0,N
+1995-11-11,1996,Miami Heat,93,Orlando Magic,94,0,N
+1995-11-11,1996,Vancouver Grizzlies,81,Seattle SuperSonics,117,0,N
+1995-11-12,1996,San Antonio Spurs,84,Cleveland Cavaliers,81,0,N
+1995-11-12,1996,Denver Nuggets,103,Los Angeles Clippers,108,0,N
+1995-11-12,1996,Utah Jazz,110,New York Knicks,120,0,N
+1995-11-12,1996,Golden State Warriors,109,Phoenix Suns,112,0,N
+1995-11-13,1996,Utah Jazz,103,Toronto Raptors,100,0,N
+1995-11-13,1996,Dallas Mavericks,94,Vancouver Grizzlies,89,0,N
+1995-11-14,1996,Charlotte Hornets,104,Atlanta Hawks,111,0,N
+1995-11-14,1996,Los Angeles Clippers,118,Golden State Warriors,106,0,N
+1995-11-14,1996,San Antonio Spurs,84,Milwaukee Bucks,98,0,N
+1995-11-14,1996,Chicago Bulls,88,Orlando Magic,94,0,N
+1995-11-14,1996,Seattle SuperSonics,115,Philadelphia 76ers,107,0,N
+1995-11-14,1996,New York Knicks,99,Portland Trail Blazers,105,0,N
+1995-11-14,1996,Los Angeles Lakers,106,Sacramento Kings,100,0,N
+1995-11-15,1996,Utah Jazz,102,Boston Celtics,90,0,N
+1995-11-15,1996,Cleveland Cavaliers,94,Chicago Bulls,113,0,N
+1995-11-15,1996,Seattle SuperSonics,87,Detroit Pistons,94,0,N
+1995-11-15,1996,Dallas Mavericks,97,Los Angeles Lakers,114,0,N
+1995-11-15,1996,Indiana Pacers,103,Miami Heat,97,0,N
+1995-11-15,1996,San Antonio Spurs,105,Minnesota Timberwolves,96,0,N
+1995-11-15,1996,Charlotte Hornets,79,New Jersey Nets,90,0,N
+1995-11-15,1996,Denver Nuggets,137,Phoenix Suns,127,3,N
+1995-11-15,1996,Houston Rockets,96,Toronto Raptors,93,0,N
+1995-11-15,1996,Philadelphia 76ers,95,Washington Bullets,127,0,N
+1995-11-16,1996,New York Knicks,120,Golden State Warriors,97,0,N
+1995-11-16,1996,Vancouver Grizzlies,98,Los Angeles Clippers,103,0,N
+1995-11-16,1996,Houston Rockets,115,Milwaukee Bucks,87,0,N
+1995-11-16,1996,Indiana Pacers,80,Orlando Magic,89,0,N
+1995-11-16,1996,Sacramento Kings,105,Portland Trail Blazers,102,0,N
+1995-11-17,1996,Miami Heat,91,Atlanta Hawks,88,0,N
+1995-11-17,1996,Washington Bullets,100,Boston Celtics,110,0,N
+1995-11-17,1996,Seattle SuperSonics,98,Charlotte Hornets,96,0,N
+1995-11-17,1996,New Jersey Nets,94,Chicago Bulls,109,0,N
+1995-11-17,1996,New York Knicks,103,Denver Nuggets,94,0,N
+1995-11-17,1996,Utah Jazz,86,Detroit Pistons,81,0,N
+1995-11-17,1996,Dallas Mavericks,90,Los Angeles Clippers,101,0,N
+1995-11-17,1996,Cleveland Cavaliers,114,Philadelphia 76ers,82,0,N
+1995-11-17,1996,Phoenix Suns,96,Sacramento Kings,105,0,N
+1995-11-17,1996,Minnesota Timberwolves,96,Toronto Raptors,114,0,N
+1995-11-17,1996,Los Angeles Lakers,114,Vancouver Grizzlies,91,0,N
+1995-11-18,1996,Detroit Pistons,90,Cleveland Cavaliers,93,0,N
+1995-11-18,1996,Dallas Mavericks,108,Golden State Warriors,121,0,N
+1995-11-18,1996,Denver Nuggets,97,Houston Rockets,101,0,N
+1995-11-18,1996,Seattle SuperSonics,104,Indiana Pacers,118,0,N
+1995-11-18,1996,Orlando Magic,90,Miami Heat,93,0,N
+1995-11-18,1996,Boston Celtics,99,Milwaukee Bucks,93,0,N
+1995-11-18,1996,Utah Jazz,126,Minnesota Timberwolves,102,0,N
+1995-11-18,1996,Philadelphia 76ers,79,New Jersey Nets,95,0,N
+1995-11-18,1996,Portland Trail Blazers,102,Phoenix Suns,107,0,N
+1995-11-18,1996,Charlotte Hornets,107,San Antonio Spurs,109,0,N
+1995-11-18,1996,Toronto Raptors,103,Washington Bullets,102,0,N
+1995-11-19,1996,Los Angeles Clippers,88,Los Angeles Lakers,109,0,N
+1995-11-19,1996,Vancouver Grizzlies,93,New York Knicks,98,0,N
+1995-11-19,1996,Atlanta Hawks,108,Sacramento Kings,94,0,N
+1995-11-20,1996,Houston Rockets,98,Boston Celtics,93,0,N
+1995-11-20,1996,Golden State Warriors,95,Orlando Magic,101,0,N
+1995-11-20,1996,Los Angeles Clippers,94,Portland Trail Blazers,113,0,N
+1995-11-20,1996,New Jersey Nets,79,Utah Jazz,105,0,N
+1995-11-21,1996,Chicago Bulls,108,Dallas Mavericks,102,1,N
+1995-11-21,1996,Atlanta Hawks,99,Denver Nuggets,107,0,N
+1995-11-21,1996,Portland Trail Blazers,109,Los Angeles Lakers,108,0,N
+1995-11-21,1996,Seattle SuperSonics,97,Toronto Raptors,102,0,N
+1995-11-22,1996,Boston Celtics,129,Charlotte Hornets,124,0,N
+1995-11-22,1996,New York Knicks,94,Cleveland Cavaliers,84,0,N
+1995-11-22,1996,Washington Bullets,98,Detroit Pistons,97,0,N
+1995-11-22,1996,New Jersey Nets,92,Los Angeles Clippers,125,0,N
+1995-11-22,1996,Golden State Warriors,93,Miami Heat,103,0,N
+1995-11-22,1996,Toronto Raptors,86,Milwaukee Bucks,96,0,N
+1995-11-22,1996,Seattle SuperSonics,106,Minnesota Timberwolves,97,0,N
+1995-11-22,1996,Vancouver Grizzlies,93,Orlando Magic,95,0,N
+1995-11-22,1996,Houston Rockets,115,Philadelphia 76ers,106,0,N
+1995-11-22,1996,Atlanta Hawks,112,Phoenix Suns,117,0,N
+1995-11-22,1996,Chicago Bulls,103,San Antonio Spurs,94,0,N
+1995-11-22,1996,Sacramento Kings,95,Utah Jazz,116,0,N
+1995-11-23,1996,Houston Rockets,115,Indiana Pacers,108,0,N
+1995-11-24,1996,Golden State Warriors,101,Boston Celtics,94,0,N
+1995-11-24,1996,Vancouver Grizzlies,104,Charlotte Hornets,116,0,N
+1995-11-24,1996,Denver Nuggets,112,Dallas Mavericks,109,1,N
+1995-11-24,1996,Philadelphia 76ers,78,Detroit Pistons,101,0,N
+1995-11-24,1996,Cleveland Cavaliers,100,Indiana Pacers,93,0,N
+1995-11-24,1996,Sacramento Kings,99,Los Angeles Lakers,98,0,N
+1995-11-24,1996,Orlando Magic,109,Minnesota Timberwolves,98,0,N
+1995-11-24,1996,New Jersey Nets,87,Portland Trail Blazers,99,0,N
+1995-11-24,1996,San Antonio Spurs,100,Seattle SuperSonics,112,0,N
+1995-11-24,1996,Chicago Bulls,90,Utah Jazz,85,0,N
+1995-11-24,1996,Miami Heat,94,Washington Bullets,110,0,N
+1995-11-25,1996,Toronto Raptors,102,Atlanta Hawks,114,0,N
+1995-11-25,1996,Milwaukee Bucks,87,Cleveland Cavaliers,89,0,N
+1995-11-25,1996,Utah Jazz,91,Denver Nuggets,94,0,N
+1995-11-25,1996,San Antonio Spurs,100,Los Angeles Clippers,91,0,N
+1995-11-25,1996,Vancouver Grizzlies,91,Miami Heat,111,0,N
+1995-11-25,1996,Houston Rockets,88,New York Knicks,103,0,N
+1995-11-25,1996,Golden State Warriors,107,Philadelphia 76ers,89,0,N
+1995-11-25,1996,Los Angeles Lakers,113,Phoenix Suns,114,0,N
+1995-11-25,1996,Orlando Magic,114,Washington Bullets,112,0,N
+1995-11-26,1996,Charlotte Hornets,111,Boston Celtics,109,0,N
+1995-11-26,1996,Houston Rockets,100,Detroit Pistons,102,0,N
+1995-11-26,1996,Minnesota Timberwolves,105,Milwaukee Bucks,102,0,N
+1995-11-26,1996,New Jersey Nets,92,Sacramento Kings,99,0,N
+1995-11-26,1996,Chicago Bulls,92,Seattle SuperSonics,97,0,N
+1995-11-27,1996,Detroit Pistons,95,Orlando Magic,96,0,N
+1995-11-27,1996,Utah Jazz,114,Phoenix Suns,105,0,N
+1995-11-27,1996,Chicago Bulls,107,Portland Trail Blazers,104,0,N
+1995-11-27,1996,Golden State Warriors,98,Toronto Raptors,101,0,N
+1995-11-28,1996,Toronto Raptors,89,Cleveland Cavaliers,93,0,N
+1995-11-28,1996,Los Angeles Clippers,103,Houston Rockets,116,0,N
+1995-11-28,1996,Dallas Mavericks,89,Miami Heat,111,0,N
+1995-11-28,1996,Charlotte Hornets,106,Milwaukee Bucks,98,0,N
+1995-11-28,1996,Vancouver Grizzlies,98,Minnesota Timberwolves,121,0,N
+1995-11-28,1996,Washington Bullets,84,New Jersey Nets,89,0,N
+1995-11-28,1996,Atlanta Hawks,102,New York Knicks,97,1,N
+1995-11-28,1996,Denver Nuggets,85,Sacramento Kings,91,0,N
+1995-11-28,1996,Indiana Pacers,102,Seattle SuperSonics,101,0,N
+1995-11-29,1996,Philadelphia 76ers,81,Atlanta Hawks,106,0,N
+1995-11-29,1996,Detroit Pistons,96,Boston Celtics,100,0,N
+1995-11-29,1996,New York Knicks,105,Charlotte Hornets,115,0,N
+1995-11-29,1996,Portland Trail Blazers,112,Golden State Warriors,98,0,N
+1995-11-29,1996,Phoenix Suns,96,Los Angeles Lakers,107,0,N
+1995-11-29,1996,Los Angeles Clippers,86,San Antonio Spurs,105,0,N
+1995-11-30,1996,Miami Heat,118,Detroit Pistons,107,0,N
+1995-11-30,1996,Utah Jazz,112,Houston Rockets,105,0,N
+1995-11-30,1996,Dallas Mavericks,96,Orlando Magic,110,0,N
+1995-11-30,1996,Milwaukee Bucks,100,Portland Trail Blazers,99,0,N
+1995-11-30,1996,Indiana Pacers,95,Sacramento Kings,105,0,N
+1995-11-30,1996,Chicago Bulls,94,Vancouver Grizzlies,88,0,N
+1995-11-30,1996,Cleveland Cavaliers,97,Washington Bullets,85,0,N
+1995-12-01,1996,Dallas Mavericks,106,Atlanta Hawks,98,0,N
+1995-12-01,1996,New Jersey Nets,131,Boston Celtics,123,1,N
+1995-12-01,1996,Vancouver Grizzlies,100,Los Angeles Lakers,113,0,N
+1995-12-01,1996,Charlotte Hornets,101,Miami Heat,108,1,N
+1995-12-01,1996,Minnesota Timberwolves,105,Phoenix Suns,111,0,N
+1995-12-01,1996,Milwaukee Bucks,99,Seattle SuperSonics,110,0,N
+1995-12-01,1996,Philadelphia 76ers,102,Toronto Raptors,105,0,N
+1995-12-02,1996,Minnesota Timberwolves,105,Denver Nuggets,109,0,N
+1995-12-02,1996,Atlanta Hawks,96,Detroit Pistons,104,0,N
+1995-12-02,1996,Indiana Pacers,97,Golden State Warriors,100,0,N
+1995-12-02,1996,Charlotte Hornets,98,Houston Rockets,113,0,N
+1995-12-02,1996,Chicago Bulls,104,Los Angeles Clippers,98,0,N
+1995-12-02,1996,Cleveland Cavaliers,78,New Jersey Nets,79,0,N
+1995-12-02,1996,New York Knicks,94,Philadelphia 76ers,85,0,N
+1995-12-02,1996,Orlando Magic,106,Sacramento Kings,109,0,N
+1995-12-02,1996,Phoenix Suns,93,San Antonio Spurs,101,0,N
+1995-12-02,1996,Boston Celtics,107,Washington Bullets,135,0,N
+1995-12-03,1996,Dallas Mavericks,107,Cleveland Cavaliers,108,1,N
+1995-12-03,1996,Indiana Pacers,96,Los Angeles Lakers,104,0,N
+1995-12-03,1996,Washington Bullets,83,New York Knicks,107,0,N
+1995-12-03,1996,Orlando Magic,82,Portland Trail Blazers,93,0,N
+1995-12-03,1996,Miami Heat,112,Toronto Raptors,94,0,N
+1995-12-03,1996,Milwaukee Bucks,109,Vancouver Grizzlies,95,0,N
+1995-12-04,1996,Miami Heat,120,Boston Celtics,121,2,N
+1995-12-04,1996,Detroit Pistons,82,Denver Nuggets,85,0,N
+1995-12-05,1996,Philadelphia 76ers,91,Indiana Pacers,108,0,N
+1995-12-05,1996,Orlando Magic,114,Los Angeles Clippers,105,0,N
+1995-12-05,1996,Dallas Mavericks,87,New York Knicks,92,0,N
+1995-12-05,1996,Vancouver Grizzlies,108,Phoenix Suns,112,0,N
+1995-12-05,1996,Los Angeles Lakers,89,San Antonio Spurs,117,0,N
+1995-12-05,1996,Toronto Raptors,89,Seattle SuperSonics,119,0,N
+1995-12-05,1996,Houston Rockets,103,Utah Jazz,100,0,N
+1995-12-06,1996,Cleveland Cavaliers,82,Charlotte Hornets,94,0,N
+1995-12-06,1996,New York Knicks,94,Chicago Bulls,101,0,N
+1995-12-06,1996,Orlando Magic,109,Golden State Warriors,107,0,N
+1995-12-06,1996,Los Angeles Lakers,99,Houston Rockets,112,0,N
+1995-12-06,1996,Boston Celtics,105,Miami Heat,101,0,N
+1995-12-06,1996,New Jersey Nets,97,Minnesota Timberwolves,108,0,N
+1995-12-06,1996,Dallas Mavericks,87,Philadelphia 76ers,108,0,N
+1995-12-06,1996,Atlanta Hawks,79,Washington Bullets,96,0,N
+1995-12-07,1996,San Antonio Spurs,104,Atlanta Hawks,102,0,N
+1995-12-07,1996,Los Angeles Clippers,103,Milwaukee Bucks,112,0,N
+1995-12-07,1996,Toronto Raptors,88,Portland Trail Blazers,96,0,N
+1995-12-07,1996,Denver Nuggets,124,Utah Jazz,119,0,N
+1995-12-07,1996,Detroit Pistons,93,Vancouver Grizzlies,84,0,N
+1995-12-08,1996,San Antonio Spurs,87,Chicago Bulls,106,0,N
+1995-12-08,1996,Philadelphia 76ers,85,Cleveland Cavaliers,113,0,N
+1995-12-08,1996,Phoenix Suns,98,Denver Nuggets,103,0,N
+1995-12-08,1996,Detroit Pistons,121,Golden State Warriors,114,1,N
+1995-12-08,1996,Washington Bullets,107,Houston Rockets,113,0,N
+1995-12-08,1996,Toronto Raptors,103,Los Angeles Lakers,120,0,N
+1995-12-08,1996,Los Angeles Clippers,94,Minnesota Timberwolves,112,0,N
+1995-12-08,1996,Indiana Pacers,89,New Jersey Nets,91,0,N
+1995-12-08,1996,Charlotte Hornets,95,Orlando Magic,105,0,N
+1995-12-08,1996,Seattle SuperSonics,120,Sacramento Kings,103,0,N
+1995-12-09,1996,New York Knicks,101,Atlanta Hawks,92,0,N
+1995-12-09,1996,Minnesota Timberwolves,108,Charlotte Hornets,114,0,N
+1995-12-09,1996,New Jersey Nets,85,Cleveland Cavaliers,73,0,N
+1995-12-09,1996,Washington Bullets,103,Dallas Mavericks,94,0,N
+1995-12-09,1996,Chicago Bulls,118,Milwaukee Bucks,106,0,N
+1995-12-09,1996,Boston Celtics,124,Philadelphia 76ers,98,0,N
+1995-12-09,1996,Miami Heat,94,Phoenix Suns,92,0,N
+1995-12-09,1996,Portland Trail Blazers,97,Seattle SuperSonics,106,0,N
+1995-12-09,1996,Golden State Warriors,109,Utah Jazz,123,0,N
+1995-12-10,1996,Atlanta Hawks,108,Boston Celtics,103,0,N
+1995-12-10,1996,Los Angeles Clippers,104,Indiana Pacers,111,0,N
+1995-12-10,1996,Detroit Pistons,82,Los Angeles Lakers,87,0,N
+1995-12-10,1996,San Antonio Spurs,112,New York Knicks,118,2,N
+1995-12-10,1996,Houston Rockets,101,Portland Trail Blazers,103,2,N
+1995-12-10,1996,Miami Heat,90,Sacramento Kings,110,0,N
+1995-12-10,1996,Toronto Raptors,93,Vancouver Grizzlies,81,0,N
+1995-12-11,1996,Denver Nuggets,104,Philadelphia 76ers,91,0,N
+1995-12-11,1996,Charlotte Hornets,100,Utah Jazz,110,0,N
+1995-12-12,1996,Minnesota Timberwolves,85,Atlanta Hawks,78,0,N
+1995-12-12,1996,Los Angeles Clippers,86,Cleveland Cavaliers,97,0,N
+1995-12-12,1996,Seattle SuperSonics,101,Dallas Mavericks,112,1,N
+1995-12-12,1996,Miami Heat,80,Golden State Warriors,105,0,N
+1995-12-12,1996,Denver Nuggets,92,Indiana Pacers,125,0,N
+1995-12-12,1996,Orlando Magic,101,New Jersey Nets,97,0,N
+1995-12-12,1996,Los Angeles Lakers,82,New York Knicks,97,0,N
+1995-12-12,1996,Charlotte Hornets,115,Phoenix Suns,100,0,N
+1995-12-12,1996,Houston Rockets,133,Sacramento Kings,93,0,N
+1995-12-12,1996,Boston Celtics,116,Toronto Raptors,96,0,N
+1995-12-12,1996,Milwaukee Bucks,102,Washington Bullets,108,0,N
+1995-12-13,1996,Philadelphia 76ers,100,Boston Celtics,111,0,N
+1995-12-13,1996,Orlando Magic,103,Chicago Bulls,112,0,N
+1995-12-13,1996,Los Angeles Lakers,101,Detroit Pistons,98,0,N
+1995-12-13,1996,Seattle SuperSonics,88,San Antonio Spurs,83,0,N
+1995-12-13,1996,Houston Rockets,100,Vancouver Grizzlies,89,0,N
+1995-12-14,1996,Chicago Bulls,127,Atlanta Hawks,108,0,N
+1995-12-14,1996,San Antonio Spurs,126,Dallas Mavericks,111,0,N
+1995-12-14,1996,Miami Heat,84,Los Angeles Clippers,89,0,N
+1995-12-14,1996,Denver Nuggets,103,New York Knicks,94,0,N
+1995-12-14,1996,Charlotte Hornets,109,Portland Trail Blazers,116,0,N
+1995-12-14,1996,Indiana Pacers,102,Toronto Raptors,100,0,N
+1995-12-15,1996,Toronto Raptors,103,Boston Celtics,122,0,N
+1995-12-15,1996,New Jersey Nets,98,Detroit Pistons,105,0,N
+1995-12-15,1996,Sacramento Kings,114,Houston Rockets,110,0,N
+1995-12-15,1996,Milwaukee Bucks,95,Indiana Pacers,112,0,N
+1995-12-15,1996,Cleveland Cavaliers,100,Minnesota Timberwolves,88,0,N
+1995-12-15,1996,Utah Jazz,99,Orlando Magic,111,0,N
+1995-12-15,1996,Golden State Warriors,101,Seattle SuperSonics,108,0,N
+1995-12-15,1996,Portland Trail Blazers,100,Vancouver Grizzlies,104,1,N
+1995-12-15,1996,Los Angeles Lakers,114,Washington Bullets,122,0,N
+1995-12-16,1996,Denver Nuggets,86,Atlanta Hawks,95,0,N
+1995-12-16,1996,Los Angeles Lakers,88,Chicago Bulls,108,0,N
+1995-12-16,1996,Phoenix Suns,111,Dallas Mavericks,108,1,N
+1995-12-16,1996,Charlotte Hornets,109,Los Angeles Clippers,99,0,N
+1995-12-16,1996,Utah Jazz,83,Miami Heat,74,0,N
+1995-12-16,1996,Detroit Pistons,82,New York Knicks,86,0,N
+1995-12-16,1996,Sacramento Kings,106,San Antonio Spurs,122,0,N
+1995-12-16,1996,Golden State Warriors,116,Vancouver Grizzlies,85,0,N
+1995-12-17,1996,Denver Nuggets,79,Cleveland Cavaliers,92,0,N
+1995-12-17,1996,Indiana Pacers,80,Milwaukee Bucks,84,0,N
+1995-12-17,1996,Philadelphia 76ers,101,Minnesota Timberwolves,99,0,N
+1995-12-17,1996,Washington Bullets,112,Portland Trail Blazers,100,0,N
+1995-12-17,1996,Orlando Magic,93,Toronto Raptors,110,0,N
+1995-12-18,1996,Chicago Bulls,123,Boston Celtics,114,0,N
+1995-12-18,1996,Utah Jazz,110,New Jersey Nets,103,0,N
+1995-12-18,1996,Vancouver Grizzlies,85,Sacramento Kings,92,0,N
+1995-12-19,1996,Dallas Mavericks,101,Chicago Bulls,114,0,N
+1995-12-19,1996,Minnesota Timberwolves,95,Cleveland Cavaliers,100,0,N
+1995-12-19,1996,Charlotte Hornets,99,Golden State Warriors,102,0,N
+1995-12-19,1996,Phoenix Suns,96,Houston Rockets,103,0,N
+1995-12-19,1996,Washington Bullets,108,Los Angeles Clippers,104,0,N
+1995-12-19,1996,Los Angeles Lakers,109,Milwaukee Bucks,105,0,N
+1995-12-19,1996,Miami Heat,70,New York Knicks,89,0,N
+1995-12-19,1996,Portland Trail Blazers,103,San Antonio Spurs,111,0,N
+1995-12-19,1996,Detroit Pistons,94,Toronto Raptors,82,0,N
+1995-12-19,1996,Seattle SuperSonics,93,Vancouver Grizzlies,94,0,N
+1995-12-20,1996,Golden State Warriors,104,Denver Nuggets,109,0,N
+1995-12-20,1996,Milwaukee Bucks,77,Detroit Pistons,102,0,N
+1995-12-20,1996,Los Angeles Lakers,98,Indiana Pacers,109,0,N
+1995-12-20,1996,Miami Heat,112,New Jersey Nets,104,1,N
+1995-12-20,1996,Minnesota Timberwolves,100,Orlando Magic,107,0,N
+1995-12-20,1996,Utah Jazz,104,Philadelphia 76ers,108,0,N
+1995-12-20,1996,Washington Bullets,104,Phoenix Suns,106,1,N
+1995-12-21,1996,Boston Celtics,97,Charlotte Hornets,107,0,N
+1995-12-21,1996,Utah Jazz,89,Cleveland Cavaliers,87,0,N
+1995-12-21,1996,Portland Trail Blazers,86,Houston Rockets,91,0,N
+1995-12-21,1996,Sacramento Kings,96,Los Angeles Clippers,103,0,N
+1995-12-21,1996,Denver Nuggets,96,San Antonio Spurs,114,0,N
+1995-12-21,1996,Vancouver Grizzlies,68,Seattle SuperSonics,92,0,N
+1995-12-22,1996,New Jersey Nets,91,Atlanta Hawks,94,0,N
+1995-12-22,1996,Minnesota Timberwolves,113,Boston Celtics,114,0,N
+1995-12-22,1996,Toronto Raptors,104,Chicago Bulls,113,0,N
+1995-12-22,1996,Washington Bullets,117,Golden State Warriors,132,0,N
+1995-12-22,1996,Dallas Mavericks,79,Indiana Pacers,90,0,N
+1995-12-22,1996,Sacramento Kings,83,Los Angeles Lakers,116,0,N
+1995-12-22,1996,Detroit Pistons,84,Miami Heat,75,0,N
+1995-12-22,1996,New York Knicks,90,Orlando Magic,111,0,N
+1995-12-22,1996,Milwaukee Bucks,99,Philadelphia 76ers,94,0,N
+1995-12-22,1996,Phoenix Suns,101,Vancouver Grizzlies,80,0,N
+1995-12-23,1996,Miami Heat,75,Charlotte Hornets,87,0,N
+1995-12-23,1996,Utah Jazz,86,Chicago Bulls,100,0,N
+1995-12-23,1996,Indiana Pacers,96,Cleveland Cavaliers,97,0,N
+1995-12-23,1996,Los Angeles Clippers,107,Denver Nuggets,92,0,N
+1995-12-23,1996,Orlando Magic,94,Detroit Pistons,79,0,N
+1995-12-23,1996,Atlanta Hawks,111,Milwaukee Bucks,115,0,N
+1995-12-23,1996,Dallas Mavericks,98,Minnesota Timberwolves,111,0,N
+1995-12-23,1996,Toronto Raptors,91,New York Knicks,103,0,N
+1995-12-23,1996,New Jersey Nets,98,Philadelphia 76ers,85,0,N
+1995-12-23,1996,Los Angeles Lakers,102,Portland Trail Blazers,99,0,N
+1995-12-23,1996,Houston Rockets,95,San Antonio Spurs,110,0,N
+1995-12-23,1996,Washington Bullets,100,Seattle SuperSonics,118,0,N
+1995-12-25,1996,Houston Rockets,90,Orlando Magic,92,0,N
+1995-12-25,1996,San Antonio Spurs,105,Phoenix Suns,100,0,N
+1995-12-26,1996,Los Angeles Clippers,88,Atlanta Hawks,94,0,N
+1995-12-26,1996,Dallas Mavericks,102,Denver Nuggets,114,0,N
+1995-12-26,1996,Golden State Warriors,90,Detroit Pistons,100,0,N
+1995-12-26,1996,Vancouver Grizzlies,84,Houston Rockets,100,0,N
+1995-12-26,1996,Chicago Bulls,97,Indiana Pacers,103,0,N
+1995-12-26,1996,Boston Celtics,91,Los Angeles Lakers,102,0,N
+1995-12-26,1996,New Jersey Nets,93,Miami Heat,96,0,N
+1995-12-26,1996,San Antonio Spurs,98,Sacramento Kings,115,0,N
+1995-12-26,1996,Milwaukee Bucks,87,Toronto Raptors,93,0,N
+1995-12-26,1996,Portland Trail Blazers,104,Utah Jazz,114,0,N
+1995-12-27,1996,Los Angeles Clippers,116,Charlotte Hornets,107,0,N
+1995-12-27,1996,Milwaukee Bucks,99,Minnesota Timberwolves,93,1,N
+1995-12-27,1996,Philadelphia 76ers,90,Phoenix Suns,105,0,N
+1995-12-27,1996,Boston Celtics,109,Portland Trail Blazers,135,0,N
+1995-12-27,1996,Denver Nuggets,83,Seattle SuperSonics,99,0,N
+1995-12-27,1996,Golden State Warriors,94,Washington Bullets,115,0,N
+1995-12-28,1996,Vancouver Grizzlies,101,Dallas Mavericks,103,2,N
+1995-12-28,1996,Toronto Raptors,91,Detroit Pistons,113,0,N
+1995-12-28,1996,New Jersey Nets,82,Houston Rockets,97,0,N
+1995-12-28,1996,Miami Heat,77,Indiana Pacers,91,0,N
+1995-12-28,1996,San Antonio Spurs,107,Los Angeles Lakers,99,0,N
+1995-12-28,1996,Cleveland Cavaliers,86,New York Knicks,76,0,N
+1995-12-28,1996,Minnesota Timberwolves,83,Utah Jazz,99,0,N
+1995-12-29,1996,Golden State Warriors,117,Atlanta Hawks,96,0,N
+1995-12-29,1996,Portland Trail Blazers,99,Charlotte Hornets,102,0,N
+1995-12-29,1996,Indiana Pacers,93,Chicago Bulls,120,0,N
+1995-12-29,1996,Los Angeles Clippers,98,Orlando Magic,122,0,N
+1995-12-29,1996,Denver Nuggets,92,Phoenix Suns,103,0,N
+1995-12-29,1996,Philadelphia 76ers,97,Sacramento Kings,117,0,N
+1995-12-29,1996,Boston Celtics,85,Seattle SuperSonics,124,0,N
+1995-12-29,1996,New York Knicks,120,Washington Bullets,127,1,N
+1995-12-30,1996,Atlanta Hawks,93,Chicago Bulls,95,0,N
+1995-12-30,1996,Portland Trail Blazers,121,Cleveland Cavaliers,124,2,N
+1995-12-30,1996,Houston Rockets,105,Dallas Mavericks,102,0,N
+1995-12-30,1996,Philadelphia 76ers,100,Denver Nuggets,108,0,N
+1995-12-30,1996,Charlotte Hornets,100,Detroit Pistons,102,1,N
+1995-12-30,1996,Los Angeles Clippers,96,Miami Heat,105,0,N
+1995-12-30,1996,Washington Bullets,96,Milwaukee Bucks,87,0,N
+1995-12-30,1996,Golden State Warriors,120,New Jersey Nets,110,0,N
+1995-12-30,1996,Seattle SuperSonics,123,Phoenix Suns,112,1,N
+1995-12-30,1996,Minnesota Timberwolves,84,San Antonio Spurs,122,0,N
+1995-12-30,1996,Los Angeles Lakers,82,Utah Jazz,99,0,N
+1995-12-30,1996,Boston Celtics,95,Vancouver Grizzlies,103,0,N
+1996-01-02,1996,Seattle SuperSonics,111,Atlanta Hawks,88,0,N
+1996-01-02,1996,Utah Jazz,102,Dallas Mavericks,92,0,N
+1996-01-02,1996,Indiana Pacers,102,Denver Nuggets,87,0,N
+1996-01-02,1996,Philadelphia 76ers,90,Los Angeles Lakers,89,0,N
+1996-01-02,1996,Houston Rockets,105,Minnesota Timberwolves,100,0,N
+1996-01-02,1996,Milwaukee Bucks,72,New Jersey Nets,81,0,N
+1996-01-02,1996,Portland Trail Blazers,101,New York Knicks,92,0,N
+1996-01-02,1996,Cleveland Cavaliers,108,Washington Bullets,100,0,N
+1996-01-03,1996,Portland Trail Blazers,114,Boston Celtics,110,1,N
+1996-01-03,1996,Houston Rockets,86,Chicago Bulls,100,0,N
+1996-01-03,1996,Philadelphia 76ers,111,Golden State Warriors,122,0,N
+1996-01-03,1996,Indiana Pacers,110,Los Angeles Clippers,94,0,N
+1996-01-03,1996,Detroit Pistons,82,Milwaukee Bucks,96,0,N
+1996-01-03,1996,Toronto Raptors,110,Orlando Magic,121,0,N
+1996-01-03,1996,Utah Jazz,97,San Antonio Spurs,111,0,N
+1996-01-04,1996,Toronto Raptors,101,Atlanta Hawks,104,1,N
+1996-01-04,1996,Chicago Bulls,117,Charlotte Hornets,93,0,N
+1996-01-04,1996,Seattle SuperSonics,84,Miami Heat,81,0,N
+1996-01-04,1996,New Jersey Nets,93,New York Knicks,105,0,N
+1996-01-04,1996,Minnesota Timberwolves,98,Phoenix Suns,93,0,N
+1996-01-04,1996,Denver Nuggets,96,Sacramento Kings,126,0,N
+1996-01-04,1996,Dallas Mavericks,100,Washington Bullets,112,0,N
+1996-01-05,1996,Cleveland Cavaliers,77,Boston Celtics,93,0,N
+1996-01-05,1996,Minnesota Timberwolves,119,Golden State Warriors,122,1,N
+1996-01-05,1996,Phoenix Suns,88,Los Angeles Clippers,94,0,N
+1996-01-05,1996,Utah Jazz,100,Los Angeles Lakers,116,0,N
+1996-01-05,1996,Portland Trail Blazers,96,Milwaukee Bucks,113,0,N
+1996-01-05,1996,Dallas Mavericks,99,New Jersey Nets,107,0,N
+1996-01-05,1996,Seattle SuperSonics,93,Orlando Magic,115,0,N
+1996-01-05,1996,Indiana Pacers,105,San Antonio Spurs,92,0,N
+1996-01-05,1996,Philadelphia 76ers,102,Vancouver Grizzlies,103,1,N
+1996-01-06,1996,Atlanta Hawks,90,Charlotte Hornets,96,0,N
+1996-01-06,1996,Milwaukee Bucks,84,Chicago Bulls,113,0,N
+1996-01-06,1996,Orlando Magic,94,Cleveland Cavaliers,105,0,N
+1996-01-06,1996,Miami Heat,88,Denver Nuggets,86,0,N
+1996-01-06,1996,Washington Bullets,82,Detroit Pistons,90,0,N
+1996-01-06,1996,Indiana Pacers,87,Houston Rockets,99,0,N
+1996-01-06,1996,Golden State Warriors,106,Sacramento Kings,115,0,N
+1996-01-07,1996,Dallas Mavericks,117,Boston Celtics,96,0,N
+1996-01-07,1996,Denver Nuggets,96,Los Angeles Lakers,93,0,N
+1996-01-07,1996,Minnesota Timberwolves,97,Portland Trail Blazers,113,0,N
+1996-01-07,1996,Los Angeles Clippers,101,Vancouver Grizzlies,93,0,N
+1996-01-08,1996,Washington Bullets,91,Cleveland Cavaliers,109,0,N
+1996-01-08,1996,Miami Heat,92,Utah Jazz,94,0,N
+1996-01-09,1996,Sacramento Kings,88,Atlanta Hawks,104,0,N
+1996-01-09,1996,Indiana Pacers,91,Dallas Mavericks,84,0,N
+1996-01-09,1996,Vancouver Grizzlies,103,Golden State Warriors,109,0,N
+1996-01-09,1996,San Antonio Spurs,88,Houston Rockets,82,0,N
+1996-01-09,1996,Minnesota Timberwolves,104,Los Angeles Lakers,106,0,N
+1996-01-09,1996,Seattle SuperSonics,97,Milwaukee Bucks,92,0,N
+1996-01-09,1996,Boston Celtics,93,New York Knicks,98,0,N
+1996-01-09,1996,New Jersey Nets,84,Orlando Magic,92,0,N
+1996-01-09,1996,Los Angeles Clippers,105,Phoenix Suns,100,0,N
+1996-01-09,1996,Charlotte Hornets,92,Toronto Raptors,91,0,N
+1996-01-10,1996,Sacramento Kings,104,Boston Celtics,113,0,N
+1996-01-10,1996,Seattle SuperSonics,87,Chicago Bulls,113,0,N
+1996-01-10,1996,New York Knicks,79,New Jersey Nets,92,0,N
+1996-01-10,1996,Washington Bullets,98,Philadelphia 76ers,93,0,N
+1996-01-10,1996,Miami Heat,89,Portland Trail Blazers,90,0,N
+1996-01-10,1996,Cleveland Cavaliers,86,San Antonio Spurs,92,0,N
+1996-01-10,1996,Denver Nuggets,91,Vancouver Grizzlies,85,0,N
+1996-01-11,1996,Detroit Pistons,95,Charlotte Hornets,93,0,N
+1996-01-11,1996,Phoenix Suns,111,Golden State Warriors,106,0,N
+1996-01-11,1996,Milwaukee Bucks,88,Indiana Pacers,96,0,N
+1996-01-11,1996,Minnesota Timberwolves,89,Los Angeles Clippers,109,0,N
+1996-01-11,1996,Atlanta Hawks,87,Toronto Raptors,79,0,N
+1996-01-12,1996,New York Knicks,105,Boston Celtics,92,0,N
+1996-01-12,1996,Cleveland Cavaliers,83,Denver Nuggets,90,0,N
+1996-01-12,1996,Houston Rockets,100,Los Angeles Lakers,101,0,N
+1996-01-12,1996,Philadelphia 76ers,107,New Jersey Nets,80,0,N
+1996-01-12,1996,Milwaukee Bucks,88,Orlando Magic,93,0,N
+1996-01-12,1996,Dallas Mavericks,140,Phoenix Suns,130,1,N
+1996-01-12,1996,Miami Heat,81,Seattle SuperSonics,113,0,N
+1996-01-12,1996,San Antonio Spurs,101,Utah Jazz,94,0,N
+1996-01-12,1996,Golden State Warriors,104,Vancouver Grizzlies,95,0,N
+1996-01-12,1996,Sacramento Kings,88,Washington Bullets,117,0,N
+1996-01-13,1996,Boston Celtics,105,Atlanta Hawks,108,0,N
+1996-01-13,1996,Charlotte Hornets,103,Dallas Mavericks,83,0,N
+1996-01-13,1996,Portland Trail Blazers,118,Denver Nuggets,117,0,N
+1996-01-13,1996,Minnesota Timberwolves,94,Indiana Pacers,103,0,N
+1996-01-13,1996,Houston Rockets,115,Los Angeles Clippers,104,0,N
+1996-01-13,1996,Detroit Pistons,91,New Jersey Nets,80,0,N
+1996-01-13,1996,Sacramento Kings,119,New York Knicks,111,0,N
+1996-01-13,1996,Chicago Bulls,120,Philadelphia 76ers,93,0,N
+1996-01-13,1996,Orlando Magic,105,San Antonio Spurs,106,0,N
+1996-01-13,1996,Washington Bullets,100,Toronto Raptors,106,0,N
+1996-01-13,1996,Miami Heat,65,Vancouver Grizzlies,69,0,N
+1996-01-14,1996,Cleveland Cavaliers,89,Phoenix Suns,74,0,N
+1996-01-15,1996,Detroit Pistons,88,Atlanta Hawks,96,0,N
+1996-01-15,1996,Orlando Magic,104,Dallas Mavericks,119,0,N
+1996-01-15,1996,Seattle SuperSonics,104,Golden State Warriors,95,0,N
+1996-01-15,1996,Utah Jazz,99,Houston Rockets,107,0,N
+1996-01-15,1996,Miami Heat,88,Los Angeles Lakers,96,0,N
+1996-01-15,1996,Sacramento Kings,94,Minnesota Timberwolves,103,0,N
+1996-01-15,1996,Toronto Raptors,83,New Jersey Nets,108,0,N
+1996-01-15,1996,Milwaukee Bucks,98,New York Knicks,92,0,N
+1996-01-15,1996,Chicago Bulls,116,Washington Bullets,109,0,N
+1996-01-16,1996,Philadelphia 76ers,104,Chicago Bulls,116,0,N
+1996-01-16,1996,Denver Nuggets,69,Portland Trail Blazers,87,0,N
+1996-01-16,1996,Boston Celtics,97,San Antonio Spurs,121,0,N
+1996-01-16,1996,Cleveland Cavaliers,90,Seattle SuperSonics,99,0,N
+1996-01-16,1996,Indiana Pacers,110,Toronto Raptors,102,0,N
+1996-01-17,1996,Indiana Pacers,93,Atlanta Hawks,102,0,N
+1996-01-17,1996,New Jersey Nets,97,Charlotte Hornets,93,0,N
+1996-01-17,1996,Houston Rockets,120,Denver Nuggets,112,0,N
+1996-01-17,1996,New York Knicks,92,Los Angeles Clippers,81,0,N
+1996-01-17,1996,Washington Bullets,89,Miami Heat,96,0,N
+1996-01-17,1996,Golden State Warriors,88,Minnesota Timberwolves,98,0,N
+1996-01-17,1996,Milwaukee Bucks,111,Philadelphia 76ers,100,0,N
+1996-01-17,1996,Orlando Magic,113,Phoenix Suns,95,0,N
+1996-01-18,1996,San Antonio Spurs,98,Detroit Pistons,100,0,N
+1996-01-18,1996,Boston Celtics,108,Houston Rockets,106,0,N
+1996-01-18,1996,Golden State Warriors,96,Milwaukee Bucks,100,0,N
+1996-01-18,1996,Portland Trail Blazers,100,Sacramento Kings,105,0,N
+1996-01-18,1996,Chicago Bulls,92,Toronto Raptors,89,0,N
+1996-01-18,1996,Cleveland Cavaliers,98,Vancouver Grizzlies,90,0,N
+1996-01-19,1996,Boston Celtics,124,Dallas Mavericks,129,0,N
+1996-01-19,1996,Detroit Pistons,81,Indiana Pacers,89,0,N
+1996-01-19,1996,Los Angeles Lakers,106,Los Angeles Clippers,100,0,N
+1996-01-19,1996,Charlotte Hornets,114,Miami Heat,106,0,N
+1996-01-19,1996,San Antonio Spurs,92,Minnesota Timberwolves,100,0,N
+1996-01-19,1996,Atlanta Hawks,82,Philadelphia 76ers,77,0,N
+1996-01-19,1996,Phoenix Suns,84,Portland Trail Blazers,101,0,N
+1996-01-19,1996,New York Knicks,100,Seattle SuperSonics,97,1,N
+1996-01-19,1996,Orlando Magic,99,Utah Jazz,111,0,N
+1996-01-19,1996,New Jersey Nets,87,Washington Bullets,93,0,N
+1996-01-20,1996,Miami Heat,78,Atlanta Hawks,98,0,N
+1996-01-20,1996,Golden State Warriors,110,Charlotte Hornets,102,0,N
+1996-01-20,1996,Sacramento Kings,115,Denver Nuggets,110,0,N
+1996-01-20,1996,Utah Jazz,106,Los Angeles Clippers,82,0,N
+1996-01-20,1996,Cleveland Cavaliers,93,Los Angeles Lakers,82,0,N
+1996-01-20,1996,Minnesota Timberwolves,97,New Jersey Nets,103,1,N
+1996-01-20,1996,New York Knicks,80,Vancouver Grizzlies,84,0,N
+1996-01-21,1996,Chicago Bulls,111,Detroit Pistons,96,0,N
+1996-01-21,1996,Orlando Magic,97,Houston Rockets,96,0,N
+1996-01-21,1996,Washington Bullets,96,Indiana Pacers,106,0,N
+1996-01-21,1996,San Antonio Spurs,118,Philadelphia 76ers,88,0,N
+1996-01-21,1996,Sacramento Kings,97,Phoenix Suns,111,0,N
+1996-01-21,1996,Cleveland Cavaliers,81,Portland Trail Blazers,88,0,N
+1996-01-21,1996,Dallas Mavericks,101,Seattle SuperSonics,108,0,N
+1996-01-21,1996,Boston Celtics,95,Toronto Raptors,97,0,N
+1996-01-22,1996,Houston Rockets,96,Atlanta Hawks,105,0,N
+1996-01-22,1996,San Antonio Spurs,89,Miami Heat,96,0,N
+1996-01-22,1996,Vancouver Grizzlies,100,Milwaukee Bucks,92,0,N
+1996-01-23,1996,Atlanta Hawks,84,Cleveland Cavaliers,72,0,N
+1996-01-23,1996,Phoenix Suns,102,Indiana Pacers,117,0,N
+1996-01-23,1996,Chicago Bulls,99,New York Knicks,79,0,N
+1996-01-23,1996,Philadelphia 76ers,90,Orlando Magic,105,0,N
+1996-01-23,1996,Dallas Mavericks,111,Sacramento Kings,109,0,N
+1996-01-23,1996,New Jersey Nets,79,Toronto Raptors,86,0,N
+1996-01-23,1996,Portland Trail Blazers,72,Utah Jazz,96,0,N
+1996-01-24,1996,Los Angeles Lakers,124,Boston Celtics,107,0,N
+1996-01-24,1996,Washington Bullets,113,Charlotte Hornets,127,0,N
+1996-01-24,1996,Vancouver Grizzlies,84,Chicago Bulls,104,0,N
+1996-01-24,1996,Utah Jazz,100,Golden State Warriors,89,0,N
+1996-01-24,1996,New York Knicks,88,Miami Heat,79,0,N
+1996-01-24,1996,Indiana Pacers,97,Milwaukee Bucks,89,0,N
+1996-01-24,1996,Phoenix Suns,101,Minnesota Timberwolves,91,0,N
+1996-01-24,1996,Houston Rockets,98,New Jersey Nets,89,0,N
+1996-01-24,1996,Cleveland Cavaliers,91,Philadelphia 76ers,88,0,N
+1996-01-24,1996,Detroit Pistons,85,San Antonio Spurs,84,0,N
+1996-01-24,1996,Denver Nuggets,79,Seattle SuperSonics,86,0,N
+1996-01-25,1996,Detroit Pistons,93,Dallas Mavericks,92,0,N
+1996-01-25,1996,Denver Nuggets,93,Los Angeles Clippers,94,0,N
+1996-01-25,1996,Vancouver Grizzlies,106,Toronto Raptors,101,1,N
+1996-01-25,1996,Houston Rockets,85,Washington Bullets,120,0,N
+1996-01-26,1996,Orlando Magic,84,Atlanta Hawks,96,0,N
+1996-01-26,1996,Indiana Pacers,107,Boston Celtics,90,0,N
+1996-01-26,1996,Miami Heat,80,Chicago Bulls,102,0,N
+1996-01-26,1996,Sacramento Kings,118,Golden State Warriors,124,0,N
+1996-01-26,1996,Phoenix Suns,107,Milwaukee Bucks,97,0,N
+1996-01-26,1996,Charlotte Hornets,107,New Jersey Nets,115,0,N
+1996-01-26,1996,Los Angeles Lakers,100,Philadelphia 76ers,88,0,N
+1996-01-26,1996,Portland Trail Blazers,83,San Antonio Spurs,87,0,N
+1996-01-26,1996,Utah Jazz,93,Seattle SuperSonics,94,0,N
+1996-01-27,1996,Philadelphia 76ers,105,Charlotte Hornets,110,0,N
+1996-01-27,1996,Miami Heat,102,Cleveland Cavaliers,85,0,N
+1996-01-27,1996,Portland Trail Blazers,112,Dallas Mavericks,103,0,N
+1996-01-27,1996,Toronto Raptors,82,Denver Nuggets,93,0,N
+1996-01-27,1996,Detroit Pistons,85,Houston Rockets,105,0,N
+1996-01-27,1996,Orlando Magic,79,Indiana Pacers,102,0,N
+1996-01-27,1996,Seattle SuperSonics,96,Los Angeles Clippers,87,0,N
+1996-01-27,1996,Los Angeles Lakers,100,New Jersey Nets,98,0,N
+1996-01-27,1996,Minnesota Timberwolves,95,New York Knicks,104,0,N
+1996-01-27,1996,Golden State Warriors,91,Utah Jazz,108,0,N
+1996-01-27,1996,Vancouver Grizzlies,77,Washington Bullets,102,0,N
+1996-01-28,1996,Phoenix Suns,82,Chicago Bulls,93,0,N
+1996-01-29,1996,Cleveland Cavaliers,86,Charlotte Hornets,88,0,N
+1996-01-29,1996,Miami Heat,85,New York Knicks,94,0,N
+1996-01-29,1996,Vancouver Grizzlies,92,Philadelphia 76ers,103,0,N
+1996-01-29,1996,Seattle SuperSonics,92,Portland Trail Blazers,88,0,N
+1996-01-29,1996,Detroit Pistons,97,Utah Jazz,106,0,N
+1996-01-30,1996,Los Angeles Clippers,101,Dallas Mavericks,105,0,N
+1996-01-30,1996,Chicago Bulls,98,Houston Rockets,87,0,N
+1996-01-30,1996,Atlanta Hawks,90,Indiana Pacers,107,0,N
+1996-01-30,1996,Golden State Warriors,118,Los Angeles Lakers,128,0,N
+1996-01-30,1996,Phoenix Suns,114,Miami Heat,99,0,N
+1996-01-30,1996,Denver Nuggets,88,Minnesota Timberwolves,86,0,N
+1996-01-30,1996,Boston Celtics,99,Orlando Magic,104,0,N
+1996-01-30,1996,Toronto Raptors,75,Sacramento Kings,102,0,N
+1996-01-30,1996,New Jersey Nets,88,Seattle SuperSonics,97,0,N
+1996-01-31,1996,Phoenix Suns,120,Atlanta Hawks,84,0,N
+1996-01-31,1996,Vancouver Grizzlies,98,Boston Celtics,131,0,N
+1996-01-31,1996,Milwaukee Bucks,71,Cleveland Cavaliers,81,0,N
+1996-01-31,1996,Utah Jazz,98,Portland Trail Blazers,94,0,N
+1996-01-31,1996,Los Angeles Clippers,106,San Antonio Spurs,115,0,N
+1996-02-01,1996,Houston Rockets,116,Charlotte Hornets,111,0,N
+1996-02-01,1996,Seattle SuperSonics,100,Dallas Mavericks,103,0,N
+1996-02-01,1996,Indiana Pacers,70,Detroit Pistons,87,0,N
+1996-02-01,1996,Philadelphia 76ers,104,Miami Heat,124,0,N
+1996-02-01,1996,Denver Nuggets,102,Milwaukee Bucks,108,0,N
+1996-02-01,1996,Orlando Magic,102,New York Knicks,110,0,N
+1996-02-01,1996,Chicago Bulls,105,Sacramento Kings,85,0,N
+1996-02-02,1996,Phoenix Suns,85,Cleveland Cavaliers,107,0,N
+1996-02-02,1996,Toronto Raptors,111,Golden State Warriors,114,0,N
+1996-02-02,1996,Boston Celtics,108,Indiana Pacers,116,0,N
+1996-02-02,1996,Chicago Bulls,99,Los Angeles Lakers,84,0,N
+1996-02-02,1996,Atlanta Hawks,95,Orlando Magic,108,0,N
+1996-02-02,1996,Minnesota Timberwolves,90,San Antonio Spurs,101,0,N
+1996-02-02,1996,Los Angeles Clippers,113,Utah Jazz,122,0,N
+1996-02-02,1996,New Jersey Nets,93,Vancouver Grizzlies,84,0,N
+1996-02-02,1996,Portland Trail Blazers,97,Washington Bullets,113,0,N
+1996-02-03,1996,Minnesota Timberwolves,105,Dallas Mavericks,96,0,N
+1996-02-03,1996,Sacramento Kings,94,Detroit Pistons,85,0,N
+1996-02-03,1996,Seattle SuperSonics,104,Houston Rockets,103,1,N
+1996-02-03,1996,Toronto Raptors,119,Los Angeles Clippers,113,1,N
+1996-02-03,1996,Boston Celtics,100,Miami Heat,99,0,N
+1996-02-03,1996,Cleveland Cavaliers,111,Milwaukee Bucks,88,0,N
+1996-02-03,1996,Portland Trail Blazers,96,Philadelphia 76ers,85,0,N
+1996-02-04,1996,Charlotte Hornets,104,Atlanta Hawks,106,0,N
+1996-02-04,1996,Chicago Bulls,99,Denver Nuggets,105,0,N
+1996-02-04,1996,New Jersey Nets,92,Golden State Warriors,96,0,N
+1996-02-04,1996,New York Knicks,83,Indiana Pacers,90,0,N
+1996-02-04,1996,Utah Jazz,103,Los Angeles Lakers,110,0,N
+1996-02-04,1996,San Antonio Spurs,109,Orlando Magic,122,1,N
+1996-02-04,1996,Phoenix Suns,123,Washington Bullets,115,1,N
+1996-02-05,1996,Golden State Warriors,128,Los Angeles Clippers,124,0,N
+1996-02-05,1996,Sacramento Kings,92,Miami Heat,103,0,N
+1996-02-05,1996,Dallas Mavericks,92,Minnesota Timberwolves,104,0,N
+1996-02-05,1996,Detroit Pistons,91,New York Knicks,97,0,N
+1996-02-05,1996,Portland Trail Blazers,90,Toronto Raptors,87,0,N
+1996-02-05,1996,Utah Jazz,92,Vancouver Grizzlies,83,0,N
+1996-02-06,1996,San Antonio Spurs,109,Charlotte Hornets,102,0,N
+1996-02-06,1996,Boston Celtics,73,Cleveland Cavaliers,91,0,N
+1996-02-06,1996,Los Angeles Lakers,99,Denver Nuggets,78,0,N
+1996-02-06,1996,Dallas Mavericks,111,Milwaukee Bucks,114,0,N
+1996-02-06,1996,Sacramento Kings,102,Orlando Magic,112,0,N
+1996-02-06,1996,Chicago Bulls,96,Phoenix Suns,106,0,N
+1996-02-06,1996,Houston Rockets,94,Seattle SuperSonics,99,0,N
+1996-02-07,1996,San Antonio Spurs,99,Boston Celtics,89,0,N
+1996-02-07,1996,Orlando Magic,83,Detroit Pistons,97,0,N
+1996-02-07,1996,Chicago Bulls,99,Golden State Warriors,95,0,N
+1996-02-07,1996,Houston Rockets,110,Los Angeles Clippers,102,0,N
+1996-02-07,1996,New Jersey Nets,96,Los Angeles Lakers,106,0,N
+1996-02-07,1996,Atlanta Hawks,89,Miami Heat,101,0,N
+1996-02-07,1996,Portland Trail Blazers,103,Minnesota Timberwolves,93,0,N
+1996-02-07,1996,Washington Bullets,82,New York Knicks,87,0,N
+1996-02-07,1996,Indiana Pacers,101,Philadelphia 76ers,102,0,N
+1996-02-07,1996,Milwaukee Bucks,93,Toronto Raptors,88,0,N
+1996-02-07,1996,Vancouver Grizzlies,79,Utah Jazz,102,0,N
+1996-02-08,1996,Washington Bullets,92,Atlanta Hawks,98,0,N
+1996-02-08,1996,Sacramento Kings,105,Charlotte Hornets,115,0,N
+1996-02-08,1996,Utah Jazz,133,Dallas Mavericks,136,2,N
+1996-02-08,1996,Los Angeles Clippers,95,Denver Nuggets,115,0,N
+1996-02-08,1996,New Jersey Nets,102,Phoenix Suns,107,0,N
+1996-02-13,1996,Washington Bullets,98,Chicago Bulls,111,0,N
+1996-02-13,1996,Charlotte Hornets,100,Cleveland Cavaliers,110,0,N
+1996-02-13,1996,Dallas Mavericks,106,Houston Rockets,121,0,N
+1996-02-13,1996,New Jersey Nets,101,Indiana Pacers,92,0,N
+1996-02-13,1996,Boston Celtics,108,Los Angeles Clippers,94,0,N
+1996-02-13,1996,Toronto Raptors,98,Miami Heat,87,0,N
+1996-02-13,1996,Philadelphia 76ers,104,Milwaukee Bucks,101,0,N
+1996-02-13,1996,Denver Nuggets,93,Orlando Magic,121,0,N
+1996-02-13,1996,Seattle SuperSonics,102,Phoenix Suns,98,0,N
+1996-02-13,1996,Golden State Warriors,99,Portland Trail Blazers,98,0,N
+1996-02-13,1996,Minnesota Timberwolves,94,Sacramento Kings,90,0,N
+1996-02-13,1996,Utah Jazz,114,San Antonio Spurs,111,1,N
+1996-02-14,1996,New York Knicks,100,Charlotte Hornets,120,0,N
+1996-02-14,1996,Boston Celtics,103,Golden State Warriors,106,0,N
+1996-02-14,1996,Atlanta Hawks,86,Los Angeles Lakers,87,0,N
+1996-02-14,1996,Indiana Pacers,87,New Jersey Nets,88,0,N
+1996-02-14,1996,Detroit Pistons,102,Philadelphia 76ers,83,0,N
+1996-02-14,1996,Minnesota Timberwolves,93,Seattle SuperSonics,130,0,N
+1996-02-14,1996,Sacramento Kings,86,Vancouver Grizzlies,93,0,N
+1996-02-15,1996,Chicago Bulls,112,Detroit Pistons,109,1,N
+1996-02-15,1996,San Antonio Spurs,108,Houston Rockets,112,0,N
+1996-02-15,1996,Denver Nuggets,91,Miami Heat,97,0,N
+1996-02-15,1996,Washington Bullets,98,Milwaukee Bucks,109,0,N
+1996-02-15,1996,Phoenix Suns,96,Portland Trail Blazers,84,0,N
+1996-02-15,1996,Cleveland Cavaliers,95,Toronto Raptors,76,0,N
+1996-02-15,1996,Dallas Mavericks,103,Utah Jazz,106,0,N
+1996-02-16,1996,Denver Nuggets,100,Charlotte Hornets,107,0,N
+1996-02-16,1996,Dallas Mavericks,114,Los Angeles Lakers,119,0,N
+1996-02-16,1996,Chicago Bulls,103,Minnesota Timberwolves,100,0,N
+1996-02-16,1996,Philadelphia 76ers,84,New York Knicks,116,0,N
+1996-02-16,1996,Milwaukee Bucks,91,Orlando Magic,121,0,N
+1996-02-16,1996,Boston Celtics,130,Sacramento Kings,102,0,N
+1996-02-16,1996,Golden State Warriors,95,San Antonio Spurs,113,0,N
+1996-02-16,1996,Phoenix Suns,99,Seattle SuperSonics,117,0,N
+1996-02-16,1996,Atlanta Hawks,110,Vancouver Grizzlies,100,0,N
+1996-02-16,1996,Indiana Pacers,95,Washington Bullets,94,0,N
+1996-02-17,1996,Philadelphia 76ers,82,Cleveland Cavaliers,97,0,N
+1996-02-17,1996,Toronto Raptors,95,Detroit Pistons,108,0,N
+1996-02-17,1996,Portland Trail Blazers,96,Los Angeles Clippers,100,0,N
+1996-02-17,1996,Orlando Magic,95,Miami Heat,93,0,N
+1996-02-17,1996,New York Knicks,77,New Jersey Nets,82,0,N
+1996-02-18,1996,Milwaukee Bucks,99,Charlotte Hornets,122,0,N
+1996-02-18,1996,Boston Celtics,93,Denver Nuggets,117,0,N
+1996-02-18,1996,Chicago Bulls,110,Indiana Pacers,102,0,N
+1996-02-18,1996,Washington Bullets,108,Minnesota Timberwolves,96,0,N
+1996-02-18,1996,Atlanta Hawks,93,Portland Trail Blazers,90,0,N
+1996-02-18,1996,Houston Rockets,79,San Antonio Spurs,93,0,N
+1996-02-18,1996,Seattle SuperSonics,118,Vancouver Grizzlies,109,0,N
+1996-02-19,1996,Miami Heat,70,Cleveland Cavaliers,73,0,N
+1996-02-19,1996,Golden State Warriors,112,Dallas Mavericks,100,0,N
+1996-02-19,1996,Minnesota Timberwolves,83,Detroit Pistons,113,0,N
+1996-02-19,1996,Sacramento Kings,111,Houston Rockets,118,1,N
+1996-02-19,1996,Vancouver Grizzlies,94,Phoenix Suns,98,1,N
+1996-02-19,1996,Atlanta Hawks,94,Seattle SuperSonics,102,0,N
+1996-02-19,1996,New Jersey Nets,99,Washington Bullets,81,0,N
+1996-02-20,1996,Cleveland Cavaliers,76,Chicago Bulls,102,0,N
+1996-02-20,1996,Los Angeles Clippers,104,Los Angeles Lakers,121,0,N
+1996-02-20,1996,Milwaukee Bucks,92,New York Knicks,87,0,N
+1996-02-20,1996,Philadelphia 76ers,104,Orlando Magic,123,0,N
+1996-02-20,1996,San Antonio Spurs,108,Portland Trail Blazers,105,0,N
+1996-02-20,1996,Boston Celtics,98,Utah Jazz,112,0,N
+1996-02-21,1996,Washington Bullets,92,Charlotte Hornets,96,0,N
+1996-02-21,1996,Sacramento Kings,91,Dallas Mavericks,93,0,N
+1996-02-21,1996,New York Knicks,113,Detroit Pistons,110,1,N
+1996-02-21,1996,San Antonio Spurs,92,Golden State Warriors,95,0,N
+1996-02-21,1996,Orlando Magic,99,Indiana Pacers,97,0,N
+1996-02-21,1996,Los Angeles Lakers,112,Los Angeles Clippers,108,0,N
+1996-02-21,1996,New Jersey Nets,94,Milwaukee Bucks,92,1,N
+1996-02-21,1996,Houston Rockets,101,Minnesota Timberwolves,120,0,N
+1996-02-21,1996,Miami Heat,66,Philadelphia 76ers,57,0,N
+1996-02-21,1996,Boston Celtics,107,Phoenix Suns,120,0,N
+1996-02-22,1996,Chicago Bulls,96,Atlanta Hawks,91,0,N
+1996-02-22,1996,Houston Rockets,86,Cleveland Cavaliers,80,0,N
+1996-02-22,1996,Denver Nuggets,78,Portland Trail Blazers,107,0,N
+1996-02-22,1996,Golden State Warriors,90,Seattle SuperSonics,106,0,N
+1996-02-22,1996,Toronto Raptors,86,Utah Jazz,102,0,N
+1996-02-23,1996,Los Angeles Lakers,114,Dallas Mavericks,88,0,N
+1996-02-23,1996,Philadelphia 76ers,95,Indiana Pacers,102,0,N
+1996-02-23,1996,Chicago Bulls,104,Miami Heat,113,0,N
+1996-02-23,1996,Orlando Magic,115,Milwaukee Bucks,102,0,N
+1996-02-23,1996,Detroit Pistons,93,Minnesota Timberwolves,94,0,N
+1996-02-23,1996,Atlanta Hawks,108,New York Knicks,97,0,N
+1996-02-23,1996,Toronto Raptors,105,Phoenix Suns,110,0,N
+1996-02-23,1996,San Antonio Spurs,112,Sacramento Kings,105,0,N
+1996-02-23,1996,Charlotte Hornets,100,Washington Bullets,94,0,N
+1996-02-24,1996,Indiana Pacers,104,Charlotte Hornets,90,0,N
+1996-02-24,1996,New Jersey Nets,74,Cleveland Cavaliers,103,0,N
+1996-02-24,1996,Utah Jazz,90,Denver Nuggets,99,0,N
+1996-02-24,1996,Los Angeles Clippers,80,Golden State Warriors,86,0,N
+1996-02-24,1996,Los Angeles Lakers,94,Houston Rockets,96,0,N
+1996-02-24,1996,Sacramento Kings,91,Seattle SuperSonics,104,0,N
+1996-02-25,1996,Orlando Magic,91,Chicago Bulls,111,0,N
+1996-02-25,1996,Toronto Raptors,98,Dallas Mavericks,105,0,N
+1996-02-25,1996,Seattle SuperSonics,106,Los Angeles Clippers,101,0,N
+1996-02-25,1996,Philadelphia 76ers,101,Miami Heat,108,0,N
+1996-02-25,1996,Atlanta Hawks,92,Minnesota Timberwolves,76,0,N
+1996-02-25,1996,Boston Celtics,105,New Jersey Nets,111,0,N
+1996-02-25,1996,New York Knicks,105,Phoenix Suns,113,0,N
+1996-02-25,1996,Detroit Pistons,93,Portland Trail Blazers,81,0,N
+1996-02-25,1996,San Antonio Spurs,95,Vancouver Grizzlies,84,0,N
+1996-02-25,1996,Milwaukee Bucks,103,Washington Bullets,111,0,N
+1996-02-26,1996,Indiana Pacers,122,Boston Celtics,119,1,N
+1996-02-26,1996,New York Knicks,96,Los Angeles Lakers,114,0,N
+1996-02-26,1996,Detroit Pistons,93,Sacramento Kings,78,0,N
+1996-02-26,1996,Phoenix Suns,87,Utah Jazz,110,0,N
+1996-02-27,1996,Minnesota Timberwolves,99,Chicago Bulls,120,0,N
+1996-02-27,1996,Golden State Warriors,80,Cleveland Cavaliers,92,0,N
+1996-02-27,1996,Philadelphia 76ers,121,Dallas Mavericks,115,0,N
+1996-02-27,1996,Washington Bullets,92,Denver Nuggets,96,0,N
+1996-02-27,1996,Toronto Raptors,100,Houston Rockets,105,0,N
+1996-02-27,1996,Portland Trail Blazers,87,Indiana Pacers,101,0,N
+1996-02-27,1996,San Antonio Spurs,90,Los Angeles Clippers,95,0,N
+1996-02-27,1996,Charlotte Hornets,88,Milwaukee Bucks,84,0,N
+1996-02-27,1996,Miami Heat,93,New Jersey Nets,90,0,N
+1996-02-28,1996,Portland Trail Blazers,88,Atlanta Hawks,90,0,N
+1996-02-28,1996,Charlotte Hornets,116,Boston Celtics,121,1,N
+1996-02-28,1996,Phoenix Suns,117,Minnesota Timberwolves,93,0,N
+1996-02-28,1996,Miami Heat,112,Orlando Magic,116,0,N
+1996-02-28,1996,New York Knicks,85,Sacramento Kings,90,0,N
+1996-02-28,1996,Detroit Pistons,80,Seattle SuperSonics,94,0,N
+1996-02-28,1996,Washington Bullets,93,Utah Jazz,115,0,N
+1996-02-28,1996,Los Angeles Lakers,99,Vancouver Grizzlies,80,0,N
+1996-02-29,1996,Dallas Mavericks,137,Denver Nuggets,120,0,N
+1996-02-29,1996,Philadelphia 76ers,95,Houston Rockets,109,0,N
+1996-02-29,1996,Golden State Warriors,85,Indiana Pacers,94,0,N
+1996-02-29,1996,Sacramento Kings,110,Los Angeles Clippers,122,0,N
+1996-02-29,1996,Cleveland Cavaliers,95,Milwaukee Bucks,86,0,N
+1996-02-29,1996,Orlando Magic,114,New Jersey Nets,98,0,N
+1996-02-29,1996,Toronto Raptors,95,San Antonio Spurs,120,0,N
+1996-03-01,1996,Cleveland Cavaliers,68,Atlanta Hawks,74,0,N
+1996-03-01,1996,Seattle SuperSonics,106,Boston Celtics,96,0,N
+1996-03-01,1996,Golden State Warriors,87,Chicago Bulls,110,0,N
+1996-03-01,1996,Washington Bullets,95,Los Angeles Lakers,100,0,N
+1996-03-01,1996,Portland Trail Blazers,102,Miami Heat,88,0,N
+1996-03-01,1996,Charlotte Hornets,101,Minnesota Timberwolves,105,0,N
+1996-03-01,1996,Detroit Pistons,102,Phoenix Suns,97,0,N
+1996-03-01,1996,New York Knicks,88,Utah Jazz,99,0,N
+1996-03-01,1996,Dallas Mavericks,119,Vancouver Grizzlies,111,0,N
+1996-03-02,1996,Boston Celtics,75,Chicago Bulls,107,0,N
+1996-03-02,1996,Vancouver Grizzlies,82,Denver Nuggets,108,0,N
+1996-03-02,1996,Detroit Pistons,107,Los Angeles Clippers,103,0,N
+1996-03-02,1996,Atlanta Hawks,106,Milwaukee Bucks,110,0,N
+1996-03-02,1996,Seattle SuperSonics,103,New Jersey Nets,92,0,N
+1996-03-02,1996,Portland Trail Blazers,89,Orlando Magic,115,0,N
+1996-03-02,1996,Philadelphia 76ers,101,San Antonio Spurs,115,0,N
+1996-03-03,1996,Toronto Raptors,100,Cleveland Cavaliers,89,0,N
+1996-03-03,1996,Phoenix Suns,121,Dallas Mavericks,114,0,N
+1996-03-03,1996,Charlotte Hornets,100,Indiana Pacers,103,0,N
+1996-03-03,1996,Houston Rockets,111,Los Angeles Lakers,107,0,N
+1996-03-03,1996,Miami Heat,87,Minnesota Timberwolves,89,0,N
+1996-03-03,1996,Golden State Warriors,94,New York Knicks,109,0,N
+1996-03-03,1996,Washington Bullets,108,Sacramento Kings,99,0,N
+1996-03-04,1996,Milwaukee Bucks,98,Boston Celtics,105,0,N
+1996-03-04,1996,San Antonio Spurs,101,Denver Nuggets,90,0,N
+1996-03-04,1996,Atlanta Hawks,93,Detroit Pistons,99,0,N
+1996-03-04,1996,Orlando Magic,110,Philadelphia 76ers,97,0,N
+1996-03-04,1996,Washington Bullets,96,Vancouver Grizzlies,81,0,N
+1996-03-05,1996,Orlando Magic,123,Charlotte Hornets,97,0,N
+1996-03-05,1996,Milwaukee Bucks,106,Chicago Bulls,115,0,N
+1996-03-05,1996,Seattle SuperSonics,107,Cleveland Cavaliers,101,2,N
+1996-03-05,1996,New Jersey Nets,117,Dallas Mavericks,127,0,N
+1996-03-05,1996,Vancouver Grizzlies,78,Golden State Warriors,110,0,N
+1996-03-05,1996,Minnesota Timberwolves,72,Miami Heat,113,0,N
+1996-03-05,1996,Los Angeles Clippers,105,New York Knicks,88,0,N
+1996-03-05,1996,Indiana Pacers,95,Phoenix Suns,108,0,N
+1996-03-05,1996,Houston Rockets,100,Portland Trail Blazers,93,0,N
+1996-03-05,1996,Utah Jazz,112,Sacramento Kings,97,0,N
+1996-03-05,1996,Detroit Pistons,105,Toronto Raptors,84,0,N
+1996-03-06,1996,Los Angeles Clippers,97,Boston Celtics,110,0,N
+1996-03-06,1996,Minnesota Timberwolves,103,Philadelphia 76ers,90,0,N
+1996-03-06,1996,Denver Nuggets,90,San Antonio Spurs,100,0,N
+1996-03-06,1996,New York Knicks,89,Toronto Raptors,82,0,N
+1996-03-06,1996,Indiana Pacers,94,Utah Jazz,101,0,N
+1996-03-06,1996,Seattle SuperSonics,88,Washington Bullets,99,0,N
+1996-03-07,1996,Dallas Mavericks,105,Charlotte Hornets,119,0,N
+1996-03-07,1996,Detroit Pistons,81,Chicago Bulls,102,0,N
+1996-03-07,1996,Atlanta Hawks,83,Cleveland Cavaliers,72,0,N
+1996-03-07,1996,Phoenix Suns,92,Denver Nuggets,103,0,N
+1996-03-07,1996,Houston Rockets,86,Golden State Warriors,95,0,N
+1996-03-07,1996,Los Angeles Lakers,102,Sacramento Kings,89,0,N
+1996-03-08,1996,Milwaukee Bucks,91,Atlanta Hawks,94,0,N
+1996-03-08,1996,Cleveland Cavaliers,96,Boston Celtics,91,0,N
+1996-03-08,1996,Toronto Raptors,79,Miami Heat,109,0,N
+1996-03-08,1996,Seattle SuperSonics,132,Minnesota Timberwolves,112,0,N
+1996-03-08,1996,Charlotte Hornets,112,Orlando Magic,117,1,N
+1996-03-08,1996,New York Knicks,92,Philadelphia 76ers,100,0,N
+1996-03-08,1996,Los Angeles Lakers,119,Phoenix Suns,97,0,N
+1996-03-08,1996,Sacramento Kings,105,Portland Trail Blazers,117,0,N
+1996-03-08,1996,New Jersey Nets,100,San Antonio Spurs,115,0,N
+1996-03-08,1996,Houston Rockets,89,Utah Jazz,109,0,N
+1996-03-08,1996,Indiana Pacers,94,Vancouver Grizzlies,80,0,N
+1996-03-08,1996,Los Angeles Clippers,92,Washington Bullets,89,0,N
+1996-03-09,1996,Golden State Warriors,88,Denver Nuggets,102,0,N
+1996-03-09,1996,Dallas Mavericks,91,Detroit Pistons,92,0,N
+1996-03-10,1996,New Jersey Nets,99,Denver Nuggets,88,0,N
+1996-03-10,1996,Sacramento Kings,96,Golden State Warriors,95,0,N
+1996-03-10,1996,Cleveland Cavaliers,81,Miami Heat,88,0,N
+1996-03-10,1996,Boston Celtics,110,Milwaukee Bucks,103,0,N
+1996-03-10,1996,Utah Jazz,104,Minnesota Timberwolves,96,0,N
+1996-03-10,1996,Chicago Bulls,72,New York Knicks,104,0,N
+1996-03-10,1996,Phoenix Suns,106,Orlando Magic,122,0,N
+1996-03-10,1996,Los Angeles Clippers,104,Philadelphia 76ers,102,0,N
+1996-03-10,1996,Indiana Pacers,108,Portland Trail Blazers,113,2,N
+1996-03-10,1996,San Antonio Spurs,106,Seattle SuperSonics,105,0,N
+1996-03-10,1996,Dallas Mavericks,112,Toronto Raptors,128,0,N
+1996-03-10,1996,Houston Rockets,95,Vancouver Grizzlies,89,0,N
+1996-03-10,1996,Atlanta Hawks,91,Washington Bullets,99,0,N
+1996-03-11,1996,Los Angeles Clippers,90,Detroit Pistons,100,0,N
+1996-03-11,1996,Vancouver Grizzlies,88,Sacramento Kings,92,0,N
+1996-03-12,1996,Utah Jazz,89,Atlanta Hawks,115,0,N
+1996-03-12,1996,Miami Heat,125,Dallas Mavericks,118,0,N
+1996-03-12,1996,Orlando Magic,93,Denver Nuggets,110,0,N
+1996-03-12,1996,San Antonio Spurs,106,Golden State Warriors,98,0,N
+1996-03-12,1996,Portland Trail Blazers,105,Los Angeles Lakers,99,0,N
+1996-03-12,1996,Phoenix Suns,98,New Jersey Nets,88,0,N
+1996-03-12,1996,Toronto Raptors,110,Philadelphia 76ers,118,0,N
+1996-03-13,1996,Philadelphia 76ers,100,Boston Celtics,110,0,N
+1996-03-13,1996,Utah Jazz,85,Charlotte Hornets,91,0,N
+1996-03-13,1996,Washington Bullets,86,Chicago Bulls,103,0,N
+1996-03-13,1996,Phoenix Suns,115,Detroit Pistons,118,0,N
+1996-03-13,1996,New York Knicks,106,Minnesota Timberwolves,82,0,N
+1996-03-13,1996,Milwaukee Bucks,95,Sacramento Kings,104,0,N
+1996-03-13,1996,Orlando Magic,99,Seattle SuperSonics,100,0,N
+1996-03-14,1996,Boston Celtics,73,Cleveland Cavaliers,98,0,N
+1996-03-14,1996,Los Angeles Lakers,106,Golden State Warriors,103,0,N
+1996-03-14,1996,Atlanta Hawks,106,Houston Rockets,114,0,N
+1996-03-14,1996,Dallas Mavericks,106,Los Angeles Clippers,110,0,N
+1996-03-14,1996,Washington Bullets,100,New Jersey Nets,92,0,N
+1996-03-14,1996,Miami Heat,100,San Antonio Spurs,120,0,N
+1996-03-15,1996,Toronto Raptors,101,Charlotte Hornets,113,0,N
+1996-03-15,1996,Denver Nuggets,87,Chicago Bulls,108,0,N
+1996-03-15,1996,Cleveland Cavaliers,69,Detroit Pistons,80,0,N
+1996-03-15,1996,Utah Jazz,95,Indiana Pacers,86,0,N
+1996-03-15,1996,Milwaukee Bucks,95,Los Angeles Lakers,117,0,N
+1996-03-15,1996,Sacramento Kings,87,Minnesota Timberwolves,113,0,N
+1996-03-15,1996,Phoenix Suns,128,Philadelphia 76ers,102,0,N
+1996-03-15,1996,Los Angeles Clippers,79,Portland Trail Blazers,86,0,N
+1996-03-15,1996,Dallas Mavericks,97,Seattle SuperSonics,120,0,N
+1996-03-15,1996,Orlando Magic,92,Vancouver Grizzlies,87,1,N
+1996-03-16,1996,Milwaukee Bucks,94,Golden State Warriors,99,0,N
+1996-03-16,1996,Miami Heat,121,Houston Rockets,97,0,N
+1996-03-16,1996,Chicago Bulls,97,New Jersey Nets,93,0,N
+1996-03-16,1996,Philadelphia 76ers,88,New York Knicks,94,0,N
+1996-03-16,1996,Atlanta Hawks,92,San Antonio Spurs,119,0,N
+1996-03-16,1996,Utah Jazz,115,Washington Bullets,120,1,N
+1996-03-17,1996,New Jersey Nets,106,Boston Celtics,107,2,N
+1996-03-17,1996,Phoenix Suns,102,Charlotte Hornets,103,0,N
+1996-03-17,1996,Sacramento Kings,84,Cleveland Cavaliers,115,0,N
+1996-03-17,1996,Denver Nuggets,81,Detroit Pistons,91,0,N
+1996-03-17,1996,Toronto Raptors,96,Indiana Pacers,105,0,N
+1996-03-17,1996,Orlando Magic,98,Los Angeles Lakers,97,0,N
+1996-03-17,1996,Vancouver Grizzlies,85,Minnesota Timberwolves,90,0,N
+1996-03-17,1996,Dallas Mavericks,86,Portland Trail Blazers,112,0,N
+1996-03-18,1996,Utah Jazz,107,Milwaukee Bucks,90,0,N
+1996-03-18,1996,Chicago Bulls,98,Philadelphia 76ers,94,0,N
+1996-03-18,1996,Golden State Warriors,98,San Antonio Spurs,104,0,N
+1996-03-18,1996,Los Angeles Clippers,101,Seattle SuperSonics,104,0,N
+1996-03-18,1996,Denver Nuggets,122,Toronto Raptors,114,0,N
+1996-03-19,1996,Indiana Pacers,94,Charlotte Hornets,102,0,N
+1996-03-19,1996,Sacramento Kings,67,Chicago Bulls,89,0,N
+1996-03-19,1996,Cleveland Cavaliers,81,Dallas Mavericks,72,0,N
+1996-03-19,1996,Golden State Warriors,105,Houston Rockets,102,1,N
+1996-03-19,1996,Seattle SuperSonics,71,Los Angeles Lakers,94,0,N
+1996-03-19,1996,Vancouver Grizzlies,77,New Jersey Nets,82,0,N
+1996-03-19,1996,Detroit Pistons,91,Orlando Magic,113,0,N
+1996-03-19,1996,Minnesota Timberwolves,78,Portland Trail Blazers,106,0,N
+1996-03-20,1996,Vancouver Grizzlies,93,Atlanta Hawks,98,0,N
+1996-03-20,1996,Orlando Magic,112,Boston Celtics,90,0,N
+1996-03-20,1996,Minnesota Timberwolves,96,Los Angeles Clippers,110,0,N
+1996-03-20,1996,Detroit Pistons,93,Miami Heat,102,0,N
+1996-03-20,1996,Sacramento Kings,122,Milwaukee Bucks,97,0,N
+1996-03-20,1996,Indiana Pacers,99,New York Knicks,102,0,N
+1996-03-20,1996,Charlotte Hornets,89,Toronto Raptors,107,0,N
+1996-03-20,1996,Philadelphia 76ers,84,Utah Jazz,107,0,N
+1996-03-20,1996,San Antonio Spurs,112,Washington Bullets,101,0,N
+1996-03-21,1996,New York Knicks,86,Chicago Bulls,107,0,N
+1996-03-21,1996,Cleveland Cavaliers,98,Houston Rockets,85,0,N
+1996-03-21,1996,Denver Nuggets,89,New Jersey Nets,97,0,N
+1996-03-21,1996,Golden State Warriors,96,Phoenix Suns,104,0,N
+1996-03-21,1996,Los Angeles Lakers,93,Seattle SuperSonics,104,0,N
+1996-03-22,1996,Denver Nuggets,98,Boston Celtics,99,0,N
+1996-03-22,1996,Atlanta Hawks,117,Charlotte Hornets,92,0,N
+1996-03-22,1996,Minnesota Timberwolves,110,Dallas Mavericks,84,0,N
+1996-03-22,1996,New Jersey Nets,96,Detroit Pistons,111,0,N
+1996-03-22,1996,Vancouver Grizzlies,94,Indiana Pacers,111,0,N
+1996-03-22,1996,Philadelphia 76ers,93,Los Angeles Clippers,107,0,N
+1996-03-22,1996,Miami Heat,122,Milwaukee Bucks,106,0,N
+1996-03-22,1996,Portland Trail Blazers,78,Sacramento Kings,80,0,N
+1996-03-22,1996,San Antonio Spurs,120,Toronto Raptors,108,0,N
+1996-03-22,1996,Cleveland Cavaliers,75,Utah Jazz,88,0,N
+1996-03-22,1996,Orlando Magic,111,Washington Bullets,108,1,N
+1996-03-23,1996,Detroit Pistons,84,Atlanta Hawks,92,0,N
+1996-03-23,1996,Phoenix Suns,89,Golden State Warriors,98,0,N
+1996-03-23,1996,Minnesota Timberwolves,108,Houston Rockets,103,0,N
+1996-03-23,1996,Philadelphia 76ers,89,Seattle SuperSonics,129,0,N
+1996-03-24,1996,Miami Heat,111,Boston Celtics,95,0,N
+1996-03-24,1996,Vancouver Grizzlies,85,Cleveland Cavaliers,90,0,N
+1996-03-24,1996,New York Knicks,85,Dallas Mavericks,79,0,N
+1996-03-24,1996,San Antonio Spurs,100,Indiana Pacers,88,0,N
+1996-03-24,1996,Charlotte Hornets,103,Los Angeles Lakers,94,0,N
+1996-03-24,1996,New Jersey Nets,84,Milwaukee Bucks,80,0,N
+1996-03-24,1996,Los Angeles Clippers,92,Phoenix Suns,103,0,N
+1996-03-24,1996,Seattle SuperSonics,112,Sacramento Kings,110,0,N
+1996-03-24,1996,Chicago Bulls,108,Toronto Raptors,109,0,N
+1996-03-24,1996,Denver Nuggets,90,Washington Bullets,92,0,N
+1996-03-25,1996,San Antonio Spurs,95,New Jersey Nets,88,0,N
+1996-03-25,1996,Philadelphia 76ers,71,Portland Trail Blazers,94,0,N
+1996-03-25,1996,Dallas Mavericks,86,Utah Jazz,103,0,N
+1996-03-26,1996,Washington Bullets,96,Cleveland Cavaliers,89,0,N
+1996-03-26,1996,Charlotte Hornets,119,Denver Nuggets,112,2,N
+1996-03-26,1996,Vancouver Grizzlies,75,Detroit Pistons,86,0,N
+1996-03-26,1996,Seattle SuperSonics,114,Golden State Warriors,102,0,N
+1996-03-26,1996,New York Knicks,83,Houston Rockets,74,0,N
+1996-03-26,1996,Boston Celtics,96,Indiana Pacers,103,0,N
+1996-03-26,1996,Milwaukee Bucks,97,Los Angeles Clippers,103,0,N
+1996-03-26,1996,Los Angeles Lakers,113,Orlando Magic,91,0,N
+1996-03-26,1996,Sacramento Kings,98,Phoenix Suns,102,0,N
+1996-03-26,1996,Atlanta Hawks,114,Toronto Raptors,111,0,N
+1996-03-27,1996,Houston Rockets,114,Dallas Mavericks,117,0,N
+1996-03-27,1996,Los Angeles Lakers,106,Miami Heat,95,0,N
+1996-03-27,1996,Boston Celtics,121,Minnesota Timberwolves,116,0,N
+1996-03-27,1996,Toronto Raptors,94,Philadelphia 76ers,103,0,N
+1996-03-27,1996,New York Knicks,84,San Antonio Spurs,90,0,N
+1996-03-27,1996,Charlotte Hornets,95,Seattle SuperSonics,132,0,N
+1996-03-27,1996,Milwaukee Bucks,82,Utah Jazz,98,0,N
+1996-03-27,1996,Indiana Pacers,99,Washington Bullets,93,0,N
+1996-03-28,1996,Atlanta Hawks,80,Chicago Bulls,111,0,N
+1996-03-28,1996,Cleveland Cavaliers,83,Los Angeles Clippers,81,0,N
+1996-03-28,1996,Golden State Warriors,89,Portland Trail Blazers,94,0,N
+1996-03-28,1996,Denver Nuggets,92,Vancouver Grizzlies,88,0,N
+1996-03-29,1996,Los Angeles Lakers,102,Atlanta Hawks,89,0,N
+1996-03-29,1996,San Antonio Spurs,119,Dallas Mavericks,104,0,N
+1996-03-29,1996,Washington Bullets,93,Miami Heat,112,0,N
+1996-03-29,1996,Indiana Pacers,91,Minnesota Timberwolves,93,0,N
+1996-03-29,1996,New Jersey Nets,78,New York Knicks,94,0,N
+1996-03-29,1996,Boston Celtics,101,Philadelphia 76ers,95,0,N
+1996-03-29,1996,Milwaukee Bucks,85,Phoenix Suns,108,0,N
+1996-03-29,1996,Charlotte Hornets,101,Sacramento Kings,107,1,N
+1996-03-29,1996,Orlando Magic,126,Toronto Raptors,86,0,N
+1996-03-29,1996,Vancouver Grizzlies,91,Utah Jazz,105,0,N
+1996-03-30,1996,Los Angeles Clippers,85,Chicago Bulls,106,0,N
+1996-03-30,1996,Milwaukee Bucks,85,Denver Nuggets,98,0,N
+1996-03-30,1996,Miami Heat,95,Detroit Pistons,85,0,N
+1996-03-30,1996,Cleveland Cavaliers,90,Golden State Warriors,64,0,N
+1996-03-30,1996,Portland Trail Blazers,109,Houston Rockets,94,0,N
+1996-03-30,1996,Utah Jazz,98,Seattle SuperSonics,100,0,N
+1996-03-30,1996,Philadelphia 76ers,105,Washington Bullets,107,0,N
+1996-03-31,1996,Atlanta Hawks,93,Boston Celtics,92,0,N
+1996-03-31,1996,Portland Trail Blazers,115,Dallas Mavericks,100,0,N
+1996-03-31,1996,New Jersey Nets,100,Indiana Pacers,118,0,N
+1996-03-31,1996,Los Angeles Clippers,110,Minnesota Timberwolves,107,0,N
+1996-03-31,1996,New York Knicks,79,Orlando Magic,98,0,N
+1996-03-31,1996,Cleveland Cavaliers,100,Sacramento Kings,105,1,N
+1996-03-31,1996,Phoenix Suns,83,San Antonio Spurs,97,0,N
+1996-03-31,1996,Los Angeles Lakers,111,Toronto Raptors,106,0,N
+1996-03-31,1996,Charlotte Hornets,121,Vancouver Grizzlies,88,0,N
+1996-04-02,1996,Boston Celtics,89,Atlanta Hawks,109,0,N
+1996-04-02,1996,Los Angeles Lakers,97,Charlotte Hornets,102,0,N
+1996-04-02,1996,Sacramento Kings,104,Dallas Mavericks,97,0,N
+1996-04-02,1996,Minnesota Timberwolves,78,Denver Nuggets,86,0,N
+1996-04-02,1996,Houston Rockets,112,Golden State Warriors,106,0,N
+1996-04-02,1996,New York Knicks,90,Indiana Pacers,86,0,N
+1996-04-02,1996,Chicago Bulls,110,Miami Heat,92,0,N
+1996-04-02,1996,Detroit Pistons,98,Milwaukee Bucks,105,0,N
+1996-04-02,1996,San Antonio Spurs,104,Phoenix Suns,111,0,N
+1996-04-02,1996,Vancouver Grizzlies,85,Portland Trail Blazers,101,0,N
+1996-04-02,1996,Los Angeles Clippers,103,Toronto Raptors,104,1,N
+1996-04-02,1996,Seattle SuperSonics,100,Utah Jazz,91,0,N
+1996-04-03,1996,Los Angeles Lakers,89,Cleveland Cavaliers,105,0,N
+1996-04-03,1996,Charlotte Hornets,83,Detroit Pistons,98,0,N
+1996-04-03,1996,Los Angeles Clippers,94,New Jersey Nets,100,0,N
+1996-04-03,1996,Orlando Magic,98,New York Knicks,85,0,N
+1996-04-03,1996,Indiana Pacers,102,Philadelphia 76ers,87,0,N
+1996-04-03,1996,Sacramento Kings,96,San Antonio Spurs,117,0,N
+1996-04-03,1996,Houston Rockets,103,Seattle SuperSonics,118,0,N
+1996-04-03,1996,Minnesota Timberwolves,103,Vancouver Grizzlies,105,0,N
+1996-04-04,1996,Washington Bullets,113,Atlanta Hawks,110,0,N
+1996-04-04,1996,Miami Heat,92,Chicago Bulls,100,0,N
+1996-04-04,1996,Denver Nuggets,90,Golden State Warriors,98,0,N
+1996-04-04,1996,Boston Celtics,100,Orlando Magic,98,0,N
+1996-04-04,1996,Utah Jazz,100,Phoenix Suns,107,0,N
+1996-04-04,1996,Cleveland Cavaliers,98,Toronto Raptors,77,0,N
+1996-04-05,1996,Chicago Bulls,126,Charlotte Hornets,92,0,N
+1996-04-05,1996,Portland Trail Blazers,97,Denver Nuggets,91,0,N
+1996-04-05,1996,Vancouver Grizzlies,94,Los Angeles Lakers,104,0,N
+1996-04-05,1996,New York Knicks,86,Milwaukee Bucks,79,0,N
+1996-04-05,1996,Atlanta Hawks,82,New Jersey Nets,70,0,N
+1996-04-05,1996,Detroit Pistons,108,Philadelphia 76ers,87,0,N
+1996-04-05,1996,Houston Rockets,91,Sacramento Kings,96,0,N
+1996-04-05,1996,Washington Bullets,104,San Antonio Spurs,84,0,N
+1996-04-05,1996,Phoenix Suns,121,Seattle SuperSonics,130,2,N
+1996-04-05,1996,Minnesota Timberwolves,103,Utah Jazz,99,0,N
+1996-04-06,1996,Philadelphia 76ers,100,Atlanta Hawks,99,0,N
+1996-04-06,1996,Charlotte Hornets,93,Cleveland Cavaliers,89,0,N
+1996-04-06,1996,Los Angeles Clippers,96,Dallas Mavericks,101,0,N
+1996-04-06,1996,Minnesota Timberwolves,106,Golden State Warriors,111,0,N
+1996-04-06,1996,Miami Heat,95,Indiana Pacers,99,0,N
+1996-04-06,1996,Milwaukee Bucks,109,New Jersey Nets,88,0,N
+1996-04-06,1996,Seattle SuperSonics,92,Portland Trail Blazers,95,0,N
+1996-04-06,1996,New York Knicks,139,Toronto Raptors,106,0,N
+1996-04-07,1996,Detroit Pistons,97,Boston Celtics,98,0,N
+1996-04-07,1996,Houston Rockets,105,Denver Nuggets,111,0,N
+1996-04-07,1996,San Antonio Spurs,97,Los Angeles Lakers,107,0,N
+1996-04-07,1996,Chicago Bulls,90,Orlando Magic,86,0,N
+1996-04-07,1996,Utah Jazz,107,Sacramento Kings,92,0,N
+1996-04-07,1996,Phoenix Suns,112,Vancouver Grizzlies,92,0,N
+1996-04-08,1996,Charlotte Hornets,98,Chicago Bulls,97,0,N
+1996-04-08,1996,Dallas Mavericks,104,Golden State Warriors,102,0,N
+1996-04-08,1996,Atlanta Hawks,95,Indiana Pacers,97,0,N
+1996-04-08,1996,Portland Trail Blazers,89,Los Angeles Clippers,102,0,N
+1996-04-08,1996,Toronto Raptors,101,Minnesota Timberwolves,115,0,N
+1996-04-08,1996,Seattle SuperSonics,108,New York Knicks,98,0,N
+1996-04-08,1996,New Jersey Nets,79,Philadelphia 76ers,82,0,N
+1996-04-08,1996,San Antonio Spurs,92,Utah Jazz,91,0,N
+1996-04-08,1996,Miami Heat,99,Washington Bullets,111,0,N
+1996-04-09,1996,Los Angeles Lakers,91,Denver Nuggets,98,0,N
+1996-04-09,1996,Vancouver Grizzlies,84,Houston Rockets,90,0,N
+1996-04-09,1996,Toronto Raptors,102,Milwaukee Bucks,96,0,N
+1996-04-09,1996,Detroit Pistons,111,New Jersey Nets,94,0,N
+1996-04-09,1996,Boston Celtics,93,New York Knicks,97,0,N
+1996-04-09,1996,Portland Trail Blazers,98,Phoenix Suns,91,0,N
+1996-04-09,1996,Dallas Mavericks,86,Sacramento Kings,95,0,N
+1996-04-10,1996,Washington Bullets,122,Boston Celtics,108,0,N
+1996-04-10,1996,Miami Heat,116,Charlotte Hornets,95,0,N
+1996-04-10,1996,Philadelphia 76ers,76,Detroit Pistons,92,0,N
+1996-04-10,1996,Los Angeles Lakers,111,Minnesota Timberwolves,90,0,N
+1996-04-10,1996,Cleveland Cavaliers,104,Orlando Magic,116,0,N
+1996-04-10,1996,Vancouver Grizzlies,82,San Antonio Spurs,105,0,N
+1996-04-10,1996,Sacramento Kings,89,Seattle SuperSonics,108,0,N
+1996-04-10,1996,Phoenix Suns,79,Utah Jazz,103,0,N
+1996-04-11,1996,Denver Nuggets,109,Houston Rockets,113,0,N
+1996-04-11,1996,Golden State Warriors,111,Los Angeles Clippers,101,0,N
+1996-04-11,1996,Milwaukee Bucks,105,Miami Heat,115,0,N
+1996-04-11,1996,Chicago Bulls,113,New Jersey Nets,100,0,N
+1996-04-11,1996,Cleveland Cavaliers,101,New York Knicks,97,0,N
+1996-04-11,1996,Dallas Mavericks,99,Portland Trail Blazers,114,0,N
+1996-04-12,1996,Milwaukee Bucks,97,Atlanta Hawks,104,0,N
+1996-04-12,1996,Toronto Raptors,108,Boston Celtics,136,0,N
+1996-04-12,1996,Philadelphia 76ers,82,Chicago Bulls,112,0,N
+1996-04-12,1996,Golden State Warriors,81,Los Angeles Lakers,94,0,N
+1996-04-12,1996,Indiana Pacers,111,Orlando Magic,101,0,N
+1996-04-12,1996,Sacramento Kings,98,Vancouver Grizzlies,99,0,N
+1996-04-12,1996,Minnesota Timberwolves,106,Washington Bullets,116,0,N
+1996-04-13,1996,Dallas Mavericks,111,Houston Rockets,112,0,N
+1996-04-13,1996,Detroit Pistons,86,Indiana Pacers,91,0,N
+1996-04-13,1996,Utah Jazz,81,Los Angeles Clippers,91,0,N
+1996-04-13,1996,New York Knicks,95,Miami Heat,103,0,N
+1996-04-13,1996,Seattle SuperSonics,81,San Antonio Spurs,84,0,N
+1996-04-14,1996,Chicago Bulls,98,Cleveland Cavaliers,72,0,N
+1996-04-14,1996,Boston Celtics,96,Detroit Pistons,105,1,N
+1996-04-14,1996,Utah Jazz,82,Golden State Warriors,93,0,N
+1996-04-14,1996,Phoenix Suns,114,Los Angeles Lakers,118,0,N
+1996-04-14,1996,Orlando Magic,101,Milwaukee Bucks,114,0,N
+1996-04-14,1996,Denver Nuggets,98,Minnesota Timberwolves,91,0,N
+1996-04-14,1996,Atlanta Hawks,99,New Jersey Nets,90,0,N
+1996-04-14,1996,Charlotte Hornets,94,Philadelphia 76ers,78,0,N
+1996-04-14,1996,Los Angeles Clippers,96,Sacramento Kings,101,0,N
+1996-04-14,1996,Portland Trail Blazers,81,Vancouver Grizzlies,79,0,N
+1996-04-14,1996,Toronto Raptors,97,Washington Bullets,110,0,N
+1996-04-15,1996,Sacramento Kings,90,Denver Nuggets,86,0,N
+1996-04-15,1996,Seattle SuperSonics,112,Houston Rockets,106,0,N
+1996-04-15,1996,Charlotte Hornets,87,Indiana Pacers,90,0,N
+1996-04-15,1996,New Jersey Nets,90,Miami Heat,110,0,N
+1996-04-15,1996,Toronto Raptors,79,New York Knicks,125,0,N
+1996-04-15,1996,San Antonio Spurs,97,Portland Trail Blazers,121,0,N
+1996-04-16,1996,Cleveland Cavaliers,80,Atlanta Hawks,77,0,N
+1996-04-16,1996,Los Angeles Lakers,113,Dallas Mavericks,95,0,N
+1996-04-16,1996,Chicago Bulls,86,Milwaukee Bucks,80,0,N
+1996-04-16,1996,Washington Bullets,95,Orlando Magic,113,0,N
+1996-04-16,1996,Houston Rockets,100,Phoenix Suns,111,0,N
+1996-04-16,1996,Los Angeles Clippers,85,Utah Jazz,108,0,N
+1996-04-16,1996,San Antonio Spurs,95,Vancouver Grizzlies,86,0,N
+1996-04-17,1996,Indiana Pacers,93,Detroit Pistons,102,0,N
+1996-04-17,1996,Golden State Warriors,109,Minnesota Timberwolves,103,0,N
+1996-04-17,1996,Toronto Raptors,95,New Jersey Nets,107,0,N
+1996-04-17,1996,Miami Heat,86,Philadelphia 76ers,90,0,N
+1996-04-17,1996,Phoenix Suns,102,Sacramento Kings,103,0,N
+1996-04-17,1996,Portland Trail Blazers,90,Seattle SuperSonics,96,0,N
+1996-04-17,1996,Boston Celtics,121,Washington Bullets,106,0,N
+1996-04-18,1996,Milwaukee Bucks,111,Charlotte Hornets,103,0,N
+1996-04-18,1996,Detroit Pistons,79,Chicago Bulls,110,0,N
+1996-04-18,1996,New York Knicks,77,Cleveland Cavaliers,92,0,N
+1996-04-18,1996,Denver Nuggets,98,Dallas Mavericks,132,0,N
+1996-04-18,1996,Los Angeles Clippers,107,Houston Rockets,115,0,N
+1996-04-18,1996,Atlanta Hawks,104,Orlando Magic,119,0,N
+1996-04-18,1996,Los Angeles Lakers,100,San Antonio Spurs,103,0,N
+1996-04-18,1996,Utah Jazz,94,Vancouver Grizzlies,79,0,N
+1996-04-19,1996,Vancouver Grizzlies,92,Denver Nuggets,78,0,N
+1996-04-19,1996,Portland Trail Blazers,95,Golden State Warriors,87,0,N
+1996-04-19,1996,Miami Heat,106,Milwaukee Bucks,100,0,N
+1996-04-19,1996,Boston Celtics,112,New Jersey Nets,106,0,N
+1996-04-19,1996,Charlotte Hornets,115,New York Knicks,108,0,N
+1996-04-19,1996,Orlando Magic,112,Philadelphia 76ers,92,0,N
+1996-04-19,1996,Dallas Mavericks,103,Phoenix Suns,123,0,N
+1996-04-19,1996,Minnesota Timberwolves,86,Seattle SuperSonics,94,0,N
+1996-04-19,1996,Washington Bullets,103,Toronto Raptors,107,0,N
+1996-04-20,1996,New Jersey Nets,99,Atlanta Hawks,121,0,N
+1996-04-20,1996,Indiana Pacers,100,Chicago Bulls,99,0,N
+1996-04-20,1996,Detroit Pistons,73,Cleveland Cavaliers,75,0,N
+1996-04-20,1996,Minnesota Timberwolves,82,Los Angeles Lakers,106,0,N
+1996-04-20,1996,Sacramento Kings,92,Utah Jazz,104,0,N
+1996-04-21,1996,New York Knicks,122,Boston Celtics,111,0,N
+1996-04-21,1996,Orlando Magic,103,Charlotte Hornets,100,0,N
+1996-04-21,1996,Seattle SuperSonics,88,Denver Nuggets,99,0,N
+1996-04-21,1996,Milwaukee Bucks,92,Detroit Pistons,108,0,N
+1996-04-21,1996,Phoenix Suns,110,Houston Rockets,118,0,N
+1996-04-21,1996,Cleveland Cavaliers,88,Indiana Pacers,89,0,N
+1996-04-21,1996,Vancouver Grizzlies,108,Los Angeles Clippers,101,0,N
+1996-04-21,1996,Atlanta Hawks,104,Miami Heat,92,0,N
+1996-04-21,1996,Los Angeles Lakers,92,Portland Trail Blazers,88,0,N
+1996-04-21,1996,Golden State Warriors,100,Sacramento Kings,107,0,N
+1996-04-21,1996,Dallas Mavericks,103,San Antonio Spurs,98,0,N
+1996-04-21,1996,Philadelphia 76ers,109,Toronto Raptors,105,1,N
+1996-04-21,1996,Chicago Bulls,103,Washington Bullets,93,0,N
+1996-04-25,1996,New York Knicks,106,Cleveland Cavaliers,83,0,Y
+1996-04-25,1996,Atlanta Hawks,92,Indiana Pacers,80,0,Y
+1996-04-25,1996,Houston Rockets,87,Los Angeles Lakers,83,0,Y
+1996-04-25,1996,Portland Trail Blazers,102,Utah Jazz,110,0,Y
+1996-04-26,1996,Miami Heat,85,Chicago Bulls,102,0,Y
+1996-04-26,1996,Detroit Pistons,92,Orlando Magic,112,0,Y
+1996-04-26,1996,Phoenix Suns,98,San Antonio Spurs,120,0,Y
+1996-04-26,1996,Sacramento Kings,85,Seattle SuperSonics,97,0,Y
+1996-04-27,1996,New York Knicks,84,Cleveland Cavaliers,80,0,Y
+1996-04-27,1996,Atlanta Hawks,94,Indiana Pacers,102,1,Y
+1996-04-27,1996,Houston Rockets,94,Los Angeles Lakers,104,0,Y
+1996-04-27,1996,Portland Trail Blazers,90,Utah Jazz,105,0,Y
+1996-04-28,1996,Miami Heat,75,Chicago Bulls,106,0,Y
+1996-04-28,1996,Detroit Pistons,77,Orlando Magic,92,0,Y
+1996-04-28,1996,Phoenix Suns,105,San Antonio Spurs,110,0,Y
+1996-04-28,1996,Sacramento Kings,90,Seattle SuperSonics,81,0,Y
+1996-04-29,1996,Indiana Pacers,83,Atlanta Hawks,90,0,Y
+1996-04-29,1996,Utah Jazz,91,Portland Trail Blazers,94,1,Y
+1996-04-30,1996,Orlando Magic,101,Detroit Pistons,98,0,Y
+1996-04-30,1996,Los Angeles Lakers,98,Houston Rockets,104,0,Y
+1996-04-30,1996,Seattle SuperSonics,96,Sacramento Kings,89,0,Y
+1996-05-01,1996,Cleveland Cavaliers,76,New York Knicks,81,0,Y
+1996-05-01,1996,Chicago Bulls,112,Miami Heat,91,0,Y
+1996-05-01,1996,Utah Jazz,90,Portland Trail Blazers,98,0,Y
+1996-05-01,1996,San Antonio Spurs,93,Phoenix Suns,94,0,Y
+1996-05-02,1996,Indiana Pacers,83,Atlanta Hawks,75,0,Y
+1996-05-02,1996,Los Angeles Lakers,94,Houston Rockets,102,0,Y
+1996-05-02,1996,Seattle SuperSonics,101,Sacramento Kings,87,0,Y
+1996-05-03,1996,San Antonio Spurs,116,Phoenix Suns,98,0,Y
+1996-05-04,1996,Houston Rockets,75,Seattle SuperSonics,108,0,Y
+1996-05-05,1996,Portland Trail Blazers,64,Utah Jazz,102,0,Y
+1996-05-05,1996,Atlanta Hawks,89,Indiana Pacers,87,0,Y
+1996-05-05,1996,New York Knicks,84,Chicago Bulls,91,0,Y
+1996-05-06,1996,Houston Rockets,101,Seattle SuperSonics,105,0,Y
+1996-05-07,1996,New York Knicks,80,Chicago Bulls,91,0,Y
+1996-05-07,1996,Utah Jazz,95,San Antonio Spurs,75,0,Y
+1996-05-08,1996,Atlanta Hawks,105,Orlando Magic,117,0,Y
+1996-05-09,1996,Utah Jazz,77,San Antonio Spurs,88,0,Y
+1996-05-10,1996,Seattle SuperSonics,115,Houston Rockets,112,0,Y
+1996-05-10,1996,Atlanta Hawks,94,Orlando Magic,120,0,Y
+1996-05-11,1996,San Antonio Spurs,75,Utah Jazz,105,0,Y
+1996-05-11,1996,Chicago Bulls,99,New York Knicks,102,1,Y
+1996-05-12,1996,Orlando Magic,103,Atlanta Hawks,96,0,Y
+1996-05-12,1996,Seattle SuperSonics,114,Houston Rockets,107,1,Y
+1996-05-12,1996,Chicago Bulls,94,New York Knicks,91,0,Y
+1996-05-12,1996,San Antonio Spurs,86,Utah Jazz,101,0,Y
+1996-05-13,1996,Orlando Magic,99,Atlanta Hawks,104,0,Y
+1996-05-14,1996,New York Knicks,81,Chicago Bulls,94,0,Y
+1996-05-14,1996,Utah Jazz,87,San Antonio Spurs,98,0,Y
+1996-05-15,1996,Atlanta Hawks,88,Orlando Magic,96,0,Y
+1996-05-16,1996,San Antonio Spurs,81,Utah Jazz,108,0,Y
+1996-05-18,1996,Utah Jazz,72,Seattle SuperSonics,102,0,Y
+1996-05-19,1996,Orlando Magic,83,Chicago Bulls,121,0,Y
+1996-05-20,1996,Utah Jazz,87,Seattle SuperSonics,91,0,Y
+1996-05-21,1996,Orlando Magic,88,Chicago Bulls,93,0,Y
+1996-05-24,1996,Seattle SuperSonics,76,Utah Jazz,96,0,Y
+1996-05-25,1996,Chicago Bulls,86,Orlando Magic,67,0,Y
+1996-05-26,1996,Seattle SuperSonics,88,Utah Jazz,86,0,Y
+1996-05-27,1996,Chicago Bulls,106,Orlando Magic,101,0,Y
+1996-05-28,1996,Utah Jazz,98,Seattle SuperSonics,95,1,Y
+1996-05-30,1996,Seattle SuperSonics,83,Utah Jazz,118,0,Y
+1996-06-02,1996,Utah Jazz,86,Seattle SuperSonics,90,0,Y
+1996-06-05,1996,Seattle SuperSonics,90,Chicago Bulls,107,0,Y
+1996-06-07,1996,Seattle SuperSonics,88,Chicago Bulls,92,0,Y
+1996-06-09,1996,Chicago Bulls,108,Seattle SuperSonics,86,0,Y
+1996-06-12,1996,Chicago Bulls,86,Seattle SuperSonics,107,0,Y
+1996-06-14,1996,Chicago Bulls,78,Seattle SuperSonics,89,0,Y
+1996-06-16,1996,Seattle SuperSonics,75,Chicago Bulls,87,0,Y
